@@ -669,7 +669,180 @@
         }
     ]
 },
-
+{
+    "examType": "job",
+    "id": "UPSC-Combined-Defence-Service-Exam-II-Recruitment-2025",
+    "orgId": "Union Public Service Commission (UPSC)",
+    "name": "UPSC Combined Defence Service Exam II Recruitment 2025",
+    "importantDates": {
+        "startDate": "28/05/2025",
+        "lastDate": "17/06/2025",
+        "lastDateFeePayment": "17/06/2025",
+        "examDate": "14/09/2025"
+    },
+    "fee": {
+        "general": "200",
+        "obc": "200",
+        "ews": "200",
+        "sc": "0",
+        "st": "0",
+        "ph": "0",
+        "female": "0",
+        "notes": ""
+    },
+    "totalPost": {
+        "count": 453,
+        "notes": ""
+    },
+    "ageDetails": {
+        "minAge": 20,
+        "maxAge": 24,
+        "notes": "for Post Wise Details Read Notification.\nAge Relaxation Extra as per Rules"
+    },
+    "vacancyDetails": [
+        {
+            "postName": "IMA",
+            "totalPost": "100",
+            "category": {
+                "ur": "",
+                "obc": "",
+                "ews": "",
+                "sc": "",
+                "st": "",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 20,
+                "maxAge": 24,
+                "qualification": [
+                    "Bachelor Degree in Any Stream."
+                ]
+            }
+        },
+        {
+            "postName": "Naval Academy",
+            "totalPost": "26",
+            "category": {
+                "ur": "",
+                "obc": "",
+                "ews": "",
+                "sc": "",
+                "st": "",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 20,
+                "maxAge": 24,
+                "qualification": [
+                    "Bachelor Degree in Engineering."
+                ]
+            }
+        },
+        {
+            "postName": "Airforce",
+            "totalPost": "32",
+            "category": {
+                "ur": "",
+                "obc": "",
+                "ews": "",
+                "sc": "",
+                "st": "",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 20,
+                "maxAge": 24,
+                "qualification": []
+            }
+        },
+        {
+            "postName": "OTA",
+            "totalPost": "295",
+            "category": {
+                "ur": "",
+                "obc": "",
+                "ews": "",
+                "sc": "",
+                "st": "",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 0,
+                "maxAge": 0,
+                "qualification": []
+            }
+        }
+    ],
+    "importantLinks": [
+        {
+            "title": "Download Final Result (OTA)",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://www.upsc.gov.in/sites/default/files/FR-CDSE-II-2025-OTA-Engl-070826.pdf"
+                }
+            ]
+        },
+        {
+            "title": "Download Final Result",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://upsc.gov.in/sites/default/files/FR-CDSE-II-2025-Engl-300326.pdf"
+                }
+            ]
+        },
+        {
+            "title": "Apply Online (Registration)",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://upsconline.nic.in/instruction"
+                }
+            ]
+        },
+        {
+            "title": "Apply Online (Login)",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://upsconline.nic.in/login"
+                }
+            ]
+        },
+        {
+            "title": "Download Notification",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://doc.sarkariresults.org.in/UPSC_CDS_II_202542_Notification.pdf"
+                }
+            ]
+        }
+    ],
+    "admitCard": {
+        "startDate": "",
+        "link": "",
+        "details": "",
+        "instruction": []
+    },
+    "resultCard": {
+        "startDate": "30/03/2026",
+        "link": "",
+        "details": "",
+        "instruction": []
+    },
+    "answerKey": {
+        "startDate": "",
+        "link": "",
+        "details": "",
+        "instruction": []
+    }
+},
 
 
 
