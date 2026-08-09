@@ -62,25 +62,19 @@
       "startDate": "28/05/2026",
       "link": "https://bsebdeled.cbrt.co.in/bseb-2026/bseb-landing",
       "details": "",
-      "instruction": [
-        
-      ]
+      "instruction": []
     },
     "resultCard": {
       "startDate": "06/08/2026",
       "link": "https://bsebdeled.com/login",
       "details": "",
-      "instruction": [
-        
-      ]
+      "instruction": []
     },
     "answerKey": {
       "startDate": "",
       "link": "https://bsebdeled.com/login",
       "details": "",
-      "instruction": [
-        
-      ]
+      "instruction": []
     },
     "table": [
       {
@@ -102,954 +96,1803 @@
       }
     ]
   },
-
-
-
-{
+  {
+    "examType": "job",
+    "id": "RPSC-School-Lecturer-PGT-Teacher-Exam-2025",
+    "orgId": "Rajasthan Public Service Commission (RPSC)",
+    "name": "RPSC School Lecturer PGT Teacher Exam 2025",
+    "importantDates": {
+      "startDate": "14/08/2025",
+      "lastDate": "12/09/2025",
+      "lastDateFeePayment": "12/09/2025",
+      "examDate": "31/5/2026 to 11/6/2026"
+    },
+    "fee": {
+      "general": "600",
+      "obc": "400",
+      "ews": "400",
+      "sc": "400",
+      "st": "400",
+      "ph": "",
+      "female": "",
+      "notes": "Other State : 600/-"
+    },
+    "totalPost": {
+      "count": 3225,
+      "notes": ""
+    },
+    "ageDetails": {
+      "minAge": 21,
+      "maxAge": 40,
+      "notes": "Age Relaxation Extra as per RPSC School Lecturer PGT Recruitment 2025."
+    },
+    "vacancyDetails": [
+      {
+        "postName": "RPSC School Lecturer PGT Teacher",
+        "totalPost": "3225",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 21,
+          "maxAge": 40,
+          "qualification": [
+            "Master Degree in Related Subject with Degree / Diploma in Education (B.Ed / DELEd)",
+            "More Details & Subject Wise Eligibility Read the Full Notification"
+          ]
+        }
+      }
+    ],
+    "importantLinks": [
+      {
+        "title": "Download Result (Hindi)",
+        "links": [
+          {
+            "title": "",
+            "link": "https://rpsc.rajasthan.gov.in/Static/Result/4859FAB1C92E4AF9AFBEEFED59242904.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Download Admit Card (server1)",
+        "links": [
+          {
+            "title": "",
+            "link": "https://recruitment.rajasthan.gov.in/rectlogingetadmitcard"
+          }
+        ]
+      },
+      {
+        "title": "Download Admit Card (server2)",
+        "links": [
+          {
+            "title": "",
+            "link": "https://sso.rajasthan.gov.in/"
+          }
+        ]
+      },
+      {
+        "title": "Download Admit Card Notice",
+        "links": [
+          {
+            "title": "",
+            "link": "https://rpsc.rajasthan.gov.in/Static/PressNotes/1848231C-AA7C-46BB-A2DA-85974E0DBB6B.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Download Subject Wise Exam Schedule",
+        "links": [
+          {
+            "title": "",
+            "link": "https://rpsc.rajasthan.gov.in/Static/PressNotes/D14A1D81-0BEE-4E23-8357-D3B07DAA4586.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Apply Online",
+        "links": [
+          {
+            "title": "",
+            "link": "https://sso.rajasthan.gov.in/"
+          }
+        ]
+      },
+      {
+        "title": "Download Notification",
+        "links": [
+          {
+            "title": "",
+            "link": "https://rpsc.rajasthan.gov.in/Static/RecruitmentAdvertisements/9C26ACB4C6014924AF100B4D7FE67C27.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Download Eligibility Notice",
+        "links": [
+          {
+            "title": "",
+            "link": "https://rpsc.rajasthan.gov.in/Static/RecruitmentAdvertisements/A07086BF0C704288A8C21D660D3D7781.pdf"
+          }
+        ]
+      }
+    ],
+    "admitCard": {
+      "startDate": "",
+      "link": "",
+      "details": "",
+      "instruction": []
+    },
+    "resultCard": {
+      "startDate": "07/08/2026",
+      "link": "https://rpsc.rajasthan.gov.in/Static/Result/4859FAB1C92E4AF9AFBEEFED59242904.pdf",
+      "details": "",
+      "instruction": []
+    },
+    "answerKey": {
+      "startDate": "",
+      "link": "",
+      "details": "",
+      "instruction": []
+    },
+    "table": [
+      {
+        "title": "Subject Wise Vacancy Details",
+        "details": "",
+        "notes": "",
+        "list": [
+          [
+            "Subject Name",
+            "Total Post",
+            "Subject Name",
+            "Total Post"
+          ],
+          [
+            "Hindi",
+            "710",
+            "English",
+            "307"
+          ],
+          [
+            "Sanskrit",
+            "70",
+            "Rajasthani",
+            "6"
+          ],
+          [
+            "Punjabi",
+            "6",
+            "Urdu",
+            "140"
+          ],
+          [
+            "History",
+            "170",
+            "Political Science",
+            "350"
+          ],
+          [
+            "Geography",
+            "270",
+            "Economics",
+            "34"
+          ],
+          [
+            "Sociology",
+            "22",
+            "Home Science",
+            "70"
+          ],
+          [
+            "Chemistry",
+            "177",
+            "Physics",
+            "94"
+          ],
+          [
+            "Maths",
+            "14",
+            "Biology",
+            "85"
+          ],
+          [
+            "Commerce",
+            "430",
+            "Drawing",
+            "180"
+          ],
+          [
+            "Music",
+            "7",
+            "Physical Education",
+            "73"
+          ],
+          [
+            "Coach (Athletics / Baseball / Volleyball / Handball / Kabaddi / Table Tennis)",
+            "8",
+            "Public Administration",
+            "2"
+          ]
+        ]
+      }
+    ]
+  },
+  {
     "examType": "job",
     "id": "Uttar-Pradesh-UPPSC-Assistant-Professor-GDC-Exam-2025",
     "orgId": "Uttar Pradesh Public Service Commission (UPPSC)",
     "name": "Uttar Pradesh UPPSC Assistant Professor GDC Exam 2025",
     "importantDates": {
-        "startDate": "04/09/2025",
-        "lastDate": "06/10/2025",
-        "lastDateFeePayment": "06/10/2025",
-        "examDate": "31/05/2026"
+      "startDate": "04/09/2025",
+      "lastDate": "06/10/2025",
+      "lastDateFeePayment": "06/10/2025",
+      "examDate": "31/05/2026"
     },
     "fee": {
-        "general": "125",
-        "obc": "125",
-        "ews": "125",
-        "sc": "65",
-        "st": "65",
-        "ph": "25",
-        "female": "",
-        "notes": ""
+      "general": "125",
+      "obc": "125",
+      "ews": "125",
+      "sc": "65",
+      "st": "65",
+      "ph": "25",
+      "female": "",
+      "notes": ""
     },
     "totalPost": {
-        "count": 1253,
-        "notes": ""
+      "count": 1253,
+      "notes": ""
     },
     "ageDetails": {
-        "minAge": 21,
-        "maxAge": 40,
-        "notes": "Age Relaxation Extra as per UPPSC Assistant Government Inter College Assistant Recruitment Rules."
+      "minAge": 21,
+      "maxAge": 40,
+      "notes": "Age Relaxation Extra as per UPPSC Assistant Government Inter College Assistant Recruitment Rules."
     },
     "vacancyDetails": [
-        {
-            "postName": "Assistant Professor Govt Degree College",
-            "totalPost": "",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 0,
-                "maxAge": 0,
-                "qualification": [
-                    "Master Degree in Related Subject with 55% Marks.",
-                    "NET /SLET / SET / Phd Exam Passed",
-                    "More Eligibility Details Read the Notification."
-                ]
-            }
+      {
+        "postName": "Assistant Professor Govt Degree College",
+        "totalPost": "",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 0,
+          "maxAge": 0,
+          "qualification": [
+            "Master Degree in Related Subject with 55% Marks.",
+            "NET /SLET / SET / Phd Exam Passed",
+            "More Eligibility Details Read the Notification."
+          ]
         }
+      }
     ],
     "importantLinks": [
-        {
-            "title": "Download Result (Chemistry, Economics, Geography, History, Military Science)",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://doc.sarkariresults.org.in/SarkariResult.Com_UPPSC_GIC_Lecturer_Result_07Aug2026.pdf"
-                }
-            ]
-        },
-        {
-            "title": "Download Answer Key",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://uppsc.up.nic.in/CandidatePages/Status/ViewAnswerKey.aspx?ID=5"
-                }
-            ]
-        },
-        {
-            "title": "Download Answer Key Notice",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://uppsc.up.nic.in/Open_PDF_DB.aspx?I4PnQ0tBagmD25xyA4lUA/X34c5xr5qq"
-                }
-            ]
-        },
-        {
-            "title": "Download Admit Card",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://uppsc.up.nic.in/CandidatePages/Advertismentwise_DownloadDocument.aspx?inptprmtr=ac"
-                }
-            ]
-        },
-        {
-            "title": "Download Admit Card Notice",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://uppsc.up.nic.in/Open_PDF_DB.aspx?I4PnQ0tBaglkFvRfMi9Svmkqdz5VSoQN"
-                }
-            ]
-        },
-        {
-            "title": "Apply Online",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://uppsc.up.nic.in/CandidatePages/Notifications.aspx"
-                }
-            ]
-        },
-        {
-            "title": "Download Notification",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://tinyurl.com/4e4kaawm"
-                }
-            ]
-        }
+      {
+        "title": "Download Result (Chemistry, Economics, Geography, History, Military Science)",
+        "links": [
+          {
+            "title": "",
+            "link": "https://doc.sarkariresults.org.in/SarkariResult.Com_UPPSC_GIC_Lecturer_Result_07Aug2026.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Download Answer Key",
+        "links": [
+          {
+            "title": "",
+            "link": "https://uppsc.up.nic.in/CandidatePages/Status/ViewAnswerKey.aspx?ID=5"
+          }
+        ]
+      },
+      {
+        "title": "Download Answer Key Notice",
+        "links": [
+          {
+            "title": "",
+            "link": "https://uppsc.up.nic.in/Open_PDF_DB.aspx?I4PnQ0tBagmD25xyA4lUA/X34c5xr5qq"
+          }
+        ]
+      },
+      {
+        "title": "Download Admit Card",
+        "links": [
+          {
+            "title": "",
+            "link": "https://uppsc.up.nic.in/CandidatePages/Advertismentwise_DownloadDocument.aspx?inptprmtr=ac"
+          }
+        ]
+      },
+      {
+        "title": "Download Admit Card Notice",
+        "links": [
+          {
+            "title": "",
+            "link": "https://uppsc.up.nic.in/Open_PDF_DB.aspx?I4PnQ0tBaglkFvRfMi9Svmkqdz5VSoQN"
+          }
+        ]
+      },
+      {
+        "title": "Apply Online",
+        "links": [
+          {
+            "title": "",
+            "link": "https://uppsc.up.nic.in/CandidatePages/Notifications.aspx"
+          }
+        ]
+      },
+      {
+        "title": "Download Notification",
+        "links": [
+          {
+            "title": "",
+            "link": "https://tinyurl.com/4e4kaawm"
+          }
+        ]
+      }
     ],
     "admitCard": {
-        "startDate": "21/05/2026",
-        "link": "https://uppsc.up.nic.in/CandidatePages/Advertismentwise_DownloadDocument.aspx?inptprmtr=ac",
-        "details": "",
-        "instruction": []
+      "startDate": "21/05/2026",
+      "link": "https://uppsc.up.nic.in/CandidatePages/Advertismentwise_DownloadDocument.aspx?inptprmtr=ac",
+      "details": "",
+      "instruction": []
     },
     "resultCard": {
-        "startDate": "07/08/2026",
-        "link": "https://doc.sarkariresults.org.in/SarkariResult.Com_UPPSC_GIC_Lecturer_Result_07Aug2026.pdf",
-        "details": "",
-        "instruction": []
+      "startDate": "07/08/2026",
+      "link": "https://doc.sarkariresults.org.in/SarkariResult.Com_UPPSC_GIC_Lecturer_Result_07Aug2026.pdf",
+      "details": "",
+      "instruction": []
     },
     "answerKey": {
-        "startDate": "03/06/2026",
-        "link": "https://uppsc.up.nic.in/CandidatePages/Status/ViewAnswerKey.aspx?ID=5",
-        "details": "",
-        "instruction": []
+      "startDate": "03/06/2026",
+      "link": "https://uppsc.up.nic.in/CandidatePages/Status/ViewAnswerKey.aspx?ID=5",
+      "details": "",
+      "instruction": []
     }
-},
-
-{
+  },
+  {
     "examType": "job",
     "id": "UP-Post-Graduate-Teacher-PGT-Recruitment-2022",
     "orgId": "Uttar Pradesh Secondary Education Service Selection Board (UPSESSB)",
     "name": "UP Post Graduate Teacher PGT Recruitment 2022",
     "importantDates": {
-        "startDate": "09/06/2022",
-        "lastDate": "10/07/2022",
-        "lastDateFeePayment": "13/07/2022",
-        "examDate": "9/5/2026 to 10/5/2026",
-        "otherDates": [
-            {
-                "title": "Interview Date",
-                "date": "15-27 June 2026"
-            },
-            {
-                "title": "Interview Letter",
-                "date": "05/06/2026"
-            },
-            {
-                "title": "Institute Allotment List",
-                "date": "28/07/2026"
-            }
-        ]
+      "startDate": "09/06/2022",
+      "lastDate": "10/07/2022",
+      "lastDateFeePayment": "13/07/2022",
+      "examDate": "9/5/2026 to 10/5/2026",
+      "otherDates": [
+        {
+          "title": "Interview Date",
+          "date": "15-27 June 2026"
+        },
+        {
+          "title": "Interview Letter",
+          "date": "05/06/2026"
+        },
+        {
+          "title": "Institute Allotment List",
+          "date": "28/07/2026"
+        }
+      ]
     },
     "fee": {
-        "general": "750",
-        "obc": "750",
-        "ews": "650",
-        "sc": "450",
-        "st": "750",
-        "ph": "",
-        "female": "",
-        "notes": ""
+      "general": "750",
+      "obc": "750",
+      "ews": "650",
+      "sc": "450",
+      "st": "750",
+      "ph": "",
+      "female": "",
+      "notes": ""
     },
     "totalPost": {
-        "count": 624,
-        "notes": ""
+      "count": 624,
+      "notes": ""
     },
     "ageDetails": {
-        "minAge": 21,
-        "maxAge": 0,
-        "notes": "Age Relaxation Extra as per Rules."
+      "minAge": 21,
+      "maxAge": 0,
+      "notes": "Age Relaxation Extra as per Rules."
     },
     "vacancyDetails": [
-        {
-            "postName": "Post Graduate Teacher PGT (Balak)",
-            "totalPost": "549",
-            "category": {
-                "ur": "332",
-                "obc": "153",
-                "ews": "",
-                "sc": "8",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 21,
-                "maxAge": 0,
-                "qualification": [
-                    "Master Degree with Related Subject.",
-                    "For Subject Wise Eligibility Read the Notification."
-                ]
-            }
+      {
+        "postName": "Post Graduate Teacher PGT (Balak)",
+        "totalPost": "549",
+        "category": {
+          "ur": "332",
+          "obc": "153",
+          "ews": "",
+          "sc": "8",
+          "st": "",
+          "female": "",
+          "ph": ""
         },
-        {
-            "postName": "Post Graduate Teacher PGT (Balika)",
-            "totalPost": "75",
-            "category": {
-                "ur": "56",
-                "obc": "11",
-                "ews": "",
-                "sc": "8",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 0,
-                "maxAge": 0,
-                "qualification": [
-                    "Master Degree with Related Subject.",
-                    "For Subject Wise Eligibility Read the Notification."
-                ]
-            }
+        "eligiblity": {
+          "minAge": 21,
+          "maxAge": 0,
+          "qualification": [
+            "Master Degree with Related Subject.",
+            "For Subject Wise Eligibility Read the Notification."
+          ]
         }
+      },
+      {
+        "postName": "Post Graduate Teacher PGT (Balika)",
+        "totalPost": "75",
+        "category": {
+          "ur": "56",
+          "obc": "11",
+          "ews": "",
+          "sc": "8",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 0,
+          "maxAge": 0,
+          "qualification": [
+            "Master Degree with Related Subject.",
+            "For Subject Wise Eligibility Read the Notification."
+          ]
+        }
+      }
     ],
     "importantLinks": [
-        {
-            "title": "Download Interview Letter",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://www.upessc.net/pgt2022callletter/Login.aspx"
-                }
-            ]
-        },
-        {
-            "title": "Download Interview Schedule ",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://upessc.up.gov.in/Notice/aaa2-f856-4ed0-f5b6-cb3d.pdf"
-                }
-            ]
-        },
-        {
-            "title": "Download Result (Balak)",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://doc.sarkariresults.org.in/UPPGT_Result_Male_SarkariResult_Com.pdf"
-                }
-            ]
-        },
-        {
-            "title": "Download Result (Balika)",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://doc.sarkariresults.org.in/UP_PGT_Result_SarkariResult_Female.pdf"
-                }
-            ]
-        },
-        {
-            "title": "Download Result Notice",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://upessc.up.gov.in/Notice/4845-cc22-4956-379b-8ba3.pdf"
-                }
-            ]
-        },
-        {
-            "title": "Download Answer Key",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://www.upessc.net/pgtqcmay2026/login.aspx"
-                }
-            ]
-        },
-        {
-            "title": "Download Admit Card",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://admitcards.upessc.org/"
-                }
-            ]
-        },
-        {
-            "title": "Check Exam City Details",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://admitcards.upessc.org/"
-                }
-            ]
-        },
-        {
-            "title": "Apply Online",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://upsessb.pariksha.nic.in/Agencies.aspx?uTVe3S4xVOs1PaOekpDaJg=="
-                }
-            ]
-        },
-        {
-            "title": "Download Notification",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://www.sarkariresults.org.in/wp-content/uploads/2022/06/Advertisement_2022_PGT_Final_Unicode_08_06_2022.pdf"
-                }
-            ]
-        }
+      {
+        "title": "Download Interview Letter",
+        "links": [
+          {
+            "title": "",
+            "link": "https://www.upessc.net/pgt2022callletter/Login.aspx"
+          }
+        ]
+      },
+      {
+        "title": "Download Interview Schedule ",
+        "links": [
+          {
+            "title": "",
+            "link": "https://upessc.up.gov.in/Notice/aaa2-f856-4ed0-f5b6-cb3d.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Download Result (Balak)",
+        "links": [
+          {
+            "title": "",
+            "link": "https://doc.sarkariresults.org.in/UPPGT_Result_Male_SarkariResult_Com.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Download Result (Balika)",
+        "links": [
+          {
+            "title": "",
+            "link": "https://doc.sarkariresults.org.in/UP_PGT_Result_SarkariResult_Female.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Download Result Notice",
+        "links": [
+          {
+            "title": "",
+            "link": "https://upessc.up.gov.in/Notice/4845-cc22-4956-379b-8ba3.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Download Answer Key",
+        "links": [
+          {
+            "title": "",
+            "link": "https://www.upessc.net/pgtqcmay2026/login.aspx"
+          }
+        ]
+      },
+      {
+        "title": "Download Admit Card",
+        "links": [
+          {
+            "title": "",
+            "link": "https://admitcards.upessc.org/"
+          }
+        ]
+      },
+      {
+        "title": "Check Exam City Details",
+        "links": [
+          {
+            "title": "",
+            "link": "https://admitcards.upessc.org/"
+          }
+        ]
+      },
+      {
+        "title": "Apply Online",
+        "links": [
+          {
+            "title": "",
+            "link": "https://upsessb.pariksha.nic.in/Agencies.aspx?uTVe3S4xVOs1PaOekpDaJg=="
+          }
+        ]
+      },
+      {
+        "title": "Download Notification",
+        "links": [
+          {
+            "title": "",
+            "link": "https://www.sarkariresults.org.in/wp-content/uploads/2022/06/Advertisement_2022_PGT_Final_Unicode_08_06_2022.pdf"
+          }
+        ]
+      }
     ],
     "admitCard": {
-        "startDate": "06/05/2026",
-        "link": "https://admitcards.upessc.org/",
-        "details": "",
-        "instruction": []
+      "startDate": "06/05/2026",
+      "link": "https://admitcards.upessc.org/",
+      "details": "",
+      "instruction": []
     },
     "resultCard": {
-        "startDate": "02/06/2026",
-        "link": "Balak-Varg::https://doc.sarkariresults.org.in/UPPGT_Result_Male_SarkariResult_Com.pdf,Balika-Varg::https://doc.sarkariresults.org.in/UP_PGT_Result_SarkariResult_Female.pdf",
-        "details": "",
-        "instruction": []
+      "startDate": "02/06/2026",
+      "link": "Balak-Varg::https://doc.sarkariresults.org.in/UPPGT_Result_Male_SarkariResult_Com.pdf,Balika-Varg::https://doc.sarkariresults.org.in/UP_PGT_Result_SarkariResult_Female.pdf",
+      "details": "",
+      "instruction": []
     },
     "answerKey": {
-        "startDate": "12/05/2026",
-        "link": "https://www.upessc.net/pgtqcmay2026/login.aspx",
-        "details": "",
-        "instruction": []
+      "startDate": "12/05/2026",
+      "link": "https://www.upessc.net/pgtqcmay2026/login.aspx",
+      "details": "",
+      "instruction": []
     }
-},
-{
+  },
+  {
     "examType": "job",
     "id": "UPSC-Combined-Central-Armed-Police-Force-Assistant-Commandant-AC-Exam-2025",
     "orgId": "Union Public Service Commission (UPSC)",
     "name": "UPSC Combined Central Armed Police Force (Assistant Commandant AC Exam 2025)",
     "importantDates": {
-        "startDate": "05/03/2025",
-        "lastDate": "25/03/2025 (Upto 06:00 PM Only)",
-        "lastDateFeePayment": "25/03/2025",
-        "examDate": "03/08/2025",
-        "correctionDate": "26/03/2025 to 01/04/2025"
+      "startDate": "05/03/2025",
+      "lastDate": "25/03/2025 (Upto 06:00 PM Only)",
+      "lastDateFeePayment": "25/03/2025",
+      "examDate": "03/08/2025",
+      "correctionDate": "26/03/2025 to 01/04/2025"
     },
     "fee": {
-        "general": "200",
-        "obc": "200",
-        "ews": "0",
-        "sc": "0",
-        "st": "0",
-        "ph": "0",
-        "female": "0",
-        "notes": "All Category Female : 0/- (Exempted)"
+      "general": "200",
+      "obc": "200",
+      "ews": "0",
+      "sc": "0",
+      "st": "0",
+      "ph": "0",
+      "female": "0",
+      "notes": "All Category Female : 0/- (Exempted)"
     },
     "totalPost": {
-        "count": 357,
-        "notes": ""
+      "count": 357,
+      "notes": ""
     },
     "ageDetails": {
-        "minAge": 20,
-        "maxAge": 25
+      "minAge": 20,
+      "maxAge": 25
     },
     "vacancyDetails": [
-        {
-            "postName": "BSF",
-            "totalPost": "24",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 20,
-                "maxAge": 25,
-                "qualification": [
-                    "Bachelor Degree in Any Stream in Any Recognized University in India.",
-                    "Physical Eligibility"
-                ]
-            }
+      {
+        "postName": "BSF",
+        "totalPost": "24",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
         },
-        {
-            "postName": "CRPF",
-            "totalPost": "204",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 20,
-                "maxAge": 25,
-                "qualification": []
-            }
-        },
-        {
-            "postName": "CISF",
-            "totalPost": "92",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 20,
-                "maxAge": 25,
-                "qualification": []
-            }
-        },
-        {
-            "postName": "ITBP",
-            "totalPost": "4",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 20,
-                "maxAge": 25,
-                "qualification": []
-            }
-        },
-        {
-            "postName": "SSB",
-            "totalPost": "33",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 20,
-                "maxAge": 25,
-                "qualification": []
-            }
+        "eligiblity": {
+          "minAge": 20,
+          "maxAge": 25,
+          "qualification": [
+            "Bachelor Degree in Any Stream in Any Recognized University in India.",
+            "Physical Eligibility"
+          ]
         }
+      },
+      {
+        "postName": "CRPF",
+        "totalPost": "204",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 20,
+          "maxAge": 25,
+          "qualification": []
+        }
+      },
+      {
+        "postName": "CISF",
+        "totalPost": "92",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 20,
+          "maxAge": 25,
+          "qualification": []
+        }
+      },
+      {
+        "postName": "ITBP",
+        "totalPost": "4",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 20,
+          "maxAge": 25,
+          "qualification": []
+        }
+      },
+      {
+        "postName": "SSB",
+        "totalPost": "33",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 20,
+          "maxAge": 25,
+          "qualification": []
+        }
+      }
     ],
     "importantLinks": [
-        {
-            "title": "Download Final Result",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://doc.sarkariresults.org.in/FR-CAPF-2025-Engl-070826.pdf"
-                }
-            ]
-        },
-        {
-            "title": "Download Result Name Wise",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://www.sarkariresult.com/upload/sarkariresult.com_UPSC_CPF_2025_Name_Wise_Result.pdf"
-                }
-            ]
-        },
-        {
-            "title": "Apply Online",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://upsconline.gov.in/upsc/OTRP/"
-                }
-            ]
-        },
-        {
-            "title": "Download Notification",
-            "links": [
-                {
-                    "title": "UPSC CAPF AC 2025 Notification",
-                    "link": "https://doc.sarkariresults.org.in/UPSC_CPF_AC_2025_Notification_SarkariResult_Com.pdf"
-                }
-            ]
-        }
+      {
+        "title": "Download Final Result",
+        "links": [
+          {
+            "title": "",
+            "link": "https://doc.sarkariresults.org.in/FR-CAPF-2025-Engl-070826.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Download Result Name Wise",
+        "links": [
+          {
+            "title": "",
+            "link": "https://www.sarkariresult.com/upload/sarkariresult.com_UPSC_CPF_2025_Name_Wise_Result.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Apply Online",
+        "links": [
+          {
+            "title": "",
+            "link": "https://upsconline.gov.in/upsc/OTRP/"
+          }
+        ]
+      },
+      {
+        "title": "Download Notification",
+        "links": [
+          {
+            "title": "UPSC CAPF AC 2025 Notification",
+            "link": "https://doc.sarkariresults.org.in/UPSC_CPF_AC_2025_Notification_SarkariResult_Com.pdf"
+          }
+        ]
+      }
     ],
     "admitCard": {
-        "startDate": "",
-        "link": "",
-        "details": "",
-        "instruction": []
+      "startDate": "",
+      "link": "",
+      "details": "",
+      "instruction": []
     },
     "resultCard": {
-        "startDate": "07/08/2026",
-        "link": "https://doc.sarkariresults.org.in/FR-CAPF-2025-Engl-070826.pdf",
-        "details": "",
-        "instruction": []
+      "startDate": "07/08/2026",
+      "link": "https://doc.sarkariresults.org.in/FR-CAPF-2025-Engl-070826.pdf",
+      "details": "",
+      "instruction": []
     },
     "answerKey": {
-        "startDate": "",
-        "link": "",
-        "details": "",
-        "instruction": []
+      "startDate": "",
+      "link": "",
+      "details": "",
+      "instruction": []
     },
     "table": [
-        {
-            "title": "Physical Eligibility Details",
-            "details": "",
-            "notes": "",
-            "list": [
-                [
-                    "Details",
-                    "Male",
-                    "Female"
-                ],
-                [
-                    "Height",
-                    "165 CM",
-                    "157 CM"
-                ],
-                [
-                    "Chest",
-                    "81-86 CM",
-                    "NA"
-                ],
-                [
-                    "100 Meters Race",
-                    "16 Second",
-                    "18 Second"
-                ],
-                [
-                    "800 Meters Race",
-                    "3 Min 45 Second",
-                    "4 Min 45 Second"
-                ],
-                [
-                    "Long Jump",
-                    "3.5 Meter",
-                    "3 Meter"
-                ],
-                [
-                    "Shot Put 7.26 Kg",
-                    "4.5 Meter",
-                    "NA"
-                ]
-            ]
-        }
+      {
+        "title": "Physical Eligibility Details",
+        "details": "",
+        "notes": "",
+        "list": [
+          [
+            "Details",
+            "Male",
+            "Female"
+          ],
+          [
+            "Height",
+            "165 CM",
+            "157 CM"
+          ],
+          [
+            "Chest",
+            "81-86 CM",
+            "NA"
+          ],
+          [
+            "100 Meters Race",
+            "16 Second",
+            "18 Second"
+          ],
+          [
+            "800 Meters Race",
+            "3 Min 45 Second",
+            "4 Min 45 Second"
+          ],
+          [
+            "Long Jump",
+            "3.5 Meter",
+            "3 Meter"
+          ],
+          [
+            "Shot Put 7.26 Kg",
+            "4.5 Meter",
+            "NA"
+          ]
+        ]
+      }
     ]
-},
-{
+  },
+  {
     "examType": "job",
     "id": "UPSC-Combined-Defence-Service-Exam-II-Recruitment-2025",
     "orgId": "Union Public Service Commission (UPSC)",
     "name": "UPSC Combined Defence Service Exam II Recruitment 2025",
     "importantDates": {
-        "startDate": "28/05/2025",
-        "lastDate": "17/06/2025",
-        "lastDateFeePayment": "17/06/2025",
-        "examDate": "14/09/2025"
+      "startDate": "28/05/2025",
+      "lastDate": "17/06/2025",
+      "lastDateFeePayment": "17/06/2025",
+      "examDate": "14/09/2025"
     },
     "fee": {
-        "general": "200",
-        "obc": "200",
-        "ews": "200",
-        "sc": "0",
-        "st": "0",
-        "ph": "0",
-        "female": "0",
-        "notes": ""
+      "general": "200",
+      "obc": "200",
+      "ews": "200",
+      "sc": "0",
+      "st": "0",
+      "ph": "0",
+      "female": "0",
+      "notes": ""
     },
     "totalPost": {
-        "count": 453,
-        "notes": ""
+      "count": 453,
+      "notes": ""
     },
     "ageDetails": {
-        "minAge": 20,
-        "maxAge": 24,
-        "notes": "for Post Wise Details Read Notification.\nAge Relaxation Extra as per Rules"
+      "minAge": 20,
+      "maxAge": 24,
+      "notes": "for Post Wise Details Read Notification.\nAge Relaxation Extra as per Rules"
     },
     "vacancyDetails": [
-        {
-            "postName": "IMA",
-            "totalPost": "100",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 20,
-                "maxAge": 24,
-                "qualification": [
-                    "Bachelor Degree in Any Stream."
-                ]
-            }
+      {
+        "postName": "IMA",
+        "totalPost": "100",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
         },
-        {
-            "postName": "Naval Academy",
-            "totalPost": "26",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 20,
-                "maxAge": 24,
-                "qualification": [
-                    "Bachelor Degree in Engineering."
-                ]
-            }
-        },
-        {
-            "postName": "Airforce",
-            "totalPost": "32",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 20,
-                "maxAge": 24,
-                "qualification": []
-            }
-        },
-        {
-            "postName": "OTA",
-            "totalPost": "295",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 0,
-                "maxAge": 0,
-                "qualification": []
-            }
+        "eligiblity": {
+          "minAge": 20,
+          "maxAge": 24,
+          "qualification": [
+            "Bachelor Degree in Any Stream."
+          ]
         }
+      },
+      {
+        "postName": "Naval Academy",
+        "totalPost": "26",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 20,
+          "maxAge": 24,
+          "qualification": [
+            "Bachelor Degree in Engineering."
+          ]
+        }
+      },
+      {
+        "postName": "Airforce",
+        "totalPost": "32",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 20,
+          "maxAge": 24,
+          "qualification": []
+        }
+      },
+      {
+        "postName": "OTA",
+        "totalPost": "295",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 0,
+          "maxAge": 0,
+          "qualification": []
+        }
+      }
     ],
     "importantLinks": [
-        {
-            "title": "Download Final Result (OTA)",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://www.upsc.gov.in/sites/default/files/FR-CDSE-II-2025-OTA-Engl-070826.pdf"
-                }
-            ]
-        },
-        {
-            "title": "Download Final Result",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://upsc.gov.in/sites/default/files/FR-CDSE-II-2025-Engl-300326.pdf"
-                }
-            ]
-        },
-        {
-            "title": "Apply Online (Registration)",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://upsconline.nic.in/instruction"
-                }
-            ]
-        },
-        {
-            "title": "Apply Online (Login)",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://upsconline.nic.in/login"
-                }
-            ]
-        },
-        {
-            "title": "Download Notification",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://doc.sarkariresults.org.in/UPSC_CDS_II_202542_Notification.pdf"
-                }
-            ]
-        }
+      {
+        "title": "Download Final Result (OTA)",
+        "links": [
+          {
+            "title": "",
+            "link": "https://www.upsc.gov.in/sites/default/files/FR-CDSE-II-2025-OTA-Engl-070826.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Download Final Result",
+        "links": [
+          {
+            "title": "",
+            "link": "https://upsc.gov.in/sites/default/files/FR-CDSE-II-2025-Engl-300326.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Apply Online (Registration)",
+        "links": [
+          {
+            "title": "",
+            "link": "https://upsconline.nic.in/instruction"
+          }
+        ]
+      },
+      {
+        "title": "Apply Online (Login)",
+        "links": [
+          {
+            "title": "",
+            "link": "https://upsconline.nic.in/login"
+          }
+        ]
+      },
+      {
+        "title": "Download Notification",
+        "links": [
+          {
+            "title": "",
+            "link": "https://doc.sarkariresults.org.in/UPSC_CDS_II_202542_Notification.pdf"
+          }
+        ]
+      }
     ],
     "admitCard": {
-        "startDate": "",
-        "link": "",
-        "details": "",
-        "instruction": []
+      "startDate": "",
+      "link": "",
+      "details": "",
+      "instruction": []
     },
     "resultCard": {
-        "startDate": "30/03/2026",
-        "link": "Final-Result::https://upsc.gov.in/sites/default/files/FR-CDSE-II-2025-Engl-300326.pdf,OTA-Result::https://www.upsc.gov.in/sites/default/files/FR-CDSE-II-2025-OTA-Engl-070826.pdf",
-        "details": "",
-        "instruction": []
+      "startDate": "30/03/2026",
+      "link": "Final-Result::https://upsc.gov.in/sites/default/files/FR-CDSE-II-2025-Engl-300326.pdf,OTA-Result::https://www.upsc.gov.in/sites/default/files/FR-CDSE-II-2025-OTA-Engl-070826.pdf",
+      "details": "",
+      "instruction": []
     },
     "answerKey": {
-        "startDate": "",
-        "link": "",
-        "details": "",
-        "instruction": []
+      "startDate": "",
+      "link": "",
+      "details": "",
+      "instruction": []
     }
-},
-{
+  },
+  {
     "examType": "entrance-exam",
     "id": "MP-Animal-Husbandry-and-Dairy-Technology-Admission-Test-ADDET-2026",
     "orgId": "Madhya Pradesh Employee Selection Board (MPESB)",
     "name": "MP Animal Husbandry and Dairy Technology Admission Test ADDET 2026",
     "importantDates": {
-        "startDate": "05/06/2026",
-        "lastDate": "19/06/2026",
-        "lastDateFeePayment": "19/06/2026",
-        "examDate": "10/07/2026",
-        "correctionDate": "24/06/2026"
+      "startDate": "05/06/2026",
+      "lastDate": "19/06/2026",
+      "lastDateFeePayment": "19/06/2026",
+      "examDate": "10/07/2026",
+      "correctionDate": "24/06/2026"
     },
     "fee": {
-        "general": "460",
-        "obc": "MP Reserve Category : 260/-",
-        "ews": "MP Reserve Category : 260/-",
-        "sc": "MP Reserve Category : 260/-",
-        "st": "MP Reserve Category : 260/-",
-        "ph": "MP Reserve Category : 260/-",
-        "female": "",
-        "notes": "Other State:460rs."
+      "general": "460",
+      "obc": "MP Reserve Category : 260/-",
+      "ews": "MP Reserve Category : 260/-",
+      "sc": "MP Reserve Category : 260/-",
+      "st": "MP Reserve Category : 260/-",
+      "ph": "MP Reserve Category : 260/-",
+      "female": "",
+      "notes": "Other State:460rs."
     },
     "totalPost": {
-        "count": 1100,
-        "notes": ""
+      "count": 1100,
+      "notes": ""
     },
     "ageDetails": {
-        "minAge": 17,
-        "maxAge": 0,
-        "notes": "Age Limit : Minimum 17 Years as on 31/12/2026"
+      "minAge": 17,
+      "maxAge": 0,
+      "notes": "Age Limit : Minimum 17 Years as on 31/12/2026"
     },
     "vacancyDetails": [
-        {
-            "postName": "Animal Husbandry Diploma",
-            "totalPost": "1000",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 17,
-                "maxAge": 0,
-                "qualification": [
-                    "Passed / Appearing 10+2 Intermediate Exam with PCB Stream.",
-                    "For More Eligibility Details Must Read the Notification / Rule Book."
-                ]
-            }
+      {
+        "postName": "Animal Husbandry Diploma",
+        "totalPost": "1000",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
         },
-        {
-            "postName": "Dairy Technology",
-            "totalPost": "100",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 0,
-                "maxAge": 0,
-                "qualification": [
-                    "Passed / Appearing 10+2 Intermediate Exam with PCB Stream.",
-                    "For More Eligibility Details Must Read the Notification / Rule Book."
-                ]
-            }
+        "eligiblity": {
+          "minAge": 17,
+          "maxAge": 0,
+          "qualification": [
+            "Passed / Appearing 10+2 Intermediate Exam with PCB Stream.",
+            "For More Eligibility Details Must Read the Notification / Rule Book."
+          ]
         }
+      },
+      {
+        "postName": "Dairy Technology",
+        "totalPost": "100",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 0,
+          "maxAge": 0,
+          "qualification": [
+            "Passed / Appearing 10+2 Intermediate Exam with PCB Stream.",
+            "For More Eligibility Details Must Read the Notification / Rule Book."
+          ]
+        }
+      }
     ],
     "importantLinks": [
-        {
-            "title": "Download Result",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://esb.mp.gov.in/results/RESULT_26/ADDET_RES26/default_Results.htm"
-                }
-            ]
-        },
-        {
-            "title": "Download Answer Key",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://addet2026.cbtexam.in/Home/ListofExam.aspx"
-                }
-            ]
-        },
-        {
-            "title": "Download Admit Card",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://esb.mp.gov.in/tacs/tac_2026/ADDET_TAC26/default_tac.htm"
-                }
-            ]
-        },
-        {
-            "title": "Apply Online",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://esb.mponline.gov.in/Portal/Examinations/Vyapam/examsList.aspx"
-                }
-            ]
-        },
-        {
-            "title": "Download Notification",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://esb.mp.gov.in/Rulebooks/RB_2026/ADDET_2026_Rulebook_04062026.pdf"
-                }
-            ]
-        }
+      {
+        "title": "Download Result",
+        "links": [
+          {
+            "title": "",
+            "link": "https://esb.mp.gov.in/results/RESULT_26/ADDET_RES26/default_Results.htm"
+          }
+        ]
+      },
+      {
+        "title": "Download Answer Key",
+        "links": [
+          {
+            "title": "",
+            "link": "https://addet2026.cbtexam.in/Home/ListofExam.aspx"
+          }
+        ]
+      },
+      {
+        "title": "Download Admit Card",
+        "links": [
+          {
+            "title": "",
+            "link": "https://esb.mp.gov.in/tacs/tac_2026/ADDET_TAC26/default_tac.htm"
+          }
+        ]
+      },
+      {
+        "title": "Apply Online",
+        "links": [
+          {
+            "title": "",
+            "link": "https://esb.mponline.gov.in/Portal/Examinations/Vyapam/examsList.aspx"
+          }
+        ]
+      },
+      {
+        "title": "Download Notification",
+        "links": [
+          {
+            "title": "",
+            "link": "https://esb.mp.gov.in/Rulebooks/RB_2026/ADDET_2026_Rulebook_04062026.pdf"
+          }
+        ]
+      }
     ],
     "admitCard": {
-        "startDate": " 03/07/2026",
-        "link": "https://esb.mp.gov.in/tacs/tac_2026/ADDET_TAC26/default_tac.htm",
-        "details": "",
-        "instruction": []
+      "startDate": " 03/07/2026",
+      "link": "https://esb.mp.gov.in/tacs/tac_2026/ADDET_TAC26/default_tac.htm",
+      "details": "",
+      "instruction": []
     },
     "resultCard": {
-        "startDate": "07/08/2026",
-        "link": "https://esb.mp.gov.in/results/RESULT_26/ADDET_RES26/default_Results.htm",
-        "details": "",
-        "instruction": []
+      "startDate": "07/08/2026",
+      "link": "https://esb.mp.gov.in/results/RESULT_26/ADDET_RES26/default_Results.htm",
+      "details": "",
+      "instruction": []
     },
     "answerKey": {
-        "startDate": "13/07/2026",
-        "link": "https://addet2026.cbtexam.in/Home/ListofExam.aspx",
-        "details": "",
-        "instruction": []
+      "startDate": "13/07/2026",
+      "link": "https://addet2026.cbtexam.in/Home/ListofExam.aspx",
+      "details": "",
+      "instruction": []
     },
     "table": [
-        {
-            "title": "",
-            "details": "",
-            "notes": "",
-            "list": [
-                [
-                    "MP ADDET College Name with Seat",
-                    "Total Seat"
-                ],
-                [
-                    "Animal Husbandry Diploma Jabalpur",
-                    "100"
-                ],
-                [
-                    "Animal Husbandry Diploma Mhow",
-                    "100"
-                ],
-                [
-                    "Animal Husbandry Diploma Rewa",
-                    "100"
-                ],
-                [
-                    "Animal Husbandry Diploma Bhopal",
-                    "100"
-                ],
-                [
-                    "Animal Husbandry Diploma Morena",
-                    "100"
-                ],
-                [
-                    "Maina Devi Memorial Animal Husbandry Diploma Gwalior (Private)",
-                    "100"
-                ],
-                [
-                    "Shri Ram Nath Singh Animal Husbandry Diploma Bhind (Private)",
-                    "100"
-                ],
-                [
-                    "Oxford International Animal Husbandry Diploma Indore (Private)",
-                    "100"
-                ],
-                [
-                    "Sendhwa Animal Husbandry Diploma College Sendhwa Badwani (Private)",
-                    "100"
-                ],
-                [
-                    "Lal Bahadur Shastri Animal Husbandry Diploma College Harda (Private)",
-                    "100"
-                ],
-                [
-                    "Sunder Dairy Technology Diploma Indore",
-                    "100"
-                ]
-            ]
-        }
+      {
+        "title": "",
+        "details": "",
+        "notes": "",
+        "list": [
+          [
+            "MP ADDET College Name with Seat",
+            "Total Seat"
+          ],
+          [
+            "Animal Husbandry Diploma Jabalpur",
+            "100"
+          ],
+          [
+            "Animal Husbandry Diploma Mhow",
+            "100"
+          ],
+          [
+            "Animal Husbandry Diploma Rewa",
+            "100"
+          ],
+          [
+            "Animal Husbandry Diploma Bhopal",
+            "100"
+          ],
+          [
+            "Animal Husbandry Diploma Morena",
+            "100"
+          ],
+          [
+            "Maina Devi Memorial Animal Husbandry Diploma Gwalior (Private)",
+            "100"
+          ],
+          [
+            "Shri Ram Nath Singh Animal Husbandry Diploma Bhind (Private)",
+            "100"
+          ],
+          [
+            "Oxford International Animal Husbandry Diploma Indore (Private)",
+            "100"
+          ],
+          [
+            "Sendhwa Animal Husbandry Diploma College Sendhwa Badwani (Private)",
+            "100"
+          ],
+          [
+            "Lal Bahadur Shastri Animal Husbandry Diploma College Harda (Private)",
+            "100"
+          ],
+          [
+            "Sunder Dairy Technology Diploma Indore",
+            "100"
+          ]
+        ]
+      }
     ]
-},
-
-
-
-
-
-
-
-
-  
+  },
+  {
+    "examType": "job",
+    "id": "BOI-Credit-Officer-Recruitment-2026",
+    "orgId": "Bank of India (BOI)",
+    "name": "BOI Credit Officer Recruitment 2026",
+    "importantDates": {
+      "startDate": "30/06/2026",
+      "lastDate": "20/07/2026",
+      "lastDateFeePayment": "20/07/2026",
+      "examDate": "16/08/2026",
+      "otherDates": [
+        {
+          "title": "Last Date for Apply Online",
+          "date": "20/07/2026"
+        },
+        {
+          "title": "Last Date Pay Exam Fee",
+          "date": "20/07/2026"
+        },
+        {
+          "title": "Admit Card Available",
+          "date": "06/08/2026"
+        }
+      ]
+    },
+    "fee": {
+      "general": "850",
+      "obc": "850",
+      "ews": "850",
+      "sc": "175",
+      "st": "175",
+      "ph": "175",
+      "female": "",
+      "notes": ""
+    },
+    "totalPost": {
+      "count": 779,
+      "notes": ""
+    },
+    "ageDetails": {
+      "minAge": 25,
+      "maxAge": 45
+    },
+    "vacancyDetails": [
+      {
+        "postName": "Credit Officer (GBO Stream ) – MMGS-II",
+        "totalPost": "677",
+        "category": {
+          "ur": "274",
+          "obc": "180",
+          "ews": "69",
+          "sc": "52",
+          "st": "102",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 25,
+          "maxAge": 32,
+          "qualification": [
+            " Bachelor Degree in Any Stream with 60% marks (55% for SC/ST/OBC/PH) in Any Recognized University.",
+            "Minimum 3 Year Experience Required.",
+            "More Eligibility Details Read the Notification"
+          ]
+        }
+      },
+      {
+        "postName": "Credit Officer (GBO Stream ) – MMGS-III",
+        "totalPost": "61",
+        "category": {
+          "ur": "22",
+          "obc": "16",
+          "ews": "8",
+          "sc": "10",
+          "st": "5",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 28,
+          "maxAge": 38,
+          "qualification": [
+            "Bachelor Degree in Any Stream with 60% marks (55% for SC/ST/OBC/PH) in Any Recognized University.",
+            "Minimum 5 Year Experience Required.",
+            "More Eligibility Details Read the Notification."
+          ]
+        }
+      },
+      {
+        "postName": "Credit Officer (GBO Stream ) – SMGS-IV",
+        "totalPost": "41",
+        "category": {
+          "ur": "21",
+          "obc": "9",
+          "ews": "3",
+          "sc": "6",
+          "st": "2",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 32,
+          "maxAge": 45,
+          "qualification": [
+            "Bachelor Degree in Any Stream with 60% marks (55% for SC/ST/OBC/PH) in Any Recognized University.",
+            "Minimum 3 Year Experience Required.",
+            "More Eligibility Details Read the Notification."
+          ]
+        }
+      }
+    ],
+    "importantLinks": [
+      {
+        "title": "Download Admit Card",
+        "links": [
+          {
+            "title": "",
+            "link": "https://ibpsreg.ibps.in/boicojun26/oecla_aug26/login.php?appid=beb71e80ca57b23bf5fce4728732e5fa"
+          }
+        ]
+      },
+      {
+        "title": "Download Admit Card Notice ",
+        "links": [
+          {
+            "title": "",
+            "link": "https://bankofindia.bank.in/documents/20121/28761619/Webnotice_2026_27_01_CALL_LETTER_eng.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Apply Online",
+        "links": [
+          {
+            "title": "",
+            "link": "https://bankofindia.bank.in/career/recruitment-notice"
+          }
+        ]
+      },
+      {
+        "title": "Download Full Notification",
+        "links": [
+          {
+            "title": "",
+            "link": "https://bankofindia.bank.in/documents/20121/28761619/Webnotice_2026_27_01-Notice.pdf/"
+          }
+        ]
+      }
+    ],
+    "admitCard": {
+      "startDate": "06/08/2026",
+      "link": "https://ibpsreg.ibps.in/boicojun26/oecla_aug26/login.php?appid=beb71e80ca57b23bf5fce4728732e5fa",
+      "details": "",
+      "instruction": []
+    },
+    "resultCard": {
+      "link": "",
+      "details": "",
+      "instruction": []
+    },
+    "answerKey": {
+      "startDate": "",
+      "link": "",
+      "details": "",
+      "instruction": []
+    }
+  },
+  {
+    "examType": "job",
+    "id": "AIIMS-Common-Recruitment-Exam-CRE-5-Recruitment-2026",
+    "orgId": "All India Institute of Medical Science (AIIMS)",
+    "name": "AIIMS Common Recruitment Exam (CRE-5) Recruitment 2026",
+    "importantDates": {
+      "startDate": "06/06/2026",
+      "lastDate": "03/07/2026",
+      "lastDateFeePayment": "03/07/2026",
+      "examDate": "25/7/2026 to 27/7/2026",
+      "otherDates": [
+        {
+          "title": "NOC Submission Last Date",
+          "date": "08/07/2026"
+        },
+        {
+          "title": "Application Status Available",
+          "date": "11/07/2026"
+        },
+        {
+          "title": "Exam Schedule Date",
+          "date": "17/07/2026"
+        },
+        {
+          "title": "CRE-5 Revised Exam Date",
+          "date": "31 August to 01 September 2026"
+        }
+      ]
+    },
+    "fee": {
+      "general": "3000",
+      "obc": "3000",
+      "ews": "2400",
+      "sc": "2400",
+      "st": "2400",
+      "ph": "0",
+      "female": "",
+      "notes": ""
+    },
+    "totalPost": {
+      "count": 1484,
+      "notes": ""
+    },
+    "ageDetails": {
+      "minAge": 0,
+      "maxAge": 0,
+      "notes": "Age Relaxation as per AIIMS CRE-5 Recruitment 2026 Rules."
+    },
+    "vacancyDetails": [
+      {
+        "postName": "AIIMS Group B & C Various Post",
+        "totalPost": "1484",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 0,
+          "maxAge": 0,
+          "qualification": [
+            "More Details Read the Notification."
+          ]
+        }
+      }
+    ],
+    "importantLinks": [
+      {
+        "title": "Download Admit Card",
+        "links": [
+          {
+            "title": "Download Admit Card",
+            "link": "https://aiimsexams.ac.in/advertisement/6a2cdd89be81945a8330d450"
+          }
+        ]
+      },
+      {
+        "title": "Download Revised Exam Notice",
+        "links": [
+          {
+            "title": "",
+            "link": "https://rrpdocuments.aiimsexams.ac.in/1786098641903-816454103.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVRUVRLXWMSLVSAP7%2F20260807%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20260807T105941Z&X-Amz-Expires=604800&X-Amz-Signature=be5a7df67844a0edc5b945a4c297f7e152b25fa03bb9b98bc29d3065daaa474d&X-Amz-SignedHeaders=host&response-content-type=application%2Fpdf"
+          }
+        ]
+      },
+      {
+        "title": "AIIMS CRE-5 Check Exam Schedule",
+        "links": [
+          {
+            "title": "",
+            "link": "https://rrpdocuments.aiimsexams.ac.in/1784265336757-399501708.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVRUVRLXWMSLVSAP7%2F20260717%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20260717T053502Z&X-Amz-Expires=18000&X-Amz-Signature=5c4fd0f5d6395115fc4212f1aee1e2159c046baa9782ac3a99b22b4bc6912443&X-Amz-SignedHeaders=host&response-content-type=application%2Fpdf"
+          }
+        ]
+      },
+      {
+        "title": "Check Application Status",
+        "links": [
+          {
+            "title": "",
+            "link": "https://www.aiimsexams.ac.in/advertisement/6a2cdd89be81945a8330d450"
+          }
+        ]
+      },
+      {
+        "title": "Download Application Status Notice",
+        "links": [
+          {
+            "title": "",
+            "link": "https://rrpdocuments.aiimsexams.ac.in/1783918559067-437308768.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVRUVRLXWMSLVSAP7%2F20260713%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20260713T051144Z&X-Amz-Expires=18000&X-Amz-Signature=35df0b672f887ba359ca272847d2c19fd7a733c4e6e758d297d71480a591740b&X-Amz-SignedHeaders=host&response-content-type=application%2Fpdf"
+          }
+        ]
+      },
+      {
+        "title": "Apply Online",
+        "links": [
+          {
+            "title": "",
+            "link": "https://www.aiimsexams.ac.in/auth/login"
+          }
+        ]
+      },
+      {
+        "title": "Download Notification",
+        "links": [
+          {
+            "title": "",
+            "link": "https://doc.sarkariresults.org.in/AIIMS_CRE_5_Notification_1781360803517-426450330.pdf"
+          }
+        ]
+      }
+    ],
+    "admitCard": {
+      "startDate": "21/07/2026",
+      "link": "https://aiimsexams.ac.in/advertisement/6a2cdd89be81945a8330d450",
+      "details": "Link will be Activate Soon",
+      "instruction": []
+    },
+    "resultCard": {
+      "link": "",
+      "details": "",
+      "instruction": []
+    },
+    "answerKey": {
+      "startDate": "",
+      "link": "",
+      "details": "",
+      "instruction": []
+    }
+  },
+  {
+    "examType": "job",
+    "id": "Uttar-Pradesh-Education-Service-Selection-Commission-UPESSC",
+    "orgId": "Uttar Pradesh Education Service Selection Commission UPESSC",
+    "name": "UPESSC UP Assistant Professor BEd Recruitment 2025",
+    "importantDates": {
+      "startDate": "28/04/2026",
+      "lastDate": "27/05/2026",
+      "lastDateFeePayment": "27/05/2026",
+      "examDate": "19/08/2026 (Postponed)",
+      "otherDates": [
+        {
+          "title": "Re Open Apply Online",
+          "date": "10-20 July 2026"
+        }
+      ]
+    },
+    "fee": {
+      "general": "2000",
+      "obc": "2000",
+      "ews": "2000",
+      "sc": "1000",
+      "st": "1000",
+      "ph": "1000",
+      "female": "",
+      "notes": ""
+    },
+    "totalPost": {
+      "count": 107,
+      "notes": ""
+    },
+    "ageDetails": {
+      "minAge": 18,
+      "maxAge": 62,
+      "notes": "Age Relaxation Extra as per UPHESC Assistant Professor Recruitment Rules."
+    },
+    "vacancyDetails": [
+      {
+        "postName": "Assistant Professor Bed",
+        "totalPost": "107",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 18,
+          "maxAge": 62,
+          "qualification": [
+            "Master Degree in Science / Mathematics / Social Science / Commerce / Language (BED Subjects) with Minimum 55% Marks,",
+            "M.Ed Exam with 55% Marks OR",
+            "Master Degree in Sociology with 55% Marks with B.Ed / BLEd / Equivalent Degree.",
+            "UGC NET / PHd / D.Phill",
+            "More Details Read the Notification"
+          ]
+        }
+      }
+    ],
+    "importantLinks": [
+      {
+        "title": "Download Postponed Notice",
+        "links": [
+          {
+            "title": "",
+            "link": "https://doc.sarkariresults.org.in/e891-fac7-412e-14a2-a82f.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Apply Online",
+        "links": [
+          {
+            "title": "",
+            "link": "https://bed.upessc.org/otr/"
+          }
+        ]
+      },
+      {
+        "title": "Download Exam Notice",
+        "links": [
+          {
+            "title": "",
+            "link": "https://upessc.up.gov.in/Notice/3008-fdb0-4919-f7dd-5bbf.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Download Re Open Notice",
+        "links": [
+          {
+            "title": "",
+            "link": "https://www.sarkariresult.com/wp-content/uploads/2026/04/uphesc_re_open_Notice.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Download Revised Notification",
+        "links": [
+          {
+            "title": "",
+            "link": "https://upessc.up.gov.in/Notice/bab9-b117-4b45-85d1-aaba.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Download Old Notification",
+        "links": [
+          {
+            "title": "",
+            "link": "https://doc.sarkariresults.org.in/UPESSC_Assistant_Professor_Notification7_2025.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Download College Wise Vacancy Details",
+        "links": [
+          {
+            "title": "",
+            "link": "https://doc.sarkariresults.org.in/UPESSC_COllege_Wise_Seat_Details.pdf"
+          }
+        ]
+      }
+    ],
+    "admitCard": {
+      "startDate": "Before Exam",
+      "link": "",
+      "details": "",
+      "instruction": []
+    },
+    "resultCard": {
+      "link": "",
+      "details": "",
+      "instruction": []
+    },
+    "answerKey": {
+      "startDate": "",
+      "link": "",
+      "details": "",
+      "instruction": []
+    }
+  },
+  {
+    "examType": "job",
+    "id": "Railway-RRB-Centralized-Recruitment-CEN-09-2025-Group-D-Exam-2026",
+    "orgId": "Railway Recruitment Board (RRB)",
+    "name": "Railway RRB Centralized Recruitment CEN 09/2025 Group D Exam 2026",
+    "importantDates": {
+      "startDate": "31/01/2026",
+      "lastDate": "09/03/2026",
+      "lastDateFeePayment": "11/03/2026",
+      "examDate": "3/8/2026 to 25/8/2026",
+      "correctionDate": "12/3/2026 to 21/3/2026",
+      "notes": "RRB Group D Exam Date : 3-6, 9-14, 17-21 & 25 August 2026",
+      "otherDates": [
+        {
+          "title": "Application Status Available",
+          "date": "09/07/2026"
+        },
+        {
+          "title": "Exam City Available",
+          "date": "10 Days Before Exam"
+        }
+      ]
+    },
+    "fee": {
+      "general": "500",
+      "obc": "500",
+      "ews": "500",
+      "sc": "250",
+      "st": "250",
+      "ph": "250",
+      "female": "250",
+      "notes": "Refund :\nGeneral / OBC / EWS : 400/- After AppearCBT Exam\nSC / ST / PH / EBC : 250/- After Appear CBT Exam."
+    },
+    "totalPost": {
+      "count": 0,
+      "notes": ""
+    },
+    "ageDetails": {
+      "minAge": 18,
+      "maxAge": 33,
+      "notes": "Age Relaxation As per Railway RRB Gorup D CEN 09/2025 Recruitment Rules 2025-2026."
+    },
+    "vacancyDetails": [
+      {
+        "postName": "Various Posts in Level 1 (Group D)",
+        "totalPost": "22195",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 18,
+          "maxAge": 33,
+          "qualification": [
+            "Class 10th / Matric (High School) from Any Recognized Board in India. OR ITI Certificate",
+            "Physical Eligibility :",
+            "Male : Candidates Should be Lift and Carry 35kg Weight for a Distance 100 Meter in 2 Minutes and 1000 Meter Running in 04 Minute 15 Sec.",
+            "Only For One Chance",
+            "Female : Should be Lift and Carry 20kg Weight for a Distance 100 Meter in 2 Minutes and 1000 Meter Running in 05 Minute 40 Sec",
+            "Only For One Chance"
+          ]
+        }
+      }
+    ],
+    "importantLinks": [
+      {
+        "title": "Download Admit Card / Exam City Details",
+        "links": [
+          {
+            "title": "",
+            "link": "https://rrb.digialm.com/EForms/configuredHtml/33128/101714/login.html"
+          }
+        ]
+      },
+      {
+        "title": "Revised Exam Date Notice",
+        "links": [
+          {
+            "title": "",
+            "link": "https://rrb.indianrailways.gov.in/-/image/1785395249352REVISED_TENTATIVE_CBT_SCHEDULE_FOR_CEN_09_2025.pdf/examsDocuments"
+          }
+        ]
+      },
+      {
+        "title": "Check Application Status",
+        "links": [
+          {
+            "title": "",
+            "link": "https://www.rrbapply.gov.in/#/auth/home"
+          }
+        ]
+      },
+      {
+        "title": "Download Application Status Notice",
+        "links": [
+          {
+            "title": "",
+            "link": "https://www.sarkariresult.com/wp-content/uploads/2026/07/RRB_Group_Form_Status.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Apply Online (OTR)",
+        "links": [
+          {
+            "title": "",
+            "link": "https://www.rrbapply.gov.in/#/auth/home"
+          }
+        ]
+      },
+      {
+        "title": "Download Date Extended Notice",
+        "links": [
+          {
+            "title": "",
+            "link": "https://rrbahmedabad.gov.in/wp-content/uploads/2026/01/Corrigendum-4-CEN-09-2025-02.03.2026-Hindi.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Download Full Notification",
+        "links": [
+          {
+            "title": "",
+            "link": "https://doc.sarkariresults.org.in/RRB%20CEN%20092025%20SarkariResult_Com.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Download 07/02/2026 Notification",
+        "links": [
+          {
+            "title": "",
+            "link": "https://rrbahmedabad.gov.in/wp-content/uploads/2026/01/Detailed-CEN-09-25-in-hindi-07.02.2026.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Download Zone Wise Vacancy Details",
+        "links": [
+          {
+            "title": "",
+            "link": "https://doc.sarkariresults.org.in/RRB%20CEN%20092025%20Zone%20Wise%20Vacancy%20SarkariResult_Com.pdf"
+          }
+        ]
+      }
+    ],
+    "admitCard": {
+      "startDate": "4 Days Before Exam",
+      "link": "https://rrb.digialm.com/EForms/configuredHtml/33128/101714/login.html",
+      "details": "",
+      "instruction": []
+    },
+    "resultCard": {
+      "link": "",
+      "details": "",
+      "instruction": []
+    },
+    "answerKey": {
+      "startDate": "",
+      "link": "",
+      "details": "",
+      "instruction": []
+    }
+  },
   {
     "id": 8000082780,
     "orgId": "Chhattisgarh Public Service Commission (CGPSC)",
@@ -1103,6 +1946,15 @@
     ],
     "importantLinks": [
       {
+        "title": "Exam Schedule Notice",
+        "links": [
+          {
+            "title": "Click Here",
+            "link": "https://www.psc.cg.gov.in/PDFs/notifications/SAHAYAK_JILA_LOK_ABHIYOJAN_ADHIKARI-2026_EXAM_SCHEDULE%20(06-08-2026).pdf"
+          }
+        ]
+      },
+      {
         "title": "Apply Online",
         "links": [
           {
@@ -1122,27 +1974,21 @@
       }
     ],
     "admitCard": {
-      "startDate": "",
-      "link": "",
+      "startDate": "20/9/2026",
+      "link": "https://www.psc.cg.gov.in/PDFs/notifications/SAHAYAK_JILA_LOK_ABHIYOJAN_ADHIKARI-2026_EXAM_SCHEDULE%20(06-08-2026).pdf",
       "details": "",
-      "instruction": [
-        
-      ]
+      "instruction": []
     },
     "resultCard": {
       "link": "",
       "details": "",
-      "instruction": [
-        
-      ]
+      "instruction": []
     },
     "answerKey": {
       "startDate": "",
       "link": "",
       "details": "",
-      "instruction": [
-        
-      ]
+      "instruction": []
     },
     "applyStep": {
       "title": "",
@@ -1263,24 +2109,18 @@
       "startDate": "",
       "link": "",
       "details": "",
-      "instruction": [
-        
-      ]
+      "instruction": []
     },
     "resultCard": {
       "link": "",
       "details": "",
-      "instruction": [
-        
-      ]
+      "instruction": []
     },
     "answerKey": {
       "startDate": "",
       "link": "",
       "details": "",
-      "instruction": [
-        
-      ]
+      "instruction": []
     },
     "applyStep": {
       "title": "",
@@ -1372,24 +2212,18 @@
       "startDate": "",
       "link": "",
       "details": "",
-      "instruction": [
-        
-      ]
+      "instruction": []
     },
     "resultCard": {
       "link": "",
       "details": "",
-      "instruction": [
-        
-      ]
+      "instruction": []
     },
     "answerKey": {
       "startDate": "",
       "link": "",
       "details": "",
-      "instruction": [
-        
-      ]
+      "instruction": []
     },
     "table": [
       {
@@ -1608,9 +2442,7 @@
         "eligiblity": {
           "minAge": 18,
           "maxAge": 33,
-          "qualification": [
-            
-          ]
+          "qualification": []
         }
       },
       {
@@ -1669,24 +2501,18 @@
       "startDate": "",
       "link": "",
       "details": "",
-      "instruction": [
-        
-      ]
+      "instruction": []
     },
     "resultCard": {
       "link": "",
       "details": "",
-      "instruction": [
-        
-      ]
+      "instruction": []
     },
     "answerKey": {
       "startDate": "",
       "link": "",
       "details": "",
-      "instruction": [
-        
-      ]
+      "instruction": []
     }
   },
   {
@@ -1765,24 +2591,18 @@
       "startDate": "",
       "link": "",
       "details": "",
-      "instruction": [
-        
-      ]
+      "instruction": []
     },
     "resultCard": {
       "link": "",
       "details": "",
-      "instruction": [
-        
-      ]
+      "instruction": []
     },
     "answerKey": {
       "startDate": "",
       "link": "",
       "details": "",
-      "instruction": [
-        
-      ]
+      "instruction": []
     },
     "table": [
       {
@@ -1965,24 +2785,18 @@
       "startDate": "",
       "link": "",
       "details": "",
-      "instruction": [
-        
-      ]
+      "instruction": []
     },
     "resultCard": {
       "link": "",
       "details": "",
-      "instruction": [
-        
-      ]
+      "instruction": []
     },
     "answerKey": {
       "startDate": "",
       "link": "",
       "details": "",
-      "instruction": [
-        
-      ]
+      "instruction": []
     },
     "table": [
       {
@@ -2216,24 +3030,18 @@
       "startDate": "",
       "link": "",
       "details": "",
-      "instruction": [
-        
-      ]
+      "instruction": []
     },
     "resultCard": {
       "link": "",
       "details": "",
-      "instruction": [
-        
-      ]
+      "instruction": []
     },
     "answerKey": {
       "startDate": "",
       "link": "",
       "details": "",
-      "instruction": [
-        
-      ]
+      "instruction": []
     }
   },
   {
@@ -2311,24 +3119,18 @@
       "startDate": "",
       "link": "",
       "details": "",
-      "instruction": [
-        
-      ]
+      "instruction": []
     },
     "resultCard": {
       "link": "",
       "details": "",
-      "instruction": [
-        
-      ]
+      "instruction": []
     },
     "answerKey": {
       "startDate": "",
       "link": "",
       "details": "",
-      "instruction": [
-        
-      ]
+      "instruction": []
     },
     "table": [
       {
@@ -2442,24 +3244,18 @@
       "startDate": "",
       "link": "",
       "details": "",
-      "instruction": [
-        
-      ]
+      "instruction": []
     },
     "resultCard": {
       "link": "",
       "details": "",
-      "instruction": [
-        
-      ]
+      "instruction": []
     },
     "answerKey": {
       "startDate": "",
       "link": "",
       "details": "",
-      "instruction": [
-        
-      ]
+      "instruction": []
     }
   },
   {
@@ -2537,24 +3333,18 @@
       "startDate": "",
       "link": "",
       "details": "",
-      "instruction": [
-        
-      ]
+      "instruction": []
     },
     "resultCard": {
       "link": "",
       "details": "",
-      "instruction": [
-        
-      ]
+      "instruction": []
     },
     "answerKey": {
       "startDate": "",
       "link": "",
       "details": "",
-      "instruction": [
-        
-      ]
+      "instruction": []
     }
   },
   {
@@ -2636,24 +3426,18 @@
       "startDate": "",
       "link": "",
       "details": "",
-      "instruction": [
-        
-      ]
+      "instruction": []
     },
     "resultCard": {
       "link": "",
       "details": "",
-      "instruction": [
-        
-      ]
+      "instruction": []
     },
     "answerKey": {
       "startDate": "",
       "link": "",
       "details": "",
-      "instruction": [
-        
-      ]
+      "instruction": []
     }
   },
   {
@@ -2754,24 +3538,18 @@
       "startDate": "",
       "link": "",
       "details": "",
-      "instruction": [
-        
-      ]
+      "instruction": []
     },
     "resultCard": {
       "link": "",
       "details": "",
-      "instruction": [
-        
-      ]
+      "instruction": []
     },
     "answerKey": {
       "startDate": "",
       "link": "",
       "details": "",
-      "instruction": [
-        
-      ]
+      "instruction": []
     },
     "table": [
       {
@@ -2904,24 +3682,18 @@
       "startDate": "",
       "link": "",
       "details": "",
-      "instruction": [
-        
-      ]
+      "instruction": []
     },
     "resultCard": {
       "link": "",
       "details": "",
-      "instruction": [
-        
-      ]
+      "instruction": []
     },
     "answerKey": {
       "startDate": "",
       "link": "",
       "details": "",
-      "instruction": [
-        
-      ]
+      "instruction": []
     }
   },
   {
@@ -3061,24 +3833,18 @@
       "startDate": "",
       "link": "",
       "details": "",
-      "instruction": [
-        
-      ]
+      "instruction": []
     },
     "resultCard": {
       "link": "",
       "details": "",
-      "instruction": [
-        
-      ]
+      "instruction": []
     },
     "answerKey": {
       "startDate": "",
       "link": "",
       "details": "",
-      "instruction": [
-        
-      ]
+      "instruction": []
     },
     "table": [
       {
@@ -3521,24 +4287,18 @@
       "startDate": "",
       "link": "",
       "details": "",
-      "instruction": [
-        
-      ]
+      "instruction": []
     },
     "resultCard": {
       "link": "",
       "details": "",
-      "instruction": [
-        
-      ]
+      "instruction": []
     },
     "answerKey": {
       "startDate": "",
       "link": "",
       "details": "",
-      "instruction": [
-        
-      ]
+      "instruction": []
     }
   },
   {
@@ -3907,24 +4667,110 @@
       "startDate": "",
       "link": "",
       "details": "",
-      "instruction": [
-        
-      ]
+      "instruction": []
     },
     "resultCard": {
       "link": "",
       "details": "",
-      "instruction": [
-        
-      ]
+      "instruction": []
     },
     "answerKey": {
       "startDate": "",
       "link": "",
       "details": "",
-      "instruction": [
-        
-      ]
+      "instruction": []
+    }
+  },
+  {
+    "examType": "job",
+    "id": "ICSI-Executive-Assistant-Online-Form-2026",
+    "orgId": "Institute of Company Secretaries of India (ICSI)",
+    "name": "ICSI Executive Assistant Online Form 2026",
+    "importantDates": {
+      "startDate": "22/07/2026",
+      "lastDate": "12/08/2026",
+      "lastDateFeePayment": "12/08/2026",
+      "examDate": "As per Schedule"
+    },
+    "fee": {
+      "general": "0",
+      "obc": "0",
+      "ews": "0",
+      "sc": "0",
+      "st": "0",
+      "ph": "0",
+      "female": "0",
+      "notes": "No Application Fee for All Candidates."
+    },
+    "totalPost": {
+      "count": 20,
+      "notes": ""
+    },
+    "ageDetails": {
+      "minAge": 18,
+      "maxAge": 35,
+      "notes": "Age Relaxation Extra as per ICSI Executive Assistant Examination Rules."
+    },
+    "vacancyDetails": [
+      {
+        "postName": "ICSI Executive Assistant",
+        "totalPost": "20",
+        "category": {
+          "ur": "8",
+          "obc": "5",
+          "ews": "2",
+          "sc": "3",
+          "st": "3",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 18,
+          "maxAge": 35,
+          "qualification": [
+            "Bachelor Degree in Commerce B.Com from any Recognized University in India.",
+            "Minimum 3 years Experience.",
+            "More Eligibility Details Read the Notification."
+          ]
+        }
+      }
+    ],
+    "importantLinks": [
+      {
+        "title": "Apply Online",
+        "links": [
+          {
+            "title": "",
+            "link": "https://stimulate.icsi.edu/RECRUITMENT/Applicant/LoginUser"
+          }
+        ]
+      },
+      {
+        "title": "Download Notification",
+        "links": [
+          {
+            "title": "",
+            "link": "https://www.icsi.edu/media/webmodules/Human_Resources/A_Advt_04_2026_Website.pdf"
+          }
+        ]
+      }
+    ],
+    "admitCard": {
+      "startDate": "",
+      "link": "",
+      "details": "",
+      "instruction": []
+    },
+    "resultCard": {
+      "link": "",
+      "details": "",
+      "instruction": []
+    },
+    "answerKey": {
+      "startDate": "",
+      "link": "",
+      "details": "",
+      "instruction": []
     }
   }
 ]
