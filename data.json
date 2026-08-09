@@ -843,7 +843,204 @@
         "instruction": []
     }
 },
-
+{
+    "examType": "entrance-exam",
+    "id": "MP-Animal-Husbandry-and-Dairy-Technology-Admission-Test-ADDET-2026",
+    "orgId": "Madhya Pradesh Employee Selection Board (MPESB)",
+    "name": "MP Animal Husbandry and Dairy Technology Admission Test ADDET 2026",
+    "importantDates": {
+        "startDate": "05/06/2026",
+        "lastDate": "19/06/2026",
+        "lastDateFeePayment": "19/06/2026",
+        "examDate": "10/07/2026",
+        "correctionDate": "24/06/2026"
+    },
+    "fee": {
+        "general": "460",
+        "obc": "MP Reserve Category : 260/-",
+        "ews": "MP Reserve Category : 260/-",
+        "sc": "MP Reserve Category : 260/-",
+        "st": "MP Reserve Category : 260/-",
+        "ph": "MP Reserve Category : 260/-",
+        "female": "",
+        "notes": "Other State:460rs."
+    },
+    "totalPost": {
+        "count": 1100,
+        "notes": ""
+    },
+    "ageDetails": {
+        "minAge": 17,
+        "maxAge": 0,
+        "notes": "Age Limit : Minimum 17 Years as on 31/12/2026"
+    },
+    "vacancyDetails": [
+        {
+            "postName": "Animal Husbandry Diploma",
+            "totalPost": "1000",
+            "category": {
+                "ur": "",
+                "obc": "",
+                "ews": "",
+                "sc": "",
+                "st": "",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 17,
+                "maxAge": 0,
+                "qualification": [
+                    "Passed / Appearing 10+2 Intermediate Exam with PCB Stream.",
+                    "For More Eligibility Details Must Read the Notification / Rule Book."
+                ]
+            }
+        },
+        {
+            "postName": "Dairy Technology",
+            "totalPost": "100",
+            "category": {
+                "ur": "",
+                "obc": "",
+                "ews": "",
+                "sc": "",
+                "st": "",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 0,
+                "maxAge": 0,
+                "qualification": [
+                    "Passed / Appearing 10+2 Intermediate Exam with PCB Stream.",
+                    "For More Eligibility Details Must Read the Notification / Rule Book."
+                ]
+            }
+        }
+    ],
+    "importantLinks": [
+        {
+            "title": "Download Result",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://esb.mp.gov.in/results/RESULT_26/ADDET_RES26/default_Results.htm"
+                }
+            ]
+        },
+        {
+            "title": "Download Answer Key",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://addet2026.cbtexam.in/Home/ListofExam.aspx"
+                }
+            ]
+        },
+        {
+            "title": "Download Admit Card",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://esb.mp.gov.in/tacs/tac_2026/ADDET_TAC26/default_tac.htm"
+                }
+            ]
+        },
+        {
+            "title": "Apply Online",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://esb.mponline.gov.in/Portal/Examinations/Vyapam/examsList.aspx"
+                }
+            ]
+        },
+        {
+            "title": "Download Notification",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://esb.mp.gov.in/Rulebooks/RB_2026/ADDET_2026_Rulebook_04062026.pdf"
+                }
+            ]
+        }
+    ],
+    "admitCard": {
+        "startDate": " 03/07/2026",
+        "link": "https://esb.mp.gov.in/tacs/tac_2026/ADDET_TAC26/default_tac.htm",
+        "details": "",
+        "instruction": []
+    },
+    "resultCard": {
+        "startDate": "07/08/2026",
+        "link": "https://esb.mp.gov.in/results/RESULT_26/ADDET_RES26/default_Results.htm",
+        "details": "",
+        "instruction": []
+    },
+    "answerKey": {
+        "startDate": "13/07/2026",
+        "link": "https://addet2026.cbtexam.in/Home/ListofExam.aspx",
+        "details": "",
+        "instruction": []
+    },
+    "table": [
+        {
+            "title": "",
+            "details": "",
+            "notes": "",
+            "list": [
+                [
+                    "MP ADDET College Name with Seat",
+                    "Total Seat"
+                ],
+                [
+                    "Animal Husbandry Diploma Jabalpur",
+                    "100"
+                ],
+                [
+                    "Animal Husbandry Diploma Mhow",
+                    "100"
+                ],
+                [
+                    "Animal Husbandry Diploma Rewa",
+                    "100"
+                ],
+                [
+                    "Animal Husbandry Diploma Bhopal",
+                    "100"
+                ],
+                [
+                    "Animal Husbandry Diploma Morena",
+                    "100"
+                ],
+                [
+                    "Maina Devi Memorial Animal Husbandry Diploma Gwalior (Private)",
+                    "100"
+                ],
+                [
+                    "Shri Ram Nath Singh Animal Husbandry Diploma Bhind (Private)",
+                    "100"
+                ],
+                [
+                    "Oxford International Animal Husbandry Diploma Indore (Private)",
+                    "100"
+                ],
+                [
+                    "Sendhwa Animal Husbandry Diploma College Sendhwa Badwani (Private)",
+                    "100"
+                ],
+                [
+                    "Lal Bahadur Shastri Animal Husbandry Diploma College Harda (Private)",
+                    "100"
+                ],
+                [
+                    "Sunder Dairy Technology Diploma Indore",
+                    "100"
+                ]
+            ]
+        }
+    ]
+},
 
 
 
