@@ -102,6 +102,160 @@
       }
     ]
   },
+
+
+
+{
+    "examType": "job",
+    "id": "Uttar-Pradesh-UPPSC-Assistant-Professor-GDC-Exam-2025",
+    "orgId": "Uttar Pradesh Public Service Commission (UPPSC)",
+    "name": "Uttar Pradesh UPPSC Assistant Professor GDC Exam 2025",
+    "importantDates": {
+        "startDate": "04/09/2025",
+        "lastDate": "06/10/2025",
+        "lastDateFeePayment": "06/10/2025",
+        "examDate": "31/05/2026"
+    },
+    "fee": {
+        "general": "125",
+        "obc": "125",
+        "ews": "125",
+        "sc": "65",
+        "st": "65",
+        "ph": "25",
+        "female": "",
+        "notes": ""
+    },
+    "totalPost": {
+        "count": 1253,
+        "notes": ""
+    },
+    "ageDetails": {
+        "minAge": 21,
+        "maxAge": 40,
+        "notes": "Age Relaxation Extra as per UPPSC Assistant Government Inter College Assistant Recruitment Rules."
+    },
+    "vacancyDetails": [
+        {
+            "postName": "Assistant Professor Govt Degree College",
+            "totalPost": "",
+            "category": {
+                "ur": "",
+                "obc": "",
+                "ews": "",
+                "sc": "",
+                "st": "",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 0,
+                "maxAge": 0,
+                "qualification": [
+                    "Master Degree in Related Subject with 55% Marks.",
+                    "NET /SLET / SET / Phd Exam Passed",
+                    "More Eligibility Details Read the Notification."
+                ]
+            }
+        }
+    ],
+    "importantLinks": [
+        {
+            "title": "Download Result (Chemistry, Economics, Geography, History, Military Science)",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://doc.sarkariresults.org.in/SarkariResult.Com_UPPSC_GIC_Lecturer_Result_07Aug2026.pdf"
+                }
+            ]
+        },
+        {
+            "title": "Download Answer Key",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://uppsc.up.nic.in/CandidatePages/Status/ViewAnswerKey.aspx?ID=5"
+                }
+            ]
+        },
+        {
+            "title": "Download Answer Key Notice",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://uppsc.up.nic.in/Open_PDF_DB.aspx?I4PnQ0tBagmD25xyA4lUA/X34c5xr5qq"
+                }
+            ]
+        },
+        {
+            "title": "Download Admit Card",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://uppsc.up.nic.in/CandidatePages/Advertismentwise_DownloadDocument.aspx?inptprmtr=ac"
+                }
+            ]
+        },
+        {
+            "title": "Download Admit Card Notice",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://uppsc.up.nic.in/Open_PDF_DB.aspx?I4PnQ0tBaglkFvRfMi9Svmkqdz5VSoQN"
+                }
+            ]
+        },
+        {
+            "title": "Apply Online",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://uppsc.up.nic.in/CandidatePages/Notifications.aspx"
+                }
+            ]
+        },
+        {
+            "title": "Download Notification",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://tinyurl.com/4e4kaawm"
+                }
+            ]
+        }
+    ],
+    "admitCard": {
+        "startDate": "21/05/2026",
+        "link": "https://uppsc.up.nic.in/CandidatePages/Advertismentwise_DownloadDocument.aspx?inptprmtr=ac",
+        "details": "",
+        "instruction": []
+    },
+    "resultCard": {
+        "startDate": "07/08/2026",
+        "link": "https://doc.sarkariresults.org.in/SarkariResult.Com_UPPSC_GIC_Lecturer_Result_07Aug2026.pdf",
+        "details": "",
+        "instruction": []
+    },
+    "answerKey": {
+        "startDate": "03/06/2026",
+        "link": "https://uppsc.up.nic.in/CandidatePages/Status/ViewAnswerKey.aspx?ID=5",
+        "details": "",
+        "instruction": []
+    }
+},
+
+
+
+
+
+
+
+
+
+
+
+
+  
   {
     "id": 8000082780,
     "orgId": "Chhattisgarh Public Service Commission (CGPSC)",
