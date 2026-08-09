@@ -243,6 +243,7 @@
         "instruction": []
     }
 },
+
 {
     "examType": "job",
     "id": "UP-Post-Graduate-Teacher-PGT-Recruitment-2022",
@@ -442,7 +443,232 @@
         "instruction": []
     }
 },
-
+{
+    "examType": "job",
+    "id": "UPSC-Combined-Central-Armed-Police-Force-Assistant-Commandant-AC-Exam-2025",
+    "orgId": "Union Public Service Commission (UPSC)",
+    "name": "UPSC Combined Central Armed Police Force (Assistant Commandant AC Exam 2025)",
+    "importantDates": {
+        "startDate": "05/03/2025",
+        "lastDate": "25/03/2025 (Upto 06:00 PM Only)",
+        "lastDateFeePayment": "25/03/2025",
+        "examDate": "03/08/2025",
+        "correctionDate": "26/03/2025 to 01/04/2025"
+    },
+    "fee": {
+        "general": "200",
+        "obc": "200",
+        "ews": "0",
+        "sc": "0",
+        "st": "0",
+        "ph": "0",
+        "female": "0",
+        "notes": "All Category Female : 0/- (Exempted)"
+    },
+    "totalPost": {
+        "count": 357,
+        "notes": ""
+    },
+    "ageDetails": {
+        "minAge": 20,
+        "maxAge": 25
+    },
+    "vacancyDetails": [
+        {
+            "postName": "BSF",
+            "totalPost": "24",
+            "category": {
+                "ur": "",
+                "obc": "",
+                "ews": "",
+                "sc": "",
+                "st": "",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 20,
+                "maxAge": 25,
+                "qualification": [
+                    "Bachelor Degree in Any Stream in Any Recognized University in India.",
+                    "Physical Eligibility"
+                ]
+            }
+        },
+        {
+            "postName": "CRPF",
+            "totalPost": "204",
+            "category": {
+                "ur": "",
+                "obc": "",
+                "ews": "",
+                "sc": "",
+                "st": "",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 20,
+                "maxAge": 25,
+                "qualification": []
+            }
+        },
+        {
+            "postName": "CISF",
+            "totalPost": "92",
+            "category": {
+                "ur": "",
+                "obc": "",
+                "ews": "",
+                "sc": "",
+                "st": "",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 20,
+                "maxAge": 25,
+                "qualification": []
+            }
+        },
+        {
+            "postName": "ITBP",
+            "totalPost": "4",
+            "category": {
+                "ur": "",
+                "obc": "",
+                "ews": "",
+                "sc": "",
+                "st": "",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 20,
+                "maxAge": 25,
+                "qualification": []
+            }
+        },
+        {
+            "postName": "SSB",
+            "totalPost": "33",
+            "category": {
+                "ur": "",
+                "obc": "",
+                "ews": "",
+                "sc": "",
+                "st": "",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 20,
+                "maxAge": 25,
+                "qualification": []
+            }
+        }
+    ],
+    "importantLinks": [
+        {
+            "title": "Download Final Result",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://doc.sarkariresults.org.in/FR-CAPF-2025-Engl-070826.pdf"
+                }
+            ]
+        },
+        {
+            "title": "Download Result Name Wise",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://www.sarkariresult.com/upload/sarkariresult.com_UPSC_CPF_2025_Name_Wise_Result.pdf"
+                }
+            ]
+        },
+        {
+            "title": "Apply Online",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://upsconline.gov.in/upsc/OTRP/"
+                }
+            ]
+        },
+        {
+            "title": "Download Notification",
+            "links": [
+                {
+                    "title": "UPSC CAPF AC 2025 Notification",
+                    "link": "https://doc.sarkariresults.org.in/UPSC_CPF_AC_2025_Notification_SarkariResult_Com.pdf"
+                }
+            ]
+        }
+    ],
+    "admitCard": {
+        "startDate": "",
+        "link": "",
+        "details": "",
+        "instruction": []
+    },
+    "resultCard": {
+        "startDate": "07/08/2026",
+        "link": "https://doc.sarkariresults.org.in/FR-CAPF-2025-Engl-070826.pdf",
+        "details": "",
+        "instruction": []
+    },
+    "answerKey": {
+        "startDate": "",
+        "link": "",
+        "details": "",
+        "instruction": []
+    },
+    "table": [
+        {
+            "title": "Physical Eligibility Details",
+            "details": "",
+            "notes": "",
+            "list": [
+                [
+                    "Details",
+                    "Male",
+                    "Female"
+                ],
+                [
+                    "Height",
+                    "165 CM",
+                    "157 CM"
+                ],
+                [
+                    "Chest",
+                    "81-86 CM",
+                    "NA"
+                ],
+                [
+                    "100 Meters Race",
+                    "16 Second",
+                    "18 Second"
+                ],
+                [
+                    "800 Meters Race",
+                    "3 Min 45 Second",
+                    "4 Min 45 Second"
+                ],
+                [
+                    "Long Jump",
+                    "3.5 Meter",
+                    "3 Meter"
+                ],
+                [
+                    "Shot Put 7.26 Kg",
+                    "4.5 Meter",
+                    "NA"
+                ]
+            ]
+        }
+    ]
+},
 
 
 
