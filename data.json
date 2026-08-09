@@ -243,7 +243,205 @@
         "instruction": []
     }
 },
-
+{
+    "examType": "job",
+    "id": "UP-Post-Graduate-Teacher-PGT-Recruitment-2022",
+    "orgId": "Uttar Pradesh Secondary Education Service Selection Board (UPSESSB)",
+    "name": "UP Post Graduate Teacher PGT Recruitment 2022",
+    "importantDates": {
+        "startDate": "09/06/2022",
+        "lastDate": "10/07/2022",
+        "lastDateFeePayment": "13/07/2022",
+        "examDate": "9/5/2026 to 10/5/2026",
+        "otherDates": [
+            {
+                "title": "Interview Date",
+                "date": "15-27 June 2026"
+            },
+            {
+                "title": "Interview Letter",
+                "date": "05/06/2026"
+            },
+            {
+                "title": "Institute Allotment List",
+                "date": "28/07/2026"
+            }
+        ]
+    },
+    "fee": {
+        "general": "750",
+        "obc": "750",
+        "ews": "650",
+        "sc": "450",
+        "st": "750",
+        "ph": "",
+        "female": "",
+        "notes": ""
+    },
+    "totalPost": {
+        "count": 624,
+        "notes": ""
+    },
+    "ageDetails": {
+        "minAge": 21,
+        "maxAge": 0,
+        "notes": "Age Relaxation Extra as per Rules."
+    },
+    "vacancyDetails": [
+        {
+            "postName": "Post Graduate Teacher PGT (Balak)",
+            "totalPost": "549",
+            "category": {
+                "ur": "332",
+                "obc": "153",
+                "ews": "",
+                "sc": "8",
+                "st": "",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 21,
+                "maxAge": 0,
+                "qualification": [
+                    "Master Degree with Related Subject.",
+                    "For Subject Wise Eligibility Read the Notification."
+                ]
+            }
+        },
+        {
+            "postName": "Post Graduate Teacher PGT (Balika)",
+            "totalPost": "75",
+            "category": {
+                "ur": "56",
+                "obc": "11",
+                "ews": "",
+                "sc": "8",
+                "st": "",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 0,
+                "maxAge": 0,
+                "qualification": [
+                    "Master Degree with Related Subject.",
+                    "For Subject Wise Eligibility Read the Notification."
+                ]
+            }
+        }
+    ],
+    "importantLinks": [
+        {
+            "title": "Download Interview Letter",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://www.upessc.net/pgt2022callletter/Login.aspx"
+                }
+            ]
+        },
+        {
+            "title": "Download Interview Schedule ",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://upessc.up.gov.in/Notice/aaa2-f856-4ed0-f5b6-cb3d.pdf"
+                }
+            ]
+        },
+        {
+            "title": "Download Result (Balak)",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://doc.sarkariresults.org.in/UPPGT_Result_Male_SarkariResult_Com.pdf"
+                }
+            ]
+        },
+        {
+            "title": "Download Result (Balika)",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://doc.sarkariresults.org.in/UP_PGT_Result_SarkariResult_Female.pdf"
+                }
+            ]
+        },
+        {
+            "title": "Download Result Notice",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://upessc.up.gov.in/Notice/4845-cc22-4956-379b-8ba3.pdf"
+                }
+            ]
+        },
+        {
+            "title": "Download Answer Key",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://www.upessc.net/pgtqcmay2026/login.aspx"
+                }
+            ]
+        },
+        {
+            "title": "Download Admit Card",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://admitcards.upessc.org/"
+                }
+            ]
+        },
+        {
+            "title": "Check Exam City Details",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://admitcards.upessc.org/"
+                }
+            ]
+        },
+        {
+            "title": "Apply Online",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://upsessb.pariksha.nic.in/Agencies.aspx?uTVe3S4xVOs1PaOekpDaJg=="
+                }
+            ]
+        },
+        {
+            "title": "Download Notification",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://www.sarkariresults.org.in/wp-content/uploads/2022/06/Advertisement_2022_PGT_Final_Unicode_08_06_2022.pdf"
+                }
+            ]
+        }
+    ],
+    "admitCard": {
+        "startDate": "06/05/2026",
+        "link": "https://admitcards.upessc.org/",
+        "details": "",
+        "instruction": []
+    },
+    "resultCard": {
+        "startDate": "02/06/2026",
+        "link": "Balak-Varg::https://doc.sarkariresults.org.in/UPPGT_Result_Male_SarkariResult_Com.pdf,Balika-Varg::https://doc.sarkariresults.org.in/UP_PGT_Result_SarkariResult_Female.pdf",
+        "details": "",
+        "instruction": []
+    },
+    "answerKey": {
+        "startDate": "12/05/2026",
+        "link": "https://www.upessc.net/pgtqcmay2026/login.aspx",
+        "details": "",
+        "instruction": []
+    }
+},
 
 
 
