@@ -4681,6 +4681,293 @@
       "instruction": []
     }
   },
+
+
+  {
+    "examType": "job",
+    "id": "State-Bank-of-India-SBI-Junior-Associates-Clerk-Backlog-Recruitment-2026",
+    "orgId": "State Bank of India (SBI)",
+    "name": "State Bank of India SBI Junior Associates Clerk Backlog Recruitment 2026",
+    "importantDates": {
+        "startDate": "07/08/2026",
+        "lastDate": "27/08/2026",
+        "lastDateFeePayment": "27/08/2026",
+        "otherDates": [
+            {
+                "title": "SBI Clerk Phase I Pre Exam Date ",
+                "date": "September 2026"
+            },
+            {
+                "title": "SBI Clerk Phase II Main Exam Date",
+                "date": "October / November 2026"
+            }
+        ]
+    },
+    "fee": {
+        "general": "750",
+        "obc": "750",
+        "ews": "750",
+        "sc": "0",
+        "st": "0",
+        "ph": "",
+        "female": "",
+        "notes": ""
+    },
+    "totalPost": {
+        "count": 1538,
+        "notes": ""
+    },
+    "ageDetails": {
+        "minAge": 20,
+        "maxAge": 28,
+        "notes": "Age Relaxation Extra as per SBI Junior Associates Clerk Backlog Recruitment 2026 Rules."
+    },
+    "vacancyDetails": [
+        {
+            "postName": "SBI Junior Associates Clerk",
+            "totalPost": "1538",
+            "category": {
+                "ur": "0",
+                "obc": "112",
+                "ews": "",
+                "sc": "207",
+                "st": "1209",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 0,
+                "maxAge": 0,
+                "qualification": [
+                    "Passed / Appearing Bachelor Degree in Any Stream in Any Recognized University in India.",
+                    "More Eligibility Details Read the Notification"
+                ]
+            }
+        }
+    ],
+    "importantLinks": [
+        {
+            "title": "Apply Online",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://ibpsreg.ibps.in/sbijasrdjl26/"
+                }
+            ]
+        },
+        {
+            "title": "Download Notification",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://youtu.be/JGCOweAfqyE"
+                }
+            ]
+        }
+    ],
+    "admitCard": {
+        "startDate": "",
+        "link": "",
+        "details": "",
+        "instruction": []
+    },
+    "resultCard": {
+        "link": "",
+        "details": "",
+        "instruction": []
+    },
+    "answerKey": {
+        "startDate": "",
+        "link": "",
+        "details": "",
+        "instruction": []
+    },
+    "table": [
+        {
+            "title": "State Wise Vacancy Details",
+            "details": "",
+            "notes": "",
+            "list": [
+                [
+                    "State Name",
+                    "Language",
+                    "SC",
+                    "ST",
+                    "OBC",
+                    "Total Post"
+                ],
+                [
+                    "Uttar Pradesh",
+                    "Hindi / Urdu",
+                    "0",
+                    "31",
+                    "0",
+                    "31"
+                ],
+                [
+                    "Rajasthan",
+                    "Hindi",
+                    "20",
+                    "86",
+                    "0",
+                    "106"
+                ],
+                [
+                    "Delhi",
+                    "Hindi",
+                    "0",
+                    "0",
+                    "17",
+                    "17"
+                ],
+                [
+                    "Bihar",
+                    "Hindi / Urdu",
+                    "12",
+                    "0",
+                    "0",
+                    "12"
+                ],
+                [
+                    "Jharkhand",
+                    "Hindi / Santhali",
+                    "14",
+                    "119",
+                    "0",
+                    "133"
+                ],
+                [
+                    "Madhya Pradesh MP",
+                    "Hindi",
+                    "0",
+                    "134",
+                    "0",
+                    "134"
+                ],
+                [
+                    "Chhattisgarh",
+                    "Hindi",
+                    "0",
+                    "26",
+                    "0",
+                    "26"
+                ],
+                [
+                    "Chandigarh UT",
+                    "Hindi / Punjabi",
+                    "0",
+                    "0",
+                    "22",
+                    "22"
+                ],
+                [
+                    "Jammu & Kashmir UT",
+                    "Hindi / Urdu",
+                    "0",
+                    "42",
+                    "0",
+                    "42"
+                ],
+                [
+                    "Himachal Pradesh",
+                    "Hindi",
+                    "11",
+                    "0",
+                    "0",
+                    "11"
+                ],
+                [
+                    "Punjab",
+                    "Hindi / Punjabi",
+                    "0",
+                    "0",
+                    "18",
+                    "18"
+                ],
+                [
+                    "Andhra Pradesh",
+                    "Telugu / Urdu",
+                    "0",
+                    "88",
+                    "0",
+                    "88"
+                ],
+                [
+                    "Karnataka",
+                    "Kannada",
+                    "85",
+                    "35",
+                    "0",
+                    "120"
+                ],
+                [
+                    "Odisha",
+                    "Odia",
+                    "0",
+                    "111",
+                    "0",
+                    "111"
+                ],
+                [
+                    "Tamil Nadu",
+                    "Tamil",
+                    "65",
+                    "0",
+                    "0",
+                    "65"
+                ],
+                [
+                    "Telangana",
+                    "Telugu / Urdu",
+                    "0",
+                    "32",
+                    "0",
+                    "32"
+                ],
+                [
+                    "West Bengal",
+                    "Bengali / Nepali",
+                    "0",
+                    "0",
+                    "55",
+                    "55"
+                ],
+                [
+                    "Maharashtra",
+                    "Marathi",
+                    "0",
+                    "165",
+                    "0",
+                    "165"
+                ],
+                [
+                    "Gujarat",
+                    "Gujarati",
+                    "0",
+                    "289",
+                    "0",
+                    "289"
+                ],
+                [
+                    "Assam",
+                    "Assamese / Bengali / Bodo",
+                    "0",
+                    "39",
+                    "0",
+                    "39"
+                ],
+                [
+                    "Tripura",
+                    "Bengali / Kokborok",
+                    "0",
+                    "22",
+                    "0",
+                    "22"
+                ]
+            ]
+        }
+    ]
+},
   {
     "examType": "job",
     "id": "ICSI-Executive-Assistant-Online-Form-2026",
