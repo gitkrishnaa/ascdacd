@@ -4681,293 +4681,291 @@
       "instruction": []
     }
   },
-
-
   {
     "examType": "job",
     "id": "State-Bank-of-India-SBI-Junior-Associates-Clerk-Backlog-Recruitment-2026",
     "orgId": "State Bank of India (SBI)",
     "name": "State Bank of India SBI Junior Associates Clerk Backlog Recruitment 2026",
     "importantDates": {
-        "startDate": "07/08/2026",
-        "lastDate": "27/08/2026",
-        "lastDateFeePayment": "27/08/2026",
-        "otherDates": [
-            {
-                "title": "SBI Clerk Phase I Pre Exam Date ",
-                "date": "September 2026"
-            },
-            {
-                "title": "SBI Clerk Phase II Main Exam Date",
-                "date": "October / November 2026"
-            }
-        ]
-    },
-    "fee": {
-        "general": "750",
-        "obc": "750",
-        "ews": "750",
-        "sc": "0",
-        "st": "0",
-        "ph": "",
-        "female": "",
-        "notes": ""
-    },
-    "totalPost": {
-        "count": 1538,
-        "notes": ""
-    },
-    "ageDetails": {
-        "minAge": 20,
-        "maxAge": 28,
-        "notes": "Age Relaxation Extra as per SBI Junior Associates Clerk Backlog Recruitment 2026 Rules."
-    },
-    "vacancyDetails": [
+      "startDate": "07/08/2026",
+      "lastDate": "27/08/2026",
+      "lastDateFeePayment": "27/08/2026",
+      "otherDates": [
         {
-            "postName": "SBI Junior Associates Clerk",
-            "totalPost": "1538",
-            "category": {
-                "ur": "0",
-                "obc": "112",
-                "ews": "",
-                "sc": "207",
-                "st": "1209",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 0,
-                "maxAge": 0,
-                "qualification": [
-                    "Passed / Appearing Bachelor Degree in Any Stream in Any Recognized University in India.",
-                    "More Eligibility Details Read the Notification"
-                ]
-            }
-        }
-    ],
-    "importantLinks": [
-        {
-            "title": "Apply Online",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://ibpsreg.ibps.in/sbijasrdjl26/"
-                }
-            ]
+          "title": "SBI Clerk Phase I Pre Exam Date ",
+          "date": "September 2026"
         },
         {
-            "title": "Download Notification",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://youtu.be/JGCOweAfqyE"
-                }
-            ]
+          "title": "SBI Clerk Phase II Main Exam Date",
+          "date": "October / November 2026"
         }
+      ]
+    },
+    "fee": {
+      "general": "750",
+      "obc": "750",
+      "ews": "750",
+      "sc": "0",
+      "st": "0",
+      "ph": "",
+      "female": "",
+      "notes": ""
+    },
+    "totalPost": {
+      "count": 1538,
+      "notes": ""
+    },
+    "ageDetails": {
+      "minAge": 20,
+      "maxAge": 28,
+      "notes": "Age Relaxation Extra as per SBI Junior Associates Clerk Backlog Recruitment 2026 Rules."
+    },
+    "vacancyDetails": [
+      {
+        "postName": "SBI Junior Associates Clerk",
+        "totalPost": "1538",
+        "category": {
+          "ur": "0",
+          "obc": "112",
+          "ews": "",
+          "sc": "207",
+          "st": "1209",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 0,
+          "maxAge": 0,
+          "qualification": [
+            "Passed / Appearing Bachelor Degree in Any Stream in Any Recognized University in India.",
+            "More Eligibility Details Read the Notification"
+          ]
+        }
+      }
+    ],
+    "importantLinks": [
+      {
+        "title": "Apply Online",
+        "links": [
+          {
+            "title": "",
+            "link": "https://ibpsreg.ibps.in/sbijasrdjl26/"
+          }
+        ]
+      },
+      {
+        "title": "Download Notification",
+        "links": [
+          {
+            "title": "",
+            "link": "https://youtu.be/JGCOweAfqyE"
+          }
+        ]
+      }
     ],
     "admitCard": {
-        "startDate": "",
-        "link": "",
-        "details": "",
-        "instruction": []
+      "startDate": "",
+      "link": "",
+      "details": "",
+      "instruction": []
     },
     "resultCard": {
-        "link": "",
-        "details": "",
-        "instruction": []
+      "link": "",
+      "details": "",
+      "instruction": []
     },
     "answerKey": {
-        "startDate": "",
-        "link": "",
-        "details": "",
-        "instruction": []
+      "startDate": "",
+      "link": "",
+      "details": "",
+      "instruction": []
     },
     "table": [
-        {
-            "title": "State Wise Vacancy Details",
-            "details": "",
-            "notes": "",
-            "list": [
-                [
-                    "State Name",
-                    "Language",
-                    "SC",
-                    "ST",
-                    "OBC",
-                    "Total Post"
-                ],
-                [
-                    "Uttar Pradesh",
-                    "Hindi / Urdu",
-                    "0",
-                    "31",
-                    "0",
-                    "31"
-                ],
-                [
-                    "Rajasthan",
-                    "Hindi",
-                    "20",
-                    "86",
-                    "0",
-                    "106"
-                ],
-                [
-                    "Delhi",
-                    "Hindi",
-                    "0",
-                    "0",
-                    "17",
-                    "17"
-                ],
-                [
-                    "Bihar",
-                    "Hindi / Urdu",
-                    "12",
-                    "0",
-                    "0",
-                    "12"
-                ],
-                [
-                    "Jharkhand",
-                    "Hindi / Santhali",
-                    "14",
-                    "119",
-                    "0",
-                    "133"
-                ],
-                [
-                    "Madhya Pradesh MP",
-                    "Hindi",
-                    "0",
-                    "134",
-                    "0",
-                    "134"
-                ],
-                [
-                    "Chhattisgarh",
-                    "Hindi",
-                    "0",
-                    "26",
-                    "0",
-                    "26"
-                ],
-                [
-                    "Chandigarh UT",
-                    "Hindi / Punjabi",
-                    "0",
-                    "0",
-                    "22",
-                    "22"
-                ],
-                [
-                    "Jammu & Kashmir UT",
-                    "Hindi / Urdu",
-                    "0",
-                    "42",
-                    "0",
-                    "42"
-                ],
-                [
-                    "Himachal Pradesh",
-                    "Hindi",
-                    "11",
-                    "0",
-                    "0",
-                    "11"
-                ],
-                [
-                    "Punjab",
-                    "Hindi / Punjabi",
-                    "0",
-                    "0",
-                    "18",
-                    "18"
-                ],
-                [
-                    "Andhra Pradesh",
-                    "Telugu / Urdu",
-                    "0",
-                    "88",
-                    "0",
-                    "88"
-                ],
-                [
-                    "Karnataka",
-                    "Kannada",
-                    "85",
-                    "35",
-                    "0",
-                    "120"
-                ],
-                [
-                    "Odisha",
-                    "Odia",
-                    "0",
-                    "111",
-                    "0",
-                    "111"
-                ],
-                [
-                    "Tamil Nadu",
-                    "Tamil",
-                    "65",
-                    "0",
-                    "0",
-                    "65"
-                ],
-                [
-                    "Telangana",
-                    "Telugu / Urdu",
-                    "0",
-                    "32",
-                    "0",
-                    "32"
-                ],
-                [
-                    "West Bengal",
-                    "Bengali / Nepali",
-                    "0",
-                    "0",
-                    "55",
-                    "55"
-                ],
-                [
-                    "Maharashtra",
-                    "Marathi",
-                    "0",
-                    "165",
-                    "0",
-                    "165"
-                ],
-                [
-                    "Gujarat",
-                    "Gujarati",
-                    "0",
-                    "289",
-                    "0",
-                    "289"
-                ],
-                [
-                    "Assam",
-                    "Assamese / Bengali / Bodo",
-                    "0",
-                    "39",
-                    "0",
-                    "39"
-                ],
-                [
-                    "Tripura",
-                    "Bengali / Kokborok",
-                    "0",
-                    "22",
-                    "0",
-                    "22"
-                ]
-            ]
-        }
+      {
+        "title": "State Wise Vacancy Details",
+        "details": "",
+        "notes": "",
+        "list": [
+          [
+            "State Name",
+            "Language",
+            "SC",
+            "ST",
+            "OBC",
+            "Total Post"
+          ],
+          [
+            "Uttar Pradesh",
+            "Hindi / Urdu",
+            "0",
+            "31",
+            "0",
+            "31"
+          ],
+          [
+            "Rajasthan",
+            "Hindi",
+            "20",
+            "86",
+            "0",
+            "106"
+          ],
+          [
+            "Delhi",
+            "Hindi",
+            "0",
+            "0",
+            "17",
+            "17"
+          ],
+          [
+            "Bihar",
+            "Hindi / Urdu",
+            "12",
+            "0",
+            "0",
+            "12"
+          ],
+          [
+            "Jharkhand",
+            "Hindi / Santhali",
+            "14",
+            "119",
+            "0",
+            "133"
+          ],
+          [
+            "Madhya Pradesh MP",
+            "Hindi",
+            "0",
+            "134",
+            "0",
+            "134"
+          ],
+          [
+            "Chhattisgarh",
+            "Hindi",
+            "0",
+            "26",
+            "0",
+            "26"
+          ],
+          [
+            "Chandigarh UT",
+            "Hindi / Punjabi",
+            "0",
+            "0",
+            "22",
+            "22"
+          ],
+          [
+            "Jammu & Kashmir UT",
+            "Hindi / Urdu",
+            "0",
+            "42",
+            "0",
+            "42"
+          ],
+          [
+            "Himachal Pradesh",
+            "Hindi",
+            "11",
+            "0",
+            "0",
+            "11"
+          ],
+          [
+            "Punjab",
+            "Hindi / Punjabi",
+            "0",
+            "0",
+            "18",
+            "18"
+          ],
+          [
+            "Andhra Pradesh",
+            "Telugu / Urdu",
+            "0",
+            "88",
+            "0",
+            "88"
+          ],
+          [
+            "Karnataka",
+            "Kannada",
+            "85",
+            "35",
+            "0",
+            "120"
+          ],
+          [
+            "Odisha",
+            "Odia",
+            "0",
+            "111",
+            "0",
+            "111"
+          ],
+          [
+            "Tamil Nadu",
+            "Tamil",
+            "65",
+            "0",
+            "0",
+            "65"
+          ],
+          [
+            "Telangana",
+            "Telugu / Urdu",
+            "0",
+            "32",
+            "0",
+            "32"
+          ],
+          [
+            "West Bengal",
+            "Bengali / Nepali",
+            "0",
+            "0",
+            "55",
+            "55"
+          ],
+          [
+            "Maharashtra",
+            "Marathi",
+            "0",
+            "165",
+            "0",
+            "165"
+          ],
+          [
+            "Gujarat",
+            "Gujarati",
+            "0",
+            "289",
+            "0",
+            "289"
+          ],
+          [
+            "Assam",
+            "Assamese / Bengali / Bodo",
+            "0",
+            "39",
+            "0",
+            "39"
+          ],
+          [
+            "Tripura",
+            "Bengali / Kokborok",
+            "0",
+            "22",
+            "0",
+            "22"
+          ]
+        ]
+      }
     ]
-},
+  },
   {
     "examType": "job",
     "id": "ICSI-Executive-Assistant-Online-Form-2026",
@@ -5059,5 +5057,1008 @@
       "details": "",
       "instruction": []
     }
-  }
+  },
+ {
+    "examType": "job",
+    "id": "IOCL-Marketing-Division-Northern-Region-Apprentices-Recruitment-2026",
+    "orgId": "Indian Oil Corporation Limited (IOCL)",
+    "name": "IOCL Marketing Division Northern Region Apprentices Recruitment  2026",
+    "importantDates": {
+        "startDate": "07/08/2026",
+        "lastDate": "06/09/2026",
+        "lastDateFeePayment": "06/09/2026"
+    },
+    "fee": {
+        "general": "0",
+        "obc": "0",
+        "ews": "0",
+        "sc": "0",
+        "st": "0",
+        "ph": "0",
+        "female": "0",
+        "notes": ""
+    },
+    "totalPost": {
+        "count": 433,
+        "notes": ""
+    },
+    "ageDetails": {
+        "minAge": 18,
+        "maxAge": 24
+    },
+    "vacancyDetails": [
+        {
+            "postName": "Technician",
+            "totalPost": "156",
+            "category": {
+                "ur": "",
+                "obc": "",
+                "ews": "",
+                "sc": "",
+                "st": "",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 18,
+                "maxAge": 24,
+                "qualification": [
+                    "3 Year Diploma in Mechanical / Electrical / Instrumentation / Civil / Electrical & Electronics / Electronics Engineering with 50% Marks (45% for SC/ST/PH)."
+                ]
+            }
+        },
+        {
+            "postName": "Trade Apprentice",
+            "totalPost": "104",
+            "category": {
+                "ur": "",
+                "obc": "",
+                "ews": "",
+                "sc": "",
+                "st": "",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 18,
+                "maxAge": 24,
+                "qualification": [
+                    "10th (Matric) Pass with 2-Year ITI in the relevant trade such as Fitter, Electrician, Electronics Mechanic, Instrument Mechanic or Machinist. ITI must be recognized by NCVT/SCVT."
+                ]
+            }
+        },
+        {
+            "postName": "Graduate Apprentice",
+            "totalPost": "104",
+            "category": {
+                "ur": "",
+                "obc": "",
+                "ews": "",
+                "sc": "",
+                "st": "",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 18,
+                "maxAge": 24,
+                "qualification": [
+                    " BBA / BA / B.Com / B.Sc. Graduation in any discipline from a recognized Institute/University. 50% marks for General/EWS/OBC-NCL and 45% marks for SC/ST/PwBD candidates."
+                ]
+            }
+        },
+        {
+            "postName": "Trade Apprentice DEO (Skilled Certificate Holders)",
+            "totalPost": "69",
+            "category": {
+                "ur": "",
+                "obc": "",
+                "ews": "",
+                "sc": "",
+                "st": "",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 18,
+                "maxAge": 24,
+                "qualification": [
+                    "Normal: Class 12th (but below graduate)",
+                    "for skilled: 12th Pass (Below Graduate) with Domestic Data Entry Operator Skill Certificate (Training 1 Year) from NSQF/Central Govt. Recognized Authority."
+                ]
+            }
+        }
+    ],
+    "importantLinks": [
+        {
+            "title": "Apply Online Trade Apprentice (ITI)",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://www.apprenticeshipindia.gov.in/candidate-login"
+                }
+            ]
+        },
+        {
+            "title": "Apply Online (Technician & Graduate Apprentice)",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://nats.education.gov.in/student_type.php"
+                }
+            ]
+        },
+        {
+            "title": "Apply Online (After Apply NATS/NAPS)",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://forms.cloud.microsoft/r/pw7D2cUK7c"
+                }
+            ]
+        },
+        {
+            "title": "Download Notification",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://iocl.com/admin/img/Apprenticeships/Files/e2fe7d9255544d7e8a9e9c812dbfca7d.pdf"
+                }
+            ]
+        }
+    ],
+    "admitCard": {
+        "startDate": "",
+        "link": "",
+        "details": "",
+        "instruction": []
+    },
+    "resultCard": {
+        "link": "",
+        "details": "",
+        "instruction": []
+    },
+    "answerKey": {
+        "startDate": "",
+        "link": "",
+        "details": "",
+        "instruction": []
+    },
+    "table": [
+        {
+            "title": "State Wise Vacancy Details",
+            "details": "",
+            "notes": "",
+            "list": [
+                [
+                    "State",
+                    "Discipline",
+                    "Total Post"
+                ],
+                [
+                    "Delhi",
+                    "Technician",
+                    "10"
+                ],
+                [
+                    "Trade Apprentice",
+                    "10"
+                ],
+                [
+                    "Graduate Apprentice",
+                    "20"
+                ],
+                [
+                    "Trade Apprentice DEO",
+                    "10"
+                ],
+                [
+                    "Haryana",
+                    "Technician",
+                    "12"
+                ],
+                [
+                    "Trade Apprentice",
+                    "10"
+                ],
+                [
+                    "Graduate Apprentice",
+                    "8"
+                ],
+                [
+                    "Trade Apprentice DEO",
+                    "7"
+                ],
+                [
+                    "Punjab",
+                    "Technician",
+                    "27"
+                ],
+                [
+                    "Trade Apprentice",
+                    "10"
+                ],
+                [
+                    "Graduate Apprentice",
+                    "12"
+                ],
+                [
+                    "Trade Apprentice DEO",
+                    "8"
+                ],
+                [
+                    "Himachal Pradesh",
+                    "Technician",
+                    "8"
+                ],
+                [
+                    "Trade Apprentice",
+                    "4"
+                ],
+                [
+                    "Graduate Apprentice",
+                    "5"
+                ],
+                [
+                    "Trade Apprentice DEO",
+                    "5"
+                ],
+                [
+                    "Chandigarh",
+                    "Technician",
+                    "2"
+                ],
+                [
+                    "Trade Apprentice",
+                    "1"
+                ],
+                [
+                    "Graduate Apprentice",
+                    "15"
+                ],
+                [
+                    "Trade Apprentice DEO",
+                    "12"
+                ],
+                [
+                    "Jammu and Kashmir",
+                    "Technician",
+                    "7"
+                ],
+                [
+                    "Trade Apprentice",
+                    "4"
+                ],
+                [
+                    "Graduate Apprentice",
+                    "5"
+                ],
+                [
+                    "Trade Apprentice DEO",
+                    "4"
+                ],
+                [
+                    "Rajasthan",
+                    "Technician",
+                    "26"
+                ],
+                [
+                    "Trade Apprentice",
+                    "22"
+                ],
+                [
+                    "Graduate Apprentice",
+                    "16"
+                ],
+                [
+                    "Trade Apprentice DEO",
+                    "12"
+                ],
+                [
+                    "Uttar Pradesh",
+                    "Technician",
+                    "54"
+                ],
+                [
+                    "Trade Apprentice",
+                    "37"
+                ],
+                [
+                    "Graduate Apprentice",
+                    "20"
+                ],
+                [
+                    "Trade Apprentice DEO",
+                    "10"
+                ],
+                [
+                    "Uttarakhand",
+                    "Technician",
+                    "10"
+                ],
+                [
+                    "Trade Apprentice",
+                    "6"
+                ],
+                [
+                    "Graduate Apprentice",
+                    "3"
+                ],
+                [
+                    "Trade Apprentice DEO",
+                    "1"
+                ]
+            ]
+        }
+    ]
+},
+  {
+    "state":"himachal-pradesh",
+    "examType": "job",
+    "id": "Himachal-Pradesh-High-Court-Various-Post-Recruitment-2026",
+    "orgId": "High Court of Himachal Pradesh Shimla (HPHC)",
+    "name": "Himachal Pradesh High Court Various Post Recruitment  2026",
+    "importantDates": {
+        "startDate": "10/08/2026",
+        "lastDate": "10/09/2026",
+        "lastDateFeePayment": "10/09/2026"
+    },
+    "fee": {
+        "general": "450",
+        "obc": "300",
+        "ews": "300",
+        "sc": "300",
+        "st": "300",
+        "ph": "300",
+        "female": "",
+        "notes": "OBC / EWS / SC / ST / PH : 300/- (Only for HP Domicile) "
+    },
+    "totalPost": {
+        "count": 388,
+        "notes": ""
+    },
+    "ageDetails": {
+        "minAge": 18,
+        "maxAge": 45
+    },
+    "vacancyDetails": [
+        {
+            "postName": "Court Manager (Group -B)",
+            "totalPost": "5",
+            "category": {
+                "ur": "",
+                "obc": "",
+                "ews": "",
+                "sc": "",
+                "st": "",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 25,
+                "maxAge": 35,
+                "qualification": [
+                    "Bachelor Degree in Any Stream with MBA from a University or Institution, in India.",
+                    "3 Year Experience.",
+                    "More Eligibility Details Read The Notification."
+                ]
+            }
+        },
+        {
+            "postName": "Clerk (Group-C)",
+            "totalPost": "141",
+            "category": {
+                "ur": "",
+                "obc": "",
+                "ews": "",
+                "sc": "",
+                "st": "",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 18,
+                "maxAge": 45,
+                "qualification": [
+                    "Bachelor Degree from a Recognized University with Basic Computer Knowledge like operating the computers, Windows and Linux .",
+                    "English Typing 30 WPM and Hindi Typing 25 WPM.",
+                    "More Eligibility Details Read The Notification."
+                ]
+            }
+        },
+        {
+            "postName": "Stenographer Grade-III (Group-C)",
+            "totalPost": "79",
+            "category": {
+                "ur": "",
+                "obc": "",
+                "ews": "",
+                "sc": "",
+                "st": "",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 18,
+                "maxAge": 26,
+                "qualification": [
+                    "Bachelor Degree from a Recognized University in India.",
+                    "English Stenography 80 WPM",
+                    "English Typing 40 WPM",
+                    "Hindi Typing (by using Kruti Dev-10 font) 30 WPM.",
+                    "More Eligibility Details Read The Notification."
+                ]
+            }
+        },
+        {
+            "postName": "Driver (Group-C)",
+            "totalPost": "09",
+            "category": {
+                "ur": "",
+                "obc": "",
+                "ews": "",
+                "sc": "",
+                "st": "",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 18,
+                "maxAge": 45,
+                "qualification": [
+                    "Class 10th (Matric) Pass with Valid LMV Driving Licence",
+                    "3 Years LMV Driving Experience.",
+                    "More Eligibility Details Read The Notification."
+                ]
+            }
+        },
+        {
+            "postName": "Process Server (Group-D)",
+            "totalPost": "65",
+            "category": {
+                "ur": "",
+                "obc": "",
+                "ews": "",
+                "sc": "",
+                "st": "",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 18,
+                "maxAge": 45,
+                "qualification": [
+                    "10+2 examination from the recognized Board.",
+                    "More Eligibility Details Read The Notification."
+                ]
+            }
+        },
+        {
+            "postName": "Peon / Orderly / Chowkidar / Safai Karamchari / etc. (Group-D)",
+            "totalPost": "89",
+            "category": {
+                "ur": "",
+                "obc": "",
+                "ews": "",
+                "sc": "",
+                "st": "",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 0,
+                "maxAge": 0,
+                "qualification": [
+                    "10+2 examination from the recognized Board.",
+                    "More Eligibility Details Read The Notification."
+                ]
+            }
+        }
+    ],
+    "importantLinks": [
+        {
+            "title": "Apply Online",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://www.hphcrecruitment.in/login"
+                }
+            ]
+        },
+        {
+            "title": "Download Notification",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://highcourt.hp.gov.in/uploads/recruitment/recruitment_1786092260_7203.pdf"
+                }
+            ]
+        }
+    ],
+    "admitCard": {
+        "startDate": "",
+        "link": "",
+        "details": "",
+        "instruction": []
+    },
+    "resultCard": {
+        "link": "",
+        "details": "",
+        "instruction": []
+    },
+    "answerKey": {
+        "startDate": "",
+        "link": "",
+        "details": "",
+        "instruction": []
+    }
+},
+{
+    "examType": "job",
+    "id": "RCF-Management-Trainee-Recruitment-2026",
+    "orgId": "Rashtriya Chemicals and Fertilizers Limited (RCF)",
+    "name": "RCF Management Trainee Recruitment  2026",
+    "importantDates": {
+        "startDate": " 08/08/2026",
+        "lastDate": "24/08/2026 (upto 05 PM)",
+        "lastDateFeePayment": "24/08/2026"
+    },
+    "fee": {
+        "general": "1000",
+        "obc": "1000",
+        "ews": "1000",
+        "sc": "0",
+        "st": "0",
+        "ph": "0",
+        "female": "",
+        "notes": ""
+    },
+    "totalPost": {
+        "count": 94,
+        "notes": ""
+    },
+    "ageDetails": {
+        "minAge": 18,
+        "maxAge": 27,
+        "notes": "Minimum Age : Post wise\nAge Relaxation Extra as per RCF Management Trainee Examination Rules Advt. No.16022026."
+    },
+    "vacancyDetails": [
+        {
+            "postName": "Management Trainee (Chemical)",
+            "totalPost": "32",
+            "category": {
+                "ur": "",
+                "obc": "",
+                "ews": "",
+                "sc": "",
+                "st": "",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 0,
+                "maxAge": 0,
+                "qualification": [
+                    "BE / B.Tech Degree in Related Trade / Branch from Any Recognized Institute in India.",
+                    "for Trade Wise Eligibility Details Read the Notification.",
+                    "Age:Post vise"
+                ]
+            }
+        },
+        {
+            "postName": "Management Trainee (Boiler)",
+            "totalPost": "06",
+            "category": {
+                "ur": "",
+                "obc": "",
+                "ews": "",
+                "sc": "",
+                "st": "",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 0,
+                "maxAge": 0,
+                "qualification": [
+                    "BE / B.Tech Degree in Related Trade / Branch from Any Recognized Institute in India.",
+                    "for Trade Wise Eligibility Details Read the Notification.",
+                    "Age:Post vise"
+                ]
+            }
+        },
+        {
+            "postName": "Management Trainee (Mechanical)",
+            "totalPost": "4",
+            "category": {
+                "ur": "",
+                "obc": "",
+                "ews": "",
+                "sc": "",
+                "st": "",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 0,
+                "maxAge": 0,
+                "qualification": [
+                    "BE / B.Tech Degree in Related Trade / Branch from Any Recognized Institute in India.",
+                    "for Trade Wise Eligibility Details Read the Notification.",
+                    "Age:Post vise"
+                ]
+            }
+        },
+        {
+            "postName": "Management Trainee (Electrical)",
+            "totalPost": "10",
+            "category": {
+                "ur": "",
+                "obc": "",
+                "ews": "",
+                "sc": "",
+                "st": "",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 0,
+                "maxAge": 0,
+                "qualification": [
+                    "BE / B.Tech Degree in Related Trade / Branch from Any Recognized Institute in India.",
+                    "for Trade Wise Eligibility Details Read the Notification.",
+                    "Age:Post vise"
+                ]
+            }
+        },
+        {
+            "postName": "Management Trainee (Instrumentation)",
+            "totalPost": "8",
+            "category": {
+                "ur": "",
+                "obc": "",
+                "ews": "",
+                "sc": "",
+                "st": "",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 0,
+                "maxAge": 0,
+                "qualification": [
+                    "BE / B.Tech Degree in Related Trade / Branch from Any Recognized Institute in India.",
+                    "for Trade Wise Eligibility Details Read the Notification.",
+                    "Age:Post vise"
+                ]
+            }
+        },
+        {
+            "postName": "Management Trainee (Materials)",
+            "totalPost": "1",
+            "category": {
+                "ur": "",
+                "obc": "",
+                "ews": "",
+                "sc": "",
+                "st": "",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 0,
+                "maxAge": 0,
+                "qualification": [
+                    "BE / B.Tech Degree in Related Trade / Branch from Any Recognized Institute in India.",
+                    "for Trade Wise Eligibility Details Read the Notification.",
+                    "Age:Post vise"
+                ]
+            }
+        },
+        {
+            "postName": "Management Trainee (Civil)",
+            "totalPost": "1",
+            "category": {
+                "ur": "",
+                "obc": "",
+                "ews": "",
+                "sc": "",
+                "st": "",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 0,
+                "maxAge": 0,
+                "qualification": [
+                    "BE / B.Tech Degree in Related Trade / Branch from Any Recognized Institute in India.",
+                    "for Trade Wise Eligibility Details Read the Notification.",
+                    "Age:Post vise"
+                ]
+            }
+        },
+        {
+            "postName": "Management Trainee (Fire)",
+            "totalPost": "1",
+            "category": {
+                "ur": "",
+                "obc": "",
+                "ews": "",
+                "sc": "",
+                "st": "",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 0,
+                "maxAge": 0,
+                "qualification": [
+                    "BE / B.Tech Degree in Related Trade / Branch from Any Recognized Institute in India.",
+                    "for Trade Wise Eligibility Details Read the Notification.",
+                    "Age:Post vise"
+                ]
+            }
+        },
+        {
+            "postName": "Management Trainee (CC Lab)",
+            "totalPost": "1",
+            "category": {
+                "ur": "",
+                "obc": "",
+                "ews": "",
+                "sc": "",
+                "st": "",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 0,
+                "maxAge": 0,
+                "qualification": [
+                    "BE / B.Tech Degree in Related Trade / Branch from Any Recognized Institute in India.",
+                    "for Trade Wise Eligibility Details Read the Notification.",
+                    "Age:Post vise"
+                ]
+            }
+        },
+        {
+            "postName": "Management Trainee (Industrial Engineering)",
+            "totalPost": "2",
+            "category": {
+                "ur": "",
+                "obc": "",
+                "ews": "",
+                "sc": "",
+                "st": "",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 0,
+                "maxAge": 0,
+                "qualification": [
+                    "BE / B.Tech Degree in Related Trade / Branch from Any Recognized Institute in India.",
+                    "for Trade Wise Eligibility Details Read the Notification.",
+                    "Age:Post vise"
+                ]
+            }
+        },
+        {
+            "postName": "Management Trainee (Information Technology)",
+            "totalPost": "5",
+            "category": {
+                "ur": "",
+                "obc": "",
+                "ews": "",
+                "sc": "",
+                "st": "",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 0,
+                "maxAge": 0,
+                "qualification": [
+                    "BE / B.Tech Degree in Related Trade / Branch from Any Recognized Institute in India.",
+                    "for Trade Wise Eligibility Details Read the Notification.",
+                    "Age:Post vise"
+                ]
+            }
+        },
+        {
+            "postName": "Management Trainee (Rajbhasha)",
+            "totalPost": "2",
+            "category": {
+                "ur": "",
+                "obc": "",
+                "ews": "",
+                "sc": "",
+                "st": "",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 0,
+                "maxAge": 0,
+                "qualification": [
+                    "Master’s Degree in Hindi/English as per official notification with 60% Marks in Post Graduation.",
+                    "More Eligibility Details Read the Notification",
+                    "Age:Post vise"
+                ]
+            }
+        },
+        {
+            "postName": "Management Trainee (Finance)",
+            "totalPost": "10",
+            "category": {
+                "ur": "",
+                "obc": "",
+                "ews": "",
+                "sc": "",
+                "st": "",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 0,
+                "maxAge": 0,
+                "qualification": [
+                    "CA/CMA OR B.Com/BBA/BMS/BAF + MBA/MMS/PGDM/PGDBM (Finance). (M.Com is not eligible).",
+                    "More Eligibility Details Read the Notification",
+                    "Age:Post vise"
+                ]
+            }
+        },
+        {
+            "postName": "Management Trainee (Marketing)",
+            "totalPost": "10",
+            "category": {
+                "ur": "",
+                "obc": "",
+                "ews": "",
+                "sc": "",
+                "st": "",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 0,
+                "maxAge": 0,
+                "qualification": [
+                    "Science / Engineering / Agriculture Graduate + MBA/MMS/PGDM in Marketing / Agri Business / Agriculture.",
+                    "More Eligibility Details Read the Notification",
+                    "Age:Post vise"
+                ]
+            }
+        }
+    ],
+    "importantLinks": [
+        {
+            "title": "Apply Online",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://ibpsreg.ibps.in/rcfmtfeb26/"
+                }
+            ]
+        },
+        {
+            "title": "Download Full Notification",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://www.rcfltd.com/files/MT%202026.pdf"
+                }
+            ]
+        }
+    ],
+    "admitCard": {
+        "startDate": "",
+        "link": "",
+        "details": "",
+        "instruction": []
+    },
+    "resultCard": {
+        "link": "",
+        "details": "",
+        "instruction": []
+    },
+    "answerKey": {
+        "startDate": "",
+        "link": "",
+        "details": "",
+        "instruction": []
+    }
+},
+{
+    "examType": "job",
+    "id": "BSIP-Lucknow-Scientist-B-Recruitment-2026",
+    "orgId": "irbal Sahni Institute of Palaeosciences (BSIP)",
+    "name": "BSIP Lucknow Scientist B Recruitment 2026",
+    "importantDates": {
+        "startDate": "10/08/2026",
+        "lastDate": "04/09/2026 (upto 05 PM)",
+        "lastDateFeePayment": "04/09/2026"
+    },
+    "fee": {
+        "general": "1000",
+        "obc": "1000",
+        "ews": "1000",
+        "sc": "0",
+        "st": "0",
+        "ph": "0",
+        "female": "",
+        "notes": "Pay the Exam Fee Through Demand Draft DD only."
+    },
+    "totalPost": {
+        "count": 19,
+        "notes": ""
+    },
+    "ageDetails": {
+        "minAge": 18,
+        "maxAge": 35,
+        "notes": "Age Relaxation Extra as Birbal Sahni Institute of Palaeosciences BSIP Lucknow Scientist B Examination Rules Advt. No.: BSIP/Scientist-B/01/2026."
+    },
+    "vacancyDetails": [
+        {
+            "postName": "Scientist B",
+            "totalPost": "19",
+            "category": {
+                "ur": "7",
+                "obc": "5",
+                "ews": "2",
+                "sc": "3",
+                "st": "1",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 18,
+                "maxAge": 35,
+                "qualification": [
+                    "Master Degree M.Sc in Biosciences / Geology / Physics / Chemistry or Allied Discipline with 3 Year Experience. OR",
+                    "PHd in Related Subject."
+                ]
+            }
+        }
+    ],
+    "importantLinks": [
+        {
+            "title": "Apply Online",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://portal.bsip.in/scientist/Login.aspx"
+                }
+            ]
+        },
+        {
+            "title": "Download Notification",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://www.bsip.res.in/storage/careers/z87nghuv602wWJxsQP11gf8IRDI6AhrnkfMEP2fF.pdf"
+                }
+            ]
+        }
+    ],
+    "admitCard": {
+        "startDate": "",
+        "link": "",
+        "details": "",
+        "instruction": []
+    },
+    "resultCard": {
+        "link": "",
+        "details": "",
+        "instruction": []
+    },
+    "answerKey": {
+        "startDate": "",
+        "link": "",
+        "details": "",
+        "instruction": []
+    }
+}
+
 ]
