@@ -6059,6 +6059,357 @@
         "details": "",
         "instruction": []
     }
+},
+{
+    "examType": "job",
+    "state":"uttar-pradesh",
+    "id":  "UPSSSC-Livestock-Extension-Officer-LEO-Main-Examination-2026",
+    "orgId": "Uttar Pradesh Subordinate Service Selection Commission (UPSSSC)",
+    "name": "UPSSSC Livestock Extension Officer LEO (पशुधन प्रसार अधिकारी) Main Examination 2026",
+    "importantDates": {
+        "startDate": "09/09/2026",
+        "lastDate": "29/09/2026",
+        "lastDateFeePayment": "29/09/2026",
+        "correctionDate": "06/10/2026"
+    },
+    "fee": {
+        "general": "25",
+        "obc": "25",
+        "ews": "25",
+        "sc": "25",
+        "st": "25",
+        "ph": "25",
+        "female": "",
+        "notes": ""
+    },
+    "totalPost": {
+        "count": 1251,
+        "notes": ""
+    },
+    "ageDetails": {
+        "minAge": 21,
+        "maxAge": 40
+    },
+    "vacancyDetails": [
+        {
+            "postName": "Livestock Extension Officer",
+            "totalPost": "1248",
+            "category": {
+                "ur": "500",
+                "obc": "345",
+                "ews": "124",
+                "sc": "254",
+                "st": "25",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 21,
+                "maxAge": 40,
+                "qualification": [
+                    "UPSSSC PET 2025 Exam Passed",
+                    "10+2 Intermediate Biology Subject.",
+                    "2 Year Diploma in Livestock Extension (पशुधन प्रसार डिप्लोमा)",
+                    "More Eligibility Read the Notification."
+                ]
+            }
+        },
+        {
+            "postName": "Livestock Extension Officer (Special)",
+            "totalPost": "3",
+            "category": {
+                "ur": "",
+                "obc": "3",
+                "ews": "",
+                "sc": "",
+                "st": "",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 21,
+                "maxAge": 40,
+                "qualification": [
+                    "UPSSSC PET 2025 Exam Passed",
+                    "10+2 Intermediate Biology Subject.",
+                    "2 Year Diploma in Livestock Extension (पशुधन प्रसार डिप्लोमा)",
+                    "More Eligibility Read the Notification."
+                ]
+            }
+        }
+    ],
+    "importantLinks": [
+        {
+            "title": "Download Notification",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://doc.sarkariresults.org.in/SarkariResult.Com_UPSSSC_17Exam_2026.pdf"
+                }
+            ]
+        },
+        {
+            "title": "Apply Online",
+            "links": [
+                {
+                    "title": "Link Will be Activate on 09/09/2026",
+                    "link": "https://upsssc.gov.in/"
+                }
+            ]
+        }
+    ],
+    "admitCard": {
+        "startDate": "",
+        "link": "",
+        "details": "",
+        "instruction": []
+    },
+    "resultCard": {
+        "link": "",
+        "details": "",
+        "instruction": []
+    },
+    "answerKey": {
+        "startDate": "",
+        "link": "",
+        "details": "",
+        "instruction": []
+    }
+},
+{
+    "examType": "job",
+    "id": "ICF-Chennai-Apprentices-Recruitment-2026",
+    "orgId": "Integral Coach Factory, (ICF-Chennai)",
+    "name": "ICF Chennai Apprentices Recruitment  2026 ",
+    "importantDates": {
+        "startDate": "08/08/2026",
+        "lastDate": "07/09/2026 (upto 05:30 PM)",
+        "lastDateFeePayment": "07/09/2026",
+        "otherDates": [
+            {
+                "title": "ICF Apprentices Merit List",
+                "date": "As per Schedule"
+            }
+        ]
+    },
+    "fee": {
+        "general": "100",
+        "obc": "100",
+        "ews": "100",
+        "sc": "0",
+        "st": "0",
+        "ph": "0",
+        "female": "",
+        "notes": ""
+    },
+    "totalPost": {
+        "count": 1010,
+        "notes": ""
+    },
+    "ageDetails": {
+        "minAge": 15,
+        "maxAge": 24,
+        "notes": "Age Relaxation Extra as per Integral Coach Factory ICF Chennai Apprentices Examination Rules Advt No 01/2026-2027."
+    },
+    "vacancyDetails": [
+        {
+            "postName": "Various Trade Apprentices Freshers",
+            "totalPost": "320",
+            "category": {
+                "ur": "",
+                "obc": "",
+                "ews": "",
+                "sc": "",
+                "st": "",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 15,
+                "maxAge": 24,
+                "qualification": [
+                    "Class 10th with Minimum 50% Marks and Science & Maths Under 10+2 System.",
+                    "For Carpenter, Painter & Welder Trade : Class 10th Exam Passed with 50% Marks"
+                ]
+            }
+        },
+        {
+            "postName": "Various Trade Apprentices Ex ITI",
+            "totalPost": "670",
+            "category": {
+                "ur": "",
+                "obc": "",
+                "ews": "",
+                "sc": "",
+                "st": "",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 15,
+                "maxAge": 22,
+                "qualification": [
+                    "Class 10th with 50% Marks and ITI Certificate in Related Trade / Branch.",
+                    "For Trade Wise Eligibility Details Read the Notification."
+                ]
+            }
+        },
+        {
+            "postName": "MLT Radiology Freshers",
+            "totalPost": "10",
+            "category": {
+                "ur": "",
+                "obc": "",
+                "ews": "",
+                "sc": "",
+                "st": "",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 15,
+                "maxAge": 22,
+                "qualification": [
+                    "10+2 Intermediate with PCB Stream."
+                ]
+            }
+        },
+        {
+            "postName": "MLT Radiology Freshers",
+            "totalPost": "10",
+            "category": {
+                "ur": "",
+                "obc": "",
+                "ews": "",
+                "sc": "",
+                "st": "",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 0,
+                "maxAge": 0,
+                "qualification": []
+            }
+        },
+        {
+            "postName": "PASAA Ex ITI",
+            "totalPost": "",
+            "category": {
+                "ur": "",
+                "obc": "",
+                "ews": "",
+                "sc": "",
+                "st": "",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 15,
+                "maxAge": 22,
+                "qualification": [
+                    "Class 10th with 50% Marks and ITI Certificate of IT / COPA / Data Base System Assistant / Software Testing Assistant.",
+                    "More Eligibility Read the Notification."
+                ]
+            }
+        }
+    ],
+    "importantLinks": [
+        {
+            "title": "Apply Online",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://pb.icf.gov.in/act2026/index.php"
+                }
+            ]
+        },
+        {
+            "title": "Download Notification",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://doc.sarkariresults.org.in/ICF_SarkariResult.Com_Act_Apprentice_2026_27.pdf"
+                }
+            ]
+        }
+    ],
+    "admitCard": {
+        "startDate": "",
+        "link": "",
+        "details": "",
+        "instruction": []
+    },
+    "resultCard": {
+        "link": "",
+        "details": "",
+        "instruction": []
+    },
+    "answerKey": {
+        "startDate": "",
+        "link": "",
+        "details": "",
+        "instruction": []
+    },
+    "table": [
+        {
+            "title": " Trade Wise Vacancy Details",
+            "details": "",
+            "notes": "",
+            "list": [
+                [
+                    "Trade Name",
+                    "Freshers",
+                    "EX-ITI"
+                ],
+                [
+                    "Carpenter",
+                    "40",
+                    "50"
+                ],
+                [
+                    "Electrician",
+                    "40",
+                    "160"
+                ],
+                [
+                    "Fitter",
+                    "80",
+                    "180"
+                ],
+                [
+                    "Machinist",
+                    "40",
+                    "50"
+                ],
+                [
+                    "Painter",
+                    "40",
+                    "50"
+                ],
+                [
+                    "Welder",
+                    "80",
+                    "180"
+                ],
+                [
+                    "MLT Radiology",
+                    "5",
+                    "0"
+                ],
+                [
+                    "MLT Pathology",
+                    "5",
+                    "0"
+                ],
+                [
+                    "PASAA",
+                    "0",
+                    "10"
+                ]
+            ]
+        }
+    ]
 }
 
 ]
