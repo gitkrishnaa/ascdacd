@@ -6410,6 +6410,384 @@
             ]
         }
     ]
+},
+{
+    "examType": "job",
+    "id": "GIMS-Noida-Staff-Nurse-Recruitment-2026",
+    "orgId": "Government Institute of Medical Sciences (GIMS)",
+    "name": "GIMS Noida Staff Nurse Recruitment  2026",
+    "importantDates": {
+        "startDate": "10/08/2026",
+        "lastDate": "07/09/2026",
+        "lastDateFeePayment": "07/09/2026",
+        "examDate": "As per Schedule"
+    },
+    "fee": {
+        "general": "1298",
+        "obc": "1298",
+        "ews": "1298",
+        "sc": "944",
+        "st": "944",
+        "ph": "944",
+        "female": "",
+        "notes": "Including GST :\nPay the Exam Fee Through Online / Offline Fee Mode Only"
+    },
+    "totalPost": {
+        "count": 100,
+        "notes": ""
+    },
+    "ageDetails": {
+        "minAge": 21,
+        "maxAge": 40
+    },
+    "vacancyDetails": [
+        {
+            "postName": "Staff Nurse",
+            "totalPost": "100",
+            "category": {
+                "ur": "40",
+                "obc": "27",
+                "ews": "10",
+                "sc": "21",
+                "st": "02",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 21,
+                "maxAge": 40,
+                "qualification": [
+                    "B.Sc Nursing OR Post B.Sc Nursing Degree OR",
+                    "GNM / Diploma in Nursing with 2 Year Experience.",
+                    "More Eligibility Read the Notification"
+                ]
+            }
+        }
+    ],
+    "importantLinks": [
+        {
+            "title": "Apply Online",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://cdn3.digialm.com/EForms/configuredHtml/31586/101679/Index.html"
+                }
+            ]
+        },
+        {
+            "title": "Download Notification",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://doc.sarkariresults.org.in/GIMS_Staff_Nruse.pdf"
+                }
+            ]
+        },
+        {
+            "title": "Official Website",
+            "links": [
+                {
+                    "title": "GIMS Noida Website",
+                    "link": "https://www.gims.ac.in/recruitment.html"
+                }
+            ]
+        }
+    ],
+    "admitCard": {
+        "startDate": "",
+        "link": "",
+        "details": "",
+        "instruction": []
+    },
+    "resultCard": {
+        "link": "",
+        "details": "",
+        "instruction": []
+    },
+    "answerKey": {
+        "startDate": "",
+        "link": "",
+        "details": "",
+        "instruction": []
+    }
+},
+{
+    "examType": "job",
+    "id": "RCF-Kapurthala-Apprentice-Recruitment-2026",
+    "orgId": "Railway Coach Factory (RCF-Kapurthala)",
+    "name": "RCF Kapurthala Apprentice Recruitment 2026 ",
+    "importantDates": {
+        "startDate": "07/08/2026",
+        "lastDate": "05/09/2026",
+        "lastDateFeePayment": "05/09/2026",
+        "otherDates": [
+            {
+                "title": "Merit List",
+                "date": "As per Schedule"
+            }
+        ]
+    },
+    "fee": {
+        "general": "100",
+        "obc": "100",
+        "ews": "100",
+        "sc": "0",
+        "st": "0",
+        "ph": "",
+        "female": "",
+        "notes": "Pay the Examination Fees  Through Debit Card / Credit Card / Net Banking Fees Mode Only."
+    },
+    "totalPost": {
+        "count": 734,
+        "notes": ""
+    },
+    "ageDetails": {
+        "minAge": 15,
+        "maxAge": 24
+    },
+    "vacancyDetails": [
+        {
+            "postName": "Various Trade Apprentice",
+            "totalPost": "734",
+            "category": {
+                "ur": "",
+                "obc": "",
+                "ews": "",
+                "sc": "",
+                "st": "",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 15,
+                "maxAge": 24,
+                "qualification": [
+                    "Class 10 High School Exam With Minimum 50% Marks and ITI / NCVT Certificate in Related Trade.",
+                    "For Trade Wise Eligibility Details Read the Notification."
+                ]
+            }
+        }
+    ],
+    "importantLinks": [
+        {
+            "title": "Apply Online",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://pardarsy.railnet.gov.in/apprentice-2026/login"
+                }
+            ]
+        },
+        {
+            "title": "Download Notification",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://rcf.indianrailways.gov.in/uploads/files/act-app/not-act-app-2026.pdf"
+                }
+            ]
+        },
+        {
+            "title": "Official Website",
+            "links": [
+                {
+                    "title": "Indian Railway Official Website",
+                    "link": "https://indianrailways.gov.in/"
+                }
+            ]
+        }
+    ],
+    "admitCard": {
+        "startDate": "",
+        "link": "",
+        "details": "",
+        "instruction": []
+    },
+    "resultCard": {
+        "link": "",
+        "details": "",
+        "instruction": []
+    },
+    "answerKey": {
+        "startDate": "",
+        "link": "",
+        "details": "",
+        "instruction": []
+    },
+    "table": [
+        {
+            "title": "Railway RCF Kapurthala Apprentice Units Wise Vacancy Details 2026",
+            "details": "",
+            "notes": "",
+            "list": [
+                [
+                    "Trade Name",
+                    "Total Post"
+                ],
+                [
+                    "Fitter",
+                    "180"
+                ],
+                [
+                    "Welder G&E",
+                    "220"
+                ],
+                [
+                    "Machinist",
+                    "60"
+                ],
+                [
+                    "Painter G",
+                    "40"
+                ],
+                [
+                    "Carpenter",
+                    "40"
+                ],
+                [
+                    "Electrician",
+                    "110"
+                ],
+                [
+                    "AC & Ref Mechanic",
+                    "44"
+                ],
+                [
+                    "Mechanic Motor Vehicle",
+                    "20"
+                ],
+                [
+                    "Electronic Mechanic",
+                    "20"
+                ]
+            ]
+        }
+    ]
+},
+{
+    "examType": "job",
+    "id": "WCL-Statutory-Supervisory-Staff-Recruitment-Online-Form-2026",
+    "orgId": "Western Coalfields Limited (WCL)",
+    "name": "WCL Statutory Supervisory Staff Recruitment Online Form 2026",
+    "importantDates": {
+        "startDate": "20/07/2026",
+        "lastDate": "10/08/2026",
+        "lastDateFeePayment": "10/08/2026",
+        "examDate": "As per Schedule"
+    },
+    "fee": {
+        "general": "1180",
+        "obc": "1180",
+        "ews": "1180",
+        "sc": "0",
+        "st": "0",
+        "ph": "0",
+        "female": "",
+        "notes": ""
+    },
+    "totalPost": {
+        "count": 444,
+        "notes": ""
+    },
+    "ageDetails": {
+        "minAge": 18,
+        "maxAge": 30,
+        "notes": "Age Relaxation Extra as per WCL Mining Sirdar, Assistant Foreman Examination Rules."
+    },
+    "vacancyDetails": [
+        {
+            "postName": "Mining Sirdar T&S Grade. C",
+            "totalPost": "220",
+            "category": {
+                "ur": "101\t",
+                "obc": "35",
+                "ews": "22",
+                "sc": "24",
+                "st": "38",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 18,
+                "maxAge": 30,
+                "qualification": [
+                    "Diploma in Mining Engineering from any institute recognized by the Government",
+                    "Valid Overman competency certificate issued by DGMS",
+                    "Valid Gas Testing Certificate",
+                    "Valid First Aid Certificate",
+                    "More Details Read the Notification."
+                ]
+            }
+        },
+        {
+            "postName": "Assistant Foreman (Trainee) (Electrical)/Electrical Supervisor, T&S Grade- C",
+            "totalPost": "224",
+            "category": {
+                "ur": "91",
+                "obc": "56",
+                "ews": "22",
+                "sc": "26",
+                "st": "29",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 18,
+                "maxAge": 30,
+                "qualification": [
+                    "Diploma in Electrical Engineering from any institute recognized by the Government.",
+                    "Electrical Supervisory Certificate valid for Mines issued by the Appropriate Government",
+                    "More Details Read the Notification."
+                ]
+            }
+        }
+    ],
+    "importantLinks": [
+        {
+            "title": "Apply Online",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://cdn.digialm.com/EForms/configuredHtml/1258/101411/Index.html"
+                }
+            ]
+        },
+        {
+            "title": "Download Notification",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://docs.westerncoal.in/strapi/uploads/Recruitment_Not_English_58616ee33e.pdf"
+                }
+            ]
+        },
+        {
+            "title": "Official Website",
+            "links": [
+                {
+                    "title": "WCL Official Website",
+                    "link": "https://westerncoal.in/en/career/recruitment"
+                }
+            ]
+        }
+    ],
+    "admitCard": {
+        "startDate": "",
+        "link": "",
+        "details": "",
+        "instruction": []
+    },
+    "resultCard": {
+        "link": "",
+        "details": "",
+        "instruction": []
+    },
+    "answerKey": {
+        "startDate": "",
+        "link": "",
+        "details": "",
+        "instruction": []
+    }
 }
 
 ]
