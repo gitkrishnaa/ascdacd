@@ -1,5 +1,6 @@
 [
   {
+    "timestamp":1785740303,
     "examType": "job",
     "id": "DELED-Joint-Entrance-Test-2026-2028-online-application-for-admission-2026-2028",
     "orgId": "Bihar School Examination Board (BSEB)",
@@ -97,6 +98,7 @@
     ]
   },
   {
+    "timestamp":1785740303,
     "examType": "job",
     "id": "RPSC-School-Lecturer-PGT-Teacher-Exam-2025",
     "orgId": "Rajasthan Public Service Commission (RPSC)",
@@ -323,7 +325,7 @@
       }
     ]
   },
-  {
+  {"timestamp":1785740303,
     "examType": "job",
     "id": "Uttar-Pradesh-UPPSC-Assistant-Professor-GDC-Exam-2025",
     "orgId": "Uttar Pradesh Public Service Commission (UPPSC)",
@@ -461,7 +463,7 @@
       "instruction": []
     }
   },
-  {
+  {"timestamp":1785740303,
     "examType": "job",
     "id": "UP-Post-Graduate-Teacher-PGT-Recruitment-2022",
     "orgId": "Uttar Pradesh Secondary Education Service Selection Board (UPSESSB)",
@@ -660,7 +662,7 @@
       "instruction": []
     }
   },
-  {
+  {"timestamp":1785740303,
     "examType": "job",
     "id": "UPSC-Combined-Central-Armed-Police-Force-Assistant-Commandant-AC-Exam-2025",
     "orgId": "Union Public Service Commission (UPSC)",
@@ -886,7 +888,7 @@
       }
     ]
   },
-  {
+  {"timestamp":1785740303,
     "examType": "job",
     "id": "UPSC-Combined-Defence-Service-Exam-II-Recruitment-2025",
     "orgId": "Union Public Service Commission (UPSC)",
@@ -1060,7 +1062,7 @@
       "instruction": []
     }
   },
-  {
+  {"timestamp":1785740303,
     "examType": "entrance-exam",
     "id": "MP-Animal-Husbandry-and-Dairy-Technology-Admission-Test-ADDET-2026",
     "orgId": "Madhya Pradesh Employee Selection Board (MPESB)",
@@ -1258,7 +1260,7 @@
       }
     ]
   },
-  {
+  {"timestamp":1785740303,
     "examType": "job",
     "id": "BOI-Credit-Officer-Recruitment-2026",
     "orgId": "Bank of India (BOI)",
@@ -1425,7 +1427,7 @@
       "instruction": []
     }
   },
-  {
+  {"timestamp":1785740303,
     "examType": "job",
     "id": "AIIMS-Common-Recruitment-Exam-CRE-5-Recruitment-2026",
     "orgId": "All India Institute of Medical Science (AIIMS)",
@@ -1578,7 +1580,7 @@
       "instruction": []
     }
   },
-  {
+  {"timestamp":1785740303,
     "examType": "job",
     "id": "Uttar-Pradesh-Education-Service-Selection-Commission-UPESSC",
     "orgId": "Uttar Pradesh Education Service Selection Commission UPESSC",
@@ -1723,7 +1725,7 @@
       "instruction": []
     }
   },
-  {
+  {"timestamp":1785740303,
     "examType": "job",
     "id": "Railway-RRB-Centralized-Recruitment-CEN-09-2025-Group-D-Exam-2026",
     "orgId": "Railway Recruitment Board (RRB)",
@@ -1893,8 +1895,8 @@
       "instruction": []
     }
   },
-  {
-    "id": 8000082780,
+  {"timestamp":1785740303,
+    "id": "Chhattisgarh-Assistant-District-Public-Prosecution-Officer-ADPPO-Recruitment-2026",
     "orgId": "Chhattisgarh Public Service Commission (CGPSC)",
     "name": "Chhattisgarh Assistant District Public Prosecution Officer ADPPO Recruitment 2026",
     "importantDates": {
@@ -2005,8 +2007,8 @@
       ]
     }
   },
-  {
-    "id": 1270652676,
+  {"timestamp":1785740303,
+    "id": "central-Bank-of-India-(CBI)-Apprentice-Recruitment-2026-Exam-Date",
     "orgId": "Central Bank of India (CBI)",
     "name": "Central Bank of India (CBI) Apprentice Recruitment 2026 Exam Date",
     "importantDates": {
@@ -2137,8 +2139,8 @@
       ]
     }
   },
-  {
-    "id": 2922576158,
+  {"timestamp":1785740303,
+    "id": "NIACL-Apprentice-Recruitment-2026",
     "orgId": "The New India Assurance Company Limited (NIACL)",
     "name": "NIACL Apprentice Recruitment 2026",
     "importantDates": {
@@ -2397,8 +2399,8 @@
       ]
     }
   },
-  {
-    "id": 3941443580,
+  {"timestamp":1785740303,
+    "id": "CSIR-Assistant-Section-Officer-ASO-Recruitment-2026",
     "orgId": "Council of Scientific & Industrial Research (CSIR)",
     "name": "CSIR Assistant Section Officer ASO Recruitment  2026",
     "importantDates": {
@@ -2515,8 +2517,8 @@
       "instruction": []
     }
   },
-  {
-    "id": 5830838553,
+  {"timestamp":1785740303,
+    "id": "PNB-Local-Bank-Officer-LBO-Online-Form-2026",
     "orgId": "Punjab National Bank (PNB)",
     "name": "PNB Local Bank Officer LBO Online Form 2026",
     "importantDates": {
@@ -2699,9 +2701,9 @@
       }
     ]
   },
-  {
+  {"timestamp":1785740303,
     "examType": "job",
-    "id": 4799000068,
+    "id": "IOB-Indian-Overseas-Bank-Apprentice-Recruitment-2026",
     "orgId": "Indian Overseas Bank (IOB)",
     "name": "IOB Indian Overseas Bank Apprentice Recruitment 2026",
     "importantDates": {
@@ -2932,9 +2934,9 @@
       }
     ]
   },
-  {
+  {"timestamp":1785740303,
     "examType": "job",
-    "id": 1839764955,
+    "id": "Join-Indian-Army-NCC-Entry-April-2027-Batch-Recruitment-2026",
     "orgId": "Indian Army NCC Special Entry",
     "name": "Join Indian Army NCC Entry April 2027 Batch Recruitment 2026",
     "importantDates": {
@@ -3044,9 +3046,9 @@
       "instruction": []
     }
   },
-  {
+  {"timestamp":1785740303,
     "examType": "job",
-    "id": 7058502798,
+    "id": "Union-Bank-UBI-Specialist-Officers-SO-Recruitment-2026",
     "orgId": "Union Bank of India (UBI)",
     "name": "Union Bank UBI Specialist Officers SO Recruitment 2026",
     "importantDates": {
@@ -3166,9 +3168,9 @@
       }
     ]
   },
-  {
+  {"timestamp":1785740303,
     "examType": "job",
-    "id": 1799405404,
+    "id": "RRB-JE-Junior-Engineer-Recruitment-2026",
     "orgId": "Railway Recruitment Board (RRB)",
     "name": "RRB JE Junior Engineer Recruitment 2026",
     "importantDates": {
@@ -3259,8 +3261,9 @@
     }
   },
   {
+     "timestamp":	1785913103,
     "examType": "job",
-    "id": 7244566089,
+    "id": "उत्तर-प्रदेश-बेसिक-शिक्षा-विभाग-Lakhimpur-Kheri-District-ECCE-Educator-Outsourcing-Recruitment-2026",
     "orgId": "Uttar Pradesh Rojgar Sangam (Sewayojan) ",
     "name": "उत्तर प्रदेश बेसिक शिक्षा विभाग Lakhimpur Kheri District ECCE Educator Outsourcing Recruitment 2026",
     "importantDates": {
@@ -3348,8 +3351,9 @@
     }
   },
   {
+     "timestamp":	1785913103,
     "examType": "job",
-    "id": 5589340234,
+    "id": "UPESSC-UP-Principal-Online-Form-2026",
     "orgId": "Uttar Pradesh Education Service Selection Commission (UPESSC)",
     "name": "UPESSC UP Principal Online Form 2026",
     "importantDates": {
@@ -3441,8 +3445,9 @@
     }
   },
   {
+    "timestamp":	1785913103,
     "examType": "job",
-    "id": 7599163306,
+    "id": "Rajasthan-District-Court-Stenographer-Grade-III-Online-Form-2026",
     "orgId": "Rajasthan High Court, Jodhpur (RHC)",
     "name": "Rajasthan District Court Stenographer Grade III Online Form 2026",
     "importantDates": {
@@ -3598,8 +3603,9 @@
     ]
   },
   {
+    "timestamp":1786085903,
     "examType": "job",
-    "id": 6992590965,
+    "id": "UPSRTC-Azamgarh,-Mau,-Ballia-Bus-Conductor-Recruitment-2026",
     "orgId": "उत्तर प्रदेश राज्य सड़क परिवहन निगम (UPSRTC) ",
     "name": "UPSRTC Azamgarh, Mau, Ballia Bus Conductor Recruitment 2026",
     "importantDates": {
@@ -3697,8 +3703,9 @@
     }
   },
   {
+     "timestamp":1786085903,
     "examType": "job",
-    "id": 2055004992,
+    "id": "SAIL-Rourkela-Steel-Plant-Apprentice-Online-Form-2026",
     "orgId": "Steel Authority of India Limited (SAIL)",
     "name": "SAIL Rourkela Steel Plant Apprentice Online Form 2026",
     "importantDates": {
@@ -4133,8 +4140,9 @@
     ]
   },
   {
+     "timestamp":1778482703,
     "examType": "job",
-    "id": 1695775835,
+    "id": "UP-Anganwadi-Helper-Recruitment-2026",
     "orgId": "Integrated Child Development Services Scheme (ICDS)",
     "name": "UP Anganwadi Helper Recruitment 2026",
     "importantDates": {
@@ -4302,8 +4310,9 @@
     }
   },
   {
+      "timestamp":1778482703,
     "examType": "job",
-    "id": 4304016984,
+    "id": "AAI-Manager-Junior-Executive-Online-Form-2026",
     "orgId": "Airports Authority of India (AAI)",
     "name": "AAI Manager, Junior Executive Online Form 2026",
     "importantDates": {
@@ -4681,7 +4690,7 @@
       "instruction": []
     }
   },
-  {
+  {  "timestamp":1778482703,
     "examType": "job",
     "id": "State-Bank-of-India-SBI-Junior-Associates-Clerk-Backlog-Recruitment-2026",
     "orgId": "State Bank of India (SBI)",
@@ -4966,7 +4975,7 @@
       }
     ]
   },
-  {
+  {  "timestamp":1778482703,
     "examType": "job",
     "id": "ICSI-Executive-Assistant-Online-Form-2026",
     "orgId": "Institute of Company Secretaries of India (ICSI)",
@@ -5059,6 +5068,7 @@
     }
   },
  {
+  "timestamp":1778482703,
     "examType": "job",
     "id": "IOCL-Marketing-Division-Northern-Region-Apprentices-Recruitment-2026",
     "orgId": "Indian Oil Corporation Limited (IOCL)",
@@ -5392,7 +5402,7 @@
         }
     ]
 },
-  {
+  {"timestamp":1786431503,
     "state":"himachal-pradesh",
     "examType": "job",
     "id": "Himachal-Pradesh-High-Court-Various-Post-Recruitment-2026",
@@ -5593,7 +5603,7 @@
         "instruction": []
     }
 },
-{
+{"timestamp":1786431503,
     "examType": "job",
     "id": "RCF-Management-Trainee-Recruitment-2026",
     "orgId": "Rashtriya Chemicals and Fertilizers Limited (RCF)",
@@ -5970,7 +5980,7 @@
         "instruction": []
     }
 },
-{
+{"timestamp":1786431503,
     "examType": "job",
     "id": "BSIP-Lucknow-Scientist-B-Recruitment-2026",
     "orgId": "irbal Sahni Institute of Palaeosciences (BSIP)",
@@ -6061,6 +6071,132 @@
     }
 },
 {
+  "timestamp":1786537703,
+    "examType": "job",
+    "id": "WCL-Statutory-Supervisory-Staff-Recruitment-Online-Form-2026",
+    "orgId": "Western Coalfields Limited (WCL)",
+    "name": "WCL Statutory Supervisory Staff Recruitment Online Form 2026",
+    "importantDates": {
+        "startDate": "20/07/2026",
+        "lastDate": "10/08/2026",
+        "lastDateFeePayment": "10/08/2026",
+        "examDate": "As per Schedule"
+    },
+    "fee": {
+        "general": "1180",
+        "obc": "1180",
+        "ews": "1180",
+        "sc": "0",
+        "st": "0",
+        "ph": "0",
+        "female": "",
+        "notes": ""
+    },
+    "totalPost": {
+        "count": 444,
+        "notes": ""
+    },
+    "ageDetails": {
+        "minAge": 18,
+        "maxAge": 30,
+        "notes": "Age Relaxation Extra as per WCL Mining Sirdar, Assistant Foreman Examination Rules."
+    },
+    "vacancyDetails": [
+        {
+            "postName": "Mining Sirdar T&S Grade. C",
+            "totalPost": "220",
+            "category": {
+                "ur": "101\t",
+                "obc": "35",
+                "ews": "22",
+                "sc": "24",
+                "st": "38",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 18,
+                "maxAge": 30,
+                "qualification": [
+                    "Diploma in Mining Engineering from any institute recognized by the Government",
+                    "Valid Overman competency certificate issued by DGMS",
+                    "Valid Gas Testing Certificate",
+                    "Valid First Aid Certificate",
+                    "More Details Read the Notification."
+                ]
+            }
+        },
+        {
+            "postName": "Assistant Foreman (Trainee) (Electrical)/Electrical Supervisor, T&S Grade- C",
+            "totalPost": "224",
+            "category": {
+                "ur": "91",
+                "obc": "56",
+                "ews": "22",
+                "sc": "26",
+                "st": "29",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 18,
+                "maxAge": 30,
+                "qualification": [
+                    "Diploma in Electrical Engineering from any institute recognized by the Government.",
+                    "Electrical Supervisory Certificate valid for Mines issued by the Appropriate Government",
+                    "More Details Read the Notification."
+                ]
+            }
+        }
+    ],
+    "importantLinks": [
+        {
+            "title": "Apply Online",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://cdn.digialm.com/EForms/configuredHtml/1258/101411/Index.html"
+                }
+            ]
+        },
+        {
+            "title": "Download Notification",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://docs.westerncoal.in/strapi/uploads/Recruitment_Not_English_58616ee33e.pdf"
+                }
+            ]
+        },
+        {
+            "title": "Official Website",
+            "links": [
+                {
+                    "title": "WCL Official Website",
+                    "link": "https://westerncoal.in/en/career/recruitment"
+                }
+            ]
+        }
+    ],
+    "admitCard": {
+        "startDate": "",
+        "link": "",
+        "details": "",
+        "instruction": []
+    },
+    "resultCard": {
+        "link": "",
+        "details": "",
+        "instruction": []
+    },
+    "answerKey": {
+        "startDate": "",
+        "link": "",
+        "details": "",
+        "instruction": []
+    }
+},
+{"timestamp":1786431503,
     "examType": "job",
     "state":"uttar-pradesh",
     "id":  "UPSSSC-Livestock-Extension-Officer-LEO-Main-Examination-2026",
@@ -6176,7 +6312,8 @@
         "instruction": []
     }
 },
-{
+
+{"timestamp":1786431503,
     "examType": "job",
     "id": "ICF-Chennai-Apprentices-Recruitment-2026",
     "orgId": "Integral Coach Factory, (ICF-Chennai)",
@@ -6411,7 +6548,7 @@
         }
     ]
 },
-{
+{"timestamp":1786537703,
     "examType": "job",
     "id": "GIMS-Noida-Staff-Nurse-Recruitment-2026",
     "orgId": "Government Institute of Medical Sciences (GIMS)",
@@ -6511,7 +6648,7 @@
         "instruction": []
     }
 },
-{
+{"timestamp":1786537703,
     "examType": "job",
     "id": "RCF-Kapurthala-Apprentice-Recruitment-2026",
     "orgId": "Railway Coach Factory (RCF-Kapurthala)",
@@ -6663,131 +6800,7 @@
             ]
         }
     ]
-},
-{
-    "examType": "job",
-    "id": "WCL-Statutory-Supervisory-Staff-Recruitment-Online-Form-2026",
-    "orgId": "Western Coalfields Limited (WCL)",
-    "name": "WCL Statutory Supervisory Staff Recruitment Online Form 2026",
-    "importantDates": {
-        "startDate": "20/07/2026",
-        "lastDate": "10/08/2026",
-        "lastDateFeePayment": "10/08/2026",
-        "examDate": "As per Schedule"
-    },
-    "fee": {
-        "general": "1180",
-        "obc": "1180",
-        "ews": "1180",
-        "sc": "0",
-        "st": "0",
-        "ph": "0",
-        "female": "",
-        "notes": ""
-    },
-    "totalPost": {
-        "count": 444,
-        "notes": ""
-    },
-    "ageDetails": {
-        "minAge": 18,
-        "maxAge": 30,
-        "notes": "Age Relaxation Extra as per WCL Mining Sirdar, Assistant Foreman Examination Rules."
-    },
-    "vacancyDetails": [
-        {
-            "postName": "Mining Sirdar T&S Grade. C",
-            "totalPost": "220",
-            "category": {
-                "ur": "101\t",
-                "obc": "35",
-                "ews": "22",
-                "sc": "24",
-                "st": "38",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 18,
-                "maxAge": 30,
-                "qualification": [
-                    "Diploma in Mining Engineering from any institute recognized by the Government",
-                    "Valid Overman competency certificate issued by DGMS",
-                    "Valid Gas Testing Certificate",
-                    "Valid First Aid Certificate",
-                    "More Details Read the Notification."
-                ]
-            }
-        },
-        {
-            "postName": "Assistant Foreman (Trainee) (Electrical)/Electrical Supervisor, T&S Grade- C",
-            "totalPost": "224",
-            "category": {
-                "ur": "91",
-                "obc": "56",
-                "ews": "22",
-                "sc": "26",
-                "st": "29",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 18,
-                "maxAge": 30,
-                "qualification": [
-                    "Diploma in Electrical Engineering from any institute recognized by the Government.",
-                    "Electrical Supervisory Certificate valid for Mines issued by the Appropriate Government",
-                    "More Details Read the Notification."
-                ]
-            }
-        }
-    ],
-    "importantLinks": [
-        {
-            "title": "Apply Online",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://cdn.digialm.com/EForms/configuredHtml/1258/101411/Index.html"
-                }
-            ]
-        },
-        {
-            "title": "Download Notification",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://docs.westerncoal.in/strapi/uploads/Recruitment_Not_English_58616ee33e.pdf"
-                }
-            ]
-        },
-        {
-            "title": "Official Website",
-            "links": [
-                {
-                    "title": "WCL Official Website",
-                    "link": "https://westerncoal.in/en/career/recruitment"
-                }
-            ]
-        }
-    ],
-    "admitCard": {
-        "startDate": "",
-        "link": "",
-        "details": "",
-        "instruction": []
-    },
-    "resultCard": {
-        "link": "",
-        "details": "",
-        "instruction": []
-    },
-    "answerKey": {
-        "startDate": "",
-        "link": "",
-        "details": "",
-        "instruction": []
-    }
 }
+
 
 ]
