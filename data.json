@@ -6827,107 +6827,108 @@
       }
     ]
   },
-  {"timestamp":1786848518,
+  {
+    "timestamp": 1786848518,
     "examType": "job",
     "id": "MPESB-MP-Group-2-Sub-Group-4-Patwari-and-Other-Post-Recruitment-Test-2026",
     "orgId": "Madhya Pradesh Employee Selection Board (MPESB)",
     "name": "MPESB MP Group 2 Sub Group 4 Patwari and Other Post Recruitment Test 2026",
     "importantDates": {
-        "startDate": "04/08/2026",
-        "lastDate": "18/08/2026",
-        "lastDateFeePayment": "18/08/2026",
-        "examDate": "22/09/2026",
-        "correctionDate": "23/08/2026"
+      "startDate": "04/08/2026",
+      "lastDate": "18/08/2026",
+      "lastDateFeePayment": "18/08/2026",
+      "examDate": "22/09/2026",
+      "correctionDate": "23/08/2026"
     },
     "fee": {
-        "general": "560",
-        "obc": "310",
-        "ews": "310",
-        "sc": "310",
-        "st": "310",
-        "ph": "",
-        "female": "",
-        "notes": "Pay the Examination Fee Through Cast at E Challan or Debit Card, Credit Card, Net Banking"
+      "general": "560",
+      "obc": "310",
+      "ews": "310",
+      "sc": "310",
+      "st": "310",
+      "ph": "",
+      "female": "",
+      "notes": "Pay the Examination Fee Through Cast at E Challan or Debit Card, Credit Card, Net Banking"
     },
     "totalPost": {
-        "count": 2106,
-        "notes": ""
+      "count": 2106,
+      "notes": ""
     },
     "ageDetails": {
-        "minAge": 18,
-        "maxAge": 40,
-        "notes": "Age Relaxation Extra as per MPESB MP Group 2 Sub Group 4 Patwari & Other Various Post Combined Recruitment Rules."
+      "minAge": 18,
+      "maxAge": 40,
+      "notes": "Age Relaxation Extra as per MPESB MP Group 2 Sub Group 4 Patwari & Other Various Post Combined Recruitment Rules."
     },
     "vacancyDetails": [
-        {
-            "postName": "Group 2 Sub Group 4 Combined",
-            "totalPost": "2106",
-            "category": {
-                "ur": "608",
-                "obc": "613",
-                "ews": "207",
-                "sc": "274",
-                "st": "404",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 18,
-                "maxAge": 40,
-                "qualification": [
-                    "Degree from Any Recognized University in India.",
-                    "for Post Wise Eligibility Details Read the Notification"
-                ]
-            }
+      {
+        "postName": "Group 2 Sub Group 4 Combined",
+        "totalPost": "2106",
+        "category": {
+          "ur": "608",
+          "obc": "613",
+          "ews": "207",
+          "sc": "274",
+          "st": "404",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 18,
+          "maxAge": 40,
+          "qualification": [
+            "Degree from Any Recognized University in India.",
+            "for Post Wise Eligibility Details Read the Notification"
+          ]
         }
+      }
     ],
     "importantLinks": [
-        {
-            "title": "Apply Online",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://esb.mponline.gov.in/Portal/Examinations/Vyapam/examsList.aspx"
-                }
-            ]
-        },
-        {
-            "title": "Download Notification",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://esb.mp.gov.in/Rulebooks/RB_2026/Group2_SG4_Patwari_rect_test_2026_Rulebook_04082026.pdf"
-                }
-            ]
-        },
-        {
-            "title": "Official Website",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://esb.mp.gov.in/e_default.html"
-                }
-            ]
-        }
+      {
+        "title": "Apply Online",
+        "links": [
+          {
+            "title": "",
+            "link": "https://esb.mponline.gov.in/Portal/Examinations/Vyapam/examsList.aspx"
+          }
+        ]
+      },
+      {
+        "title": "Download Notification",
+        "links": [
+          {
+            "title": "",
+            "link": "https://esb.mp.gov.in/Rulebooks/RB_2026/Group2_SG4_Patwari_rect_test_2026_Rulebook_04082026.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Official Website",
+        "links": [
+          {
+            "title": "",
+            "link": "https://esb.mp.gov.in/e_default.html"
+          }
+        ]
+      }
     ],
     "admitCard": {
-        "startDate": "",
-        "link": "",
-        "details": "",
-        "instruction": []
+      "startDate": "",
+      "link": "",
+      "details": "",
+      "instruction": []
     },
     "resultCard": {
-        "link": "",
-        "details": "",
-        "instruction": []
+      "link": "",
+      "details": "",
+      "instruction": []
     },
     "answerKey": {
-        "startDate": "",
-        "link": "",
-        "details": "",
-        "instruction": []
+      "startDate": "",
+      "link": "",
+      "details": "",
+      "instruction": []
     }
-},
+  },
   {
     "timestamp": 1786848032,
     "examType": "job",
@@ -7255,132 +7256,800 @@
     ]
   },
   {
-    "timestamp":1786848518,
+    "timestamp": 1786848518,
     "examType": "entrance-exam",
     "id": "UPSSSC-Preliminary-Examination-Test-PET-2026",
     "orgId": "Uttar Pradesh Subordinate Service Selection Commission (UPSSSC)",
     "name": "UPSSSC Preliminary Examination Test (PET) 2026",
     "importantDates": {
-        "startDate": "03/08/2026",
-        "lastDate": "01/09/2026",
-        "lastDateFeePayment": "01/09/2026",
-        "examDate": " October 2026 (Tentative) ",
-        "correctionDate": "08/09/2026",
-        "otherDates": [
-            {
-                "title": "Eligibility Result Available",
-                "date": "As per Schedule"
-            },
-            {
-                "title": "Exam City Available",
-                "date": "Before Exam"
-            }
-        ]
+      "startDate": "03/08/2026",
+      "lastDate": "01/09/2026",
+      "lastDateFeePayment": "01/09/2026",
+      "examDate": " October 2026 (Tentative) ",
+      "correctionDate": "08/09/2026",
+      "otherDates": [
+        {
+          "title": "Eligibility Result Available",
+          "date": "As per Schedule"
+        },
+        {
+          "title": "Exam City Available",
+          "date": "Before Exam"
+        }
+      ]
     },
     "fee": {
-        "general": "",
-        "obc": "",
-        "ews": "",
-        "sc": "",
-        "st": "",
-        "ph": "",
-        "female": "",
-        "notes": ""
+      "general": "",
+      "obc": "",
+      "ews": "",
+      "sc": "",
+      "st": "",
+      "ph": "",
+      "female": "",
+      "notes": ""
     },
     "totalPost": {
-        "count": 0,
-        "notes": ""
+      "count": 0,
+      "notes": ""
     },
     "ageDetails": {
-        "minAge": 18,
-        "maxAge": 40
+      "minAge": 18,
+      "maxAge": 40
     },
     "vacancyDetails": [
-        {
-            "postName": "Pre Examination Test UPSSSC PET 2026",
-            "totalPost": "",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 18,
-                "maxAge": 40,
-                "qualification": [
-                    "Minimum Class 10 High School Exam in Any Recognized Board OR Any Higher Qualification in Any Recognized University in India.",
-                    "For More Details Read the Notification."
-                ]
-            }
+      {
+        "postName": "Pre Examination Test UPSSSC PET 2026",
+        "totalPost": "",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 18,
+          "maxAge": 40,
+          "qualification": [
+            "Minimum Class 10 High School Exam in Any Recognized Board OR Any Higher Qualification in Any Recognized University in India.",
+            "For More Details Read the Notification."
+          ]
         }
+      }
     ],
     "importantLinks": [
-        {
-            "title": "Apply Online",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://upsssc.gov.in//AllNotifications.aspx"
-                }
-            ]
-        },
-        {
-            "title": "For UPSSSC OTR Registration",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://www.sarkariresult.com/2026/upsssc-otr-online-form-2026/"
-                }
-            ]
-        },
-        {
-            "title": "Download Notification",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://www.sarkariresult.com/wp-content/uploads/2026/07/upsssc-Pet_2026.pdf"
-                }
-            ]
-        },
-        {
-            "title": "Download Syllabus",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://www.sarkariresult.com/wp-content/uploads/2026/08/UPSSSC_PET_Syllabus-1-compressed.pdf"
-                }
-            ]
-        },
-        {
-            "title": "Official Website",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://upsssc.gov.in/"
-                }
-            ]
-        }
+      {
+        "title": "Apply Online",
+        "links": [
+          {
+            "title": "",
+            "link": "https://upsssc.gov.in//AllNotifications.aspx"
+          }
+        ]
+      },
+      {
+        "title": "For UPSSSC OTR Registration",
+        "links": [
+          {
+            "title": "",
+            "link": "https://www.sarkariresult.com/2026/upsssc-otr-online-form-2026/"
+          }
+        ]
+      },
+      {
+        "title": "Download Notification",
+        "links": [
+          {
+            "title": "",
+            "link": "https://www.sarkariresult.com/wp-content/uploads/2026/07/upsssc-Pet_2026.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Download Syllabus",
+        "links": [
+          {
+            "title": "",
+            "link": "https://www.sarkariresult.com/wp-content/uploads/2026/08/UPSSSC_PET_Syllabus-1-compressed.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Official Website",
+        "links": [
+          {
+            "title": "",
+            "link": "https://upsssc.gov.in/"
+          }
+        ]
+      }
     ],
     "admitCard": {
-        "startDate": "",
-        "link": "",
-        "details": "",
-        "instruction": []
+      "startDate": "",
+      "link": "",
+      "details": "",
+      "instruction": []
     },
     "resultCard": {
-        "link": "",
-        "details": "",
-        "instruction": []
+      "link": "",
+      "details": "",
+      "instruction": []
     },
     "answerKey": {
-        "startDate": "",
-        "link": "",
-        "details": "",
-        "instruction": []
+      "startDate": "",
+      "link": "",
+      "details": "",
+      "instruction": []
     }
-}
+  },
+  {
+    "timestamp": 1786859502,
+    "examType": "job",
+    "id": "Jharkhand-JSSC-JILCCE-Inter-Level-Combined-Recruitment-2026",
+    "orgId": "Jharkhand Staff Selection Commission (JSSC)",
+    "name": "Jharkhand JSSC JILCCE Inter Level Combined Recruitment  2026",
+    "importantDates": {
+      "startDate": "05/08/2026",
+      "lastDate": "04/09/2026",
+      "lastDateFeePayment": "05/09/2026",
+      "examDate": "As per Schedule",
+      "correctionDate": "06/11/2026 to 08/11/2026"
+    },
+    "fee": {
+      "general": "100",
+      "obc": "100",
+      "ews": "100",
+      "sc": "50",
+      "st": "50",
+      "ph": "",
+      "female": "",
+      "notes": "Other State:100rs\nPay the Exam Fee Through Online / Offline Fee Mode Only"
+    },
+    "totalPost": {
+      "count": 326,
+      "notes": ""
+    },
+    "ageDetails": {
+      "minAge": 18,
+      "maxAge": 35,
+      "notes": "Age Relaxation Extra as per JSSC JILCCE Inter Level Examination Rules Advt. No. 03/2026."
+    },
+    "vacancyDetails": [
+      {
+        "postName": "JILCCE Inter Level",
+        "totalPost": "326",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 18,
+          "maxAge": 35,
+          "qualification": [
+            "10+2 Intermediate Passed form any Recognized Board in India.",
+            "More Details Read the Notification."
+          ]
+        }
+      }
+    ],
+    "importantLinks": [
+      {
+        "title": "Apply Online",
+        "links": [
+          {
+            "title": "",
+            "link": "https://jcx26.cbtexam.in/Jssc/index.html"
+          }
+        ]
+      },
+      {
+        "title": "Apply Date Change Notice",
+        "links": [
+          {
+            "title": "",
+            "link": "https://doc.sarkariresults.org.in/JSSC_Notice%20JILCCE-2026%20(1).pdf"
+          }
+        ]
+      },
+      {
+        "title": "Download Notification",
+        "links": [
+          {
+            "title": "",
+            "link": "https://jssc.jharkhand.gov.in/sites/default/files/Brochure%20JILCCE-2026.pdf"
+          }
+        ]
+      }
+    ],
+    "admitCard": {
+      "startDate": "",
+      "link": "",
+      "details": "",
+      "instruction": []
+    },
+    "resultCard": {
+      "link": "",
+      "details": "",
+      "instruction": []
+    },
+    "answerKey": {
+      "startDate": "",
+      "link": "",
+      "details": "",
+      "instruction": []
+    },
+    "table": [
+      {
+        "title": "Department Wise Vacancy Details",
+        "details": "",
+        "notes": "",
+        "list": [
+          [
+            "Post Name",
+            "Department",
+            "Total Post"
+          ],
+          [
+            "Health Supervisor",
+            "Directorate of Health Services",
+            "137"
+          ],
+          [
+            "Junior Regional Investigator",
+            "Planning and Development Department (Directorate of Economics and Statistics)",
+            "27"
+          ],
+          [
+            "Multipurpose Health Worker",
+            "Department of Health",
+            "Medical Education",
+            "and Family Welfare",
+            "62"
+          ],
+          [
+            "Field Assistant / Medical Assistant",
+            "Urban Development and Housing Department",
+            "27"
+          ],
+          [
+            "Insect Collector",
+            "Directorate of Health Services",
+            "32"
+          ],
+          [
+            "Fisheries Technical Assistant",
+            "Department of Agriculture",
+            "Animal Husbandry",
+            "and Cooperation – Fisheries Division",
+            "41"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1786862901,
+    "examType": "job",
+    "id": "SJVN-Various-Post-Recruitment-2026",
+    "orgId": "Satluj Jal Vidyut Nigam Limited (SJVN)",
+    "name": "SJVN Various Post Recruitment 2026",
+    "importantDates": {
+      "startDate": "05/08/2026",
+      "lastDate": "26/08/2026",
+      "lastDateFeePayment": "26/08/2026",
+      "otherDates": [
+        {
+          "title": "Send to Hard Copy Last Date",
+          "date": "15/09/2026"
+        }
+      ]
+    },
+    "fee": {
+      "general": "500",
+      "obc": "500",
+      "ews": "0",
+      "sc": "0",
+      "st": "0",
+      "ph": "0",
+      "female": "",
+      "notes": "Pay the Exam Fee Through Online / Offline Fee Mode Only"
+    },
+    "totalPost": {
+      "count": 21,
+      "notes": ""
+    },
+    "ageDetails": {
+      "minAge": 18,
+      "maxAge": 55,
+      "notes": "Age Relaxation Extra as per SJVN Various Post Examination Rules."
+    },
+    "vacancyDetails": [
+      {
+        "postName": "Chief General Manager/E8 (a)(Electrical / Mechanical)",
+        "totalPost": "1",
+        "category": {
+          "ur": "1",
+          "obc": "0",
+          "ews": "0",
+          "sc": "0",
+          "st": "0",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 18,
+          "maxAge": 55,
+          "qualification": [
+            "Bachelor Degree in Electrical/ Electrical & Electronics Engineering / Mechanical Engineering from a recognized University / Institution of India"
+          ]
+        }
+      },
+      {
+        "postName": "Dy Manager/ E4 (Mechanical)",
+        "totalPost": "3",
+        "category": {
+          "ur": "",
+          "obc": "2",
+          "ews": "",
+          "sc": "1",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 18,
+          "maxAge": 35,
+          "qualification": [
+            "Bachelor Degree in Mechanical Engineering from a recognized University/Institution of India."
+          ]
+        }
+      },
+      {
+        "postName": "Engineer / E2 (Mechanical)",
+        "totalPost": "6",
+        "category": {
+          "ur": "5",
+          "obc": "1",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 18,
+          "maxAge": 32,
+          "qualification": [
+            "Bachelor Degree in Mechanical Engineering from a recognized University/Institution of India."
+          ]
+        }
+      },
+      {
+        "postName": "Dy Manager/ E4 (Electrical)",
+        "totalPost": "3",
+        "category": {
+          "ur": "2",
+          "obc": "1",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 18,
+          "maxAge": 36,
+          "qualification": [
+            "Bachelor Degree in Electrical/ Electrical & Electronics Engineering from a recognized University / Institution of India."
+          ]
+        }
+      },
+      {
+        "postName": "Engineer / E2 (Electrical)",
+        "totalPost": "3",
+        "category": {
+          "ur": "3",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 0,
+          "maxAge": 3118,
+          "qualification": [
+            "Bachelor Degree in Electrical/ Electrical & Electronics Engineering from a recognized University / Institution of India."
+          ]
+        }
+      },
+      {
+        "postName": "Dy Manager/ E4 (C&I)",
+        "totalPost": "1",
+        "category": {
+          "ur": "1",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 18,
+          "maxAge": 36,
+          "qualification": [
+            "Bachelor Degree in Electrical/ Electrical & Electronics/ Instrumentation & Control/ Electronics & Instrumentation Engineering from a recognized University / Institution of India."
+          ]
+        }
+      },
+      {
+        "postName": "Dy Manager/ E4 (Chemical)",
+        "totalPost": "1",
+        "category": {
+          "ur": "1",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 18,
+          "maxAge": 36,
+          "qualification": [
+            "Bachelor Degree in Chemical Engineering / M.Sc (Chemistry) from a recognized University/Institution of India."
+          ]
+        }
+      },
+      {
+        "postName": "Engineer / E2 (Chemical)",
+        "totalPost": "1",
+        "category": {
+          "ur": "1",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 18,
+          "maxAge": 32,
+          "qualification": [
+            "Bachelor Degree in Chemical Engineering / M.Sc (Chemistry) from a recognized University/Institution of India."
+          ]
+        }
+      }
+    ],
+    "importantLinks": [
+      {
+        "title": "Apply Online",
+        "links": [
+          {
+            "title": "Link will be Activate on 05/08/2026",
+            "link": "https://sjvn.nic.in/en/current-job"
+          }
+        ]
+      },
+      {
+        "title": "Download Notification",
+        "links": [
+          {
+            "title": "",
+            "link": "https://sjvn.nic.in/sites/default/files/2026-07/Detailed%20Advt%20127.pdf"
+          }
+        ]
+      }
+    ],
+    "admitCard": {
+      "startDate": "",
+      "link": "",
+      "details": "",
+      "instruction": []
+    },
+    "resultCard": {
+      "link": "",
+      "details": "",
+      "instruction": []
+    },
+    "answerKey": {
+      "startDate": "",
+      "link": "",
+      "details": "",
+      "instruction": []
+    },
+    "table": [
+      {
+        "title": " Category Wise Vacancy Details Table",
+        "details": "",
+        "notes": "",
+        "list": [
+          [
+            "Level",
+            "Discipline",
+            "Designation",
+            "UR",
+            "OBC",
+            "EWS",
+            "SC",
+            "ST",
+            "Total Post"
+          ],
+          [
+            "E2",
+            "Mechanical",
+            "Engineer",
+            "5",
+            "1",
+            "0",
+            "0",
+            "0",
+            "6"
+          ],
+          [
+            "Electrical",
+            "Engineer",
+            "3",
+            "0",
+            "0",
+            "0",
+            "0",
+            "3"
+          ],
+          [
+            "C&I",
+            "Engineer",
+            "2",
+            "0",
+            "0",
+            "0",
+            "0",
+            "2"
+          ],
+          [
+            "Chemical",
+            "Engineer",
+            "1",
+            "0",
+            "0",
+            "0",
+            "0",
+            "1"
+          ],
+          [
+            "E4",
+            "Mechanical",
+            "Dy. Manager",
+            "0",
+            "2",
+            "0",
+            "1",
+            "0",
+            "3"
+          ],
+          [
+            "Electrical",
+            "Dy. Manager",
+            "2",
+            "1",
+            "0",
+            "0",
+            "0",
+            "3"
+          ],
+          [
+            "C&I",
+            "Dy. Manager",
+            "1",
+            "0",
+            "0",
+            "0",
+            "0",
+            "1"
+          ],
+          [
+            "Chemical",
+            "Dy. Manager",
+            "1",
+            "0",
+            "0",
+            "0",
+            "0",
+            "1"
+          ],
+          [
+            "E8(A)",
+            "Mechanical / Electrical",
+            "Chief General Manager",
+            "1",
+            "0",
+            "0",
+            "0",
+            "0",
+            "1"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1786862901,
+    "examType": "job",
+    "id": "UPSSSC-Scientific-Assistant-and-Lab-Assistant-Main-Examination-2026",
+    "orgId": "Uttar Pradesh Subordinate Service Selection Commission (UPSSSC)",
+    "name": "UPSSSC Scientific Assistant and Lab Assistant Main Examination 2026",
+    "importantDates": {
+      "startDate": "27/07/2026",
+      "lastDate": "17/08/2026",
+      "lastDateFeePayment": "17/08/2026",
+      "examDate": "As per Schedule",
+      "correctionDate": "24/08/2026"
+    },
+    "fee": {
+      "general": "25",
+      "obc": "25",
+      "ews": "25",
+      "sc": "25",
+      "st": "25",
+      "ph": "25",
+      "female": "",
+      "notes": "ay the Examination Fee Through UPI, Debit Card, Credit Card and Net Banking Mode Only."
+    },
+    "totalPost": {
+      "count": 208,
+      "notes": ""
+    },
+    "ageDetails": {
+      "minAge": 21,
+      "maxAge": 40,
+      "notes": "Age Relaxation Extra as per UPSSSC Main Recruitment Rules Advt. No. 15-Exam/2026."
+    },
+    "vacancyDetails": [
+      {
+        "postName": "Scientific Assistant",
+        "totalPost": "134",
+        "category": {
+          "ur": "54",
+          "obc": "37",
+          "ews": "13",
+          "sc": "28",
+          "st": "2",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 21,
+          "maxAge": 40,
+          "qualification": [
+            "UPSSSC PET 2025 Exam Passed",
+            "Bachelor Degree in Science B.Sc in Biology / Physics / Chemistry / Computer Science OR NIELIT A Level Diploma.",
+            "More Eligibility Read the Notification."
+          ]
+        }
+      },
+      {
+        "postName": "Scientific Assistant (Special / Backlog)",
+        "totalPost": "13",
+        "category": {
+          "ur": "",
+          "obc": "6",
+          "ews": "",
+          "sc": "5",
+          "st": "2",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 21,
+          "maxAge": 40,
+          "qualification": [
+            "UPSSSC PET 2025 Exam Passed",
+            "Bachelor Degree in Science B.Sc in Biology / Physics / Chemistry / Computer Science OR NIELIT A Level Diploma.",
+            "More Eligibility Read the Notification."
+          ]
+        }
+      },
+      {
+        "postName": "Lab Assistant (Laboratory Assistant)",
+        "totalPost": "56",
+        "category": {
+          "ur": "23",
+          "obc": "15",
+          "ews": "5",
+          "sc": "12",
+          "st": "1",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 21,
+          "maxAge": 40,
+          "qualification": [
+            "UPSSSC PET 2025 Exam Passed",
+            "Bachelor Degree in Science B.Sc in Biology / Physics / Chemistry / Computer Science OR NIELIT A Level Diploma.",
+            "More Eligibility Read the Notification."
+          ]
+        }
+      },
+      {
+        "postName": "Lab Assistant (Special / Backlog)",
+        "totalPost": "5",
+        "category": {
+          "ur": "",
+          "obc": "3",
+          "ews": "",
+          "sc": "2",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 21,
+          "maxAge": 40,
+          "qualification": [
+            "UPSSSC PET 2025 Exam Passed",
+            "Bachelor Degree in Science B.Sc in Biology / Physics / Chemistry / Computer Science OR NIELIT A Level Diploma.",
+            "More Eligibility Read the Notification."
+          ]
+        }
+      }
+    ],
+    "importantLinks": [
+      {
+        "title": "Apply Online",
+        "links": [
+          {
+            "title": "",
+            "link": "https://upsssc.gov.in//AllNotifications.aspx"
+          }
+        ]
+      },
+      {
+        "title": "Download Syllabus",
+        "links": [
+          {
+            "title": "",
+            "link": "https://doc.sarkariresults.org.in/UPSSSC_Scientific_Lab_Assistant_Syllabus_2026%20(1).pdf"
+          }
+        ]
+      },
+      {
+        "title": "Download Notification",
+        "links": [
+          {
+            "title": "",
+            "link": "https://upsssc.gov.in//ViewPdf.aspx?omt6wajWeQ/wMLs6acTFSsdT5ApHGahB+4GmYQbMxzY="
+          }
+        ]
+      }
+    ],
+    "admitCard": {
+      "startDate": "",
+      "link": "",
+      "details": "",
+      "instruction": []
+    },
+    "resultCard": {
+      "link": "",
+      "details": "",
+      "instruction": []
+    },
+    "answerKey": {
+      "startDate": "",
+      "link": "",
+      "details": "",
+      "instruction": []
+    }
+  }
 ]
