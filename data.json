@@ -2017,6 +2017,341 @@
       ]
     }
   },
+
+
+{
+
+    "examType": "job",
+    "id": "IBPS-Probationary-Officer-Management-Trainees-XVI-Recruitment-2026",
+
+    "orgId": "Institute Of Banking Personal Selection (IBPS)",
+    "name": "IBPS Probationary Officer / Management Trainees-XVI Recruitment 2026",
+    "importantDates": {
+        "startDate": "01/07/2026",
+        "lastDate": "26/07/2026",
+        "lastDateFeePayment": "26/07/2026",
+        "correctionDate": "29/7/2026 to 30/7/2026",
+        "otherDates": [
+            {
+                "title": "IBPS PO Pre Exam Date : August 2026",
+                "date": "August 2026"
+            },
+            {
+                "title": "PET Admit Card",
+                "date": "10/08/2026"
+            },
+            {
+                "title": "Pre Admit Card Available",
+                "date": " Before Exam"
+            },
+            {
+                "title": "Pre Result Available",
+                "date": "September 2026"
+            },
+            {
+                "title": "IBPS PO Mains Exam Date ",
+                "date": "October 2026"
+            },
+            {
+                "title": "IBPS PO Mains Result Available",
+                "date": "November 2026"
+            }
+        ]
+    },
+    "fee": {
+        "general": "850",
+        "obc": "850",
+        "ews": "850",
+        "sc": "175",
+        "st": "175",
+        "ph": "175",
+        "female": "",
+        "notes": "Pay the Exam Fee Through Online / Offline Fee Mode Only"
+    },
+    "totalPost": {
+        "count": 7365,
+        "notes": ""
+    },
+    "ageDetails": {
+        "minAge": 20,
+        "maxAge": 30,
+        "notes": "Age Relaxation Extra as per IBPS Probationary Officer PO / MT-XVI Examination Rules 2026."
+    },
+    "vacancyDetails": [
+        {
+            "postName": "PO in Bank of Baroda BOB",
+            "totalPost": "1900",
+            "category": {
+                "ur": "770",
+                "obc": "513",
+                "ews": "190",
+                "sc": "285",
+                "st": "142",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 20,
+                "maxAge": 30,
+                "qualification": [
+                    "Bachelor Degree in Any Stream in Any Recognized Board in India"
+                ]
+            }
+        },
+        {
+            "postName": "PO in Bank of India BOI ",
+            "totalPost": "500",
+            "category": {
+                "ur": "203",
+                "obc": "135",
+                "ews": "50",
+                "sc": "75",
+                "st": "37",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 20,
+                "maxAge": 30,
+                "qualification": []
+            }
+        },
+        {
+            "postName": "PO in Canara Bank",
+            "totalPost": "1500",
+            "category": {
+                "ur": "608",
+                "obc": "405",
+                "ews": "150",
+                "sc": "225",
+                "st": "112",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 20,
+                "maxAge": 30,
+                "qualification": []
+            }
+        },
+        {
+            "postName": "PO in Bank of Maharashtra BOM",
+            "totalPost": "1100",
+            "category": {
+                "ur": "446",
+                "obc": "297",
+                "ews": "110",
+                "sc": "165",
+                "st": "82",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 20,
+                "maxAge": 30,
+                "qualification": []
+            }
+        },
+        {
+            "postName": "PO in Central Bank of India",
+            "totalPost": "500",
+            "category": {
+                "ur": "203",
+                "obc": "135",
+                "ews": "50",
+                "sc": "75",
+                "st": "37",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 20,
+                "maxAge": 30,
+                "qualification": []
+            }
+        },
+        {
+            "postName": "Indian Bank",
+            "totalPost": "650",
+            "category": {
+                "ur": "217",
+                "obc": "199",
+                "ews": "52",
+                "sc": "122",
+                "st": "60",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 20,
+                "maxAge": 30,
+                "qualification": []
+            }
+        },
+        {
+            "postName": "PO in Indian Overseas Bank IOB",
+            "totalPost": "550",
+            "category": {
+                "ur": "223",
+                "obc": "148",
+                "ews": "54",
+                "sc": "84",
+                "st": "41",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 20,
+                "maxAge": 30,
+                "qualification": []
+            }
+        },
+        {
+            "postName": "PO in Punjab National Bank PNB",
+            "totalPost": "504",
+            "category": {
+                "ur": "204",
+                "obc": "136",
+                "ews": "50",
+                "sc": "76",
+                "st": "",
+                "female": "",
+                "ph": "38"
+            },
+            "eligiblity": {
+                "minAge": 20,
+                "maxAge": 30,
+                "qualification": []
+            }
+        },
+        {
+            "postName": "PO in Punjab & Sindh Bank",
+            "totalPost": "161",
+            "category": {
+                "ur": "62",
+                "obc": "47",
+                "ews": "15",
+                "sc": "24",
+                "st": "13",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 20,
+                "maxAge": 30,
+                "qualification": []
+            }
+        }
+    ],
+    "importantLinks": [
+        {
+            "title": "Apply Online",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://ibpsreg.ibps.in/crppoxvijun26/index.php"
+                }
+            ]
+        },
+        {
+            "title": "Correction Form Notice",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://www.ibps.in/wp-content/uploads/IMPORTANT-NOTICE_Edit_Window_28.07.26.pdf"
+                }
+            ]
+        },
+        {
+            "title": "Vacancy Increase Notice",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://www.ibps.in/wp-content/uploads/CRP_PO_XVI_ANNEXURE-I_updated_20.07.2026.pdf"
+                }
+            ]
+        },
+        {
+            "title": "Download Notification",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://www.ibps.in/wp-content/uploads/Detailed-Notification_CRP-PO-XVI_Final_V1_30.06.2026.pdf"
+                }
+            ]
+        },
+        {
+            "title": "Download Pre Admit Card",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://ibpsreg.ibps.in/crppoxvijun26/oecla_aug26/login.php?appid=a4fe64b0f7c33f95f3c4d31e06680eaf"
+                }
+            ]
+        },
+        {
+            "title": "Download PET Admit Card",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://ibpsonline.ibps.in/crppoxvipet/login.php?appid=66f2b7db8e6b1a9655c3c924093e384b"
+                }
+            ]
+        },
+        {
+            "title": "How to Fill Form (Video Hindi)",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://www.youtube.com/watch?v=8ollG1i6MCQ"
+                }
+            ]
+        },
+        {
+            "title": "Official Website",
+            "links": [
+                {
+                    "title": "IBPS Official Website",
+                    "link": "https://www.ibps.in/"
+                }
+            ]
+        }
+    ],
+    "admitCard": {
+      "timestamp":1786888338,
+        "startDate": "10/08/2026",
+        "link": "https://ibpsreg.ibps.in/crppoxvijun26/oecla_aug26/login.php?appid=a4fe64b0f7c33f95f3c4d31e06680eaf",
+        "details": "",
+        "instruction": []
+    },
+    "resultCard": {
+        "link": "",
+        "details": "",
+        "instruction": []
+    },
+    "answerKey": {
+        "startDate": "",
+        "link": "",
+        "details": "",
+        "instruction": []
+    }
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   {
     "timestamp": 1785740303,
     "id": "central-Bank-of-India-(CBI)-Apprentice-Recruitment-2026-Exam-Date",
@@ -8052,2147 +8387,2598 @@
       "instruction": []
     }
   },
-  {  "timestamp": 1786862901,
+  {
+    "timestamp": 1786862901,
     "examType": "job",
     "id": "Bank-of-Baroda-Specialist-Officer-SO-Recruitment-2026",
     "orgId": "Bank of Baroda (BOB)",
     "name": "Bank of Baroda Specialist Officer SO Recruitment 2026",
     "importantDates": {
-        "startDate": "06/08/2026",
-        "lastDate": "26/08/2026",
-        "lastDateFeePayment": "26/08/2026",
-        "examDate": "As per Schedule"
+      "startDate": "06/08/2026",
+      "lastDate": "26/08/2026",
+      "lastDateFeePayment": "26/08/2026",
+      "examDate": "As per Schedule"
     },
     "fee": {
-        "general": "850",
-        "obc": "850",
-        "ews": "850",
-        "sc": "175",
-        "st": "175",
-        "ph": "175",
-        "female": "175",
-        "notes": "Pay the Exam Fee Through Online / Offline Fee Mode Only"
+      "general": "850",
+      "obc": "850",
+      "ews": "850",
+      "sc": "175",
+      "st": "175",
+      "ph": "175",
+      "female": "175",
+      "notes": "Pay the Exam Fee Through Online / Offline Fee Mode Only"
     },
     "totalPost": {
-        "count": 206,
-        "notes": "23"
+      "count": 206,
+      "notes": "23"
     },
     "ageDetails": {
-        "minAge": 40,
-        "maxAge": 0,
-        "notes": "Age Relaxation Extra as per Bank of Baroda Specialist Officer SO Recruitment Rules Advt. No. BOB/HRM/REC/ADVT/2026/15."
+      "minAge": 40,
+      "maxAge": 0,
+      "notes": "Age Relaxation Extra as per Bank of Baroda Specialist Officer SO Recruitment Rules Advt. No. BOB/HRM/REC/ADVT/2026/15."
     },
     "vacancyDetails": [
-        {
-            "postName": "Manager Digital Product",
-            "totalPost": "13",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 24,
-                "maxAge": 36,
-                "qualification": [
-                    "B.E./B.Tech in IT/CS/E&C with 3 Years experience.",
-                    "Age Limit : 24-36 Years.",
-                    "More Eligibility Details Read The Notification."
-                ]
-            }
+      {
+        "postName": "Manager Digital Product",
+        "totalPost": "13",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
         },
-        {
-            "postName": "Senior Manager Digital Product",
-            "totalPost": "1",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 27,
-                "maxAge": 39,
-                "qualification": [
-                    "B.E./B.Tech Degree in CS / IT / Electronics / Electronics and Telecommunication / EC / Electronics and Instrumentation OR MCA",
-                    "6 Years experience",
-                    "Age Limit : 27-39 Years."
-                ]
-            }
-        },
-        {
-            "postName": "Product Manager Digital Lending",
-            "totalPost": "05",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 23,
-                "maxAge": 35,
-                "qualification": [
-                    "Bachelor Degree in Any Stream from Any Recognized University in India.",
-                    "3 Year Experience",
-                    "Age Limit : 23-35 Years."
-                ]
-            }
-        },
-        {
-            "postName": "Technical Officer Civil Engineer",
-            "totalPost": "35",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 23,
-                "maxAge": 35,
-                "qualification": [
-                    "B.E./B.Tech Civil Degree in Civil Engineering.",
-                    "2 Year Experience.",
-                    "Age Limit : 23-35 Years.",
-                    "More Eligibility Details Read The Notification."
-                ]
-            }
-        },
-        {
-            "postName": "Technical Manager Civil Engineer",
-            "totalPost": "21",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 23,
-                "maxAge": 37,
-                "qualification": [
-                    "B.E./B.Tech Civil Engineering.",
-                    "4 Year Experience.",
-                    "Age Limit : 25-37 Years.",
-                    "More Eligibility Details Read The Notification."
-                ]
-            }
-        },
-        {
-            "postName": "Technical Senior Manager Civil Engineer",
-            "totalPost": "6",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 28,
-                "maxAge": 40,
-                "qualification": [
-                    "B.E./B.Tech Civil Engineering",
-                    "7 Year Experience.",
-                    "Age Limit : 28-40 Years.",
-                    "More Eligibility Details Read The Notification."
-                ]
-            }
-        },
-        {
-            "postName": "Technical Officer Electrical Engineer",
-            "totalPost": "15",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 23,
-                "maxAge": 35,
-                "qualification": [
-                    "B.E./B.Tech Electrical Engineering",
-                    "2 Year Experience.",
-                    "Age Limit : 23-35 Years.",
-                    "More Eligibility Details Read The Notification."
-                ]
-            }
-        },
-        {
-            "postName": "Technical Manager Electrical Engineer",
-            "totalPost": "9",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 25,
-                "maxAge": 37,
-                "qualification": [
-                    "B.E./B.Tech Electrical Engineering.",
-                    "4 Years experience",
-                    "Age Limit : 25-37 Years.",
-                    "More Eligibility Details Read The Notification"
-                ]
-            }
-        },
-        {
-            "postName": "Technical Senior Manager Electrical Engineer",
-            "totalPost": "2",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 28,
-                "maxAge": 40,
-                "qualification": [
-                    "B.E./B.Tech Electrical Engineering",
-                    "7 Years experience",
-                    "Age Limit : 28-40 Years.",
-                    "More Eligibility Details Read The Notification."
-                ]
-            }
-        },
-        {
-            "postName": "Manager Information Security",
-            "totalPost": "13",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 24,
-                "maxAge": 34,
-                "qualification": [
-                    "B.E./B.Tech in CS / IT / EC / Electronics & Instrumentation / Electronics & Electrical /  MCA / M.Sc / M.Tech",
-                    "CEH / CompTIA Secruity+ / CCNA / CISA",
-                    "3 Years experience",
-                    "Age Limit : 24-36 Years.",
-                    "More Eligibility Details Read The Notification."
-                ]
-            }
-        },
-        {
-            "postName": "Senior Manager Information Security",
-            "totalPost": "3",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 27,
-                "maxAge": 39,
-                "qualification": [
-                    "B.E./B.Tech in CS / IT / EC / Electronics & Instrumentation / Electronics & Electrical /  MCA / M.Sc / M.Tech",
-                    "CEH / CompTIA Secruity+ / CCNA / CISA",
-                    "6 Years experience",
-                    "Age Limit : 27-39 Years.",
-                    "More Eligibility Details Read The Notification."
-                ]
-            }
-        },
-        {
-            "postName": "Manager Security",
-            "totalPost": "54",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 25,
-                "maxAge": 35,
-                "qualification": [
-                    "Bachelor Degree in Any Stream.",
-                    "5 Year Experience.",
-                    "Age Limit : 25-35 Years",
-                    "More Eligibility Details Read The Notification."
-                ]
-            }
-        },
-        {
-            "postName": "Chief Manager Data Scientist",
-            "totalPost": "1",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 31,
-                "maxAge": 43,
-                "qualification": [
-                    "B.E./B.Tech/M.E./M.Tech/B.Sc/M.Sc/BCA/MCA/Data Science/Statistics/Applied Mathematics",
-                    "10 Years IT experience",
-                    "Age Limit : 31-43 Years.",
-                    "More Eligibility Details Read The Notification."
-                ]
-            }
-        },
-        {
-            "postName": "Senior Manager Data Scientist",
-            "totalPost": "1",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 27,
-                "maxAge": 39,
-                "qualification": [
-                    "B.E./B.Tech/M.E./M.Tech/B.Sc/M.Sc/BCA/MCA/Data Science/Statistics/Applied Mathematics",
-                    "6 Years IT experience",
-                    "Age Limit : 27-39 Years.",
-                    "More Eligibility Details Read The Notification."
-                ]
-            }
-        },
-        {
-            "postName": "Senior Manager Data Profiling",
-            "totalPost": "2",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 27,
-                "maxAge": 39,
-                "qualification": [
-                    "B.Sc/B.E./B.Tech in CS / IT / BCA/MCA",
-                    "6 Years experience",
-                    "Age Limit : 27-39 Years.",
-                    "More Eligibility Details Read The Notification."
-                ]
-            }
-        },
-        {
-            "postName": "Senior Manager DQ Analys",
-            "totalPost": "2",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 27,
-                "maxAge": 39,
-                "qualification": [
-                    "Bachelor Degree in CS/IS/Statistics/Data Science/Mathematics or M.Sc Data Science",
-                    "6 Years experience",
-                    "Age Limit : 27-39 Years.",
-                    "More Eligibility Details Read The Notification."
-                ]
-            }
-        },
-        {
-            "postName": "Senior Manager BI & Dashboard Development",
-            "totalPost": "8",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 27,
-                "maxAge": 39,
-                "qualification": [
-                    "B.E./B.Tech relevant / MCA / M.Sc IT/CS",
-                    "6 Years experience",
-                    "Age Limit : 27-39 Years.",
-                    "More Eligibility Details Read The Notification."
-                ]
-            }
-        },
-        {
-            "postName": "Manager Taxation",
-            "totalPost": "5",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 25,
-                "maxAge": 37,
-                "qualification": [
-                    "CA / ICWA",
-                    "2 Years experience",
-                    "Age Limit : 25-37 years.",
-                    "More Eligibility Details Read The Notification."
-                ]
-            }
-        },
-        {
-            "postName": "Manager Accounts",
-            "totalPost": "5",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 25,
-                "maxAge": 37,
-                "qualification": [
-                    "CA / ICWA",
-                    "2 Years experience",
-                    "Age Limit : 25-37 years.",
-                    "More Eligibility Details Read The Notification."
-                ]
-            }
-        },
-        {
-            "postName": "Senior Manager Taxation",
-            "totalPost": "2",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 28,
-                "maxAge": 40,
-                "qualification": [
-                    "CA / ICWA",
-                    "5 Years experience",
-                    "Age Limit : 28-40 years.",
-                    "More Eligibility Details Read The Notification."
-                ]
-            }
-        },
-        {
-            "postName": "Senior Manager Accounts",
-            "totalPost": "2",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 28,
-                "maxAge": 40,
-                "qualification": [
-                    "CA / ICWA",
-                    "5 Years experience",
-                    "Age Limit : 28-40 Years.",
-                    "More Eligibility Details Read The Notification."
-                ]
-            }
-        },
-        {
-            "postName": "Chief Manager Investor Relations",
-            "totalPost": "1",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 28,
-                "maxAge": 40,
-                "qualification": [
-                    "Bachelor Degree in Economics/Commerce",
-                    "8 Years Experience.",
-                    "Age Limit ; 28-40 Years.",
-                    "More Eligibility Details Read The Notification."
-                ]
-            }
+        "eligiblity": {
+          "minAge": 24,
+          "maxAge": 36,
+          "qualification": [
+            "B.E./B.Tech in IT/CS/E&C with 3 Years experience.",
+            "Age Limit : 24-36 Years.",
+            "More Eligibility Details Read The Notification."
+          ]
         }
+      },
+      {
+        "postName": "Senior Manager Digital Product",
+        "totalPost": "1",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 27,
+          "maxAge": 39,
+          "qualification": [
+            "B.E./B.Tech Degree in CS / IT / Electronics / Electronics and Telecommunication / EC / Electronics and Instrumentation OR MCA",
+            "6 Years experience",
+            "Age Limit : 27-39 Years."
+          ]
+        }
+      },
+      {
+        "postName": "Product Manager Digital Lending",
+        "totalPost": "05",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 23,
+          "maxAge": 35,
+          "qualification": [
+            "Bachelor Degree in Any Stream from Any Recognized University in India.",
+            "3 Year Experience",
+            "Age Limit : 23-35 Years."
+          ]
+        }
+      },
+      {
+        "postName": "Technical Officer Civil Engineer",
+        "totalPost": "35",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 23,
+          "maxAge": 35,
+          "qualification": [
+            "B.E./B.Tech Civil Degree in Civil Engineering.",
+            "2 Year Experience.",
+            "Age Limit : 23-35 Years.",
+            "More Eligibility Details Read The Notification."
+          ]
+        }
+      },
+      {
+        "postName": "Technical Manager Civil Engineer",
+        "totalPost": "21",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 23,
+          "maxAge": 37,
+          "qualification": [
+            "B.E./B.Tech Civil Engineering.",
+            "4 Year Experience.",
+            "Age Limit : 25-37 Years.",
+            "More Eligibility Details Read The Notification."
+          ]
+        }
+      },
+      {
+        "postName": "Technical Senior Manager Civil Engineer",
+        "totalPost": "6",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 28,
+          "maxAge": 40,
+          "qualification": [
+            "B.E./B.Tech Civil Engineering",
+            "7 Year Experience.",
+            "Age Limit : 28-40 Years.",
+            "More Eligibility Details Read The Notification."
+          ]
+        }
+      },
+      {
+        "postName": "Technical Officer Electrical Engineer",
+        "totalPost": "15",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 23,
+          "maxAge": 35,
+          "qualification": [
+            "B.E./B.Tech Electrical Engineering",
+            "2 Year Experience.",
+            "Age Limit : 23-35 Years.",
+            "More Eligibility Details Read The Notification."
+          ]
+        }
+      },
+      {
+        "postName": "Technical Manager Electrical Engineer",
+        "totalPost": "9",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 25,
+          "maxAge": 37,
+          "qualification": [
+            "B.E./B.Tech Electrical Engineering.",
+            "4 Years experience",
+            "Age Limit : 25-37 Years.",
+            "More Eligibility Details Read The Notification"
+          ]
+        }
+      },
+      {
+        "postName": "Technical Senior Manager Electrical Engineer",
+        "totalPost": "2",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 28,
+          "maxAge": 40,
+          "qualification": [
+            "B.E./B.Tech Electrical Engineering",
+            "7 Years experience",
+            "Age Limit : 28-40 Years.",
+            "More Eligibility Details Read The Notification."
+          ]
+        }
+      },
+      {
+        "postName": "Manager Information Security",
+        "totalPost": "13",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 24,
+          "maxAge": 34,
+          "qualification": [
+            "B.E./B.Tech in CS / IT / EC / Electronics & Instrumentation / Electronics & Electrical /  MCA / M.Sc / M.Tech",
+            "CEH / CompTIA Secruity+ / CCNA / CISA",
+            "3 Years experience",
+            "Age Limit : 24-36 Years.",
+            "More Eligibility Details Read The Notification."
+          ]
+        }
+      },
+      {
+        "postName": "Senior Manager Information Security",
+        "totalPost": "3",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 27,
+          "maxAge": 39,
+          "qualification": [
+            "B.E./B.Tech in CS / IT / EC / Electronics & Instrumentation / Electronics & Electrical /  MCA / M.Sc / M.Tech",
+            "CEH / CompTIA Secruity+ / CCNA / CISA",
+            "6 Years experience",
+            "Age Limit : 27-39 Years.",
+            "More Eligibility Details Read The Notification."
+          ]
+        }
+      },
+      {
+        "postName": "Manager Security",
+        "totalPost": "54",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 25,
+          "maxAge": 35,
+          "qualification": [
+            "Bachelor Degree in Any Stream.",
+            "5 Year Experience.",
+            "Age Limit : 25-35 Years",
+            "More Eligibility Details Read The Notification."
+          ]
+        }
+      },
+      {
+        "postName": "Chief Manager Data Scientist",
+        "totalPost": "1",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 31,
+          "maxAge": 43,
+          "qualification": [
+            "B.E./B.Tech/M.E./M.Tech/B.Sc/M.Sc/BCA/MCA/Data Science/Statistics/Applied Mathematics",
+            "10 Years IT experience",
+            "Age Limit : 31-43 Years.",
+            "More Eligibility Details Read The Notification."
+          ]
+        }
+      },
+      {
+        "postName": "Senior Manager Data Scientist",
+        "totalPost": "1",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 27,
+          "maxAge": 39,
+          "qualification": [
+            "B.E./B.Tech/M.E./M.Tech/B.Sc/M.Sc/BCA/MCA/Data Science/Statistics/Applied Mathematics",
+            "6 Years IT experience",
+            "Age Limit : 27-39 Years.",
+            "More Eligibility Details Read The Notification."
+          ]
+        }
+      },
+      {
+        "postName": "Senior Manager Data Profiling",
+        "totalPost": "2",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 27,
+          "maxAge": 39,
+          "qualification": [
+            "B.Sc/B.E./B.Tech in CS / IT / BCA/MCA",
+            "6 Years experience",
+            "Age Limit : 27-39 Years.",
+            "More Eligibility Details Read The Notification."
+          ]
+        }
+      },
+      {
+        "postName": "Senior Manager DQ Analys",
+        "totalPost": "2",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 27,
+          "maxAge": 39,
+          "qualification": [
+            "Bachelor Degree in CS/IS/Statistics/Data Science/Mathematics or M.Sc Data Science",
+            "6 Years experience",
+            "Age Limit : 27-39 Years.",
+            "More Eligibility Details Read The Notification."
+          ]
+        }
+      },
+      {
+        "postName": "Senior Manager BI & Dashboard Development",
+        "totalPost": "8",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 27,
+          "maxAge": 39,
+          "qualification": [
+            "B.E./B.Tech relevant / MCA / M.Sc IT/CS",
+            "6 Years experience",
+            "Age Limit : 27-39 Years.",
+            "More Eligibility Details Read The Notification."
+          ]
+        }
+      },
+      {
+        "postName": "Manager Taxation",
+        "totalPost": "5",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 25,
+          "maxAge": 37,
+          "qualification": [
+            "CA / ICWA",
+            "2 Years experience",
+            "Age Limit : 25-37 years.",
+            "More Eligibility Details Read The Notification."
+          ]
+        }
+      },
+      {
+        "postName": "Manager Accounts",
+        "totalPost": "5",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 25,
+          "maxAge": 37,
+          "qualification": [
+            "CA / ICWA",
+            "2 Years experience",
+            "Age Limit : 25-37 years.",
+            "More Eligibility Details Read The Notification."
+          ]
+        }
+      },
+      {
+        "postName": "Senior Manager Taxation",
+        "totalPost": "2",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 28,
+          "maxAge": 40,
+          "qualification": [
+            "CA / ICWA",
+            "5 Years experience",
+            "Age Limit : 28-40 years.",
+            "More Eligibility Details Read The Notification."
+          ]
+        }
+      },
+      {
+        "postName": "Senior Manager Accounts",
+        "totalPost": "2",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 28,
+          "maxAge": 40,
+          "qualification": [
+            "CA / ICWA",
+            "5 Years experience",
+            "Age Limit : 28-40 Years.",
+            "More Eligibility Details Read The Notification."
+          ]
+        }
+      },
+      {
+        "postName": "Chief Manager Investor Relations",
+        "totalPost": "1",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 28,
+          "maxAge": 40,
+          "qualification": [
+            "Bachelor Degree in Economics/Commerce",
+            "8 Years Experience.",
+            "Age Limit ; 28-40 Years.",
+            "More Eligibility Details Read The Notification."
+          ]
+        }
+      }
     ],
     "importantLinks": [
-        {
-            "title": "Apply Online",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://bankappsweb.bankofbaroda.bank.in/BOBRECRUITMENT_AUG_2610940/"
-                }
-            ]
-        },
-        {
-            "title": "Download Notification",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://bankofbaroda.bank.in/-/media/Project/BOB/CountryWebsites/India/Career/2026/26-08/Advertisement-Regular-06-08-2026-05-34.pdf"
-                }
-            ]
-        }
+      {
+        "title": "Apply Online",
+        "links": [
+          {
+            "title": "",
+            "link": "https://bankappsweb.bankofbaroda.bank.in/BOBRECRUITMENT_AUG_2610940/"
+          }
+        ]
+      },
+      {
+        "title": "Download Notification",
+        "links": [
+          {
+            "title": "",
+            "link": "https://bankofbaroda.bank.in/-/media/Project/BOB/CountryWebsites/India/Career/2026/26-08/Advertisement-Regular-06-08-2026-05-34.pdf"
+          }
+        ]
+      }
     ],
     "admitCard": {
-        "startDate": "",
-        "link": "",
-        "details": "",
-        "instruction": []
+      "startDate": "",
+      "link": "",
+      "details": "",
+      "instruction": []
     },
     "resultCard": {
-        "link": "",
-        "details": "",
-        "instruction": []
+      "link": "",
+      "details": "",
+      "instruction": []
     },
     "answerKey": {
-        "startDate": "",
-        "link": "",
-        "details": "",
-        "instruction": []
+      "startDate": "",
+      "link": "",
+      "details": "",
+      "instruction": []
     },
     "table": [
-        {
-            "title": "Category Wise Vacancy Details Table",
-            "details": "",
-            "notes": "",
-            "list": [
-                [
-                    "Post Name",
-                    "UR",
-                    "OBC",
-                    "EWS",
-                    "SC",
-                    "ST",
-                    "Total"
-                ],
-                [
-                    "Specialist Officer SO",
-                    "99",
-                    "53",
-                    "17",
-                    "28",
-                    "9",
-                    "206"
-                ]
-            ]
-        }
+      {
+        "title": "Category Wise Vacancy Details Table",
+        "details": "",
+        "notes": "",
+        "list": [
+          [
+            "Post Name",
+            "UR",
+            "OBC",
+            "EWS",
+            "SC",
+            "ST",
+            "Total"
+          ],
+          [
+            "Specialist Officer SO",
+            "99",
+            "53",
+            "17",
+            "28",
+            "9",
+            "206"
+          ]
+        ]
+      }
     ]
-},
-{"timestamp": 1786862901,
+  },
+  {
+    "timestamp": 1786862901,
     "examType": "job",
     "id": "UPPSC-Architectural-Assistant-Estate-Manager-Microbiologist-Examination-2026",
     "orgId": "Uttar Pradesh Public Service Commission (UPPSC)",
     "name": "UPPSC Architectural Assistant, Estate Manager & Microbiologist Examination 2026 ",
     "importantDates": {
-        "startDate": "03/08/2026",
-        "lastDate": "03/09/2026",
-        "lastDateFeePayment": "03/09/2026",
-        "examDate": "As per Schedule",
-        "correctionDate": "10/09/2026"
+      "startDate": "03/08/2026",
+      "lastDate": "03/09/2026",
+      "lastDateFeePayment": "03/09/2026",
+      "examDate": "As per Schedule",
+      "correctionDate": "10/09/2026"
     },
     "fee": {
-        "general": "225",
-        "obc": "225",
-        "ews": "225",
-        "sc": "105",
-        "st": "105",
-        "ph": "25",
-        "female": "",
-        "notes": ""
+      "general": "225",
+      "obc": "225",
+      "ews": "225",
+      "sc": "105",
+      "st": "105",
+      "ph": "25",
+      "female": "",
+      "notes": ""
     },
     "totalPost": {
-        "count": 37,
-        "notes": ""
+      "count": 37,
+      "notes": ""
     },
     "ageDetails": {
-        "minAge": 21,
-        "maxAge": 40,
-        "notes": "Age Relaxation Extra as per UPPSC Architectural Assistant, Estate Manager & Microbiologist Examination UP PCS Various Post A3-E1/2026 Notification."
+      "minAge": 21,
+      "maxAge": 40,
+      "notes": "Age Relaxation Extra as per UPPSC Architectural Assistant, Estate Manager & Microbiologist Examination UP PCS Various Post A3-E1/2026 Notification."
     },
     "vacancyDetails": [
-        {
-            "postName": "Architectural Assistant,",
-            "totalPost": "14",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 21,
-                "maxAge": 40,
-                "qualification": [
-                    "10+2 Intermediate with Architectural OR",
-                    "3 Year / 4 Year Architectural Course Full Time / Part Time with 2 Year Experience OR",
-                    "Diploma in Architectural Assistantship with Experience.",
-                    "More Eligibility Details Read the Notification"
-                ]
-            }
+      {
+        "postName": "Architectural Assistant,",
+        "totalPost": "14",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
         },
-        {
-            "postName": "Estate Manager",
-            "totalPost": "11",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 21,
-                "maxAge": 40,
-                "qualification": [
-                    "Bachelor Degree in Any Stream from Any Recognized University in India.",
-                    "More Eligibility Read the Notification."
-                ]
-            }
-        },
-        {
-            "postName": "Microbiologist",
-            "totalPost": "12",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 21,
-                "maxAge": 40,
-                "qualification": [
-                    "Master Degree in Microbiology with 3 Year Experience.",
-                    "More Eligibility Details Read the Notification"
-                ]
-            }
+        "eligiblity": {
+          "minAge": 21,
+          "maxAge": 40,
+          "qualification": [
+            "10+2 Intermediate with Architectural OR",
+            "3 Year / 4 Year Architectural Course Full Time / Part Time with 2 Year Experience OR",
+            "Diploma in Architectural Assistantship with Experience.",
+            "More Eligibility Details Read the Notification"
+          ]
         }
+      },
+      {
+        "postName": "Estate Manager",
+        "totalPost": "11",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 21,
+          "maxAge": 40,
+          "qualification": [
+            "Bachelor Degree in Any Stream from Any Recognized University in India.",
+            "More Eligibility Read the Notification."
+          ]
+        }
+      },
+      {
+        "postName": "Microbiologist",
+        "totalPost": "12",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 21,
+          "maxAge": 40,
+          "qualification": [
+            "Master Degree in Microbiology with 3 Year Experience.",
+            "More Eligibility Details Read the Notification"
+          ]
+        }
+      }
     ],
     "importantLinks": [
-        {
-            "title": "Apply Online",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://uppsc.up.nic.in/CandidatePages/Notifications.aspx"
-                }
-            ]
-        },
-        {
-            "title": "Download Notification (english)",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://doc.sarkariresults.org.in/UPPSC_A3_E1_2026_Notification_English.pdf"
-                }
-            ]
-        },
-        {
-            "title": "Download Notification (Hindi)",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://doc.sarkariresults.org.in/UPPSC_A3_E1_2026_Notification_Hindi.pdf"
-                }
-            ]
-        },
-        {
-            "title": "Download Short Notice",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://doc.sarkariresults.org.in/UPPSC_A3_E1_2026.pdf"
-                }
-            ]
-        }
+      {
+        "title": "Apply Online",
+        "links": [
+          {
+            "title": "",
+            "link": "https://uppsc.up.nic.in/CandidatePages/Notifications.aspx"
+          }
+        ]
+      },
+      {
+        "title": "Download Notification (english)",
+        "links": [
+          {
+            "title": "",
+            "link": "https://doc.sarkariresults.org.in/UPPSC_A3_E1_2026_Notification_English.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Download Notification (Hindi)",
+        "links": [
+          {
+            "title": "",
+            "link": "https://doc.sarkariresults.org.in/UPPSC_A3_E1_2026_Notification_Hindi.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Download Short Notice",
+        "links": [
+          {
+            "title": "",
+            "link": "https://doc.sarkariresults.org.in/UPPSC_A3_E1_2026.pdf"
+          }
+        ]
+      }
     ],
     "admitCard": {
-        "startDate": "",
-        "link": "",
-        "details": "",
-        "instruction": []
+      "startDate": "",
+      "link": "",
+      "details": "",
+      "instruction": []
     },
     "resultCard": {
-        "link": "",
-        "details": "",
-        "instruction": []
+      "link": "",
+      "details": "",
+      "instruction": []
     },
     "answerKey": {
-        "startDate": "",
-        "link": "",
-        "details": "",
-        "instruction": []
+      "startDate": "",
+      "link": "",
+      "details": "",
+      "instruction": []
     }
-},
-{"timestamp": 1786862901,
+  },
+  {
+    "timestamp": 1786862901,
     "examType": "job",
     "id": "ISRO-Assistants-Junior-Personal-Assistants-Upper-Division-Clerk-and-Stenographers-Recruitment-2026",
     "orgId": "Indian Space Research Organisation (ISRO)",
     "name": "ISRO Assistants, Junior Personal Assistants, Upper Division Clerk and Stenographers Recruitment  2026",
     "importantDates": {
-        "startDate": "27/07/2026",
-        "lastDate": "16/08/2026",
-        "lastDateFeePayment": "16/08/2026",
-        "examDate": "21/09/2026"
+      "startDate": "27/07/2026",
+      "lastDate": "16/08/2026",
+      "lastDateFeePayment": "16/08/2026",
+      "examDate": "21/09/2026"
     },
     "fee": {
-        "general": "500",
-        "obc": "500",
-        "ews": "500",
-        "sc": "500",
-        "st": "500",
-        "ph": "500",
-        "female": "",
-        "notes": "For Double Post All Category : 1000/-\nRefund After Appear CBT Exam : \nAfter deducting the Application Fee 100/- in respect of all other candidates: will be refunded\nas each applied post\nSC / ST / PH / Women : Full Amount Refunded\nNote : If Candidate Not Appear CBT / Written Exam Fee Will Not Refunded.\nPay the Exam Fee Through Online / Offline Fee Mode Only"
+      "general": "500",
+      "obc": "500",
+      "ews": "500",
+      "sc": "500",
+      "st": "500",
+      "ph": "500",
+      "female": "",
+      "notes": "For Double Post All Category : 1000/-\nRefund After Appear CBT Exam : \nAfter deducting the Application Fee 100/- in respect of all other candidates: will be refunded\nas each applied post\nSC / ST / PH / Women : Full Amount Refunded\nNote : If Candidate Not Appear CBT / Written Exam Fee Will Not Refunded.\nPay the Exam Fee Through Online / Offline Fee Mode Only"
     },
     "totalPost": {
-        "count": 244,
-        "notes": ""
+      "count": 244,
+      "notes": ""
     },
     "ageDetails": {
-        "minAge": 18,
-        "maxAge": 28,
-        "notes": "Age Relaxation Extra as per ISRO ICRB Various Post Examination Rules."
+      "minAge": 18,
+      "maxAge": 28,
+      "notes": "Age Relaxation Extra as per ISRO ICRB Various Post Examination Rules."
     },
     "vacancyDetails": [
-        {
-            "postName": "Assistant",
-            "totalPost": "113",
-            "category": {
-                "ur": "47",
-                "obc": "16",
-                "ews": "15",
-                "sc": "19",
-                "st": "16",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 18,
-                "maxAge": 28,
-                "qualification": [
-                    "Bachelor Degree in Any Stream with minimum 60% Marks or CGPA 6.32/10 from any recognized University.",
-                    "More Eligibility Details Read the Notification"
-                ]
-            }
+      {
+        "postName": "Assistant",
+        "totalPost": "113",
+        "category": {
+          "ur": "47",
+          "obc": "16",
+          "ews": "15",
+          "sc": "19",
+          "st": "16",
+          "female": "",
+          "ph": ""
         },
-        {
-            "postName": "Upper Division Clerk",
-            "totalPost": "22",
-            "category": {
-                "ur": "08",
-                "obc": "05",
-                "ews": "03",
-                "sc": "04",
-                "st": "02",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 18,
-                "maxAge": 28,
-                "qualification": [
-                    "Bachelor Degree in Any Stream with minimum 60% Marks or CGPA 6.32/10 from any recognized University.",
-                    "More Eligibility Details Read the Notification"
-                ]
-            }
-        },
-        {
-            "postName": "Stenographer",
-            "totalPost": "10",
-            "category": {
-                "ur": "8",
-                "obc": "1",
-                "ews": "",
-                "sc": "",
-                "st": "1",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 18,
-                "maxAge": 28,
-                "qualification": [
-                    "Bachelor Degree in Any Stream with minimum 60% Marks or CGPA 6.32/10 from any recognized University.",
-                    "English Stenography Speed 60 WPM",
-                    "Proficiency in the use of Computer.",
-                    "More Eligibility Details Read the Notification"
-                ]
-            }
-        },
-        {
-            "postName": "Junior Personal Assistant",
-            "totalPost": "81",
-            "category": {
-                "ur": "50",
-                "obc": "11",
-                "ews": "07",
-                "sc": "08",
-                "st": "05",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 18,
-                "maxAge": 28,
-                "qualification": [
-                    "Bachelor Degree in Any Stream with minimum 60% Marks or CGPA 6.32/10 from any recognized University.",
-                    "English Stenography Speed 60 WPM",
-                    "Proficiency in the use of Computer.",
-                    "More Eligibility Details Read the Notification"
-                ]
-            }
-        },
-        {
-            "postName": "Assistant (Autonomous Institutions)",
-            "totalPost": "17",
-            "category": {
-                "ur": "09",
-                "obc": "04",
-                "ews": "01",
-                "sc": "01",
-                "st": "02",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 18,
-                "maxAge": 28,
-                "qualification": []
-            }
-        },
-        {
-            "postName": "Junior Personal Assistant (Autonomous Institutions)",
-            "totalPost": "01",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 18,
-                "maxAge": 28,
-                "qualification": [
-                    "Bachelor Degree in Any Stream with minimum 60% Marks or CGPA 6.32/10 from any recognized University.",
-                    "English Stenography Speed 60 WPM",
-                    "Proficiency in the use of Computer.",
-                    "More Eligibility Details Read the Notification"
-                ]
-            }
+        "eligiblity": {
+          "minAge": 18,
+          "maxAge": 28,
+          "qualification": [
+            "Bachelor Degree in Any Stream with minimum 60% Marks or CGPA 6.32/10 from any recognized University.",
+            "More Eligibility Details Read the Notification"
+          ]
         }
+      },
+      {
+        "postName": "Upper Division Clerk",
+        "totalPost": "22",
+        "category": {
+          "ur": "08",
+          "obc": "05",
+          "ews": "03",
+          "sc": "04",
+          "st": "02",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 18,
+          "maxAge": 28,
+          "qualification": [
+            "Bachelor Degree in Any Stream with minimum 60% Marks or CGPA 6.32/10 from any recognized University.",
+            "More Eligibility Details Read the Notification"
+          ]
+        }
+      },
+      {
+        "postName": "Stenographer",
+        "totalPost": "10",
+        "category": {
+          "ur": "8",
+          "obc": "1",
+          "ews": "",
+          "sc": "",
+          "st": "1",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 18,
+          "maxAge": 28,
+          "qualification": [
+            "Bachelor Degree in Any Stream with minimum 60% Marks or CGPA 6.32/10 from any recognized University.",
+            "English Stenography Speed 60 WPM",
+            "Proficiency in the use of Computer.",
+            "More Eligibility Details Read the Notification"
+          ]
+        }
+      },
+      {
+        "postName": "Junior Personal Assistant",
+        "totalPost": "81",
+        "category": {
+          "ur": "50",
+          "obc": "11",
+          "ews": "07",
+          "sc": "08",
+          "st": "05",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 18,
+          "maxAge": 28,
+          "qualification": [
+            "Bachelor Degree in Any Stream with minimum 60% Marks or CGPA 6.32/10 from any recognized University.",
+            "English Stenography Speed 60 WPM",
+            "Proficiency in the use of Computer.",
+            "More Eligibility Details Read the Notification"
+          ]
+        }
+      },
+      {
+        "postName": "Assistant (Autonomous Institutions)",
+        "totalPost": "17",
+        "category": {
+          "ur": "09",
+          "obc": "04",
+          "ews": "01",
+          "sc": "01",
+          "st": "02",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 18,
+          "maxAge": 28,
+          "qualification": []
+        }
+      },
+      {
+        "postName": "Junior Personal Assistant (Autonomous Institutions)",
+        "totalPost": "01",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 18,
+          "maxAge": 28,
+          "qualification": [
+            "Bachelor Degree in Any Stream with minimum 60% Marks or CGPA 6.32/10 from any recognized University.",
+            "English Stenography Speed 60 WPM",
+            "Proficiency in the use of Computer.",
+            "More Eligibility Details Read the Notification"
+          ]
+        }
+      }
     ],
     "importantLinks": [
-        {
-            "title": "Apply Online",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://cdn.digialm.com//EForms/configuredHtml/1258/101396//Index.html"
-                }
-            ]
-        },
-        {
-            "title": "Download Syllabus",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://doc.sarkariresults.org.in/Microsoft%20Word%20-%20Final%20Advertisement%20Assistant%20JPA%2024%20july%20-%20Bilingual%20Advertisement_Asst_JPA_UDC_Steno_ICRB_2026_27072026.pdf"
-                }
-            ]
-        },
-        {
-            "title": "Download Notification",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://www.isro.gov.in/media_isro/pdf/recruitmentNotice/2026/July/Bilingual%20Advertisement_Asst_JPA_UDC_Steno_ICRB_2026_27072026.pdf"
-                }
-            ]
-        }
+      {
+        "title": "Apply Online",
+        "links": [
+          {
+            "title": "",
+            "link": "https://cdn.digialm.com//EForms/configuredHtml/1258/101396//Index.html"
+          }
+        ]
+      },
+      {
+        "title": "Download Syllabus",
+        "links": [
+          {
+            "title": "",
+            "link": "https://doc.sarkariresults.org.in/Microsoft%20Word%20-%20Final%20Advertisement%20Assistant%20JPA%2024%20july%20-%20Bilingual%20Advertisement_Asst_JPA_UDC_Steno_ICRB_2026_27072026.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Download Notification",
+        "links": [
+          {
+            "title": "",
+            "link": "https://www.isro.gov.in/media_isro/pdf/recruitmentNotice/2026/July/Bilingual%20Advertisement_Asst_JPA_UDC_Steno_ICRB_2026_27072026.pdf"
+          }
+        ]
+      }
     ],
     "admitCard": {
-        "startDate": "",
-        "link": "",
-        "details": "",
-        "instruction": []
+      "startDate": "",
+      "link": "",
+      "details": "",
+      "instruction": []
     },
     "resultCard": {
-        "link": "",
-        "details": "",
-        "instruction": []
+      "link": "",
+      "details": "",
+      "instruction": []
     },
     "answerKey": {
-        "startDate": "",
-        "link": "",
-        "details": "",
-        "instruction": []
+      "startDate": "",
+      "link": "",
+      "details": "",
+      "instruction": []
     }
-},
-{
+  },
+  {
     "timestamp": 1786859502,
     "examType": "job",
     "id": "Railway-RRB-Section-Controller-Recruitment-2026-CEN-03-2026",
     "orgId": "Railway Recruitment Board (RRB)",
     "name": "Railway RRB Section Controller Recruitment 2026 CEN 03/2026",
     "importantDates": {
-        "startDate": "15/07/2026",
-        "lastDate": "14/08/2026",
-        "lastDateFeePayment": "16/08/2026",
-        "examDate": "As per Schedule",
-        "reScheduledExamDate": "As per Schedule",
-        "correctionDate": "17/8/2026 to 26/8/2016"
+      "startDate": "15/07/2026",
+      "lastDate": "14/08/2026",
+      "lastDateFeePayment": "16/08/2026",
+      "examDate": "As per Schedule",
+      "reScheduledExamDate": "As per Schedule",
+      "correctionDate": "17/8/2026 to 26/8/2016"
     },
     "fee": {
-        "general": "500",
-        "obc": "500",
-        "ews": "500",
-        "sc": "250",
-        "st": "250",
-        "ph": "250",
-        "female": "",
-        "notes": "After Appear the Stage I Exam\nUR/OBC/EWS Fee Refund : 400/-\nSC / ST / PH / Female Refund : 250/-\nPay the Examination Fee Through Cast at E Challan or Debit Card, Credit Card, Net Banking"
+      "general": "500",
+      "obc": "500",
+      "ews": "500",
+      "sc": "250",
+      "st": "250",
+      "ph": "250",
+      "female": "",
+      "notes": "After Appear the Stage I Exam\nUR/OBC/EWS Fee Refund : 400/-\nSC / ST / PH / Female Refund : 250/-\nPay the Examination Fee Through Cast at E Challan or Debit Card, Credit Card, Net Banking"
     },
     "totalPost": {
-        "count": 119,
-        "notes": ""
+      "count": 119,
+      "notes": ""
     },
     "ageDetails": {
-        "minAge": 20,
-        "maxAge": 33
+      "minAge": 20,
+      "maxAge": 33
     },
     "vacancyDetails": [
-        {
-            "postName": "Railway RRB Section Controller Post",
-            "totalPost": "119",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 20,
-                "maxAge": 33,
-                "qualification": [
-                    "Bachelor Degree in Any Stream from Any Recognized University in India.",
-                    "More Eligibility Details Read the Notification."
-                ]
-            }
+      {
+        "postName": "Railway RRB Section Controller Post",
+        "totalPost": "119",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 20,
+          "maxAge": 33,
+          "qualification": [
+            "Bachelor Degree in Any Stream from Any Recognized University in India.",
+            "More Eligibility Details Read the Notification."
+          ]
         }
+      }
     ],
     "importantLinks": [
-        {
-            "title": "Apply Online",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://www.rrbapply.gov.in/#/auth/home"
-                }
-            ]
-        },
-        {
-            "title": "Download Notification",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://doc.sarkariresults.org.in/SarkariResult.COM_CEN03_2026.pdf"
-                }
-            ]
-        }
+      {
+        "title": "Apply Online",
+        "links": [
+          {
+            "title": "",
+            "link": "https://www.rrbapply.gov.in/#/auth/home"
+          }
+        ]
+      },
+      {
+        "title": "Download Notification",
+        "links": [
+          {
+            "title": "",
+            "link": "https://doc.sarkariresults.org.in/SarkariResult.COM_CEN03_2026.pdf"
+          }
+        ]
+      }
     ],
     "admitCard": {
-        "startDate": "",
-        "link": "",
-        "details": "",
-        "instruction": []
+      "startDate": "",
+      "link": "",
+      "details": "",
+      "instruction": []
     },
     "resultCard": {
-        "link": "",
-        "details": "",
-        "instruction": []
+      "link": "",
+      "details": "",
+      "instruction": []
     },
     "answerKey": {
-        "startDate": "",
-        "link": "",
-        "details": "",
-        "instruction": []
+      "startDate": "",
+      "link": "",
+      "details": "",
+      "instruction": []
     }
-},
-{
-  "timestamp": 1786862901,
+  },
+  {
+    "timestamp": 1786862901,
     "examType": "job",
     "id": "UPPSC-Manager-System-Senior-Programmer-Programmer-Grade-II-and-Computer-Operator-Examination-2026",
     "orgId": "Uttar Pradesh Public Service Commission (UPPSC)",
     "name": "UPPSC Manager System, Senior Programmer, Programmer Grade II and Computer Operator Examination 2026 ",
     "importantDates": {
-        "startDate": "03/08/2026",
-        "lastDate": "03/09/2026",
-        "lastDateFeePayment": "03/09/2026 ",
-        "examDate": "As per Schedule",
-        "correctionDate": "10/09/2026"
+      "startDate": "03/08/2026",
+      "lastDate": "03/09/2026",
+      "lastDateFeePayment": "03/09/2026 ",
+      "examDate": "As per Schedule",
+      "correctionDate": "10/09/2026"
     },
     "fee": {
-        "general": "225",
-        "obc": "225",
-        "ews": "225",
-        "sc": "25",
-        "st": "25",
-        "ph": "25",
-        "female": "",
-        "notes": "Pay the Exam Fee Through SBI Mops Debit Card, Credit Card, Net Banking or SBI E Challan Mode"
+      "general": "225",
+      "obc": "225",
+      "ews": "225",
+      "sc": "25",
+      "st": "25",
+      "ph": "25",
+      "female": "",
+      "notes": "Pay the Exam Fee Through SBI Mops Debit Card, Credit Card, Net Banking or SBI E Challan Mode"
     },
     "totalPost": {
-        "count": 10,
-        "notes": ""
+      "count": 10,
+      "notes": ""
     },
     "ageDetails": {
-        "minAge": 21,
-        "maxAge": 40
+      "minAge": 21,
+      "maxAge": 40
     },
     "vacancyDetails": [
-        {
-            "postName": "Manager System",
-            "totalPost": "01",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 21,
-                "maxAge": 40,
-                "qualification": [
-                    "Bachelor Degree in Computer."
-                ]
-            }
+      {
+        "postName": "Manager System",
+        "totalPost": "01",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
         },
-        {
-            "postName": "Senior Programmer",
-            "totalPost": "01",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 21,
-                "maxAge": 40,
-                "qualification": [
-                    "Degree with Diploma in Computer Application."
-                ]
-            }
-        },
-        {
-            "postName": "Programmer Grade II",
-            "totalPost": "01",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 21,
-                "maxAge": 40,
-                "qualification": [
-                    "Bachelor Degree in Any Stream from Any Recognized University in India.",
-                    "PG Diploma in Computer Science. OR A Level Exam Passed.",
-                    "More Eligibility Details Read the Notification"
-                ]
-            }
-        },
-        {
-            "postName": "Computer Operator",
-            "totalPost": "07",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 21,
-                "maxAge": 40,
-                "qualification": [
-                    "Bachelor Degree with Diploma in Computer Science OR",
-                    "Bachelor Degree with O Level Exam.",
-                    "Knowledge of Data Entry in Hindi and English.",
-                    "Typing 25 WPM Hindi, 40 WPM English",
-                    "More Eligibility Details Read the Notification."
-                ]
-            }
+        "eligiblity": {
+          "minAge": 21,
+          "maxAge": 40,
+          "qualification": [
+            "Bachelor Degree in Computer."
+          ]
         }
+      },
+      {
+        "postName": "Senior Programmer",
+        "totalPost": "01",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 21,
+          "maxAge": 40,
+          "qualification": [
+            "Degree with Diploma in Computer Application."
+          ]
+        }
+      },
+      {
+        "postName": "Programmer Grade II",
+        "totalPost": "01",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 21,
+          "maxAge": 40,
+          "qualification": [
+            "Bachelor Degree in Any Stream from Any Recognized University in India.",
+            "PG Diploma in Computer Science. OR A Level Exam Passed.",
+            "More Eligibility Details Read the Notification"
+          ]
+        }
+      },
+      {
+        "postName": "Computer Operator",
+        "totalPost": "07",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 21,
+          "maxAge": 40,
+          "qualification": [
+            "Bachelor Degree with Diploma in Computer Science OR",
+            "Bachelor Degree with O Level Exam.",
+            "Knowledge of Data Entry in Hindi and English.",
+            "Typing 25 WPM Hindi, 40 WPM English",
+            "More Eligibility Details Read the Notification."
+          ]
+        }
+      }
     ],
     "importantLinks": [
-        {
-            "title": "Apply Online",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://uppsc.up.nic.in/CandidatePages/Notifications.aspx"
-                }
-            ]
-        },
-        {
-            "title": "Download Notification",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://doc.sarkariresults.org.in/UPPSC_A2_E1_Notification_English.pdf"
-                }
-            ]
-        },
-        {
-            "title": "Download Notification",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://doc.sarkariresults.org.in/UPPSC_A2_E1_Notification_Hindi.pdf"
-                }
-            ]
-        },
-        {
-            "title": "Download Notice",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://doc.sarkariresults.org.in/UPPSC_A2_E1_2026.pdf"
-                }
-            ]
-        },
-        {
-            "title": "Official Website",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://uppsc.up.nic.in/"
-                }
-            ]
-        },
-        {
-            "title": "How To Fill Form (Hindi Video)",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://youtu.be/yu5cwUNte1U"
-                }
-            ]
-        }
+      {
+        "title": "Apply Online",
+        "links": [
+          {
+            "title": "",
+            "link": "https://uppsc.up.nic.in/CandidatePages/Notifications.aspx"
+          }
+        ]
+      },
+      {
+        "title": "Download Notification",
+        "links": [
+          {
+            "title": "",
+            "link": "https://doc.sarkariresults.org.in/UPPSC_A2_E1_Notification_English.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Download Notification",
+        "links": [
+          {
+            "title": "",
+            "link": "https://doc.sarkariresults.org.in/UPPSC_A2_E1_Notification_Hindi.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Download Notice",
+        "links": [
+          {
+            "title": "",
+            "link": "https://doc.sarkariresults.org.in/UPPSC_A2_E1_2026.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Official Website",
+        "links": [
+          {
+            "title": "",
+            "link": "https://uppsc.up.nic.in/"
+          }
+        ]
+      },
+      {
+        "title": "How To Fill Form (Hindi Video)",
+        "links": [
+          {
+            "title": "",
+            "link": "https://youtu.be/yu5cwUNte1U"
+          }
+        ]
+      }
     ],
     "admitCard": {
-        "startDate": "",
-        "link": "",
-        "details": "",
-        "instruction": []
+      "startDate": "",
+      "link": "",
+      "details": "",
+      "instruction": []
     },
     "resultCard": {
-        "link": "",
-        "details": "",
-        "instruction": []
+      "link": "",
+      "details": "",
+      "instruction": []
     },
     "answerKey": {
-        "startDate": "",
-        "link": "",
-        "details": "",
-        "instruction": []
+      "startDate": "",
+      "link": "",
+      "details": "",
+      "instruction": []
     }
-},
-{"timestamp": 1786862901,
+  },
+  {
+    "timestamp": 1786862901,
     "examType": "job",
     "id": "UPSC-Principal-&-Vice-Principal-Recruitment-2026",
     "orgId": "Union Public Service Commission (UPSC)",
     "name": "UPSC Principal & Vice Principal Recruitment 2026",
     "importantDates": {
-        "startDate": "25/07/2026",
-        "lastDate": "17/08/2026 (upto 06:00 PM)",
-        "lastDateFeePayment": "17/08/2026",
-        "examDate": "01/11/2026",
-        "notes": "Pen & Paper Based CRT Exam Date"
+      "startDate": "25/07/2026",
+      "lastDate": "17/08/2026 (upto 06:00 PM)",
+      "lastDateFeePayment": "17/08/2026",
+      "examDate": "01/11/2026",
+      "notes": "Pen & Paper Based CRT Exam Date"
     },
     "fee": {
-        "general": "25",
-        "obc": "25",
-        "ews": "25",
-        "sc": "0",
-        "st": "0",
-        "ph": "0",
-        "female": "",
-        "notes": "Pay the Exam Fee Through Online / Offline Fee Mode Only"
+      "general": "25",
+      "obc": "25",
+      "ews": "25",
+      "sc": "0",
+      "st": "0",
+      "ph": "0",
+      "female": "",
+      "notes": "Pay the Exam Fee Through Online / Offline Fee Mode Only"
     },
     "totalPost": {
-        "count": 828,
-        "notes": "Pen & Paper Based CRT Exam Date"
+      "count": 828,
+      "notes": "Pen & Paper Based CRT Exam Date"
     },
     "ageDetails": {
-        "minAge": 18,
-        "maxAge": 50,
-        "notes": "Age Relaxation Extra as per UPSC Principal & Vice Principal Examination Rules Advt. No 51/2026."
+      "minAge": 18,
+      "maxAge": 50,
+      "notes": "Age Relaxation Extra as per UPSC Principal & Vice Principal Examination Rules Advt. No 51/2026."
     },
     "vacancyDetails": [
-        {
-            "postName": "Principal (Male)",
-            "totalPost": "72",
-            "category": {
-                "ur": "37",
-                "obc": "7",
-                "ews": "7",
-                "sc": "13",
-                "st": "8",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 18,
-                "maxAge": 50,
-                "qualification": [
-                    "Master Degree from Any Recognized University in India.",
-                    "10 Year Experience.",
-                    "More Eligibility Details Read the Notification"
-                ]
-            }
+      {
+        "postName": "Principal (Male)",
+        "totalPost": "72",
+        "category": {
+          "ur": "37",
+          "obc": "7",
+          "ews": "7",
+          "sc": "13",
+          "st": "8",
+          "female": "",
+          "ph": ""
         },
-        {
-            "postName": "Principal Female",
-            "totalPost": "52",
-            "category": {
-                "ur": "32",
-                "obc": "11",
-                "ews": "4",
-                "sc": "3",
-                "st": "2",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 18,
-                "maxAge": 50,
-                "qualification": [
-                    "Master Degree from Any Recognized University in India.",
-                    "10 Year Experience.",
-                    "More Eligibility Details Read the Notification"
-                ]
-            }
-        },
-        {
-            "postName": "Vice Principal Male",
-            "totalPost": "364",
-            "category": {
-                "ur": "150",
-                "obc": "96",
-                "ews": "37",
-                "sc": "52",
-                "st": "29",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 18,
-                "maxAge": 35,
-                "qualification": [
-                    "Master Degree from Any Recognized University in India.",
-                    "2 Year Experience as PGT Teacher OR 3 Year Experience as TGT Teacher.",
-                    "More Eligibility Details Read the Notification"
-                ]
-            }
-        },
-        {
-            "postName": "Vice Principal Female",
-            "totalPost": "340",
-            "category": {
-                "ur": "137",
-                "obc": "93",
-                "ews": "34",
-                "sc": "51",
-                "st": "25",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 18,
-                "maxAge": 35,
-                "qualification": [
-                    "Master Degree from Any Recognized University in India.",
-                    "2 Year Experience as PGT Teacher OR 3 Year Experience as TGT Teacher.",
-                    "More Eligibility Details Read the Notification"
-                ]
-            }
+        "eligiblity": {
+          "minAge": 18,
+          "maxAge": 50,
+          "qualification": [
+            "Master Degree from Any Recognized University in India.",
+            "10 Year Experience.",
+            "More Eligibility Details Read the Notification"
+          ]
         }
+      },
+      {
+        "postName": "Principal Female",
+        "totalPost": "52",
+        "category": {
+          "ur": "32",
+          "obc": "11",
+          "ews": "4",
+          "sc": "3",
+          "st": "2",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 18,
+          "maxAge": 50,
+          "qualification": [
+            "Master Degree from Any Recognized University in India.",
+            "10 Year Experience.",
+            "More Eligibility Details Read the Notification"
+          ]
+        }
+      },
+      {
+        "postName": "Vice Principal Male",
+        "totalPost": "364",
+        "category": {
+          "ur": "150",
+          "obc": "96",
+          "ews": "37",
+          "sc": "52",
+          "st": "29",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 18,
+          "maxAge": 35,
+          "qualification": [
+            "Master Degree from Any Recognized University in India.",
+            "2 Year Experience as PGT Teacher OR 3 Year Experience as TGT Teacher.",
+            "More Eligibility Details Read the Notification"
+          ]
+        }
+      },
+      {
+        "postName": "Vice Principal Female",
+        "totalPost": "340",
+        "category": {
+          "ur": "137",
+          "obc": "93",
+          "ews": "34",
+          "sc": "51",
+          "st": "25",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 18,
+          "maxAge": 35,
+          "qualification": [
+            "Master Degree from Any Recognized University in India.",
+            "2 Year Experience as PGT Teacher OR 3 Year Experience as TGT Teacher.",
+            "More Eligibility Details Read the Notification"
+          ]
+        }
+      }
     ],
     "importantLinks": [
-        {
-            "title": "Apply Online",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://upsconline.nic.in/ora/"
-                }
-            ]
-        },
-        {
-            "title": "Download Date Extended Notice",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://www.upsc.gov.in/sites/default/files/Extension51-2026-Special-Engl-140826.pdf"
-                }
-            ]
-        },
-        {
-            "title": "Download Notification",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://www.upsc.gov.in/sites/default/files/AdvtNo-51-2026-Special-Engl-240726.pdf"
-                }
-            ]
-        }
+      {
+        "title": "Apply Online",
+        "links": [
+          {
+            "title": "",
+            "link": "https://upsconline.nic.in/ora/"
+          }
+        ]
+      },
+      {
+        "title": "Download Date Extended Notice",
+        "links": [
+          {
+            "title": "",
+            "link": "https://www.upsc.gov.in/sites/default/files/Extension51-2026-Special-Engl-140826.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Download Notification",
+        "links": [
+          {
+            "title": "",
+            "link": "https://www.upsc.gov.in/sites/default/files/AdvtNo-51-2026-Special-Engl-240726.pdf"
+          }
+        ]
+      }
     ],
     "admitCard": {
-        "startDate": "",
-        "link": "",
-        "details": "",
-        "instruction": []
+      "startDate": "",
+      "link": "",
+      "details": "",
+      "instruction": []
     },
     "resultCard": {
-        "link": "",
-        "details": "",
-        "instruction": []
+      "link": "",
+      "details": "",
+      "instruction": []
     },
     "answerKey": {
-        "startDate": "",
-        "link": "",
-        "details": "",
-        "instruction": []
+      "startDate": "",
+      "link": "",
+      "details": "",
+      "instruction": []
     }
-},
-{
+  },
+  {
     "timestamp": 1786862901,
     "examType": "job",
     "id": "IBPS-Common-Recruitment-Process-Clerks-in-Participating-Banks-IBPS-Clerk-XVI-Online-Form-2026",
     "orgId": "Institute of Banking Personal Selection (IBPS)",
     "name": "IBPS Common Recruitment Process Clerks in Participating Banks IBPS Clerk XVI Online Form 2026",
     "importantDates": {
-        "startDate": "01/08/2026",
-        "lastDate": "21/08/2026",
-        "lastDateFeePayment": "21/08/2026",
-        "examDate": "October 2026",
-        "correctionDate": "As per Schedule",
-        "otherDates": [
-            {
-                "title": "Online Pre Exam Date",
-                "date": " October 2026"
-            },
-            {
-                "title": "Pre Result Available",
-                "date": "November 2026"
-            },
-            {
-                "title": "Mains Exam Date",
-                "date": " December 2026"
-            }
-        ]
+      "startDate": "01/08/2026",
+      "lastDate": "21/08/2026",
+      "lastDateFeePayment": "21/08/2026",
+      "examDate": "October 2026",
+      "correctionDate": "As per Schedule",
+      "otherDates": [
+        {
+          "title": "Online Pre Exam Date",
+          "date": " October 2026"
+        },
+        {
+          "title": "Pre Result Available",
+          "date": "November 2026"
+        },
+        {
+          "title": "Mains Exam Date",
+          "date": " December 2026"
+        }
+      ]
     },
     "fee": {
-        "general": "850",
-        "obc": "850",
-        "ews": "850",
-        "sc": "",
-        "st": "",
-        "ph": "",
-        "female": "",
-        "notes": "Pay the Examination Fee Through Online Fee Mode Debit Card, Credit Card, Net Banking, Mobile Wallet, Cash Card."
+      "general": "850",
+      "obc": "850",
+      "ews": "850",
+      "sc": "",
+      "st": "",
+      "ph": "",
+      "female": "",
+      "notes": "Pay the Examination Fee Through Online Fee Mode Debit Card, Credit Card, Net Banking, Mobile Wallet, Cash Card."
     },
     "totalPost": {
-        "count": 11403,
-        "notes": ""
+      "count": 11403,
+      "notes": ""
     },
     "ageDetails": {
-        "minAge": 20,
-        "maxAge": 28,
-        "notes": "Age Limit Extra as per IBPS Clerk CRP CSA 16th Batch 2026 Recruitment Rules."
+      "minAge": 20,
+      "maxAge": 28,
+      "notes": "Age Limit Extra as per IBPS Clerk CRP CSA 16th Batch 2026 Recruitment Rules."
     },
     "vacancyDetails": [
-        {
-            "postName": "Clerk",
-            "totalPost": "11403",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 20,
-                "maxAge": 28,
-                "qualification": [
-                    "Bachelor Degree in Any Stream in Any Recognized University in India."
-                ]
-            }
+      {
+        "postName": "Clerk",
+        "totalPost": "11403",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 20,
+          "maxAge": 28,
+          "qualification": [
+            "Bachelor Degree in Any Stream in Any Recognized University in India."
+          ]
         }
+      }
     ],
     "importantLinks": [
-        {
-            "title": "Apply Online",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://ibpsreg.ibps.in/csaxvijul26/"
-                }
-            ]
-        },
-        {
-            "title": "Download Notification",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://www.ibps.in/wp-content/uploads/Notification_CRP_CSA_XVI-Final.pdf"
-                }
-            ]
-        },
-        {
-            "title": "How To Fill Form (Hindi Video)",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://youtu.be/QYpV-QGk5Ak"
-                }
-            ]
-        }
+      {
+        "title": "Apply Online",
+        "links": [
+          {
+            "title": "",
+            "link": "https://ibpsreg.ibps.in/csaxvijul26/"
+          }
+        ]
+      },
+      {
+        "title": "Download Notification",
+        "links": [
+          {
+            "title": "",
+            "link": "https://www.ibps.in/wp-content/uploads/Notification_CRP_CSA_XVI-Final.pdf"
+          }
+        ]
+      },
+      {
+        "title": "How To Fill Form (Hindi Video)",
+        "links": [
+          {
+            "title": "",
+            "link": "https://youtu.be/QYpV-QGk5Ak"
+          }
+        ]
+      }
     ],
     "admitCard": {
-        "startDate": "",
-        "link": "",
-        "details": "",
-        "instruction": []
+      "startDate": "",
+      "link": "",
+      "details": "",
+      "instruction": []
     },
     "resultCard": {
-        "link": "",
-        "details": "",
-        "instruction": []
+      "link": "",
+      "details": "",
+      "instruction": []
     },
     "answerKey": {
-        "startDate": "",
-        "link": "",
-        "details": "",
-        "instruction": []
+      "startDate": "",
+      "link": "",
+      "details": "",
+      "instruction": []
     },
     "table": [
-        {
-            "title": "State Wise Vacancy Details",
-            "details": "",
-            "notes": "",
-            "list": [
-                [
-                    "State Name",
-                    "Total Post",
-                    "State Name",
-                    "Total Post"
-                ],
-                [
-                    "Andaman & Nicobar",
-                    "18",
-                    "Andhra Pradesh",
-                    "186"
-                ],
-                [
-                    "Arunachal Pradesh",
-                    "45",
-                    "Assam",
-                    "349"
-                ],
-                [
-                    "Bihar",
-                    "491",
-                    "Chandigarh",
-                    "20"
-                ],
-                [
-                    "Chhattisgarh",
-                    "265",
-                    "Dadara & Nagar Haveli",
-                    "18"
-                ],
-                [
-                    "Delhi NCT",
-                    "415",
-                    "Goa",
-                    "61"
-                ],
-                [
-                    "Gujarat",
-                    "698",
-                    "Haryana",
-                    "196"
-                ],
-                [
-                    "Himachal Pradesh",
-                    "97",
-                    "Jammu & Kashmir",
-                    "67"
-                ],
-                [
-                    "Jharkhand",
-                    "182",
-                    "Karnataka",
-                    "1414"
-                ],
-                [
-                    "Kerala",
-                    "108",
-                    "Lakshadweep",
-                    "11"
-                ],
-                [
-                    "Madhya Pradesh",
-                    "570",
-                    "Maharashtra",
-                    "1051"
-                ],
-                [
-                    "Manipur",
-                    "42",
-                    "Meghalaya",
-                    "22"
-                ],
-                [
-                    "Mizoram",
-                    "17",
-                    "Nagaland",
-                    "31"
-                ],
-                [
-                    "Odisha",
-                    "337",
-                    "Puducherry",
-                    "26"
-                ],
-                [
-                    "Punjab",
-                    "481",
-                    "Rajasthan",
-                    "392"
-                ],
-                [
-                    "Sikkim",
-                    "28",
-                    "Tamil Naidu",
-                    "675"
-                ],
-                [
-                    "Telangana",
-                    "191",
-                    "Tripura",
-                    "64"
-                ],
-                [
-                    "Uttar Pradesh",
-                    "1731",
-                    "Uttarakhand",
-                    "145"
-                ],
-                [
-                    "West Bengal",
-                    "946",
-                    "Daman & Diu",
-                    "7"
-                ],
-                [
-                    "Ladakh",
-                    "6",
-                    "Total Post",
-                    "11403"
-                ]
-            ]
-        }
+      {
+        "title": "State Wise Vacancy Details",
+        "details": "",
+        "notes": "",
+        "list": [
+          [
+            "State Name",
+            "Total Post",
+            "State Name",
+            "Total Post"
+          ],
+          [
+            "Andaman & Nicobar",
+            "18",
+            "Andhra Pradesh",
+            "186"
+          ],
+          [
+            "Arunachal Pradesh",
+            "45",
+            "Assam",
+            "349"
+          ],
+          [
+            "Bihar",
+            "491",
+            "Chandigarh",
+            "20"
+          ],
+          [
+            "Chhattisgarh",
+            "265",
+            "Dadara & Nagar Haveli",
+            "18"
+          ],
+          [
+            "Delhi NCT",
+            "415",
+            "Goa",
+            "61"
+          ],
+          [
+            "Gujarat",
+            "698",
+            "Haryana",
+            "196"
+          ],
+          [
+            "Himachal Pradesh",
+            "97",
+            "Jammu & Kashmir",
+            "67"
+          ],
+          [
+            "Jharkhand",
+            "182",
+            "Karnataka",
+            "1414"
+          ],
+          [
+            "Kerala",
+            "108",
+            "Lakshadweep",
+            "11"
+          ],
+          [
+            "Madhya Pradesh",
+            "570",
+            "Maharashtra",
+            "1051"
+          ],
+          [
+            "Manipur",
+            "42",
+            "Meghalaya",
+            "22"
+          ],
+          [
+            "Mizoram",
+            "17",
+            "Nagaland",
+            "31"
+          ],
+          [
+            "Odisha",
+            "337",
+            "Puducherry",
+            "26"
+          ],
+          [
+            "Punjab",
+            "481",
+            "Rajasthan",
+            "392"
+          ],
+          [
+            "Sikkim",
+            "28",
+            "Tamil Naidu",
+            "675"
+          ],
+          [
+            "Telangana",
+            "191",
+            "Tripura",
+            "64"
+          ],
+          [
+            "Uttar Pradesh",
+            "1731",
+            "Uttarakhand",
+            "145"
+          ],
+          [
+            "West Bengal",
+            "946",
+            "Daman & Diu",
+            "7"
+          ],
+          [
+            "Ladakh",
+            "6",
+            "Total Post",
+            "11403"
+          ]
+        ]
+      }
     ]
-},
-{"timestamp": 1786862901,
+  },
+  {
+    "timestamp": 1786862901,
     "examType": "job",
     "id": "SKAU-Kurukshetra-Haryana-Non-Teaching-Post-Recruitment-2026",
     "orgId": "Shri Krishna Ayush University (SKAU)",
     "name": "SKAU Kurukshetra Haryana, Non Teaching Post Recruitment  2026",
     "importantDates": {
-        "startDate": "30/07/2026",
-        "lastDate": "21/08/2026",
-        "lastDateFeePayment": "21/08/2026",
-        "examDate": "As per Schedule"
+      "startDate": "30/07/2026",
+      "lastDate": "21/08/2026",
+      "lastDateFeePayment": "21/08/2026",
+      "examDate": "As per Schedule"
     },
     "fee": {
-        "general": "Male: 1500",
-        "obc": "375",
-        "ews": "375",
-        "sc": "375",
-        "st": "375",
-        "ph": "0",
-        "female": "750",
-        "notes": "Male : General / Other State : 1500/-\nFemale General (Haryana Domicile) : 750/-\nHaryana Reserve Category Male & Female : 375/-\nPH Divyang Candidate : 0/- (Exempted)\nPay the Exam Fee Through Online / Offline Fee Mode Only"
+      "general": "Male: 1500",
+      "obc": "375",
+      "ews": "375",
+      "sc": "375",
+      "st": "375",
+      "ph": "0",
+      "female": "750",
+      "notes": "Male : General / Other State : 1500/-\nFemale General (Haryana Domicile) : 750/-\nHaryana Reserve Category Male & Female : 375/-\nPH Divyang Candidate : 0/- (Exempted)\nPay the Exam Fee Through Online / Offline Fee Mode Only"
     },
     "totalPost": {
-        "count": 60,
-        "notes": ""
+      "count": 60,
+      "notes": ""
     },
     "ageDetails": {
-        "minAge": 18,
-        "maxAge": 42
+      "minAge": 18,
+      "maxAge": 42
     },
     "vacancyDetails": [
-        {
-            "postName": "Staff Nurse",
-            "totalPost": "25",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 18,
-                "maxAge": 40,
-                "qualification": [
-                    "Class 10th Matric with Registered in Haryana Nurses Council.",
-                    "Hindi & Sanskrit as one of the Subject in Matric Level OR 10+2 OR UG / PG Level"
-                ]
-            }
+      {
+        "postName": "Staff Nurse",
+        "totalPost": "25",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
         },
-        {
-            "postName": "Ayurvedic Pharmacist",
-            "totalPost": "06",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 18,
-                "maxAge": 40,
-                "qualification": [
-                    "Class 10th Matric Exam Passed",
-                    "UP-Vaidya from Any Recognized University in India.  OR",
-                    "10+2 with PCB Subject and Diploma in Ayurvedic Pharmacy",
-                    "Hindi & Sanskrit as one of the Subject in Matric Level OR 10+2 OR UG / PG Level",
-                    "More Eligibility Read the Notification"
-                ]
-            }
-        },
-        {
-            "postName": "Clerk",
-            "totalPost": "29",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 18,
-                "maxAge": 42,
-                "qualification": [
-                    "Bachelor Degree in Any Stream from Any Recognized University in India.",
-                    "Skill Test Speed : 30 WPM",
-                    "Hindi & Sanskrit as one of the Subject in Matric Level OR 10+2 OR UG / PG Level"
-                ]
-            }
+        "eligiblity": {
+          "minAge": 18,
+          "maxAge": 40,
+          "qualification": [
+            "Class 10th Matric with Registered in Haryana Nurses Council.",
+            "Hindi & Sanskrit as one of the Subject in Matric Level OR 10+2 OR UG / PG Level"
+          ]
         }
+      },
+      {
+        "postName": "Ayurvedic Pharmacist",
+        "totalPost": "06",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 18,
+          "maxAge": 40,
+          "qualification": [
+            "Class 10th Matric Exam Passed",
+            "UP-Vaidya from Any Recognized University in India.  OR",
+            "10+2 with PCB Subject and Diploma in Ayurvedic Pharmacy",
+            "Hindi & Sanskrit as one of the Subject in Matric Level OR 10+2 OR UG / PG Level",
+            "More Eligibility Read the Notification"
+          ]
+        }
+      },
+      {
+        "postName": "Clerk",
+        "totalPost": "29",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 18,
+          "maxAge": 42,
+          "qualification": [
+            "Bachelor Degree in Any Stream from Any Recognized University in India.",
+            "Skill Test Speed : 30 WPM",
+            "Hindi & Sanskrit as one of the Subject in Matric Level OR 10+2 OR UG / PG Level"
+          ]
+        }
+      }
     ],
     "importantLinks": [
-        {
-            "title": "Apply Online",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://recruitment.skau.ac.in/nonteaching/"
-                }
-            ]
-        },
-        {
-            "title": "Download Notification",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://skau.ac.in/downloads/files/n6a689841e4009.pdf"
-                }
-            ]
-        },
-        {
-            "title": "Download Syllabus",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://rojgarresult.com/wp-content/uploads/2026/07/SKAU-Syllabus-2026.pdf"
-                }
-            ]
-        }
+      {
+        "title": "Apply Online",
+        "links": [
+          {
+            "title": "",
+            "link": "https://recruitment.skau.ac.in/nonteaching/"
+          }
+        ]
+      },
+      {
+        "title": "Download Notification",
+        "links": [
+          {
+            "title": "",
+            "link": "https://skau.ac.in/downloads/files/n6a689841e4009.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Download Syllabus",
+        "links": [
+          {
+            "title": "",
+            "link": "https://rojgarresult.com/wp-content/uploads/2026/07/SKAU-Syllabus-2026.pdf"
+          }
+        ]
+      }
     ],
     "admitCard": {
-        "startDate": "",
-        "link": "",
-        "details": "",
-        "instruction": []
+      "startDate": "",
+      "link": "",
+      "details": "",
+      "instruction": []
     },
     "resultCard": {
-        "link": "",
-        "details": "",
-        "instruction": []
+      "link": "",
+      "details": "",
+      "instruction": []
     },
     "answerKey": {
-        "startDate": "",
-        "link": "",
-        "details": "",
-        "instruction": []
+      "startDate": "",
+      "link": "",
+      "details": "",
+      "instruction": []
     }
-},
-{"timestamp": 1786862901,
+  },
+  {
+    "timestamp": 1786862901,
     "examType": "job",
     "id": "RRB-JE-Junior-Engineer-Online-Form-2026-CEN-04-2026",
     "orgId": "Railway Recruitment Board (RRB)",
     "name": "RRB JE Junior Engineer Online Form 2026 (CEN 04/2026) ",
     "importantDates": {
-        "startDate": "14/08/2026",
-        "lastDate": "13/09/2026",
-        "lastDateFeePayment": "15/09/2026",
-        "examDate": "As per schedule",
-        "correctionDate": "16/9/2026 to 25/9/2026"
+      "startDate": "14/08/2026",
+      "lastDate": "13/09/2026",
+      "lastDateFeePayment": "15/09/2026",
+      "examDate": "As per schedule",
+      "correctionDate": "16/9/2026 to 25/9/2026"
     },
     "fee": {
-        "general": "500",
-        "obc": "500",
-        "ews": "500",
-        "sc": "250",
-        "st": "250",
-        "ph": "250",
-        "female": "250",
-        "notes": "After Appear the Stage I Exam\nGeneral/OBC/EWS Fee Refund: Rs. 400/-\nSC / ST / PH / Female Refund : Rs. 250/-\nPay the Examination Fee Through Cast at E Challan or Debit Card, Credit Card, Net Banking"
+      "general": "500",
+      "obc": "500",
+      "ews": "500",
+      "sc": "250",
+      "st": "250",
+      "ph": "250",
+      "female": "250",
+      "notes": "After Appear the Stage I Exam\nGeneral/OBC/EWS Fee Refund: Rs. 400/-\nSC / ST / PH / Female Refund : Rs. 250/-\nPay the Examination Fee Through Cast at E Challan or Debit Card, Credit Card, Net Banking"
     },
     "totalPost": {
-        "count": 3993,
-        "notes": ""
+      "count": 3993,
+      "notes": ""
     },
     "ageDetails": {
-        "minAge": 18,
-        "maxAge": 33,
-        "notes": "Age Relaxation Extra as per RRB JE Junior Engineer Recruitment Rules."
+      "minAge": 18,
+      "maxAge": 33,
+      "notes": "Age Relaxation Extra as per RRB JE Junior Engineer Recruitment Rules."
     },
     "vacancyDetails": [
-        {
-            "postName": "Junior Engineer",
-            "totalPost": "3993",
-            "category": {
-                "ur": "1699",
-                "obc": "913",
-                "ews": "394",
-                "sc": "624",
-                "st": "363",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 18,
-                "maxAge": 33,
-                "qualification": [
-                    "3 Year Engineering Diploma in Related.",
-                    "For Post Wise Eligibility Details Read the Notification"
-                ]
-            }
+      {
+        "postName": "Junior Engineer",
+        "totalPost": "3993",
+        "category": {
+          "ur": "1699",
+          "obc": "913",
+          "ews": "394",
+          "sc": "624",
+          "st": "363",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 18,
+          "maxAge": 33,
+          "qualification": [
+            "3 Year Engineering Diploma in Related.",
+            "For Post Wise Eligibility Details Read the Notification"
+          ]
         }
+      }
     ],
     "importantLinks": [
-        {
-            "title": "Apply Online",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://www.rrbapply.gov.in/#/auth/landing"
-                }
-            ]
-        },
-        {
-            "title": "Download Syllabus",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://doc.sarkariresults.org.in/RRB_JE_Full_Syllabus_2026.pdf"
-                }
-            ]
-        },
-        {
-            "title": "Download Zone Wise Vacancy",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://doc.sarkariresults.org.in/RRB_JE_Zone_Wise_Vacancy_Details.pdf"
-                }
-            ]
-        },
-        {
-            "title": "Download Post Wise Eligibility",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://doc.sarkariresults.org.in/RRB_JE_Post_Wise_Eligibility_Details.pdf"
-                }
-            ]
-        },
-        {
-            "title": "Download Notification",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://doc.sarkariresults.org.in/RRB_JE_Full_Notification_2026.pdf"
-                }
-            ]
-        },
-        {
-            "title": "Official Website",
-            "links": [
-                {
-                    "title": "RRB Official Website",
-                    "link": "https://www.rrbapply.gov.in/#/auth/landing"
-                }
-            ]
-        }
+      {
+        "title": "Apply Online",
+        "links": [
+          {
+            "title": "",
+            "link": "https://www.rrbapply.gov.in/#/auth/landing"
+          }
+        ]
+      },
+      {
+        "title": "Download Syllabus",
+        "links": [
+          {
+            "title": "",
+            "link": "https://doc.sarkariresults.org.in/RRB_JE_Full_Syllabus_2026.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Download Zone Wise Vacancy",
+        "links": [
+          {
+            "title": "",
+            "link": "https://doc.sarkariresults.org.in/RRB_JE_Zone_Wise_Vacancy_Details.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Download Post Wise Eligibility",
+        "links": [
+          {
+            "title": "",
+            "link": "https://doc.sarkariresults.org.in/RRB_JE_Post_Wise_Eligibility_Details.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Download Notification",
+        "links": [
+          {
+            "title": "",
+            "link": "https://doc.sarkariresults.org.in/RRB_JE_Full_Notification_2026.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Official Website",
+        "links": [
+          {
+            "title": "RRB Official Website",
+            "link": "https://www.rrbapply.gov.in/#/auth/landing"
+          }
+        ]
+      }
     ],
     "admitCard": {
-        "startDate": "",
-        "link": "",
-        "details": "",
-        "instruction": []
+      "startDate": "",
+      "link": "",
+      "details": "",
+      "instruction": []
     },
     "resultCard": {
-        "link": "",
-        "details": "",
-        "instruction": []
+      "link": "",
+      "details": "",
+      "instruction": []
     },
     "answerKey": {
-        "startDate": "",
-        "link": "",
-        "details": "",
-        "instruction": []
+      "startDate": "",
+      "link": "",
+      "details": "",
+      "instruction": []
     },
     "table": [
-        {
-            "title": "RRB Wise Vacancy Details Table",
-            "details": "",
-            "notes": "",
-            "list": [
-                [
-                    "RRB Name",
-                    "UR",
-                    "OBC",
-                    "EWS",
-                    "SC",
-                    "ST",
-                    "Total"
-                ],
-                [
-                    "RRB Ahmedabad",
-                    "45",
-                    "38",
-                    "17",
-                    "24",
-                    "19",
-                    "143"
-                ],
-                [
-                    "RRB Ajmer",
-                    "110",
-                    "68",
-                    "23",
-                    "41",
-                    "10",
-                    "252"
-                ],
-                [
-                    "RRB Bengaluru",
-                    "119",
-                    "79",
-                    "32",
-                    "45",
-                    "23",
-                    "298"
-                ],
-                [
-                    "RRB Bhopal",
-                    "54",
-                    "25",
-                    "8",
-                    "16",
-                    "10",
-                    "113"
-                ],
-                [
-                    "RRB Bhubneswar",
-                    "40",
-                    "19",
-                    "9",
-                    "14",
-                    "4",
-                    "86"
-                ],
-                [
-                    "RRB Bilaspur",
-                    "51",
-                    "22",
-                    "13",
-                    "19",
-                    "19",
-                    "124"
-                ],
-                [
-                    "RRB Chandigarh",
-                    "77",
-                    "49",
-                    "13",
-                    "31",
-                    "13",
-                    "183"
-                ],
-                [
-                    "RRB Chennai",
-                    "145",
-                    "81",
-                    "42",
-                    "59",
-                    "35",
-                    "362"
-                ],
-                [
-                    "RRB Gorakhpur",
-                    "67",
-                    "40",
-                    "25",
-                    "44",
-                    "22",
-                    "198"
-                ],
-                [
-                    "RRB Guwahati",
-                    "132",
-                    "87",
-                    "31",
-                    "52",
-                    "27",
-                    "329"
-                ],
-                [
-                    "RRB Jammu-Srinagar",
-                    "86",
-                    "27",
-                    "11",
-                    "16",
-                    "12",
-                    "152"
-                ],
-                [
-                    "RRB Kolkata",
-                    "195",
-                    "101",
-                    "52",
-                    "58",
-                    "51",
-                    "457"
-                ],
-                [
-                    "RRB Malda",
-                    "9",
-                    "7",
-                    "3",
-                    "8",
-                    "3",
-                    "30"
-                ],
-                [
-                    "RRB Mumbai",
-                    "175",
-                    "96",
-                    "37",
-                    "67",
-                    "36",
-                    "411"
-                ],
-                [
-                    "RRB Muzaffarpur",
-                    "7",
-                    "3",
-                    "1",
-                    "4",
-                    "2",
-                    "17"
-                ],
-                [
-                    "RRB Patna",
-                    "26",
-                    "13",
-                    "5",
-                    "18",
-                    "11",
-                    "73"
-                ],
-                [
-                    "RRB Prayagraj",
-                    "164",
-                    "67",
-                    "27",
-                    "49",
-                    "33",
-                    "340"
-                ],
-                [
-                    "RRB Ranchi",
-                    "49",
-                    "31",
-                    "13",
-                    "21",
-                    "8",
-                    "122"
-                ],
-                [
-                    "RRB Secunderabad",
-                    "68",
-                    "12",
-                    "9",
-                    "15",
-                    "6",
-                    "110"
-                ],
-                [
-                    "RRB Siliguri",
-                    "35",
-                    "26",
-                    "12",
-                    "12",
-                    "7",
-                    "92"
-                ],
-                [
-                    "RRB Thiruvananthapuram",
-                    "45",
-                    "22",
-                    "11",
-                    "11",
-                    "12",
-                    "101"
-                ]
-            ]
-        }
+      {
+        "title": "RRB Wise Vacancy Details Table",
+        "details": "",
+        "notes": "",
+        "list": [
+          [
+            "RRB Name",
+            "UR",
+            "OBC",
+            "EWS",
+            "SC",
+            "ST",
+            "Total"
+          ],
+          [
+            "RRB Ahmedabad",
+            "45",
+            "38",
+            "17",
+            "24",
+            "19",
+            "143"
+          ],
+          [
+            "RRB Ajmer",
+            "110",
+            "68",
+            "23",
+            "41",
+            "10",
+            "252"
+          ],
+          [
+            "RRB Bengaluru",
+            "119",
+            "79",
+            "32",
+            "45",
+            "23",
+            "298"
+          ],
+          [
+            "RRB Bhopal",
+            "54",
+            "25",
+            "8",
+            "16",
+            "10",
+            "113"
+          ],
+          [
+            "RRB Bhubneswar",
+            "40",
+            "19",
+            "9",
+            "14",
+            "4",
+            "86"
+          ],
+          [
+            "RRB Bilaspur",
+            "51",
+            "22",
+            "13",
+            "19",
+            "19",
+            "124"
+          ],
+          [
+            "RRB Chandigarh",
+            "77",
+            "49",
+            "13",
+            "31",
+            "13",
+            "183"
+          ],
+          [
+            "RRB Chennai",
+            "145",
+            "81",
+            "42",
+            "59",
+            "35",
+            "362"
+          ],
+          [
+            "RRB Gorakhpur",
+            "67",
+            "40",
+            "25",
+            "44",
+            "22",
+            "198"
+          ],
+          [
+            "RRB Guwahati",
+            "132",
+            "87",
+            "31",
+            "52",
+            "27",
+            "329"
+          ],
+          [
+            "RRB Jammu-Srinagar",
+            "86",
+            "27",
+            "11",
+            "16",
+            "12",
+            "152"
+          ],
+          [
+            "RRB Kolkata",
+            "195",
+            "101",
+            "52",
+            "58",
+            "51",
+            "457"
+          ],
+          [
+            "RRB Malda",
+            "9",
+            "7",
+            "3",
+            "8",
+            "3",
+            "30"
+          ],
+          [
+            "RRB Mumbai",
+            "175",
+            "96",
+            "37",
+            "67",
+            "36",
+            "411"
+          ],
+          [
+            "RRB Muzaffarpur",
+            "7",
+            "3",
+            "1",
+            "4",
+            "2",
+            "17"
+          ],
+          [
+            "RRB Patna",
+            "26",
+            "13",
+            "5",
+            "18",
+            "11",
+            "73"
+          ],
+          [
+            "RRB Prayagraj",
+            "164",
+            "67",
+            "27",
+            "49",
+            "33",
+            "340"
+          ],
+          [
+            "RRB Ranchi",
+            "49",
+            "31",
+            "13",
+            "21",
+            "8",
+            "122"
+          ],
+          [
+            "RRB Secunderabad",
+            "68",
+            "12",
+            "9",
+            "15",
+            "6",
+            "110"
+          ],
+          [
+            "RRB Siliguri",
+            "35",
+            "26",
+            "12",
+            "12",
+            "7",
+            "92"
+          ],
+          [
+            "RRB Thiruvananthapuram",
+            "45",
+            "22",
+            "11",
+            "11",
+            "12",
+            "101"
+          ]
+        ]
+      }
     ]
-}
-
+  },
+  {
+    "timestamp": 1786885756,
+    "examType": "entrance-exam",
+    "id": "Bihar-State-Teacher-Eligibility-STET-Examination-2026",
+    "orgId": "Bihar School Examination Board (BSEB)",
+    "name": "Bihar State Teacher Eligibility STET Examination 2026",
+    "importantDates": {
+      "startDate": "17/08/2026",
+      "lastDate": "31/08/2026",
+      "lastDateFeePayment": "31/08/2026",
+      "examDate": "As per Schedule   ",
+      "otherDates": [
+        {
+          "title": "Paper I Exam Date",
+          "date": "As per Schedule  "
+        },
+        {
+          "title": "Paper II Exam Date",
+          "date": "As per Schedule"
+        }
+      ]
+    },
+    "fee": {
+      "general": "960",
+      "obc": "960",
+      "ews": "960",
+      "sc": "760",
+      "st": "760",
+      "ph": "760",
+      "female": "",
+      "notes": "Single Paper :\nGeneral / BC / EWS : 960/-\nSC / ST / PH : 760/-\nBoth Paper :\nGeneral / BC / EWS : 1440/-\nSC / ST / PH : 1140/-\nPay the Exam Fee Through Online Mode Only : Debit Card / Credit Card / Net Banking"
+    },
+    "totalPost": {
+      "count": 0,
+      "notes": ""
+    },
+    "ageDetails": {
+      "minAge": 18,
+      "maxAge": 42,
+      "notes": "Maximum Age for male:37 years\nMaximum Age for female: 42 years\nAge Relaxation Extra as per Bihar Board BSEB STET 2024 Rules."
+    },
+    "vacancyDetails": [
+      {
+        "postName": "Paper 1 (Secondary)",
+        "totalPost": "",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 18,
+          "maxAge": 42,
+          "qualification": [
+            "Bachelor Degree in Related Subject with 50% Marks and B.Ed Exam Passed OR",
+            "Master Degree in Related Subject and B.Ed Exam Passed OR",
+            "Bachelor Degree / Master Degree with Minimum 45% Marks (As per NCTE Norms) with B.Ed. OR",
+            "4 Year Course BA BEd / BSc BEd Exam Passed",
+            "For Subject Wise Eligibility Details Read the Notification."
+          ]
+        }
+      },
+      {
+        "postName": "Paper 2 (Senior Secondary)",
+        "totalPost": "",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 18,
+          "maxAge": 42,
+          "qualification": [
+            "Master Degree in Related Subject with 50% Marks and B.Ed Exam / BA BEd / BSc BEd Passed OR",
+            "Master Degree with Minimum 45% Marks (As per NCTE Norms) with B.Ed. OR",
+            "Master Degree with 55% Marks and 3 Year B.Ed MEd Course",
+            "For Subject Wise Eligibility Details Read the Notification."
+          ]
+        }
+      }
+    ],
+    "importantLinks": [
+      {
+        "title": "Apply Online",
+        "links": [
+          {
+            "title": "Link will be Activate on 17/08/2026",
+            "link": "https://stetregistration.cbrt.co.in/"
+          }
+        ]
+      },
+      {
+        "title": "Download Notification",
+        "links": [
+          {
+            "title": "",
+            "link": "https://doc.sarkariresults.org.in/STET%202026%20Notification.pdf"
+          }
+        ]
+      }
+    ],
+    "admitCard": {
+      "startDate": "",
+      "link": "",
+      "details": "",
+      "instruction": []
+    },
+    "resultCard": {
+      "link": "",
+      "details": "",
+      "instruction": []
+    },
+    "answerKey": {
+      "startDate": "",
+      "link": "",
+      "details": "",
+      "instruction": []
+    }
+  },
+  {
+    "timestamp": 1786885756,
+    "examType": "job",
+    "id": "Rajasthan-Safai-Karamchari-Online-Form-2026",
+    "orgId": "Local Self Government, Department (LSG)",
+    "name": "Rajasthan Safai Karamchari Online Form 2026",
+    "importantDates": {
+      "startDate": "15/08/2026",
+      "lastDate": "28/09/2026",
+      "lastDateFeePayment": "28/09/2026",
+      "examDate": "As per Schedule "
+    },
+    "fee": {
+      "general": "600",
+      "obc": "400",
+      "ews": "400",
+      "sc": "400",
+      "st": "400",
+      "ph": "400",
+      "female": "",
+      "notes": "Pay the Examination Fee Through Debit Card / Credit Card / Net Banking / Online Only"
+    },
+    "totalPost": {
+      "count": 24752,
+      "notes": ""
+    },
+    "ageDetails": {
+      "minAge": 21,
+      "maxAge": 40
+    },
+    "vacancyDetails": [
+      {
+        "postName": "Safai Karamchari (Sanitation Worker) Non TSP",
+        "totalPost": "24277",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 21,
+          "maxAge": 40,
+          "qualification": [
+            "The applicant must be a domicile of the State of Rajasthan.",
+            "No educational qualification has been prescribed for the contractual post of Safai Karamchari.",
+            "More Eligibility Details Read the Notification"
+          ]
+        }
+      },
+      {
+        "postName": "Safai Karamchari (Sanitation Worker)  TSP",
+        "totalPost": "475",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 21,
+          "maxAge": 40,
+          "qualification": [
+            "The applicant must be a domicile of the State of Rajasthan.",
+            "No educational qualification has been prescribed for the contractual post of Safai Karamchari.",
+            "More Eligibility Details Read the Notification"
+          ]
+        }
+      }
+    ],
+    "importantLinks": [
+      {
+        "title": "Apply Online",
+        "links": [
+          {
+            "title": "",
+            "link": "https://sso.rajasthan.gov.in/signin"
+          }
+        ]
+      },
+      {
+        "title": "Download Notification",
+        "links": [
+          {
+            "title": "",
+            "link": "https://www.sarkariresult.com/wp-content/uploads/2026/07/SarkariResult.Com_LSG_Rajasthan_Safai_Karamchari_01_2026.pdf"
+          }
+        ]
+      }
+    ],
+    "admitCard": {
+      "startDate": "",
+      "link": "",
+      "details": "",
+      "instruction": []
+    },
+    "resultCard": {
+      "link": "",
+      "details": "",
+      "instruction": []
+    },
+    "answerKey": {
+      "startDate": "",
+      "link": "",
+      "details": "",
+      "instruction": []
+    },
+    "list": [
+      {
+        "title": "Rajasthan Safai Karamchari NON TSP Area Vacnacy Details Table",
+        "details": "",
+        "notes": "",
+        "list": [
+          "ULB Name, Total Vacant Post, ULB Name, Total Vacant Post",
+          "Ajmer, 290, Kishangarh, 81",
+          "Pushkar, 68, Beawar, 201",
+          "Jaitaran, 64, Vijay Nagar, 74",
+          "Dudwana, 111, Kuchaman City, 141",
+          "Ladnu, 56, Makrana, 237",
+          "Nawa, 20, Parbatsar, 24",
+          "Kekri, 74, Sarwar, 32",
+          "Todarai Singh, 56, Kuchera, 27",
+          "Merta City, 71, Mundwa, 36",
+          "Nagaur, 160, Jahazpur, 16",
+          "Shahpura, 47, Deoli, 14",
+          "Malpura, 80, Niwai, 42",
+          "Tonk, 242, Uniara, 14",
+          "Asind, 30, Bhilwara, 296",
+          "Gangapur, 41, Gulabpura, 58",
+          "Mandalgargh, 24, Alwar, 426",
+          "Kherli, 25, Rajgarh (Alwar), 39",
+          "Ramgarh (Sikar), 109, Bandikui, 101",
+          "Dausa, 211, Lalsot, 90",
+          "Jaipur, 4811, Bagru, 100",
+          "Chaksu, 64, Chomu, 183",
+          "Jobner, 60, Kishangarh Renwal, 73",
+          "Phulera, 63, Sambhar, 64",
+          "Bhiwadi, 350, Shahpur, 25",
+          "Khaairthal, 103, Tijara, 76",
+          "Behror, 78, Kotputli, 148",
+          "Virat Nagar, 25, Bissau, 72",
+          "Chirawa, 130, Jhunjhunun, 287",
+          "Mandawa, 71, Mukandgarh, 42",
+          "Nalawgarh, 176, Pilani, 96",
+          "Surajgarh, 67, Vidya Vihar, 44",
+          "Khetri, 27, Neem-Ka-Thana, 73",
+          "Sri Madhopur, 50, Udaipurwati, 87",
+          "Fatehpur, 248, Khandela, 30",
+          "Lachhmangarh, 98, Losal, 84",
+          "Ringus, 90, Sikar, 480",
+          "Balotra, 85, Barmer, 164",
+          "Jaisalmer, 149, Pokaran, 67",
+          "Jodhpur, 890, Bilara, 65",
+          "Pipar City, 89, Phalodi, 75",
+          "Bhinmal, 38, Jalore, 98",
+          "Bali, 39, Khudala Falna, 63",
+          "Pali, 287, Rani, 37",
+          "Sadri, 67, Sojat City, 95",
+          "Sumerpur, 68, Takhatgarh, 29",
+          "Sanchore, 85, Pindwara, 26",
+          "Sheoganj, 5, Sirohi, 57",
+          "Bayana, 75, Bharatpur, 450",
+          "Bhusawar, 55, Nadbai, 50",
+          "Weir, 40, Deeg, 76",
+          "Kaman, 82, Kumher, 30",
+          "Nagar, 68, Bari, 200",
+          "Dhaulpur, 340, Rajakhera, 10",
+          "Gangapur City, 163, Todabhim, 51",
+          "Hindaun, 328, Karauli, 230",
+          "Sawai Madhopur, 271, Anupgarh, 78",
+          "Rai Singh Nagar, 20, Bikaner, 1084",
+          "Deshnoke, 49, Nokha, 110",
+          "Sri Dungargarh, 70, Gajsinghpur, 11",
+          "Kesrisinghpur, 17, Sri Vijay Nagar, 5",
+          "Padampur, 25, Sadulshahar, 20",
+          "Sri Ganganagar, 318, Srikaranpur, 42",
+          "Suratgarh, 100, Bhadra, 39",
+          "Hanumangarh, 164, Nohar, 18",
+          "Pilibanga, 45, Rawatsar, 82",
+          "Sangaria, 52, Bidasar, 64",
+          "Chhapar, 30, Churu, 320",
+          "Rajaldesar, 33, Rajgarh, 120",
+          "Ratangarh, 109, Ratan Nagar, 35",
+          "Sardarshahar, 200, Sujangarh, 300",
+          "Taranagar, 50, Baggar, 36",
+          "Bari Sadri, 28, Begun, 28",
+          "Rawatbhata, 10, Kapasan, 25",
+          "Nimbahera, 110, Amet, 24",
+          "Deogarh, 20, Nathdwara, 57",
+          "Rajsamand, 83, Bhinder, 24",
+          "Fatehnagar, 13, Kanor, 24",
+          "Udaipur, 300, Chittaurgarh, 187",
+          "Anta, 53, Baran, 144",
+          "Chhabra, 52, Mangrol, 39",
+          "Bundi, 201, Kaprain, 37",
+          "Indragarh, 26, Keshoraipatan, 27",
+          "Lakheri, 44, Nainwa, 17",
+          "Aklera, 31, Bhawani Mandi, 51",
+          "Jhalawar, 70, Jhalrapatan, 120",
+          "Pirawa, 34, Kota, 1357",
+          "Ramganj Mandi, 66, Sangod, 29"
+        ]
+      },
+      {
+        "title": "Rajasthan Safai Karamchari TSP Area Vacancy Details",
+        "details": "",
+        "notes": "",
+        "list": [
+          "Mount Abu, 46, Abu Road, 125",
+          "Salumbar, 18, Pratapgarh, 70",
+          "Chhoti Sadri, 25, Banswara, 64",
+          "Kushalgarh, 20, Sagwara, 35",
+          "Dungarpur, 72"
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1786886525,
+    "examType": "job",
+    "id": "MP-High-Court-Assistant-Grade-III-Recruitment-2026-614-Pariksha-2026-",
+    "orgId": "MP High Court of Madhya Pradesh (MPHC)",
+    "name": "MP High Court Assistant Grade III Recruitment 2026 (614/Pariksha/2026)",
+    "importantDates": {
+      "startDate": "17/08/2026",
+      "lastDate": "15/09/2026",
+      "lastDateFeePayment": "15/09/2026",
+      "examDate": "As per Schedule",
+      "correctionDate": "19/9/2026 to 21/9/2026"
+    },
+    "fee": {
+      "general": "943.40",
+      "obc": " 743.40",
+      "ews": " 743.40",
+      "sc": " 743.40",
+      "st": " 743.40",
+      "ph": " 743.40",
+      "female": "",
+      "notes": "Pay the Exam Fee Through Online / Offline Fee Mode Only"
+    },
+    "totalPost": {
+      "count": 1174,
+      "notes": ""
+    },
+    "ageDetails": {
+      "minAge": 18,
+      "maxAge": 45,
+      "notes": "Minimum Age : 18 Years\nMaximum Age : 40 Years for Male\nMaximum Age : 45 Years for Female\n\nAge Relaxation Extra as per MP High Court Assistant Grade III Examination Rules Advt. No. 614/Pariksha/2026."
+    },
+    "vacancyDetails": [
+      {
+        "postName": "MPHC Assistant Grade III",
+        "totalPost": "1174",
+        "category": {
+          "ur": "314",
+          "obc": "325",
+          "ews": "118",
+          "sc": "181",
+          "st": "236",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 18,
+          "maxAge": 45,
+          "qualification": [
+            "Bachelor Degree in any Stream Passed from any Recognized University in India.",
+            "MP C.P.C.T. Score card",
+            "1 Year Diploma in Computer Application from Institution recognized by M.P. Government",
+            "More Details Read the Notification."
+          ]
+        }
+      }
+    ],
+    "importantLinks": [
+      {
+        "title": "Apply Online",
+        "links": [
+          {
+            "title": "Link will be Activate on 17/08/2026",
+            "link": "https://portal.mphc.gov.in/recruitment-result"
+          }
+        ]
+      },
+      {
+        "title": "Download Notification",
+        "links": [
+          {
+            "title": "",
+            "link": "https://portal.mphc.gov.in/PDF/web_pdf/RE/Advertisement%20AG-III%20District%20Court-2026.pdf"
+          }
+        ]
+      }
+    ],
+    "admitCard": {
+      "startDate": "",
+      "link": "",
+      "details": "",
+      "instruction": []
+    },
+    "resultCard": {
+      "link": "",
+      "details": "",
+      "instruction": []
+    },
+    "answerKey": {
+      "startDate": "",
+      "link": "",
+      "details": "",
+      "instruction": []
+    }
+  }
 ]
