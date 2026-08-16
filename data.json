@@ -1,6 +1,6 @@
 [
   {
-    "timestamp":1785740303,
+    "timestamp": 1785740303,
     "examType": "job",
     "id": "DELED-Joint-Entrance-Test-2026-2028-online-application-for-admission-2026-2028",
     "orgId": "Bihar School Examination Board (BSEB)",
@@ -98,7 +98,7 @@
     ]
   },
   {
-    "timestamp":1785740303,
+    "timestamp": 1785740303,
     "examType": "job",
     "id": "RPSC-School-Lecturer-PGT-Teacher-Exam-2025",
     "orgId": "Rajasthan Public Service Commission (RPSC)",
@@ -325,7 +325,8 @@
       }
     ]
   },
-  {"timestamp":1785740303,
+  {
+    "timestamp": 1785740303,
     "examType": "job",
     "id": "Uttar-Pradesh-UPPSC-Assistant-Professor-GDC-Exam-2025",
     "orgId": "Uttar Pradesh Public Service Commission (UPPSC)",
@@ -463,7 +464,8 @@
       "instruction": []
     }
   },
-  {"timestamp":1785740303,
+  {
+    "timestamp": 1785740303,
     "examType": "job",
     "id": "UP-Post-Graduate-Teacher-PGT-Recruitment-2022",
     "orgId": "Uttar Pradesh Secondary Education Service Selection Board (UPSESSB)",
@@ -662,7 +664,8 @@
       "instruction": []
     }
   },
-  {"timestamp":1785740303,
+  {
+    "timestamp": 1785740303,
     "examType": "job",
     "id": "UPSC-Combined-Central-Armed-Police-Force-Assistant-Commandant-AC-Exam-2025",
     "orgId": "Union Public Service Commission (UPSC)",
@@ -888,7 +891,8 @@
       }
     ]
   },
-  {"timestamp":1785740303,
+  {
+    "timestamp": 1785740303,
     "examType": "job",
     "id": "UPSC-Combined-Defence-Service-Exam-II-Recruitment-2025",
     "orgId": "Union Public Service Commission (UPSC)",
@@ -1062,7 +1066,8 @@
       "instruction": []
     }
   },
-  {"timestamp":1785740303,
+  {
+    "timestamp": 1785740303,
     "examType": "entrance-exam",
     "id": "MP-Animal-Husbandry-and-Dairy-Technology-Admission-Test-ADDET-2026",
     "orgId": "Madhya Pradesh Employee Selection Board (MPESB)",
@@ -1260,7 +1265,8 @@
       }
     ]
   },
-  {"timestamp":1785740303,
+  {
+    "timestamp": 1785740303,
     "examType": "job",
     "id": "BOI-Credit-Officer-Recruitment-2026",
     "orgId": "Bank of India (BOI)",
@@ -1427,7 +1433,8 @@
       "instruction": []
     }
   },
-  {"timestamp":1785740303,
+  {
+    "timestamp": 1785740303,
     "examType": "job",
     "id": "AIIMS-Common-Recruitment-Exam-CRE-5-Recruitment-2026",
     "orgId": "All India Institute of Medical Science (AIIMS)",
@@ -1580,7 +1587,8 @@
       "instruction": []
     }
   },
-  {"timestamp":1785740303,
+  {
+    "timestamp": 1785740303,
     "examType": "job",
     "id": "Uttar-Pradesh-Education-Service-Selection-Commission-UPESSC",
     "orgId": "Uttar Pradesh Education Service Selection Commission UPESSC",
@@ -1725,7 +1733,8 @@
       "instruction": []
     }
   },
-  {"timestamp":1785740303,
+  {
+    "timestamp": 1785740303,
     "examType": "job",
     "id": "Railway-RRB-Centralized-Recruitment-CEN-09-2025-Group-D-Exam-2026",
     "orgId": "Railway Recruitment Board (RRB)",
@@ -1895,7 +1904,8 @@
       "instruction": []
     }
   },
-  {"timestamp":1785740303,
+  {
+    "timestamp": 1785740303,
     "id": "Chhattisgarh-Assistant-District-Public-Prosecution-Officer-ADPPO-Recruitment-2026",
     "orgId": "Chhattisgarh Public Service Commission (CGPSC)",
     "name": "Chhattisgarh Assistant District Public Prosecution Officer ADPPO Recruitment 2026",
@@ -2007,7 +2017,8 @@
       ]
     }
   },
-  {"timestamp":1785740303,
+  {
+    "timestamp": 1785740303,
     "id": "central-Bank-of-India-(CBI)-Apprentice-Recruitment-2026-Exam-Date",
     "orgId": "Central Bank of India (CBI)",
     "name": "Central Bank of India (CBI) Apprentice Recruitment 2026 Exam Date",
@@ -2139,7 +2150,8 @@
       ]
     }
   },
-  {"timestamp":1785740303,
+  {
+    "timestamp": 1785740303,
     "id": "NIACL-Apprentice-Recruitment-2026",
     "orgId": "The New India Assurance Company Limited (NIACL)",
     "name": "NIACL Apprentice Recruitment 2026",
@@ -2399,7 +2411,8 @@
       ]
     }
   },
-  {"timestamp":1785740303,
+  {
+    "timestamp": 1785740303,
     "id": "CSIR-Assistant-Section-Officer-ASO-Recruitment-2026",
     "orgId": "Council of Scientific & Industrial Research (CSIR)",
     "name": "CSIR Assistant Section Officer ASO Recruitment  2026",
@@ -2517,7 +2530,8 @@
       "instruction": []
     }
   },
-  {"timestamp":1785740303,
+  {
+    "timestamp": 1785740303,
     "id": "PNB-Local-Bank-Officer-LBO-Online-Form-2026",
     "orgId": "Punjab National Bank (PNB)",
     "name": "PNB Local Bank Officer LBO Online Form 2026",
@@ -2701,7 +2715,8 @@
       }
     ]
   },
-  {"timestamp":1785740303,
+  {
+    "timestamp": 1785740303,
     "examType": "job",
     "id": "IOB-Indian-Overseas-Bank-Apprentice-Recruitment-2026",
     "orgId": "Indian Overseas Bank (IOB)",
@@ -2934,7 +2949,8 @@
       }
     ]
   },
-  {"timestamp":1785740303,
+  {
+    "timestamp": 1785740303,
     "examType": "job",
     "id": "Join-Indian-Army-NCC-Entry-April-2027-Batch-Recruitment-2026",
     "orgId": "Indian Army NCC Special Entry",
@@ -3046,7 +3062,8 @@
       "instruction": []
     }
   },
-  {"timestamp":1785740303,
+  {
+    "timestamp": 1785740303,
     "examType": "job",
     "id": "Union-Bank-UBI-Specialist-Officers-SO-Recruitment-2026",
     "orgId": "Union Bank of India (UBI)",
@@ -3168,7 +3185,8 @@
       }
     ]
   },
-  {"timestamp":1785740303,
+  {
+    "timestamp": 1785740303,
     "examType": "job",
     "id": "RRB-JE-Junior-Engineer-Recruitment-2026",
     "orgId": "Railway Recruitment Board (RRB)",
@@ -3261,7 +3279,7 @@
     }
   },
   {
-     "timestamp":	1785913103,
+    "timestamp": 1785913103,
     "examType": "job",
     "id": "उत्तर-प्रदेश-बेसिक-शिक्षा-विभाग-Lakhimpur-Kheri-District-ECCE-Educator-Outsourcing-Recruitment-2026",
     "orgId": "Uttar Pradesh Rojgar Sangam (Sewayojan) ",
@@ -3351,7 +3369,7 @@
     }
   },
   {
-     "timestamp":	1785913103,
+    "timestamp": 1785913103,
     "examType": "job",
     "id": "UPESSC-UP-Principal-Online-Form-2026",
     "orgId": "Uttar Pradesh Education Service Selection Commission (UPESSC)",
@@ -3445,7 +3463,7 @@
     }
   },
   {
-    "timestamp":	1785913103,
+    "timestamp": 1785913103,
     "examType": "job",
     "id": "Rajasthan-District-Court-Stenographer-Grade-III-Online-Form-2026",
     "orgId": "Rajasthan High Court, Jodhpur (RHC)",
@@ -3603,7 +3621,7 @@
     ]
   },
   {
-    "timestamp":1786085903,
+    "timestamp": 1786085903,
     "examType": "job",
     "id": "UPSRTC-Azamgarh,-Mau,-Ballia-Bus-Conductor-Recruitment-2026",
     "orgId": "उत्तर प्रदेश राज्य सड़क परिवहन निगम (UPSRTC) ",
@@ -3703,7 +3721,7 @@
     }
   },
   {
-     "timestamp":1786085903,
+    "timestamp": 1786085903,
     "examType": "job",
     "id": "SAIL-Rourkela-Steel-Plant-Apprentice-Online-Form-2026",
     "orgId": "Steel Authority of India Limited (SAIL)",
@@ -4140,7 +4158,7 @@
     ]
   },
   {
-     "timestamp":1778482703,
+    "timestamp": 1778482703,
     "examType": "job",
     "id": "UP-Anganwadi-Helper-Recruitment-2026",
     "orgId": "Integrated Child Development Services Scheme (ICDS)",
@@ -4310,7 +4328,7 @@
     }
   },
   {
-      "timestamp":1778482703,
+    "timestamp": 1778482703,
     "examType": "job",
     "id": "AAI-Manager-Junior-Executive-Online-Form-2026",
     "orgId": "Airports Authority of India (AAI)",
@@ -4690,7 +4708,8 @@
       "instruction": []
     }
   },
-  {  "timestamp":1778482703,
+  {
+    "timestamp": 1778482703,
     "examType": "job",
     "id": "State-Bank-of-India-SBI-Junior-Associates-Clerk-Backlog-Recruitment-2026",
     "orgId": "State Bank of India (SBI)",
@@ -4975,7 +4994,8 @@
       }
     ]
   },
-  {  "timestamp":1778482703,
+  {
+    "timestamp": 1778482703,
     "examType": "job",
     "id": "ICSI-Executive-Assistant-Online-Form-2026",
     "orgId": "Institute of Company Secretaries of India (ICSI)",
@@ -5067,1084 +5087,1796 @@
       "instruction": []
     }
   },
- {
-  "timestamp":1778482703,
+  {
+    "timestamp": 1778482703,
     "examType": "job",
     "id": "IOCL-Marketing-Division-Northern-Region-Apprentices-Recruitment-2026",
     "orgId": "Indian Oil Corporation Limited (IOCL)",
     "name": "IOCL Marketing Division Northern Region Apprentices Recruitment  2026",
     "importantDates": {
-        "startDate": "07/08/2026",
-        "lastDate": "06/09/2026",
-        "lastDateFeePayment": "06/09/2026"
+      "startDate": "07/08/2026",
+      "lastDate": "06/09/2026",
+      "lastDateFeePayment": "06/09/2026"
     },
     "fee": {
-        "general": "0",
-        "obc": "0",
-        "ews": "0",
-        "sc": "0",
-        "st": "0",
-        "ph": "0",
-        "female": "0",
-        "notes": ""
+      "general": "0",
+      "obc": "0",
+      "ews": "0",
+      "sc": "0",
+      "st": "0",
+      "ph": "0",
+      "female": "0",
+      "notes": ""
     },
     "totalPost": {
-        "count": 433,
-        "notes": ""
+      "count": 433,
+      "notes": ""
     },
     "ageDetails": {
-        "minAge": 18,
-        "maxAge": 24
+      "minAge": 18,
+      "maxAge": 24
     },
     "vacancyDetails": [
-        {
-            "postName": "Technician",
-            "totalPost": "156",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 18,
-                "maxAge": 24,
-                "qualification": [
-                    "3 Year Diploma in Mechanical / Electrical / Instrumentation / Civil / Electrical & Electronics / Electronics Engineering with 50% Marks (45% for SC/ST/PH)."
-                ]
-            }
+      {
+        "postName": "Technician",
+        "totalPost": "156",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
         },
-        {
-            "postName": "Trade Apprentice",
-            "totalPost": "104",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 18,
-                "maxAge": 24,
-                "qualification": [
-                    "10th (Matric) Pass with 2-Year ITI in the relevant trade such as Fitter, Electrician, Electronics Mechanic, Instrument Mechanic or Machinist. ITI must be recognized by NCVT/SCVT."
-                ]
-            }
-        },
-        {
-            "postName": "Graduate Apprentice",
-            "totalPost": "104",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 18,
-                "maxAge": 24,
-                "qualification": [
-                    " BBA / BA / B.Com / B.Sc. Graduation in any discipline from a recognized Institute/University. 50% marks for General/EWS/OBC-NCL and 45% marks for SC/ST/PwBD candidates."
-                ]
-            }
-        },
-        {
-            "postName": "Trade Apprentice DEO (Skilled Certificate Holders)",
-            "totalPost": "69",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 18,
-                "maxAge": 24,
-                "qualification": [
-                    "Normal: Class 12th (but below graduate)",
-                    "for skilled: 12th Pass (Below Graduate) with Domestic Data Entry Operator Skill Certificate (Training 1 Year) from NSQF/Central Govt. Recognized Authority."
-                ]
-            }
+        "eligiblity": {
+          "minAge": 18,
+          "maxAge": 24,
+          "qualification": [
+            "3 Year Diploma in Mechanical / Electrical / Instrumentation / Civil / Electrical & Electronics / Electronics Engineering with 50% Marks (45% for SC/ST/PH)."
+          ]
         }
+      },
+      {
+        "postName": "Trade Apprentice",
+        "totalPost": "104",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 18,
+          "maxAge": 24,
+          "qualification": [
+            "10th (Matric) Pass with 2-Year ITI in the relevant trade such as Fitter, Electrician, Electronics Mechanic, Instrument Mechanic or Machinist. ITI must be recognized by NCVT/SCVT."
+          ]
+        }
+      },
+      {
+        "postName": "Graduate Apprentice",
+        "totalPost": "104",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 18,
+          "maxAge": 24,
+          "qualification": [
+            " BBA / BA / B.Com / B.Sc. Graduation in any discipline from a recognized Institute/University. 50% marks for General/EWS/OBC-NCL and 45% marks for SC/ST/PwBD candidates."
+          ]
+        }
+      },
+      {
+        "postName": "Trade Apprentice DEO (Skilled Certificate Holders)",
+        "totalPost": "69",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 18,
+          "maxAge": 24,
+          "qualification": [
+            "Normal: Class 12th (but below graduate)",
+            "for skilled: 12th Pass (Below Graduate) with Domestic Data Entry Operator Skill Certificate (Training 1 Year) from NSQF/Central Govt. Recognized Authority."
+          ]
+        }
+      }
     ],
     "importantLinks": [
-        {
-            "title": "Apply Online Trade Apprentice (ITI)",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://www.apprenticeshipindia.gov.in/candidate-login"
-                }
-            ]
-        },
-        {
-            "title": "Apply Online (Technician & Graduate Apprentice)",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://nats.education.gov.in/student_type.php"
-                }
-            ]
-        },
-        {
-            "title": "Apply Online (After Apply NATS/NAPS)",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://forms.cloud.microsoft/r/pw7D2cUK7c"
-                }
-            ]
-        },
-        {
-            "title": "Download Notification",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://iocl.com/admin/img/Apprenticeships/Files/e2fe7d9255544d7e8a9e9c812dbfca7d.pdf"
-                }
-            ]
-        }
+      {
+        "title": "Apply Online Trade Apprentice (ITI)",
+        "links": [
+          {
+            "title": "",
+            "link": "https://www.apprenticeshipindia.gov.in/candidate-login"
+          }
+        ]
+      },
+      {
+        "title": "Apply Online (Technician & Graduate Apprentice)",
+        "links": [
+          {
+            "title": "",
+            "link": "https://nats.education.gov.in/student_type.php"
+          }
+        ]
+      },
+      {
+        "title": "Apply Online (After Apply NATS/NAPS)",
+        "links": [
+          {
+            "title": "",
+            "link": "https://forms.cloud.microsoft/r/pw7D2cUK7c"
+          }
+        ]
+      },
+      {
+        "title": "Download Notification",
+        "links": [
+          {
+            "title": "",
+            "link": "https://iocl.com/admin/img/Apprenticeships/Files/e2fe7d9255544d7e8a9e9c812dbfca7d.pdf"
+          }
+        ]
+      }
     ],
     "admitCard": {
-        "startDate": "",
-        "link": "",
-        "details": "",
-        "instruction": []
+      "startDate": "",
+      "link": "",
+      "details": "",
+      "instruction": []
     },
     "resultCard": {
-        "link": "",
-        "details": "",
-        "instruction": []
+      "link": "",
+      "details": "",
+      "instruction": []
     },
     "answerKey": {
-        "startDate": "",
-        "link": "",
-        "details": "",
-        "instruction": []
+      "startDate": "",
+      "link": "",
+      "details": "",
+      "instruction": []
     },
     "table": [
-        {
-            "title": "State Wise Vacancy Details",
-            "details": "",
-            "notes": "",
-            "list": [
-                [
-                    "State",
-                    "Discipline",
-                    "Total Post"
-                ],
-                [
-                    "Delhi",
-                    "Technician",
-                    "10"
-                ],
-                [
-                    "Trade Apprentice",
-                    "10"
-                ],
-                [
-                    "Graduate Apprentice",
-                    "20"
-                ],
-                [
-                    "Trade Apprentice DEO",
-                    "10"
-                ],
-                [
-                    "Haryana",
-                    "Technician",
-                    "12"
-                ],
-                [
-                    "Trade Apprentice",
-                    "10"
-                ],
-                [
-                    "Graduate Apprentice",
-                    "8"
-                ],
-                [
-                    "Trade Apprentice DEO",
-                    "7"
-                ],
-                [
-                    "Punjab",
-                    "Technician",
-                    "27"
-                ],
-                [
-                    "Trade Apprentice",
-                    "10"
-                ],
-                [
-                    "Graduate Apprentice",
-                    "12"
-                ],
-                [
-                    "Trade Apprentice DEO",
-                    "8"
-                ],
-                [
-                    "Himachal Pradesh",
-                    "Technician",
-                    "8"
-                ],
-                [
-                    "Trade Apprentice",
-                    "4"
-                ],
-                [
-                    "Graduate Apprentice",
-                    "5"
-                ],
-                [
-                    "Trade Apprentice DEO",
-                    "5"
-                ],
-                [
-                    "Chandigarh",
-                    "Technician",
-                    "2"
-                ],
-                [
-                    "Trade Apprentice",
-                    "1"
-                ],
-                [
-                    "Graduate Apprentice",
-                    "15"
-                ],
-                [
-                    "Trade Apprentice DEO",
-                    "12"
-                ],
-                [
-                    "Jammu and Kashmir",
-                    "Technician",
-                    "7"
-                ],
-                [
-                    "Trade Apprentice",
-                    "4"
-                ],
-                [
-                    "Graduate Apprentice",
-                    "5"
-                ],
-                [
-                    "Trade Apprentice DEO",
-                    "4"
-                ],
-                [
-                    "Rajasthan",
-                    "Technician",
-                    "26"
-                ],
-                [
-                    "Trade Apprentice",
-                    "22"
-                ],
-                [
-                    "Graduate Apprentice",
-                    "16"
-                ],
-                [
-                    "Trade Apprentice DEO",
-                    "12"
-                ],
-                [
-                    "Uttar Pradesh",
-                    "Technician",
-                    "54"
-                ],
-                [
-                    "Trade Apprentice",
-                    "37"
-                ],
-                [
-                    "Graduate Apprentice",
-                    "20"
-                ],
-                [
-                    "Trade Apprentice DEO",
-                    "10"
-                ],
-                [
-                    "Uttarakhand",
-                    "Technician",
-                    "10"
-                ],
-                [
-                    "Trade Apprentice",
-                    "6"
-                ],
-                [
-                    "Graduate Apprentice",
-                    "3"
-                ],
-                [
-                    "Trade Apprentice DEO",
-                    "1"
-                ]
-            ]
-        }
+      {
+        "title": "State Wise Vacancy Details",
+        "details": "",
+        "notes": "",
+        "list": [
+          [
+            "State",
+            "Discipline",
+            "Total Post"
+          ],
+          [
+            "Delhi",
+            "Technician",
+            "10"
+          ],
+          [
+            "Trade Apprentice",
+            "10"
+          ],
+          [
+            "Graduate Apprentice",
+            "20"
+          ],
+          [
+            "Trade Apprentice DEO",
+            "10"
+          ],
+          [
+            "Haryana",
+            "Technician",
+            "12"
+          ],
+          [
+            "Trade Apprentice",
+            "10"
+          ],
+          [
+            "Graduate Apprentice",
+            "8"
+          ],
+          [
+            "Trade Apprentice DEO",
+            "7"
+          ],
+          [
+            "Punjab",
+            "Technician",
+            "27"
+          ],
+          [
+            "Trade Apprentice",
+            "10"
+          ],
+          [
+            "Graduate Apprentice",
+            "12"
+          ],
+          [
+            "Trade Apprentice DEO",
+            "8"
+          ],
+          [
+            "Himachal Pradesh",
+            "Technician",
+            "8"
+          ],
+          [
+            "Trade Apprentice",
+            "4"
+          ],
+          [
+            "Graduate Apprentice",
+            "5"
+          ],
+          [
+            "Trade Apprentice DEO",
+            "5"
+          ],
+          [
+            "Chandigarh",
+            "Technician",
+            "2"
+          ],
+          [
+            "Trade Apprentice",
+            "1"
+          ],
+          [
+            "Graduate Apprentice",
+            "15"
+          ],
+          [
+            "Trade Apprentice DEO",
+            "12"
+          ],
+          [
+            "Jammu and Kashmir",
+            "Technician",
+            "7"
+          ],
+          [
+            "Trade Apprentice",
+            "4"
+          ],
+          [
+            "Graduate Apprentice",
+            "5"
+          ],
+          [
+            "Trade Apprentice DEO",
+            "4"
+          ],
+          [
+            "Rajasthan",
+            "Technician",
+            "26"
+          ],
+          [
+            "Trade Apprentice",
+            "22"
+          ],
+          [
+            "Graduate Apprentice",
+            "16"
+          ],
+          [
+            "Trade Apprentice DEO",
+            "12"
+          ],
+          [
+            "Uttar Pradesh",
+            "Technician",
+            "54"
+          ],
+          [
+            "Trade Apprentice",
+            "37"
+          ],
+          [
+            "Graduate Apprentice",
+            "20"
+          ],
+          [
+            "Trade Apprentice DEO",
+            "10"
+          ],
+          [
+            "Uttarakhand",
+            "Technician",
+            "10"
+          ],
+          [
+            "Trade Apprentice",
+            "6"
+          ],
+          [
+            "Graduate Apprentice",
+            "3"
+          ],
+          [
+            "Trade Apprentice DEO",
+            "1"
+          ]
+        ]
+      }
     ]
-},
-  {"timestamp":1786431503,
-    "state":"himachal-pradesh",
+  },
+  {
+    "timestamp": 1786431503,
+    "state": "himachal-pradesh",
     "examType": "job",
     "id": "Himachal-Pradesh-High-Court-Various-Post-Recruitment-2026",
     "orgId": "High Court of Himachal Pradesh Shimla (HPHC)",
     "name": "Himachal Pradesh High Court Various Post Recruitment  2026",
     "importantDates": {
-        "startDate": "10/08/2026",
-        "lastDate": "10/09/2026",
-        "lastDateFeePayment": "10/09/2026"
+      "startDate": "10/08/2026",
+      "lastDate": "10/09/2026",
+      "lastDateFeePayment": "10/09/2026"
     },
     "fee": {
-        "general": "450",
-        "obc": "300",
-        "ews": "300",
-        "sc": "300",
-        "st": "300",
-        "ph": "300",
-        "female": "",
-        "notes": "OBC / EWS / SC / ST / PH : 300/- (Only for HP Domicile) "
+      "general": "450",
+      "obc": "300",
+      "ews": "300",
+      "sc": "300",
+      "st": "300",
+      "ph": "300",
+      "female": "",
+      "notes": "OBC / EWS / SC / ST / PH : 300/- (Only for HP Domicile) "
     },
     "totalPost": {
-        "count": 388,
-        "notes": ""
+      "count": 388,
+      "notes": ""
     },
     "ageDetails": {
-        "minAge": 18,
-        "maxAge": 45
+      "minAge": 18,
+      "maxAge": 45
     },
     "vacancyDetails": [
-        {
-            "postName": "Court Manager (Group -B)",
-            "totalPost": "5",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 25,
-                "maxAge": 35,
-                "qualification": [
-                    "Bachelor Degree in Any Stream with MBA from a University or Institution, in India.",
-                    "3 Year Experience.",
-                    "More Eligibility Details Read The Notification."
-                ]
-            }
+      {
+        "postName": "Court Manager (Group -B)",
+        "totalPost": "5",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
         },
-        {
-            "postName": "Clerk (Group-C)",
-            "totalPost": "141",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 18,
-                "maxAge": 45,
-                "qualification": [
-                    "Bachelor Degree from a Recognized University with Basic Computer Knowledge like operating the computers, Windows and Linux .",
-                    "English Typing 30 WPM and Hindi Typing 25 WPM.",
-                    "More Eligibility Details Read The Notification."
-                ]
-            }
-        },
-        {
-            "postName": "Stenographer Grade-III (Group-C)",
-            "totalPost": "79",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 18,
-                "maxAge": 26,
-                "qualification": [
-                    "Bachelor Degree from a Recognized University in India.",
-                    "English Stenography 80 WPM",
-                    "English Typing 40 WPM",
-                    "Hindi Typing (by using Kruti Dev-10 font) 30 WPM.",
-                    "More Eligibility Details Read The Notification."
-                ]
-            }
-        },
-        {
-            "postName": "Driver (Group-C)",
-            "totalPost": "09",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 18,
-                "maxAge": 45,
-                "qualification": [
-                    "Class 10th (Matric) Pass with Valid LMV Driving Licence",
-                    "3 Years LMV Driving Experience.",
-                    "More Eligibility Details Read The Notification."
-                ]
-            }
-        },
-        {
-            "postName": "Process Server (Group-D)",
-            "totalPost": "65",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 18,
-                "maxAge": 45,
-                "qualification": [
-                    "10+2 examination from the recognized Board.",
-                    "More Eligibility Details Read The Notification."
-                ]
-            }
-        },
-        {
-            "postName": "Peon / Orderly / Chowkidar / Safai Karamchari / etc. (Group-D)",
-            "totalPost": "89",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 0,
-                "maxAge": 0,
-                "qualification": [
-                    "10+2 examination from the recognized Board.",
-                    "More Eligibility Details Read The Notification."
-                ]
-            }
+        "eligiblity": {
+          "minAge": 25,
+          "maxAge": 35,
+          "qualification": [
+            "Bachelor Degree in Any Stream with MBA from a University or Institution, in India.",
+            "3 Year Experience.",
+            "More Eligibility Details Read The Notification."
+          ]
         }
+      },
+      {
+        "postName": "Clerk (Group-C)",
+        "totalPost": "141",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 18,
+          "maxAge": 45,
+          "qualification": [
+            "Bachelor Degree from a Recognized University with Basic Computer Knowledge like operating the computers, Windows and Linux .",
+            "English Typing 30 WPM and Hindi Typing 25 WPM.",
+            "More Eligibility Details Read The Notification."
+          ]
+        }
+      },
+      {
+        "postName": "Stenographer Grade-III (Group-C)",
+        "totalPost": "79",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 18,
+          "maxAge": 26,
+          "qualification": [
+            "Bachelor Degree from a Recognized University in India.",
+            "English Stenography 80 WPM",
+            "English Typing 40 WPM",
+            "Hindi Typing (by using Kruti Dev-10 font) 30 WPM.",
+            "More Eligibility Details Read The Notification."
+          ]
+        }
+      },
+      {
+        "postName": "Driver (Group-C)",
+        "totalPost": "09",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 18,
+          "maxAge": 45,
+          "qualification": [
+            "Class 10th (Matric) Pass with Valid LMV Driving Licence",
+            "3 Years LMV Driving Experience.",
+            "More Eligibility Details Read The Notification."
+          ]
+        }
+      },
+      {
+        "postName": "Process Server (Group-D)",
+        "totalPost": "65",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 18,
+          "maxAge": 45,
+          "qualification": [
+            "10+2 examination from the recognized Board.",
+            "More Eligibility Details Read The Notification."
+          ]
+        }
+      },
+      {
+        "postName": "Peon / Orderly / Chowkidar / Safai Karamchari / etc. (Group-D)",
+        "totalPost": "89",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 0,
+          "maxAge": 0,
+          "qualification": [
+            "10+2 examination from the recognized Board.",
+            "More Eligibility Details Read The Notification."
+          ]
+        }
+      }
     ],
     "importantLinks": [
-        {
-            "title": "Apply Online",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://www.hphcrecruitment.in/login"
-                }
-            ]
-        },
-        {
-            "title": "Download Notification",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://highcourt.hp.gov.in/uploads/recruitment/recruitment_1786092260_7203.pdf"
-                }
-            ]
-        }
+      {
+        "title": "Apply Online",
+        "links": [
+          {
+            "title": "",
+            "link": "https://www.hphcrecruitment.in/login"
+          }
+        ]
+      },
+      {
+        "title": "Download Notification",
+        "links": [
+          {
+            "title": "",
+            "link": "https://highcourt.hp.gov.in/uploads/recruitment/recruitment_1786092260_7203.pdf"
+          }
+        ]
+      }
     ],
     "admitCard": {
-        "startDate": "",
-        "link": "",
-        "details": "",
-        "instruction": []
+      "startDate": "",
+      "link": "",
+      "details": "",
+      "instruction": []
     },
     "resultCard": {
-        "link": "",
-        "details": "",
-        "instruction": []
+      "link": "",
+      "details": "",
+      "instruction": []
     },
     "answerKey": {
-        "startDate": "",
-        "link": "",
-        "details": "",
-        "instruction": []
+      "startDate": "",
+      "link": "",
+      "details": "",
+      "instruction": []
     }
-},
-{"timestamp":1786431503,
+  },
+  {
+    "timestamp": 1786431503,
     "examType": "job",
     "id": "RCF-Management-Trainee-Recruitment-2026",
     "orgId": "Rashtriya Chemicals and Fertilizers Limited (RCF)",
     "name": "RCF Management Trainee Recruitment  2026",
     "importantDates": {
-        "startDate": " 08/08/2026",
-        "lastDate": "24/08/2026 (upto 05 PM)",
-        "lastDateFeePayment": "24/08/2026"
+      "startDate": " 08/08/2026",
+      "lastDate": "24/08/2026 (upto 05 PM)",
+      "lastDateFeePayment": "24/08/2026"
     },
     "fee": {
-        "general": "1000",
-        "obc": "1000",
-        "ews": "1000",
-        "sc": "0",
-        "st": "0",
-        "ph": "0",
-        "female": "",
-        "notes": ""
+      "general": "1000",
+      "obc": "1000",
+      "ews": "1000",
+      "sc": "0",
+      "st": "0",
+      "ph": "0",
+      "female": "",
+      "notes": ""
     },
     "totalPost": {
-        "count": 94,
-        "notes": ""
+      "count": 94,
+      "notes": ""
     },
     "ageDetails": {
-        "minAge": 18,
-        "maxAge": 27,
-        "notes": "Minimum Age : Post wise\nAge Relaxation Extra as per RCF Management Trainee Examination Rules Advt. No.16022026."
+      "minAge": 18,
+      "maxAge": 27,
+      "notes": "Minimum Age : Post wise\nAge Relaxation Extra as per RCF Management Trainee Examination Rules Advt. No.16022026."
     },
     "vacancyDetails": [
-        {
-            "postName": "Management Trainee (Chemical)",
-            "totalPost": "32",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 0,
-                "maxAge": 0,
-                "qualification": [
-                    "BE / B.Tech Degree in Related Trade / Branch from Any Recognized Institute in India.",
-                    "for Trade Wise Eligibility Details Read the Notification.",
-                    "Age:Post vise"
-                ]
-            }
+      {
+        "postName": "Management Trainee (Chemical)",
+        "totalPost": "32",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
         },
-        {
-            "postName": "Management Trainee (Boiler)",
-            "totalPost": "06",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 0,
-                "maxAge": 0,
-                "qualification": [
-                    "BE / B.Tech Degree in Related Trade / Branch from Any Recognized Institute in India.",
-                    "for Trade Wise Eligibility Details Read the Notification.",
-                    "Age:Post vise"
-                ]
-            }
-        },
-        {
-            "postName": "Management Trainee (Mechanical)",
-            "totalPost": "4",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 0,
-                "maxAge": 0,
-                "qualification": [
-                    "BE / B.Tech Degree in Related Trade / Branch from Any Recognized Institute in India.",
-                    "for Trade Wise Eligibility Details Read the Notification.",
-                    "Age:Post vise"
-                ]
-            }
-        },
-        {
-            "postName": "Management Trainee (Electrical)",
-            "totalPost": "10",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 0,
-                "maxAge": 0,
-                "qualification": [
-                    "BE / B.Tech Degree in Related Trade / Branch from Any Recognized Institute in India.",
-                    "for Trade Wise Eligibility Details Read the Notification.",
-                    "Age:Post vise"
-                ]
-            }
-        },
-        {
-            "postName": "Management Trainee (Instrumentation)",
-            "totalPost": "8",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 0,
-                "maxAge": 0,
-                "qualification": [
-                    "BE / B.Tech Degree in Related Trade / Branch from Any Recognized Institute in India.",
-                    "for Trade Wise Eligibility Details Read the Notification.",
-                    "Age:Post vise"
-                ]
-            }
-        },
-        {
-            "postName": "Management Trainee (Materials)",
-            "totalPost": "1",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 0,
-                "maxAge": 0,
-                "qualification": [
-                    "BE / B.Tech Degree in Related Trade / Branch from Any Recognized Institute in India.",
-                    "for Trade Wise Eligibility Details Read the Notification.",
-                    "Age:Post vise"
-                ]
-            }
-        },
-        {
-            "postName": "Management Trainee (Civil)",
-            "totalPost": "1",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 0,
-                "maxAge": 0,
-                "qualification": [
-                    "BE / B.Tech Degree in Related Trade / Branch from Any Recognized Institute in India.",
-                    "for Trade Wise Eligibility Details Read the Notification.",
-                    "Age:Post vise"
-                ]
-            }
-        },
-        {
-            "postName": "Management Trainee (Fire)",
-            "totalPost": "1",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 0,
-                "maxAge": 0,
-                "qualification": [
-                    "BE / B.Tech Degree in Related Trade / Branch from Any Recognized Institute in India.",
-                    "for Trade Wise Eligibility Details Read the Notification.",
-                    "Age:Post vise"
-                ]
-            }
-        },
-        {
-            "postName": "Management Trainee (CC Lab)",
-            "totalPost": "1",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 0,
-                "maxAge": 0,
-                "qualification": [
-                    "BE / B.Tech Degree in Related Trade / Branch from Any Recognized Institute in India.",
-                    "for Trade Wise Eligibility Details Read the Notification.",
-                    "Age:Post vise"
-                ]
-            }
-        },
-        {
-            "postName": "Management Trainee (Industrial Engineering)",
-            "totalPost": "2",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 0,
-                "maxAge": 0,
-                "qualification": [
-                    "BE / B.Tech Degree in Related Trade / Branch from Any Recognized Institute in India.",
-                    "for Trade Wise Eligibility Details Read the Notification.",
-                    "Age:Post vise"
-                ]
-            }
-        },
-        {
-            "postName": "Management Trainee (Information Technology)",
-            "totalPost": "5",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 0,
-                "maxAge": 0,
-                "qualification": [
-                    "BE / B.Tech Degree in Related Trade / Branch from Any Recognized Institute in India.",
-                    "for Trade Wise Eligibility Details Read the Notification.",
-                    "Age:Post vise"
-                ]
-            }
-        },
-        {
-            "postName": "Management Trainee (Rajbhasha)",
-            "totalPost": "2",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 0,
-                "maxAge": 0,
-                "qualification": [
-                    "Master’s Degree in Hindi/English as per official notification with 60% Marks in Post Graduation.",
-                    "More Eligibility Details Read the Notification",
-                    "Age:Post vise"
-                ]
-            }
-        },
-        {
-            "postName": "Management Trainee (Finance)",
-            "totalPost": "10",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 0,
-                "maxAge": 0,
-                "qualification": [
-                    "CA/CMA OR B.Com/BBA/BMS/BAF + MBA/MMS/PGDM/PGDBM (Finance). (M.Com is not eligible).",
-                    "More Eligibility Details Read the Notification",
-                    "Age:Post vise"
-                ]
-            }
-        },
-        {
-            "postName": "Management Trainee (Marketing)",
-            "totalPost": "10",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 0,
-                "maxAge": 0,
-                "qualification": [
-                    "Science / Engineering / Agriculture Graduate + MBA/MMS/PGDM in Marketing / Agri Business / Agriculture.",
-                    "More Eligibility Details Read the Notification",
-                    "Age:Post vise"
-                ]
-            }
+        "eligiblity": {
+          "minAge": 0,
+          "maxAge": 0,
+          "qualification": [
+            "BE / B.Tech Degree in Related Trade / Branch from Any Recognized Institute in India.",
+            "for Trade Wise Eligibility Details Read the Notification.",
+            "Age:Post vise"
+          ]
         }
+      },
+      {
+        "postName": "Management Trainee (Boiler)",
+        "totalPost": "06",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 0,
+          "maxAge": 0,
+          "qualification": [
+            "BE / B.Tech Degree in Related Trade / Branch from Any Recognized Institute in India.",
+            "for Trade Wise Eligibility Details Read the Notification.",
+            "Age:Post vise"
+          ]
+        }
+      },
+      {
+        "postName": "Management Trainee (Mechanical)",
+        "totalPost": "4",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 0,
+          "maxAge": 0,
+          "qualification": [
+            "BE / B.Tech Degree in Related Trade / Branch from Any Recognized Institute in India.",
+            "for Trade Wise Eligibility Details Read the Notification.",
+            "Age:Post vise"
+          ]
+        }
+      },
+      {
+        "postName": "Management Trainee (Electrical)",
+        "totalPost": "10",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 0,
+          "maxAge": 0,
+          "qualification": [
+            "BE / B.Tech Degree in Related Trade / Branch from Any Recognized Institute in India.",
+            "for Trade Wise Eligibility Details Read the Notification.",
+            "Age:Post vise"
+          ]
+        }
+      },
+      {
+        "postName": "Management Trainee (Instrumentation)",
+        "totalPost": "8",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 0,
+          "maxAge": 0,
+          "qualification": [
+            "BE / B.Tech Degree in Related Trade / Branch from Any Recognized Institute in India.",
+            "for Trade Wise Eligibility Details Read the Notification.",
+            "Age:Post vise"
+          ]
+        }
+      },
+      {
+        "postName": "Management Trainee (Materials)",
+        "totalPost": "1",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 0,
+          "maxAge": 0,
+          "qualification": [
+            "BE / B.Tech Degree in Related Trade / Branch from Any Recognized Institute in India.",
+            "for Trade Wise Eligibility Details Read the Notification.",
+            "Age:Post vise"
+          ]
+        }
+      },
+      {
+        "postName": "Management Trainee (Civil)",
+        "totalPost": "1",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 0,
+          "maxAge": 0,
+          "qualification": [
+            "BE / B.Tech Degree in Related Trade / Branch from Any Recognized Institute in India.",
+            "for Trade Wise Eligibility Details Read the Notification.",
+            "Age:Post vise"
+          ]
+        }
+      },
+      {
+        "postName": "Management Trainee (Fire)",
+        "totalPost": "1",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 0,
+          "maxAge": 0,
+          "qualification": [
+            "BE / B.Tech Degree in Related Trade / Branch from Any Recognized Institute in India.",
+            "for Trade Wise Eligibility Details Read the Notification.",
+            "Age:Post vise"
+          ]
+        }
+      },
+      {
+        "postName": "Management Trainee (CC Lab)",
+        "totalPost": "1",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 0,
+          "maxAge": 0,
+          "qualification": [
+            "BE / B.Tech Degree in Related Trade / Branch from Any Recognized Institute in India.",
+            "for Trade Wise Eligibility Details Read the Notification.",
+            "Age:Post vise"
+          ]
+        }
+      },
+      {
+        "postName": "Management Trainee (Industrial Engineering)",
+        "totalPost": "2",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 0,
+          "maxAge": 0,
+          "qualification": [
+            "BE / B.Tech Degree in Related Trade / Branch from Any Recognized Institute in India.",
+            "for Trade Wise Eligibility Details Read the Notification.",
+            "Age:Post vise"
+          ]
+        }
+      },
+      {
+        "postName": "Management Trainee (Information Technology)",
+        "totalPost": "5",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 0,
+          "maxAge": 0,
+          "qualification": [
+            "BE / B.Tech Degree in Related Trade / Branch from Any Recognized Institute in India.",
+            "for Trade Wise Eligibility Details Read the Notification.",
+            "Age:Post vise"
+          ]
+        }
+      },
+      {
+        "postName": "Management Trainee (Rajbhasha)",
+        "totalPost": "2",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 0,
+          "maxAge": 0,
+          "qualification": [
+            "Master’s Degree in Hindi/English as per official notification with 60% Marks in Post Graduation.",
+            "More Eligibility Details Read the Notification",
+            "Age:Post vise"
+          ]
+        }
+      },
+      {
+        "postName": "Management Trainee (Finance)",
+        "totalPost": "10",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 0,
+          "maxAge": 0,
+          "qualification": [
+            "CA/CMA OR B.Com/BBA/BMS/BAF + MBA/MMS/PGDM/PGDBM (Finance). (M.Com is not eligible).",
+            "More Eligibility Details Read the Notification",
+            "Age:Post vise"
+          ]
+        }
+      },
+      {
+        "postName": "Management Trainee (Marketing)",
+        "totalPost": "10",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 0,
+          "maxAge": 0,
+          "qualification": [
+            "Science / Engineering / Agriculture Graduate + MBA/MMS/PGDM in Marketing / Agri Business / Agriculture.",
+            "More Eligibility Details Read the Notification",
+            "Age:Post vise"
+          ]
+        }
+      }
     ],
     "importantLinks": [
-        {
-            "title": "Apply Online",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://ibpsreg.ibps.in/rcfmtfeb26/"
-                }
-            ]
-        },
-        {
-            "title": "Download Full Notification",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://www.rcfltd.com/files/MT%202026.pdf"
-                }
-            ]
-        }
+      {
+        "title": "Apply Online",
+        "links": [
+          {
+            "title": "",
+            "link": "https://ibpsreg.ibps.in/rcfmtfeb26/"
+          }
+        ]
+      },
+      {
+        "title": "Download Full Notification",
+        "links": [
+          {
+            "title": "",
+            "link": "https://www.rcfltd.com/files/MT%202026.pdf"
+          }
+        ]
+      }
     ],
     "admitCard": {
-        "startDate": "",
-        "link": "",
-        "details": "",
-        "instruction": []
+      "startDate": "",
+      "link": "",
+      "details": "",
+      "instruction": []
     },
     "resultCard": {
-        "link": "",
-        "details": "",
-        "instruction": []
+      "link": "",
+      "details": "",
+      "instruction": []
     },
     "answerKey": {
-        "startDate": "",
-        "link": "",
-        "details": "",
-        "instruction": []
+      "startDate": "",
+      "link": "",
+      "details": "",
+      "instruction": []
     }
-},
-{"timestamp":1786431503,
+  },
+  {
+    "timestamp": 1786431503,
     "examType": "job",
     "id": "BSIP-Lucknow-Scientist-B-Recruitment-2026",
     "orgId": "irbal Sahni Institute of Palaeosciences (BSIP)",
     "name": "BSIP Lucknow Scientist B Recruitment 2026",
     "importantDates": {
-        "startDate": "10/08/2026",
-        "lastDate": "04/09/2026 (upto 05 PM)",
-        "lastDateFeePayment": "04/09/2026"
+      "startDate": "10/08/2026",
+      "lastDate": "04/09/2026 (upto 05 PM)",
+      "lastDateFeePayment": "04/09/2026"
     },
     "fee": {
-        "general": "1000",
-        "obc": "1000",
-        "ews": "1000",
-        "sc": "0",
-        "st": "0",
-        "ph": "0",
-        "female": "",
-        "notes": "Pay the Exam Fee Through Demand Draft DD only."
+      "general": "1000",
+      "obc": "1000",
+      "ews": "1000",
+      "sc": "0",
+      "st": "0",
+      "ph": "0",
+      "female": "",
+      "notes": "Pay the Exam Fee Through Demand Draft DD only."
     },
     "totalPost": {
-        "count": 19,
-        "notes": ""
+      "count": 19,
+      "notes": ""
     },
     "ageDetails": {
-        "minAge": 18,
-        "maxAge": 35,
-        "notes": "Age Relaxation Extra as Birbal Sahni Institute of Palaeosciences BSIP Lucknow Scientist B Examination Rules Advt. No.: BSIP/Scientist-B/01/2026."
+      "minAge": 18,
+      "maxAge": 35,
+      "notes": "Age Relaxation Extra as Birbal Sahni Institute of Palaeosciences BSIP Lucknow Scientist B Examination Rules Advt. No.: BSIP/Scientist-B/01/2026."
     },
     "vacancyDetails": [
-        {
-            "postName": "Scientist B",
-            "totalPost": "19",
-            "category": {
-                "ur": "7",
-                "obc": "5",
-                "ews": "2",
-                "sc": "3",
-                "st": "1",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 18,
-                "maxAge": 35,
-                "qualification": [
-                    "Master Degree M.Sc in Biosciences / Geology / Physics / Chemistry or Allied Discipline with 3 Year Experience. OR",
-                    "PHd in Related Subject."
-                ]
-            }
+      {
+        "postName": "Scientist B",
+        "totalPost": "19",
+        "category": {
+          "ur": "7",
+          "obc": "5",
+          "ews": "2",
+          "sc": "3",
+          "st": "1",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 18,
+          "maxAge": 35,
+          "qualification": [
+            "Master Degree M.Sc in Biosciences / Geology / Physics / Chemistry or Allied Discipline with 3 Year Experience. OR",
+            "PHd in Related Subject."
+          ]
         }
+      }
     ],
     "importantLinks": [
-        {
-            "title": "Apply Online",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://portal.bsip.in/scientist/Login.aspx"
-                }
-            ]
-        },
-        {
-            "title": "Download Notification",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://www.bsip.res.in/storage/careers/z87nghuv602wWJxsQP11gf8IRDI6AhrnkfMEP2fF.pdf"
-                }
-            ]
-        }
+      {
+        "title": "Apply Online",
+        "links": [
+          {
+            "title": "",
+            "link": "https://portal.bsip.in/scientist/Login.aspx"
+          }
+        ]
+      },
+      {
+        "title": "Download Notification",
+        "links": [
+          {
+            "title": "",
+            "link": "https://www.bsip.res.in/storage/careers/z87nghuv602wWJxsQP11gf8IRDI6AhrnkfMEP2fF.pdf"
+          }
+        ]
+      }
     ],
     "admitCard": {
-        "startDate": "",
-        "link": "",
-        "details": "",
-        "instruction": []
+      "startDate": "",
+      "link": "",
+      "details": "",
+      "instruction": []
     },
     "resultCard": {
-        "link": "",
-        "details": "",
-        "instruction": []
+      "link": "",
+      "details": "",
+      "instruction": []
     },
     "answerKey": {
-        "startDate": "",
-        "link": "",
-        "details": "",
-        "instruction": []
+      "startDate": "",
+      "link": "",
+      "details": "",
+      "instruction": []
     }
-},
-{
-  "timestamp":1786537703,
+  },
+  {
+    "timestamp": 1786537703,
     "examType": "job",
     "id": "WCL-Statutory-Supervisory-Staff-Recruitment-Online-Form-2026",
     "orgId": "Western Coalfields Limited (WCL)",
     "name": "WCL Statutory Supervisory Staff Recruitment Online Form 2026",
     "importantDates": {
-        "startDate": "20/07/2026",
-        "lastDate": "10/08/2026",
-        "lastDateFeePayment": "10/08/2026",
-        "examDate": "As per Schedule"
+      "startDate": "20/07/2026",
+      "lastDate": "10/08/2026",
+      "lastDateFeePayment": "10/08/2026",
+      "examDate": "As per Schedule"
     },
     "fee": {
-        "general": "1180",
-        "obc": "1180",
-        "ews": "1180",
-        "sc": "0",
-        "st": "0",
-        "ph": "0",
-        "female": "",
-        "notes": ""
+      "general": "1180",
+      "obc": "1180",
+      "ews": "1180",
+      "sc": "0",
+      "st": "0",
+      "ph": "0",
+      "female": "",
+      "notes": ""
     },
     "totalPost": {
-        "count": 444,
+      "count": 444,
+      "notes": ""
+    },
+    "ageDetails": {
+      "minAge": 18,
+      "maxAge": 30,
+      "notes": "Age Relaxation Extra as per WCL Mining Sirdar, Assistant Foreman Examination Rules."
+    },
+    "vacancyDetails": [
+      {
+        "postName": "Mining Sirdar T&S Grade. C",
+        "totalPost": "220",
+        "category": {
+          "ur": "101\t",
+          "obc": "35",
+          "ews": "22",
+          "sc": "24",
+          "st": "38",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 18,
+          "maxAge": 30,
+          "qualification": [
+            "Diploma in Mining Engineering from any institute recognized by the Government",
+            "Valid Overman competency certificate issued by DGMS",
+            "Valid Gas Testing Certificate",
+            "Valid First Aid Certificate",
+            "More Details Read the Notification."
+          ]
+        }
+      },
+      {
+        "postName": "Assistant Foreman (Trainee) (Electrical)/Electrical Supervisor, T&S Grade- C",
+        "totalPost": "224",
+        "category": {
+          "ur": "91",
+          "obc": "56",
+          "ews": "22",
+          "sc": "26",
+          "st": "29",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 18,
+          "maxAge": 30,
+          "qualification": [
+            "Diploma in Electrical Engineering from any institute recognized by the Government.",
+            "Electrical Supervisory Certificate valid for Mines issued by the Appropriate Government",
+            "More Details Read the Notification."
+          ]
+        }
+      }
+    ],
+    "importantLinks": [
+      {
+        "title": "Apply Online",
+        "links": [
+          {
+            "title": "",
+            "link": "https://cdn.digialm.com/EForms/configuredHtml/1258/101411/Index.html"
+          }
+        ]
+      },
+      {
+        "title": "Download Notification",
+        "links": [
+          {
+            "title": "",
+            "link": "https://docs.westerncoal.in/strapi/uploads/Recruitment_Not_English_58616ee33e.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Official Website",
+        "links": [
+          {
+            "title": "WCL Official Website",
+            "link": "https://westerncoal.in/en/career/recruitment"
+          }
+        ]
+      }
+    ],
+    "admitCard": {
+      "startDate": "",
+      "link": "",
+      "details": "",
+      "instruction": []
+    },
+    "resultCard": {
+      "link": "",
+      "details": "",
+      "instruction": []
+    },
+    "answerKey": {
+      "startDate": "",
+      "link": "",
+      "details": "",
+      "instruction": []
+    }
+  },
+  {
+    "timestamp": 1786431503,
+    "examType": "job",
+    "state": "uttar-pradesh",
+    "id": "UPSSSC-Livestock-Extension-Officer-LEO-Main-Examination-2026",
+    "orgId": "Uttar Pradesh Subordinate Service Selection Commission (UPSSSC)",
+    "name": "UPSSSC Livestock Extension Officer LEO (पशुधन प्रसार अधिकारी) Main Examination 2026",
+    "importantDates": {
+      "startDate": "09/09/2026",
+      "lastDate": "29/09/2026",
+      "lastDateFeePayment": "29/09/2026",
+      "correctionDate": "06/10/2026"
+    },
+    "fee": {
+      "general": "25",
+      "obc": "25",
+      "ews": "25",
+      "sc": "25",
+      "st": "25",
+      "ph": "25",
+      "female": "",
+      "notes": ""
+    },
+    "totalPost": {
+      "count": 1251,
+      "notes": ""
+    },
+    "ageDetails": {
+      "minAge": 21,
+      "maxAge": 40
+    },
+    "vacancyDetails": [
+      {
+        "postName": "Livestock Extension Officer",
+        "totalPost": "1248",
+        "category": {
+          "ur": "500",
+          "obc": "345",
+          "ews": "124",
+          "sc": "254",
+          "st": "25",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 21,
+          "maxAge": 40,
+          "qualification": [
+            "UPSSSC PET 2025 Exam Passed",
+            "10+2 Intermediate Biology Subject.",
+            "2 Year Diploma in Livestock Extension (पशुधन प्रसार डिप्लोमा)",
+            "More Eligibility Read the Notification."
+          ]
+        }
+      },
+      {
+        "postName": "Livestock Extension Officer (Special)",
+        "totalPost": "3",
+        "category": {
+          "ur": "",
+          "obc": "3",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 21,
+          "maxAge": 40,
+          "qualification": [
+            "UPSSSC PET 2025 Exam Passed",
+            "10+2 Intermediate Biology Subject.",
+            "2 Year Diploma in Livestock Extension (पशुधन प्रसार डिप्लोमा)",
+            "More Eligibility Read the Notification."
+          ]
+        }
+      }
+    ],
+    "importantLinks": [
+      {
+        "title": "Download Notification",
+        "links": [
+          {
+            "title": "",
+            "link": "https://doc.sarkariresults.org.in/SarkariResult.Com_UPSSSC_17Exam_2026.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Apply Online",
+        "links": [
+          {
+            "title": "Link Will be Activate on 09/09/2026",
+            "link": "https://upsssc.gov.in/"
+          }
+        ]
+      }
+    ],
+    "admitCard": {
+      "startDate": "",
+      "link": "",
+      "details": "",
+      "instruction": []
+    },
+    "resultCard": {
+      "link": "",
+      "details": "",
+      "instruction": []
+    },
+    "answerKey": {
+      "startDate": "",
+      "link": "",
+      "details": "",
+      "instruction": []
+    }
+  },
+  {
+    "timestamp": 1786431503,
+    "examType": "job",
+    "id": "ICF-Chennai-Apprentices-Recruitment-2026",
+    "orgId": "Integral Coach Factory, (ICF-Chennai)",
+    "name": "ICF Chennai Apprentices Recruitment  2026 ",
+    "importantDates": {
+      "startDate": "08/08/2026",
+      "lastDate": "07/09/2026 (upto 05:30 PM)",
+      "lastDateFeePayment": "07/09/2026",
+      "otherDates": [
+        {
+          "title": "ICF Apprentices Merit List",
+          "date": "As per Schedule"
+        }
+      ]
+    },
+    "fee": {
+      "general": "100",
+      "obc": "100",
+      "ews": "100",
+      "sc": "0",
+      "st": "0",
+      "ph": "0",
+      "female": "",
+      "notes": ""
+    },
+    "totalPost": {
+      "count": 1010,
+      "notes": ""
+    },
+    "ageDetails": {
+      "minAge": 15,
+      "maxAge": 24,
+      "notes": "Age Relaxation Extra as per Integral Coach Factory ICF Chennai Apprentices Examination Rules Advt No 01/2026-2027."
+    },
+    "vacancyDetails": [
+      {
+        "postName": "Various Trade Apprentices Freshers",
+        "totalPost": "320",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 15,
+          "maxAge": 24,
+          "qualification": [
+            "Class 10th with Minimum 50% Marks and Science & Maths Under 10+2 System.",
+            "For Carpenter, Painter & Welder Trade : Class 10th Exam Passed with 50% Marks"
+          ]
+        }
+      },
+      {
+        "postName": "Various Trade Apprentices Ex ITI",
+        "totalPost": "670",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 15,
+          "maxAge": 22,
+          "qualification": [
+            "Class 10th with 50% Marks and ITI Certificate in Related Trade / Branch.",
+            "For Trade Wise Eligibility Details Read the Notification."
+          ]
+        }
+      },
+      {
+        "postName": "MLT Radiology Freshers",
+        "totalPost": "10",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 15,
+          "maxAge": 22,
+          "qualification": [
+            "10+2 Intermediate with PCB Stream."
+          ]
+        }
+      },
+      {
+        "postName": "MLT Radiology Freshers",
+        "totalPost": "10",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 0,
+          "maxAge": 0,
+          "qualification": []
+        }
+      },
+      {
+        "postName": "PASAA Ex ITI",
+        "totalPost": "",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 15,
+          "maxAge": 22,
+          "qualification": [
+            "Class 10th with 50% Marks and ITI Certificate of IT / COPA / Data Base System Assistant / Software Testing Assistant.",
+            "More Eligibility Read the Notification."
+          ]
+        }
+      }
+    ],
+    "importantLinks": [
+      {
+        "title": "Apply Online",
+        "links": [
+          {
+            "title": "",
+            "link": "https://pb.icf.gov.in/act2026/index.php"
+          }
+        ]
+      },
+      {
+        "title": "Download Notification",
+        "links": [
+          {
+            "title": "",
+            "link": "https://doc.sarkariresults.org.in/ICF_SarkariResult.Com_Act_Apprentice_2026_27.pdf"
+          }
+        ]
+      }
+    ],
+    "admitCard": {
+      "startDate": "",
+      "link": "",
+      "details": "",
+      "instruction": []
+    },
+    "resultCard": {
+      "link": "",
+      "details": "",
+      "instruction": []
+    },
+    "answerKey": {
+      "startDate": "",
+      "link": "",
+      "details": "",
+      "instruction": []
+    },
+    "table": [
+      {
+        "title": " Trade Wise Vacancy Details",
+        "details": "",
+        "notes": "",
+        "list": [
+          [
+            "Trade Name",
+            "Freshers",
+            "EX-ITI"
+          ],
+          [
+            "Carpenter",
+            "40",
+            "50"
+          ],
+          [
+            "Electrician",
+            "40",
+            "160"
+          ],
+          [
+            "Fitter",
+            "80",
+            "180"
+          ],
+          [
+            "Machinist",
+            "40",
+            "50"
+          ],
+          [
+            "Painter",
+            "40",
+            "50"
+          ],
+          [
+            "Welder",
+            "80",
+            "180"
+          ],
+          [
+            "MLT Radiology",
+            "5",
+            "0"
+          ],
+          [
+            "MLT Pathology",
+            "5",
+            "0"
+          ],
+          [
+            "PASAA",
+            "0",
+            "10"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": 1786537703,
+    "examType": "job",
+    "id": "GIMS-Noida-Staff-Nurse-Recruitment-2026",
+    "orgId": "Government Institute of Medical Sciences (GIMS)",
+    "name": "GIMS Noida Staff Nurse Recruitment  2026",
+    "importantDates": {
+      "startDate": "10/08/2026",
+      "lastDate": "07/09/2026",
+      "lastDateFeePayment": "07/09/2026",
+      "examDate": "As per Schedule"
+    },
+    "fee": {
+      "general": "1298",
+      "obc": "1298",
+      "ews": "1298",
+      "sc": "944",
+      "st": "944",
+      "ph": "944",
+      "female": "",
+      "notes": "Including GST :\nPay the Exam Fee Through Online / Offline Fee Mode Only"
+    },
+    "totalPost": {
+      "count": 100,
+      "notes": ""
+    },
+    "ageDetails": {
+      "minAge": 21,
+      "maxAge": 40
+    },
+    "vacancyDetails": [
+      {
+        "postName": "Staff Nurse",
+        "totalPost": "100",
+        "category": {
+          "ur": "40",
+          "obc": "27",
+          "ews": "10",
+          "sc": "21",
+          "st": "02",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 21,
+          "maxAge": 40,
+          "qualification": [
+            "B.Sc Nursing OR Post B.Sc Nursing Degree OR",
+            "GNM / Diploma in Nursing with 2 Year Experience.",
+            "More Eligibility Read the Notification"
+          ]
+        }
+      }
+    ],
+    "importantLinks": [
+      {
+        "title": "Apply Online",
+        "links": [
+          {
+            "title": "",
+            "link": "https://cdn3.digialm.com/EForms/configuredHtml/31586/101679/Index.html"
+          }
+        ]
+      },
+      {
+        "title": "Download Notification",
+        "links": [
+          {
+            "title": "",
+            "link": "https://doc.sarkariresults.org.in/GIMS_Staff_Nruse.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Official Website",
+        "links": [
+          {
+            "title": "GIMS Noida Website",
+            "link": "https://www.gims.ac.in/recruitment.html"
+          }
+        ]
+      }
+    ],
+    "admitCard": {
+      "startDate": "",
+      "link": "",
+      "details": "",
+      "instruction": []
+    },
+    "resultCard": {
+      "link": "",
+      "details": "",
+      "instruction": []
+    },
+    "answerKey": {
+      "startDate": "",
+      "link": "",
+      "details": "",
+      "instruction": []
+    }
+  },
+  {
+    "timestamp": 1786537703,
+    "examType": "job",
+    "id": "RCF-Kapurthala-Apprentice-Recruitment-2026",
+    "orgId": "Railway Coach Factory (RCF-Kapurthala)",
+    "name": "RCF Kapurthala Apprentice Recruitment 2026 ",
+    "importantDates": {
+      "startDate": "07/08/2026",
+      "lastDate": "05/09/2026",
+      "lastDateFeePayment": "05/09/2026",
+      "otherDates": [
+        {
+          "title": "Merit List",
+          "date": "As per Schedule"
+        }
+      ]
+    },
+    "fee": {
+      "general": "100",
+      "obc": "100",
+      "ews": "100",
+      "sc": "0",
+      "st": "0",
+      "ph": "",
+      "female": "",
+      "notes": "Pay the Examination Fees  Through Debit Card / Credit Card / Net Banking Fees Mode Only."
+    },
+    "totalPost": {
+      "count": 734,
+      "notes": ""
+    },
+    "ageDetails": {
+      "minAge": 15,
+      "maxAge": 24
+    },
+    "vacancyDetails": [
+      {
+        "postName": "Various Trade Apprentice",
+        "totalPost": "734",
+        "category": {
+          "ur": "",
+          "obc": "",
+          "ews": "",
+          "sc": "",
+          "st": "",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 15,
+          "maxAge": 24,
+          "qualification": [
+            "Class 10 High School Exam With Minimum 50% Marks and ITI / NCVT Certificate in Related Trade.",
+            "For Trade Wise Eligibility Details Read the Notification."
+          ]
+        }
+      }
+    ],
+    "importantLinks": [
+      {
+        "title": "Apply Online",
+        "links": [
+          {
+            "title": "",
+            "link": "https://pardarsy.railnet.gov.in/apprentice-2026/login"
+          }
+        ]
+      },
+      {
+        "title": "Download Notification",
+        "links": [
+          {
+            "title": "",
+            "link": "https://rcf.indianrailways.gov.in/uploads/files/act-app/not-act-app-2026.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Official Website",
+        "links": [
+          {
+            "title": "Indian Railway Official Website",
+            "link": "https://indianrailways.gov.in/"
+          }
+        ]
+      }
+    ],
+    "admitCard": {
+      "startDate": "",
+      "link": "",
+      "details": "",
+      "instruction": []
+    },
+    "resultCard": {
+      "link": "",
+      "details": "",
+      "instruction": []
+    },
+    "answerKey": {
+      "startDate": "",
+      "link": "",
+      "details": "",
+      "instruction": []
+    },
+    "table": [
+      {
+        "title": "Railway RCF Kapurthala Apprentice Units Wise Vacancy Details 2026",
+        "details": "",
+        "notes": "",
+        "list": [
+          [
+            "Trade Name",
+            "Total Post"
+          ],
+          [
+            "Fitter",
+            "180"
+          ],
+          [
+            "Welder G&E",
+            "220"
+          ],
+          [
+            "Machinist",
+            "60"
+          ],
+          [
+            "Painter G",
+            "40"
+          ],
+          [
+            "Carpenter",
+            "40"
+          ],
+          [
+            "Electrician",
+            "110"
+          ],
+          [
+            "AC & Ref Mechanic",
+            "44"
+          ],
+          [
+            "Mechanic Motor Vehicle",
+            "20"
+          ],
+          [
+            "Electronic Mechanic",
+            "20"
+          ]
+        ]
+      }
+    ]
+  },
+  {"timestamp":1786848518,
+    "examType": "job",
+    "id": "MPESB-MP-Group-2-Sub-Group-4-Patwari-and-Other-Post-Recruitment-Test-2026",
+    "orgId": "Madhya Pradesh Employee Selection Board (MPESB)",
+    "name": "MPESB MP Group 2 Sub Group 4 Patwari and Other Post Recruitment Test 2026",
+    "importantDates": {
+        "startDate": "04/08/2026",
+        "lastDate": "18/08/2026",
+        "lastDateFeePayment": "18/08/2026",
+        "examDate": "22/09/2026",
+        "correctionDate": "23/08/2026"
+    },
+    "fee": {
+        "general": "560",
+        "obc": "310",
+        "ews": "310",
+        "sc": "310",
+        "st": "310",
+        "ph": "",
+        "female": "",
+        "notes": "Pay the Examination Fee Through Cast at E Challan or Debit Card, Credit Card, Net Banking"
+    },
+    "totalPost": {
+        "count": 2106,
         "notes": ""
     },
     "ageDetails": {
         "minAge": 18,
-        "maxAge": 30,
-        "notes": "Age Relaxation Extra as per WCL Mining Sirdar, Assistant Foreman Examination Rules."
+        "maxAge": 40,
+        "notes": "Age Relaxation Extra as per MPESB MP Group 2 Sub Group 4 Patwari & Other Various Post Combined Recruitment Rules."
     },
     "vacancyDetails": [
         {
-            "postName": "Mining Sirdar T&S Grade. C",
-            "totalPost": "220",
+            "postName": "Group 2 Sub Group 4 Combined",
+            "totalPost": "2106",
             "category": {
-                "ur": "101\t",
-                "obc": "35",
-                "ews": "22",
-                "sc": "24",
-                "st": "38",
+                "ur": "608",
+                "obc": "613",
+                "ews": "207",
+                "sc": "274",
+                "st": "404",
                 "female": "",
                 "ph": ""
             },
             "eligiblity": {
                 "minAge": 18,
-                "maxAge": 30,
+                "maxAge": 40,
                 "qualification": [
-                    "Diploma in Mining Engineering from any institute recognized by the Government",
-                    "Valid Overman competency certificate issued by DGMS",
-                    "Valid Gas Testing Certificate",
-                    "Valid First Aid Certificate",
-                    "More Details Read the Notification."
-                ]
-            }
-        },
-        {
-            "postName": "Assistant Foreman (Trainee) (Electrical)/Electrical Supervisor, T&S Grade- C",
-            "totalPost": "224",
-            "category": {
-                "ur": "91",
-                "obc": "56",
-                "ews": "22",
-                "sc": "26",
-                "st": "29",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 18,
-                "maxAge": 30,
-                "qualification": [
-                    "Diploma in Electrical Engineering from any institute recognized by the Government.",
-                    "Electrical Supervisory Certificate valid for Mines issued by the Appropriate Government",
-                    "More Details Read the Notification."
+                    "Degree from Any Recognized University in India.",
+                    "for Post Wise Eligibility Details Read the Notification"
                 ]
             }
         }
@@ -6155,7 +6887,7 @@
             "links": [
                 {
                     "title": "",
-                    "link": "https://cdn.digialm.com/EForms/configuredHtml/1258/101411/Index.html"
+                    "link": "https://esb.mponline.gov.in/Portal/Examinations/Vyapam/examsList.aspx"
                 }
             ]
         },
@@ -6164,7 +6896,7 @@
             "links": [
                 {
                     "title": "",
-                    "link": "https://docs.westerncoal.in/strapi/uploads/Recruitment_Not_English_58616ee33e.pdf"
+                    "link": "https://esb.mp.gov.in/Rulebooks/RB_2026/Group2_SG4_Patwari_rect_test_2026_Rulebook_04082026.pdf"
                 }
             ]
         },
@@ -6172,8 +6904,8 @@
             "title": "Official Website",
             "links": [
                 {
-                    "title": "WCL Official Website",
-                    "link": "https://westerncoal.in/en/career/recruitment"
+                    "title": "",
+                    "link": "https://esb.mp.gov.in/e_default.html"
                 }
             ]
         }
@@ -6196,66 +6928,380 @@
         "instruction": []
     }
 },
-{"timestamp":1786431503,
+  {
+    "timestamp": 1786848032,
     "examType": "job",
-    "state":"uttar-pradesh",
-    "id":  "UPSSSC-Livestock-Extension-Officer-LEO-Main-Examination-2026",
-    "orgId": "Uttar Pradesh Subordinate Service Selection Commission (UPSSSC)",
-    "name": "UPSSSC Livestock Extension Officer LEO (पशुधन प्रसार अधिकारी) Main Examination 2026",
+    "id": "State-Bank-of-India-SBI-Junior-Associates-Clerk-Recruitment-2026",
+    "orgId": "State Bank of India (SBI)",
+    "name": "State Bank of India SBI Junior Associates Clerk Recruitment 2026",
     "importantDates": {
-        "startDate": "09/09/2026",
-        "lastDate": "29/09/2026",
-        "lastDateFeePayment": "29/09/2026",
-        "correctionDate": "06/10/2026"
+      "startDate": "11/08/2026",
+      "lastDate": "31/08/2026",
+      "lastDateFeePayment": "31/08/2026",
+      "examDate": "As per Schedule",
+      "otherDates": [
+        {
+          "title": "SBI Clerk Phase II Main Exam Date",
+          "date": "As per Schedule"
+        }
+      ]
     },
     "fee": {
-        "general": "25",
-        "obc": "25",
-        "ews": "25",
-        "sc": "25",
-        "st": "25",
-        "ph": "25",
+      "general": "750",
+      "obc": "750",
+      "ews": "750",
+      "sc": "0",
+      "st": "0",
+      "ph": "0",
+      "female": "",
+      "notes": "Pay the Exam Fee Through Debit Card / Credit Card / Net Banking / UPI Fee Mode Only."
+    },
+    "totalPost": {
+      "count": 7680,
+      "notes": ""
+    },
+    "ageDetails": {
+      "minAge": 20,
+      "maxAge": 28
+    },
+    "vacancyDetails": [
+      {
+        "postName": "SBI Junior Associates Clerk (Regular)",
+        "totalPost": "7680",
+        "category": {
+          "ur": "3253",
+          "obc": "1716",
+          "ews": "760",
+          "sc": "1114",
+          "st": "837",
+          "female": "",
+          "ph": ""
+        },
+        "eligiblity": {
+          "minAge": 20,
+          "maxAge": 28,
+          "qualification": [
+            "Passed / Appearing Bachelor Degree in Any Stream in Any Recognized University in India.",
+            "More Eligibility Details Read the Notification"
+          ]
+        }
+      }
+    ],
+    "importantLinks": [
+      {
+        "title": "Apply Online",
+        "links": [
+          {
+            "title": "",
+            "link": "https://ibpsreg.ibps.in/sbijajul26/"
+          }
+        ]
+      },
+      {
+        "title": "Download Notification",
+        "links": [
+          {
+            "title": "",
+            "link": "https://sbi.bank.in/webfiles/uploads/files_2627/08/JA_2026_Detailed_Advt_Eng.pdf"
+          }
+        ]
+      }
+    ],
+    "admitCard": {
+      "startDate": "",
+      "link": "",
+      "details": "",
+      "instruction": []
+    },
+    "resultCard": {
+      "link": "",
+      "details": "",
+      "instruction": []
+    },
+    "answerKey": {
+      "startDate": "",
+      "link": "",
+      "details": "",
+      "instruction": []
+    },
+    "table": [
+      {
+        "title": "State Wise Vacancy Details",
+        "details": "",
+        "notes": "",
+        "list": [
+          [
+            "State Name",
+            "Language",
+            "Gen",
+            "EWS",
+            "OBC",
+            "SC",
+            "ST",
+            "Total"
+          ],
+          [
+            "Uttar Pradesh",
+            "Hindi / Urdu",
+            "104",
+            "25",
+            "67",
+            "52",
+            "2",
+            "250"
+          ],
+          [
+            "Madhya Pradesh",
+            "Hindi",
+            "48",
+            "11",
+            "16",
+            "16",
+            "22",
+            "113"
+          ],
+          [
+            "Chhattisgarh",
+            "Hindi",
+            "117",
+            "28",
+            "17",
+            "34",
+            "91",
+            "287"
+          ],
+          [
+            "Rajasthan",
+            "Hindi",
+            "141",
+            "35",
+            "70",
+            "59",
+            "45",
+            "350"
+          ],
+          [
+            "Gujarat",
+            "Gujarati",
+            "136",
+            "33",
+            "89",
+            "23",
+            "49",
+            "330"
+          ],
+          [
+            "Karnataka",
+            "Kannada",
+            "305",
+            "76",
+            "205",
+            "121",
+            "53",
+            "760"
+          ],
+          [
+            "Odisha",
+            "Odia",
+            "440",
+            "110",
+            "132",
+            "176",
+            "242",
+            "1100"
+          ],
+          [
+            "Jammu & Kashmir UT",
+            "Urdu / Ladakhi / Bhoti (Bodhi)",
+            "6",
+            "0",
+            "1",
+            "0",
+            "0",
+            "7"
+          ],
+          [
+            "Tamil Nadu",
+            "Tamil",
+            "608",
+            "141",
+            "380",
+            "267",
+            "14",
+            "1410"
+          ],
+          [
+            "Telangana",
+            "Telugu / Urdu",
+            "105",
+            "26",
+            "70",
+            "41",
+            "18",
+            "260"
+          ],
+          [
+            "West Bengal",
+            "Bengali / Nepali",
+            "224",
+            "55",
+            "122",
+            "127",
+            "27",
+            "555"
+          ],
+          [
+            "A&N Islands",
+            "Hindi / English",
+            "9",
+            "1",
+            "4",
+            "0",
+            "1",
+            "15"
+          ],
+          [
+            "Sikiim",
+            "Nepali / English",
+            "25",
+            "6",
+            "14",
+            "3",
+            "12",
+            "60"
+          ],
+          [
+            "Maharashtra",
+            "Marathi",
+            "759",
+            "171",
+            "463",
+            "171",
+            "154",
+            "1718"
+          ],
+          [
+            "Goa",
+            "Konkani",
+            "37",
+            "6",
+            "11",
+            "1",
+            "7",
+            "62"
+          ],
+          [
+            "Arunchal Pradesh",
+            "English",
+            "26",
+            "5",
+            "0",
+            "0",
+            "24",
+            "55"
+          ],
+          [
+            "Assam",
+            "Assamese / Bengali / Bodo",
+            "50",
+            "11",
+            "29",
+            "7",
+            "13",
+            "110"
+          ],
+          [
+            "Manipur",
+            "Manipuri / English",
+            "8",
+            "1",
+            "1",
+            "0",
+            "4",
+            "14"
+          ],
+          [
+            "Meghalaya",
+            "English / Garo / Khasi",
+            "11",
+            "2",
+            "1",
+            "0",
+            "10",
+            "24"
+          ],
+          [
+            "Mizoram",
+            "Mizo",
+            "14",
+            "3",
+            "1",
+            "0",
+            "14",
+            "32"
+          ],
+          [
+            "Tripura",
+            "Bengali / Kokborok",
+            "22",
+            "4",
+            "0",
+            "8",
+            "14",
+            "48"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp":1786848518,
+    "examType": "entrance-exam",
+    "id": "UPSSSC-Preliminary-Examination-Test-PET-2026",
+    "orgId": "Uttar Pradesh Subordinate Service Selection Commission (UPSSSC)",
+    "name": "UPSSSC Preliminary Examination Test (PET) 2026",
+    "importantDates": {
+        "startDate": "03/08/2026",
+        "lastDate": "01/09/2026",
+        "lastDateFeePayment": "01/09/2026",
+        "examDate": " October 2026 (Tentative) ",
+        "correctionDate": "08/09/2026",
+        "otherDates": [
+            {
+                "title": "Eligibility Result Available",
+                "date": "As per Schedule"
+            },
+            {
+                "title": "Exam City Available",
+                "date": "Before Exam"
+            }
+        ]
+    },
+    "fee": {
+        "general": "",
+        "obc": "",
+        "ews": "",
+        "sc": "",
+        "st": "",
+        "ph": "",
         "female": "",
         "notes": ""
     },
     "totalPost": {
-        "count": 1251,
+        "count": 0,
         "notes": ""
     },
     "ageDetails": {
-        "minAge": 21,
+        "minAge": 18,
         "maxAge": 40
     },
     "vacancyDetails": [
         {
-            "postName": "Livestock Extension Officer",
-            "totalPost": "1248",
-            "category": {
-                "ur": "500",
-                "obc": "345",
-                "ews": "124",
-                "sc": "254",
-                "st": "25",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 21,
-                "maxAge": 40,
-                "qualification": [
-                    "UPSSSC PET 2025 Exam Passed",
-                    "10+2 Intermediate Biology Subject.",
-                    "2 Year Diploma in Livestock Extension (पशुधन प्रसार डिप्लोमा)",
-                    "More Eligibility Read the Notification."
-                ]
-            }
-        },
-        {
-            "postName": "Livestock Extension Officer (Special)",
-            "totalPost": "3",
+            "postName": "Pre Examination Test UPSSSC PET 2026",
+            "totalPost": "",
             "category": {
                 "ur": "",
-                "obc": "3",
+                "obc": "",
                 "ews": "",
                 "sc": "",
                 "st": "",
@@ -6263,32 +7309,57 @@
                 "ph": ""
             },
             "eligiblity": {
-                "minAge": 21,
+                "minAge": 18,
                 "maxAge": 40,
                 "qualification": [
-                    "UPSSSC PET 2025 Exam Passed",
-                    "10+2 Intermediate Biology Subject.",
-                    "2 Year Diploma in Livestock Extension (पशुधन प्रसार डिप्लोमा)",
-                    "More Eligibility Read the Notification."
+                    "Minimum Class 10 High School Exam in Any Recognized Board OR Any Higher Qualification in Any Recognized University in India.",
+                    "For More Details Read the Notification."
                 ]
             }
         }
     ],
     "importantLinks": [
         {
-            "title": "Download Notification",
+            "title": "Apply Online",
             "links": [
                 {
                     "title": "",
-                    "link": "https://doc.sarkariresults.org.in/SarkariResult.Com_UPSSSC_17Exam_2026.pdf"
+                    "link": "https://upsssc.gov.in//AllNotifications.aspx"
                 }
             ]
         },
         {
-            "title": "Apply Online",
+            "title": "For UPSSSC OTR Registration",
             "links": [
                 {
-                    "title": "Link Will be Activate on 09/09/2026",
+                    "title": "",
+                    "link": "https://www.sarkariresult.com/2026/upsssc-otr-online-form-2026/"
+                }
+            ]
+        },
+        {
+            "title": "Download Notification",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://www.sarkariresult.com/wp-content/uploads/2026/07/upsssc-Pet_2026.pdf"
+                }
+            ]
+        },
+        {
+            "title": "Download Syllabus",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://www.sarkariresult.com/wp-content/uploads/2026/08/UPSSSC_PET_Syllabus-1-compressed.pdf"
+                }
+            ]
+        },
+        {
+            "title": "Official Website",
+            "links": [
+                {
+                    "title": "",
                     "link": "https://upsssc.gov.in/"
                 }
             ]
@@ -6311,496 +7382,5 @@
         "details": "",
         "instruction": []
     }
-},
-
-{"timestamp":1786431503,
-    "examType": "job",
-    "id": "ICF-Chennai-Apprentices-Recruitment-2026",
-    "orgId": "Integral Coach Factory, (ICF-Chennai)",
-    "name": "ICF Chennai Apprentices Recruitment  2026 ",
-    "importantDates": {
-        "startDate": "08/08/2026",
-        "lastDate": "07/09/2026 (upto 05:30 PM)",
-        "lastDateFeePayment": "07/09/2026",
-        "otherDates": [
-            {
-                "title": "ICF Apprentices Merit List",
-                "date": "As per Schedule"
-            }
-        ]
-    },
-    "fee": {
-        "general": "100",
-        "obc": "100",
-        "ews": "100",
-        "sc": "0",
-        "st": "0",
-        "ph": "0",
-        "female": "",
-        "notes": ""
-    },
-    "totalPost": {
-        "count": 1010,
-        "notes": ""
-    },
-    "ageDetails": {
-        "minAge": 15,
-        "maxAge": 24,
-        "notes": "Age Relaxation Extra as per Integral Coach Factory ICF Chennai Apprentices Examination Rules Advt No 01/2026-2027."
-    },
-    "vacancyDetails": [
-        {
-            "postName": "Various Trade Apprentices Freshers",
-            "totalPost": "320",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 15,
-                "maxAge": 24,
-                "qualification": [
-                    "Class 10th with Minimum 50% Marks and Science & Maths Under 10+2 System.",
-                    "For Carpenter, Painter & Welder Trade : Class 10th Exam Passed with 50% Marks"
-                ]
-            }
-        },
-        {
-            "postName": "Various Trade Apprentices Ex ITI",
-            "totalPost": "670",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 15,
-                "maxAge": 22,
-                "qualification": [
-                    "Class 10th with 50% Marks and ITI Certificate in Related Trade / Branch.",
-                    "For Trade Wise Eligibility Details Read the Notification."
-                ]
-            }
-        },
-        {
-            "postName": "MLT Radiology Freshers",
-            "totalPost": "10",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 15,
-                "maxAge": 22,
-                "qualification": [
-                    "10+2 Intermediate with PCB Stream."
-                ]
-            }
-        },
-        {
-            "postName": "MLT Radiology Freshers",
-            "totalPost": "10",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 0,
-                "maxAge": 0,
-                "qualification": []
-            }
-        },
-        {
-            "postName": "PASAA Ex ITI",
-            "totalPost": "",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 15,
-                "maxAge": 22,
-                "qualification": [
-                    "Class 10th with 50% Marks and ITI Certificate of IT / COPA / Data Base System Assistant / Software Testing Assistant.",
-                    "More Eligibility Read the Notification."
-                ]
-            }
-        }
-    ],
-    "importantLinks": [
-        {
-            "title": "Apply Online",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://pb.icf.gov.in/act2026/index.php"
-                }
-            ]
-        },
-        {
-            "title": "Download Notification",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://doc.sarkariresults.org.in/ICF_SarkariResult.Com_Act_Apprentice_2026_27.pdf"
-                }
-            ]
-        }
-    ],
-    "admitCard": {
-        "startDate": "",
-        "link": "",
-        "details": "",
-        "instruction": []
-    },
-    "resultCard": {
-        "link": "",
-        "details": "",
-        "instruction": []
-    },
-    "answerKey": {
-        "startDate": "",
-        "link": "",
-        "details": "",
-        "instruction": []
-    },
-    "table": [
-        {
-            "title": " Trade Wise Vacancy Details",
-            "details": "",
-            "notes": "",
-            "list": [
-                [
-                    "Trade Name",
-                    "Freshers",
-                    "EX-ITI"
-                ],
-                [
-                    "Carpenter",
-                    "40",
-                    "50"
-                ],
-                [
-                    "Electrician",
-                    "40",
-                    "160"
-                ],
-                [
-                    "Fitter",
-                    "80",
-                    "180"
-                ],
-                [
-                    "Machinist",
-                    "40",
-                    "50"
-                ],
-                [
-                    "Painter",
-                    "40",
-                    "50"
-                ],
-                [
-                    "Welder",
-                    "80",
-                    "180"
-                ],
-                [
-                    "MLT Radiology",
-                    "5",
-                    "0"
-                ],
-                [
-                    "MLT Pathology",
-                    "5",
-                    "0"
-                ],
-                [
-                    "PASAA",
-                    "0",
-                    "10"
-                ]
-            ]
-        }
-    ]
-},
-{"timestamp":1786537703,
-    "examType": "job",
-    "id": "GIMS-Noida-Staff-Nurse-Recruitment-2026",
-    "orgId": "Government Institute of Medical Sciences (GIMS)",
-    "name": "GIMS Noida Staff Nurse Recruitment  2026",
-    "importantDates": {
-        "startDate": "10/08/2026",
-        "lastDate": "07/09/2026",
-        "lastDateFeePayment": "07/09/2026",
-        "examDate": "As per Schedule"
-    },
-    "fee": {
-        "general": "1298",
-        "obc": "1298",
-        "ews": "1298",
-        "sc": "944",
-        "st": "944",
-        "ph": "944",
-        "female": "",
-        "notes": "Including GST :\nPay the Exam Fee Through Online / Offline Fee Mode Only"
-    },
-    "totalPost": {
-        "count": 100,
-        "notes": ""
-    },
-    "ageDetails": {
-        "minAge": 21,
-        "maxAge": 40
-    },
-    "vacancyDetails": [
-        {
-            "postName": "Staff Nurse",
-            "totalPost": "100",
-            "category": {
-                "ur": "40",
-                "obc": "27",
-                "ews": "10",
-                "sc": "21",
-                "st": "02",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 21,
-                "maxAge": 40,
-                "qualification": [
-                    "B.Sc Nursing OR Post B.Sc Nursing Degree OR",
-                    "GNM / Diploma in Nursing with 2 Year Experience.",
-                    "More Eligibility Read the Notification"
-                ]
-            }
-        }
-    ],
-    "importantLinks": [
-        {
-            "title": "Apply Online",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://cdn3.digialm.com/EForms/configuredHtml/31586/101679/Index.html"
-                }
-            ]
-        },
-        {
-            "title": "Download Notification",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://doc.sarkariresults.org.in/GIMS_Staff_Nruse.pdf"
-                }
-            ]
-        },
-        {
-            "title": "Official Website",
-            "links": [
-                {
-                    "title": "GIMS Noida Website",
-                    "link": "https://www.gims.ac.in/recruitment.html"
-                }
-            ]
-        }
-    ],
-    "admitCard": {
-        "startDate": "",
-        "link": "",
-        "details": "",
-        "instruction": []
-    },
-    "resultCard": {
-        "link": "",
-        "details": "",
-        "instruction": []
-    },
-    "answerKey": {
-        "startDate": "",
-        "link": "",
-        "details": "",
-        "instruction": []
-    }
-},
-{"timestamp":1786537703,
-    "examType": "job",
-    "id": "RCF-Kapurthala-Apprentice-Recruitment-2026",
-    "orgId": "Railway Coach Factory (RCF-Kapurthala)",
-    "name": "RCF Kapurthala Apprentice Recruitment 2026 ",
-    "importantDates": {
-        "startDate": "07/08/2026",
-        "lastDate": "05/09/2026",
-        "lastDateFeePayment": "05/09/2026",
-        "otherDates": [
-            {
-                "title": "Merit List",
-                "date": "As per Schedule"
-            }
-        ]
-    },
-    "fee": {
-        "general": "100",
-        "obc": "100",
-        "ews": "100",
-        "sc": "0",
-        "st": "0",
-        "ph": "",
-        "female": "",
-        "notes": "Pay the Examination Fees  Through Debit Card / Credit Card / Net Banking Fees Mode Only."
-    },
-    "totalPost": {
-        "count": 734,
-        "notes": ""
-    },
-    "ageDetails": {
-        "minAge": 15,
-        "maxAge": 24
-    },
-    "vacancyDetails": [
-        {
-            "postName": "Various Trade Apprentice",
-            "totalPost": "734",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 15,
-                "maxAge": 24,
-                "qualification": [
-                    "Class 10 High School Exam With Minimum 50% Marks and ITI / NCVT Certificate in Related Trade.",
-                    "For Trade Wise Eligibility Details Read the Notification."
-                ]
-            }
-        }
-    ],
-    "importantLinks": [
-        {
-            "title": "Apply Online",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://pardarsy.railnet.gov.in/apprentice-2026/login"
-                }
-            ]
-        },
-        {
-            "title": "Download Notification",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://rcf.indianrailways.gov.in/uploads/files/act-app/not-act-app-2026.pdf"
-                }
-            ]
-        },
-        {
-            "title": "Official Website",
-            "links": [
-                {
-                    "title": "Indian Railway Official Website",
-                    "link": "https://indianrailways.gov.in/"
-                }
-            ]
-        }
-    ],
-    "admitCard": {
-        "startDate": "",
-        "link": "",
-        "details": "",
-        "instruction": []
-    },
-    "resultCard": {
-        "link": "",
-        "details": "",
-        "instruction": []
-    },
-    "answerKey": {
-        "startDate": "",
-        "link": "",
-        "details": "",
-        "instruction": []
-    },
-    "table": [
-        {
-            "title": "Railway RCF Kapurthala Apprentice Units Wise Vacancy Details 2026",
-            "details": "",
-            "notes": "",
-            "list": [
-                [
-                    "Trade Name",
-                    "Total Post"
-                ],
-                [
-                    "Fitter",
-                    "180"
-                ],
-                [
-                    "Welder G&E",
-                    "220"
-                ],
-                [
-                    "Machinist",
-                    "60"
-                ],
-                [
-                    "Painter G",
-                    "40"
-                ],
-                [
-                    "Carpenter",
-                    "40"
-                ],
-                [
-                    "Electrician",
-                    "110"
-                ],
-                [
-                    "AC & Ref Mechanic",
-                    "44"
-                ],
-                [
-                    "Mechanic Motor Vehicle",
-                    "20"
-                ],
-                [
-                    "Electronic Mechanic",
-                    "20"
-                ]
-            ]
-        }
-    ]
 }
-
-
 ]
