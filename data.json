@@ -8808,6 +8808,214 @@
         "instruction": []
     }
 },
+{"timestamp": 1786862901,
+    "examType": "job",
+    "id": "ISRO-Assistants-Junior-Personal-Assistants-Upper-Division-Clerk-and-Stenographers-Recruitment-2026",
+    "orgId": "Indian Space Research Organisation (ISRO)",
+    "name": "ISRO Assistants, Junior Personal Assistants, Upper Division Clerk and Stenographers Recruitment  2026",
+    "importantDates": {
+        "startDate": "27/07/2026",
+        "lastDate": "16/08/2026",
+        "lastDateFeePayment": "16/08/2026",
+        "examDate": "21/09/2026"
+    },
+    "fee": {
+        "general": "500",
+        "obc": "500",
+        "ews": "500",
+        "sc": "500",
+        "st": "500",
+        "ph": "500",
+        "female": "",
+        "notes": "For Double Post All Category : 1000/-\nRefund After Appear CBT Exam : \nAfter deducting the Application Fee 100/- in respect of all other candidates: will be refunded\nas each applied post\nSC / ST / PH / Women : Full Amount Refunded\nNote : If Candidate Not Appear CBT / Written Exam Fee Will Not Refunded.\nPay the Exam Fee Through Online / Offline Fee Mode Only"
+    },
+    "totalPost": {
+        "count": 244,
+        "notes": ""
+    },
+    "ageDetails": {
+        "minAge": 18,
+        "maxAge": 28,
+        "notes": "Age Relaxation Extra as per ISRO ICRB Various Post Examination Rules."
+    },
+    "vacancyDetails": [
+        {
+            "postName": "Assistant",
+            "totalPost": "113",
+            "category": {
+                "ur": "47",
+                "obc": "16",
+                "ews": "15",
+                "sc": "19",
+                "st": "16",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 18,
+                "maxAge": 28,
+                "qualification": [
+                    "Bachelor Degree in Any Stream with minimum 60% Marks or CGPA 6.32/10 from any recognized University.",
+                    "More Eligibility Details Read the Notification"
+                ]
+            }
+        },
+        {
+            "postName": "Upper Division Clerk",
+            "totalPost": "22",
+            "category": {
+                "ur": "08",
+                "obc": "05",
+                "ews": "03",
+                "sc": "04",
+                "st": "02",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 18,
+                "maxAge": 28,
+                "qualification": [
+                    "Bachelor Degree in Any Stream with minimum 60% Marks or CGPA 6.32/10 from any recognized University.",
+                    "More Eligibility Details Read the Notification"
+                ]
+            }
+        },
+        {
+            "postName": "Stenographer",
+            "totalPost": "10",
+            "category": {
+                "ur": "8",
+                "obc": "1",
+                "ews": "",
+                "sc": "",
+                "st": "1",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 18,
+                "maxAge": 28,
+                "qualification": [
+                    "Bachelor Degree in Any Stream with minimum 60% Marks or CGPA 6.32/10 from any recognized University.",
+                    "English Stenography Speed 60 WPM",
+                    "Proficiency in the use of Computer.",
+                    "More Eligibility Details Read the Notification"
+                ]
+            }
+        },
+        {
+            "postName": "Junior Personal Assistant",
+            "totalPost": "81",
+            "category": {
+                "ur": "50",
+                "obc": "11",
+                "ews": "07",
+                "sc": "08",
+                "st": "05",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 18,
+                "maxAge": 28,
+                "qualification": [
+                    "Bachelor Degree in Any Stream with minimum 60% Marks or CGPA 6.32/10 from any recognized University.",
+                    "English Stenography Speed 60 WPM",
+                    "Proficiency in the use of Computer.",
+                    "More Eligibility Details Read the Notification"
+                ]
+            }
+        },
+        {
+            "postName": "Assistant (Autonomous Institutions)",
+            "totalPost": "17",
+            "category": {
+                "ur": "09",
+                "obc": "04",
+                "ews": "01",
+                "sc": "01",
+                "st": "02",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 18,
+                "maxAge": 28,
+                "qualification": []
+            }
+        },
+        {
+            "postName": "Junior Personal Assistant (Autonomous Institutions)",
+            "totalPost": "01",
+            "category": {
+                "ur": "",
+                "obc": "",
+                "ews": "",
+                "sc": "",
+                "st": "",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 18,
+                "maxAge": 28,
+                "qualification": [
+                    "Bachelor Degree in Any Stream with minimum 60% Marks or CGPA 6.32/10 from any recognized University.",
+                    "English Stenography Speed 60 WPM",
+                    "Proficiency in the use of Computer.",
+                    "More Eligibility Details Read the Notification"
+                ]
+            }
+        }
+    ],
+    "importantLinks": [
+        {
+            "title": "Apply Online",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://cdn.digialm.com//EForms/configuredHtml/1258/101396//Index.html"
+                }
+            ]
+        },
+        {
+            "title": "Download Syllabus",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://doc.sarkariresults.org.in/Microsoft%20Word%20-%20Final%20Advertisement%20Assistant%20JPA%2024%20july%20-%20Bilingual%20Advertisement_Asst_JPA_UDC_Steno_ICRB_2026_27072026.pdf"
+                }
+            ]
+        },
+        {
+            "title": "Download Notification",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://www.isro.gov.in/media_isro/pdf/recruitmentNotice/2026/July/Bilingual%20Advertisement_Asst_JPA_UDC_Steno_ICRB_2026_27072026.pdf"
+                }
+            ]
+        }
+    ],
+    "admitCard": {
+        "startDate": "",
+        "link": "",
+        "details": "",
+        "instruction": []
+    },
+    "resultCard": {
+        "link": "",
+        "details": "",
+        "instruction": []
+    },
+    "answerKey": {
+        "startDate": "",
+        "link": "",
+        "details": "",
+        "instruction": []
+    }
+},
 {
   "timestamp": 1786862901,
     "examType": "job",
@@ -9412,6 +9620,152 @@
             ]
         }
     ]
+},
+{"timestamp": 1786862901,
+    "examType": "job",
+    "id": "SKAU-Kurukshetra-Haryana-Non-Teaching-Post-Recruitment-2026",
+    "orgId": "Shri Krishna Ayush University (SKAU)",
+    "name": "SKAU Kurukshetra Haryana, Non Teaching Post Recruitment  2026",
+    "importantDates": {
+        "startDate": "30/07/2026",
+        "lastDate": "21/08/2026",
+        "lastDateFeePayment": "21/08/2026",
+        "examDate": "As per Schedule"
+    },
+    "fee": {
+        "general": "Male: 1500",
+        "obc": "375",
+        "ews": "375",
+        "sc": "375",
+        "st": "375",
+        "ph": "0",
+        "female": "750",
+        "notes": "Male : General / Other State : 1500/-\nFemale General (Haryana Domicile) : 750/-\nHaryana Reserve Category Male & Female : 375/-\nPH Divyang Candidate : 0/- (Exempted)\nPay the Exam Fee Through Online / Offline Fee Mode Only"
+    },
+    "totalPost": {
+        "count": 60,
+        "notes": ""
+    },
+    "ageDetails": {
+        "minAge": 18,
+        "maxAge": 42
+    },
+    "vacancyDetails": [
+        {
+            "postName": "Staff Nurse",
+            "totalPost": "25",
+            "category": {
+                "ur": "",
+                "obc": "",
+                "ews": "",
+                "sc": "",
+                "st": "",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 18,
+                "maxAge": 40,
+                "qualification": [
+                    "Class 10th Matric with Registered in Haryana Nurses Council.",
+                    "Hindi & Sanskrit as one of the Subject in Matric Level OR 10+2 OR UG / PG Level"
+                ]
+            }
+        },
+        {
+            "postName": "Ayurvedic Pharmacist",
+            "totalPost": "06",
+            "category": {
+                "ur": "",
+                "obc": "",
+                "ews": "",
+                "sc": "",
+                "st": "",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 18,
+                "maxAge": 40,
+                "qualification": [
+                    "Class 10th Matric Exam Passed",
+                    "UP-Vaidya from Any Recognized University in India.  OR",
+                    "10+2 with PCB Subject and Diploma in Ayurvedic Pharmacy",
+                    "Hindi & Sanskrit as one of the Subject in Matric Level OR 10+2 OR UG / PG Level",
+                    "More Eligibility Read the Notification"
+                ]
+            }
+        },
+        {
+            "postName": "Clerk",
+            "totalPost": "29",
+            "category": {
+                "ur": "",
+                "obc": "",
+                "ews": "",
+                "sc": "",
+                "st": "",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 18,
+                "maxAge": 42,
+                "qualification": [
+                    "Bachelor Degree in Any Stream from Any Recognized University in India.",
+                    "Skill Test Speed : 30 WPM",
+                    "Hindi & Sanskrit as one of the Subject in Matric Level OR 10+2 OR UG / PG Level"
+                ]
+            }
+        }
+    ],
+    "importantLinks": [
+        {
+            "title": "Apply Online",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://recruitment.skau.ac.in/nonteaching/"
+                }
+            ]
+        },
+        {
+            "title": "Download Notification",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://skau.ac.in/downloads/files/n6a689841e4009.pdf"
+                }
+            ]
+        },
+        {
+            "title": "Download Syllabus",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://rojgarresult.com/wp-content/uploads/2026/07/SKAU-Syllabus-2026.pdf"
+                }
+            ]
+        }
+    ],
+    "admitCard": {
+        "startDate": "",
+        "link": "",
+        "details": "",
+        "instruction": []
+    },
+    "resultCard": {
+        "link": "",
+        "details": "",
+        "instruction": []
+    },
+    "answerKey": {
+        "startDate": "",
+        "link": "",
+        "details": "",
+        "instruction": []
+    }
 }
+
 
 ]
