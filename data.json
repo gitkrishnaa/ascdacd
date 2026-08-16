@@ -9017,6 +9017,99 @@
     }
 },
 {
+    "timestamp": 1786859502,
+    "examType": "job",
+    "id": "Railway-RRB-Section-Controller-Recruitment-2026-CEN-03-2026",
+    "orgId": "Railway Recruitment Board (RRB)",
+    "name": "Railway RRB Section Controller Recruitment 2026 CEN 03/2026",
+    "importantDates": {
+        "startDate": "15/07/2026",
+        "lastDate": "14/08/2026",
+        "lastDateFeePayment": "16/08/2026",
+        "examDate": "As per Schedule",
+        "reScheduledExamDate": "As per Schedule",
+        "correctionDate": "17/8/2026 to 26/8/2016"
+    },
+    "fee": {
+        "general": "500",
+        "obc": "500",
+        "ews": "500",
+        "sc": "250",
+        "st": "250",
+        "ph": "250",
+        "female": "",
+        "notes": "After Appear the Stage I Exam\nUR/OBC/EWS Fee Refund : 400/-\nSC / ST / PH / Female Refund : 250/-\nPay the Examination Fee Through Cast at E Challan or Debit Card, Credit Card, Net Banking"
+    },
+    "totalPost": {
+        "count": 119,
+        "notes": ""
+    },
+    "ageDetails": {
+        "minAge": 20,
+        "maxAge": 33
+    },
+    "vacancyDetails": [
+        {
+            "postName": "Railway RRB Section Controller Post",
+            "totalPost": "119",
+            "category": {
+                "ur": "",
+                "obc": "",
+                "ews": "",
+                "sc": "",
+                "st": "",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 20,
+                "maxAge": 33,
+                "qualification": [
+                    "Bachelor Degree in Any Stream from Any Recognized University in India.",
+                    "More Eligibility Details Read the Notification."
+                ]
+            }
+        }
+    ],
+    "importantLinks": [
+        {
+            "title": "Apply Online",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://www.rrbapply.gov.in/#/auth/home"
+                }
+            ]
+        },
+        {
+            "title": "Download Notification",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://doc.sarkariresults.org.in/SarkariResult.COM_CEN03_2026.pdf"
+                }
+            ]
+        }
+    ],
+    "admitCard": {
+        "startDate": "",
+        "link": "",
+        "details": "",
+        "instruction": []
+    },
+    "resultCard": {
+        "link": "",
+        "details": "",
+        "instruction": []
+    },
+    "answerKey": {
+        "startDate": "",
+        "link": "",
+        "details": "",
+        "instruction": []
+    }
+},
+{
   "timestamp": 1786862901,
     "examType": "job",
     "id": "UPPSC-Manager-System-Senior-Programmer-Programmer-Grade-II-and-Computer-Operator-Examination-2026",
@@ -9765,7 +9858,341 @@
         "details": "",
         "instruction": []
     }
+},
+{"timestamp": 1786862901,
+    "examType": "job",
+    "id": "RRB-JE-Junior-Engineer-Online-Form-2026-CEN-04-2026",
+    "orgId": "Railway Recruitment Board (RRB)",
+    "name": "RRB JE Junior Engineer Online Form 2026 (CEN 04/2026) ",
+    "importantDates": {
+        "startDate": "14/08/2026",
+        "lastDate": "13/09/2026",
+        "lastDateFeePayment": "15/09/2026",
+        "examDate": "As per schedule",
+        "correctionDate": "16/9/2026 to 25/9/2026"
+    },
+    "fee": {
+        "general": "500",
+        "obc": "500",
+        "ews": "500",
+        "sc": "250",
+        "st": "250",
+        "ph": "250",
+        "female": "250",
+        "notes": "After Appear the Stage I Exam\nGeneral/OBC/EWS Fee Refund: Rs. 400/-\nSC / ST / PH / Female Refund : Rs. 250/-\nPay the Examination Fee Through Cast at E Challan or Debit Card, Credit Card, Net Banking"
+    },
+    "totalPost": {
+        "count": 3993,
+        "notes": ""
+    },
+    "ageDetails": {
+        "minAge": 18,
+        "maxAge": 33,
+        "notes": "Age Relaxation Extra as per RRB JE Junior Engineer Recruitment Rules."
+    },
+    "vacancyDetails": [
+        {
+            "postName": "Junior Engineer",
+            "totalPost": "3993",
+            "category": {
+                "ur": "1699",
+                "obc": "913",
+                "ews": "394",
+                "sc": "624",
+                "st": "363",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 18,
+                "maxAge": 33,
+                "qualification": [
+                    "3 Year Engineering Diploma in Related.",
+                    "For Post Wise Eligibility Details Read the Notification"
+                ]
+            }
+        }
+    ],
+    "importantLinks": [
+        {
+            "title": "Apply Online",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://www.rrbapply.gov.in/#/auth/landing"
+                }
+            ]
+        },
+        {
+            "title": "Download Syllabus",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://doc.sarkariresults.org.in/RRB_JE_Full_Syllabus_2026.pdf"
+                }
+            ]
+        },
+        {
+            "title": "Download Zone Wise Vacancy",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://doc.sarkariresults.org.in/RRB_JE_Zone_Wise_Vacancy_Details.pdf"
+                }
+            ]
+        },
+        {
+            "title": "Download Post Wise Eligibility",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://doc.sarkariresults.org.in/RRB_JE_Post_Wise_Eligibility_Details.pdf"
+                }
+            ]
+        },
+        {
+            "title": "Download Notification",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://doc.sarkariresults.org.in/RRB_JE_Full_Notification_2026.pdf"
+                }
+            ]
+        },
+        {
+            "title": "Official Website",
+            "links": [
+                {
+                    "title": "RRB Official Website",
+                    "link": "https://www.rrbapply.gov.in/#/auth/landing"
+                }
+            ]
+        }
+    ],
+    "admitCard": {
+        "startDate": "",
+        "link": "",
+        "details": "",
+        "instruction": []
+    },
+    "resultCard": {
+        "link": "",
+        "details": "",
+        "instruction": []
+    },
+    "answerKey": {
+        "startDate": "",
+        "link": "",
+        "details": "",
+        "instruction": []
+    },
+    "table": [
+        {
+            "title": "RRB Wise Vacancy Details Table",
+            "details": "",
+            "notes": "",
+            "list": [
+                [
+                    "RRB Name",
+                    "UR",
+                    "OBC",
+                    "EWS",
+                    "SC",
+                    "ST",
+                    "Total"
+                ],
+                [
+                    "RRB Ahmedabad",
+                    "45",
+                    "38",
+                    "17",
+                    "24",
+                    "19",
+                    "143"
+                ],
+                [
+                    "RRB Ajmer",
+                    "110",
+                    "68",
+                    "23",
+                    "41",
+                    "10",
+                    "252"
+                ],
+                [
+                    "RRB Bengaluru",
+                    "119",
+                    "79",
+                    "32",
+                    "45",
+                    "23",
+                    "298"
+                ],
+                [
+                    "RRB Bhopal",
+                    "54",
+                    "25",
+                    "8",
+                    "16",
+                    "10",
+                    "113"
+                ],
+                [
+                    "RRB Bhubneswar",
+                    "40",
+                    "19",
+                    "9",
+                    "14",
+                    "4",
+                    "86"
+                ],
+                [
+                    "RRB Bilaspur",
+                    "51",
+                    "22",
+                    "13",
+                    "19",
+                    "19",
+                    "124"
+                ],
+                [
+                    "RRB Chandigarh",
+                    "77",
+                    "49",
+                    "13",
+                    "31",
+                    "13",
+                    "183"
+                ],
+                [
+                    "RRB Chennai",
+                    "145",
+                    "81",
+                    "42",
+                    "59",
+                    "35",
+                    "362"
+                ],
+                [
+                    "RRB Gorakhpur",
+                    "67",
+                    "40",
+                    "25",
+                    "44",
+                    "22",
+                    "198"
+                ],
+                [
+                    "RRB Guwahati",
+                    "132",
+                    "87",
+                    "31",
+                    "52",
+                    "27",
+                    "329"
+                ],
+                [
+                    "RRB Jammu-Srinagar",
+                    "86",
+                    "27",
+                    "11",
+                    "16",
+                    "12",
+                    "152"
+                ],
+                [
+                    "RRB Kolkata",
+                    "195",
+                    "101",
+                    "52",
+                    "58",
+                    "51",
+                    "457"
+                ],
+                [
+                    "RRB Malda",
+                    "9",
+                    "7",
+                    "3",
+                    "8",
+                    "3",
+                    "30"
+                ],
+                [
+                    "RRB Mumbai",
+                    "175",
+                    "96",
+                    "37",
+                    "67",
+                    "36",
+                    "411"
+                ],
+                [
+                    "RRB Muzaffarpur",
+                    "7",
+                    "3",
+                    "1",
+                    "4",
+                    "2",
+                    "17"
+                ],
+                [
+                    "RRB Patna",
+                    "26",
+                    "13",
+                    "5",
+                    "18",
+                    "11",
+                    "73"
+                ],
+                [
+                    "RRB Prayagraj",
+                    "164",
+                    "67",
+                    "27",
+                    "49",
+                    "33",
+                    "340"
+                ],
+                [
+                    "RRB Ranchi",
+                    "49",
+                    "31",
+                    "13",
+                    "21",
+                    "8",
+                    "122"
+                ],
+                [
+                    "RRB Secunderabad",
+                    "68",
+                    "12",
+                    "9",
+                    "15",
+                    "6",
+                    "110"
+                ],
+                [
+                    "RRB Siliguri",
+                    "35",
+                    "26",
+                    "12",
+                    "12",
+                    "7",
+                    "92"
+                ],
+                [
+                    "RRB Thiruvananthapuram",
+                    "45",
+                    "22",
+                    "11",
+                    "11",
+                    "12",
+                    "101"
+                ]
+            ]
+        }
+    ]
 }
-
 
 ]
