@@ -1,4 +1,6 @@
-[
+import fs from "fs"
+
+const x = [
     {
         "timestamp": 1785740303,
         "examType": "job",
@@ -63,7 +65,7 @@
             "startDate": "28/05/2026",
             "linklist": [
                 {
-                    "title": "Result Link",
+                    "title": "Admit Card link",
                     "link": "https://bsebdeled.cbrt.co.in/bseb-2026/bseb-landing",
                     "notes": ""
                 }
@@ -76,8 +78,7 @@
             "linklist": [
                 {
                     "title": "Result Link",
-                    "link": "https://bsebdeled.com/login",
-                    "notes": ""
+                    "link": "https://bsebdeled.com/login"
                 }
             ],
             "startDate": "06/08/2026",
@@ -89,14 +90,7 @@
             "startDate": "",
             "link": "https://bsebdeled.com/login",
             "details": "",
-            "instruction": [],
-            "linklist": [
-                {
-                    "title": "Answer Key Link",
-                    "link": "https://bsebdeled.com/login",
-                    "notes": ""
-                }
-            ]
+            "instruction": []
         },
         "table": [
             {
@@ -250,18 +244,14 @@
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "resultCard": {
             "startDate": "07/08/2026",
-            "linklist": [
-                {
-                    "title": "Result Link",
-                    "link": "https://rpsc.rajasthan.gov.in/Static/Result/4859FAB1C92E4AF9AFBEEFED59242904.pdf",
-                    "notes": ""
-                }
-            ],
+            "linklist": [{
+                "link": "https://rpsc.rajasthan.gov.in/Static/Result/4859FAB1C92E4AF9AFBEEFED59242904.pdf",
+                "title": "Result Link"
+            }],
             "link": "https://rpsc.rajasthan.gov.in/Static/Result/4859FAB1C92E4AF9AFBEEFED59242904.pdf",
             "details": "",
             "instruction": []
@@ -270,8 +260,7 @@
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "table": [
             {
@@ -476,13 +465,11 @@
             }
         ],
         "admitCard": {
-            "linklist": [
-                {
-                    "title": "Result Link",
-                    "link": "https://uppsc.up.nic.in/CandidatePages/Advertismentwise_DownloadDocument.aspx?inptprmtr=ac",
-                    "notes": ""
-                }
-            ],
+            "linklist": [{
+                "link": "https://uppsc.up.nic.in/CandidatePages/Advertismentwise_DownloadDocument.aspx?inptprmtr=ac",
+                "title": "Admit Card Link",
+                "notes": ""
+            }],
             "startDate": "21/05/2026",
             "link": "https://uppsc.up.nic.in/CandidatePages/Advertismentwise_DownloadDocument.aspx?inptprmtr=ac",
             "details": "",
@@ -490,13 +477,11 @@
         },
         "resultCard": {
             "startDate": "07/08/2026",
-            "linklist": [
-                {
-                    "title": "Result Link",
-                    "link": "https://doc.sarkariresults.org.in/SarkariResult.Com_UPPSC_GIC_Lecturer_Result_07Aug2026.pdf",
-                    "notes": ""
-                }
-            ],
+            "linklist": [{
+                "link": "https://doc.sarkariresults.org.in/SarkariResult.Com_UPPSC_GIC_Lecturer_Result_07Aug2026.pdf",
+                "title": "Result Link",
+                "notes": ""
+            }],
             "link": "https://doc.sarkariresults.org.in/SarkariResult.Com_UPPSC_GIC_Lecturer_Result_07Aug2026.pdf",
             "details": "",
             "instruction": []
@@ -505,14 +490,7 @@
             "startDate": "03/06/2026",
             "link": "https://uppsc.up.nic.in/CandidatePages/Status/ViewAnswerKey.aspx?ID=5",
             "details": "",
-            "instruction": [],
-            "linklist": [
-                {
-                    "title": "Answer Key Link",
-                    "link": "https://uppsc.up.nic.in/CandidatePages/Status/ViewAnswerKey.aspx?ID=5",
-                    "notes": ""
-                }
-            ]
+            "instruction": []
         }
     },
     {
@@ -700,46 +678,19 @@
             "startDate": "06/05/2026",
             "link": "https://admitcards.upessc.org/",
             "details": "",
-            "instruction": [],
-            "linklist": [
-                {
-                    "title": "Result Link",
-                    "link": "https://admitcards.upessc.org/",
-                    "notes": ""
-                }
-            ]
+            "instruction": []
         },
         "resultCard": {
             "startDate": "02/06/2026",
             "link": "Balak-Varg::https://doc.sarkariresults.org.in/UPPGT_Result_Male_SarkariResult_Com.pdf,Balika-Varg::https://doc.sarkariresults.org.in/UP_PGT_Result_SarkariResult_Female.pdf",
             "details": "",
-            "instruction": [],
-            "linklist": [
-                {
-                    "title": "Balak-Varg",
-                    "link": "https://doc.sarkariresults.org.in/UPPGT_Result_Male_SarkariResult_Com.pdf",
-                    "notes": ""
-                },
-                {
-                    "title": "Balika-Varg",
-                    "link": "https://doc.sarkariresults.org.in/UP_PGT_Result_SarkariResult_Female.pdf",
-                    "notes": ""
-                }
-
-            ]
+            "instruction": []
         },
         "answerKey": {
             "startDate": "12/05/2026",
             "link": "https://www.upessc.net/pgtqcmay2026/login.aspx",
             "details": "",
-            "instruction": [],
-            "linklist": [
-                {
-                    "title": "Answer Key Link",
-                    "link": "https://www.upessc.net/pgtqcmay2026/login.aspx",
-                    "notes": ""
-                }
-            ]
+            "instruction": []
         }
     },
     {
@@ -910,28 +861,19 @@
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "resultCard": {
             "startDate": "07/08/2026",
             "link": "https://doc.sarkariresults.org.in/FR-CAPF-2025-Engl-070826.pdf",
             "details": "",
-            "instruction": [],
-            "linklist": [
-                {
-                    "title": "Result Link",
-                    "link": "https://doc.sarkariresults.org.in/FR-CAPF-2025-Engl-070826.pdf",
-                    "notes": ""
-                }
-            ]
+            "instruction": []
         },
         "answerKey": {
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "table": [
             {
@@ -1138,34 +1080,19 @@
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "resultCard": {
             "startDate": "30/03/2026",
             "link": "Final-Result::https://upsc.gov.in/sites/default/files/FR-CDSE-II-2025-Engl-300326.pdf,OTA-Result::https://www.upsc.gov.in/sites/default/files/FR-CDSE-II-2025-OTA-Engl-070826.pdf",
             "details": "",
-            "instruction": [],
-            "linklist": [
-                {
-                    "title": "Final-Result",
-                    "link": "https://upsc.gov.in/sites/default/files/FR-CDSE-II-2025-Engl-300326.pdf",
-                    "notes": ""
-                },
-                 {
-                    "title": "OTA-Result",
-                    "link": "https://www.upsc.gov.in/sites/default/files/FR-CDSE-II-2025-OTA-Engl-070826.pdf",
-                    "notes": ""
-                }
-
-            ]
+            "instruction": []
         },
         "answerKey": {
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         }
     },
     {
@@ -1295,40 +1222,19 @@
             "startDate": " 03/07/2026",
             "link": "https://esb.mp.gov.in/tacs/tac_2026/ADDET_TAC26/default_tac.htm",
             "details": "",
-            "instruction": [],
-            "linklist": [
-                {
-                    "title": "Result Link",
-                    "link": "https://esb.mp.gov.in/tacs/tac_2026/ADDET_TAC26/default_tac.htm",
-                    "notes": ""
-                }
-            ]
+            "instruction": []
         },
         "resultCard": {
             "startDate": "07/08/2026",
             "link": "https://esb.mp.gov.in/results/RESULT_26/ADDET_RES26/default_Results.htm",
             "details": "",
-            "instruction": [],
-            "linklist": [
-                {
-                    "title": "Result Link",
-                    "link": "https://esb.mp.gov.in/results/RESULT_26/ADDET_RES26/default_Results.htm",
-                    "notes": ""
-                }
-            ]
+            "instruction": []
         },
         "answerKey": {
             "startDate": "13/07/2026",
             "link": "https://addet2026.cbtexam.in/Home/ListofExam.aspx",
             "details": "",
-            "instruction": [],
-            "linklist": [
-                {
-                    "title": "Answer Key Link",
-                    "link": "https://addet2026.cbtexam.in/Home/ListofExam.aspx",
-                    "notes": ""
-                }
-            ]
+            "instruction": []
         },
         "table": [
             {
@@ -1542,27 +1448,18 @@
             "startDate": "06/08/2026",
             "link": "https://ibpsreg.ibps.in/boicojun26/oecla_aug26/login.php?appid=beb71e80ca57b23bf5fce4728732e5fa",
             "details": "",
-            "instruction": [],
-            "linklist": [
-                {
-                    "title": "Result Link",
-                    "link": "https://ibpsreg.ibps.in/boicojun26/oecla_aug26/login.php?appid=beb71e80ca57b23bf5fce4728732e5fa",
-                    "notes": ""
-                }
-            ]
+            "instruction": []
         },
         "resultCard": {
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "answerKey": {
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         }
     },
     {
@@ -1705,27 +1602,18 @@
             "startDate": "21/07/2026",
             "link": "https://aiimsexams.ac.in/advertisement/6a2cdd89be81945a8330d450",
             "details": "Link will be Activate Soon",
-            "instruction": [],
-            "linklist": [
-                {
-                    "title": "Result Link",
-                    "link": "https://aiimsexams.ac.in/advertisement/6a2cdd89be81945a8330d450",
-                    "notes": ""
-                }
-            ]
+            "instruction": []
         },
         "resultCard": {
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "answerKey": {
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         }
     },
     {
@@ -1860,21 +1748,18 @@
             "startDate": "Before Exam",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "resultCard": {
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "answerKey": {
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         }
     },
     {
@@ -2034,27 +1919,18 @@
             "startDate": "4 Days Before Exam",
             "link": "https://rrb.digialm.com/EForms/configuredHtml/33128/101714/login.html",
             "details": "",
-            "instruction": [],
-            "linklist": [
-                {
-                    "title": "Result Link",
-                    "link": "https://rrb.digialm.com/EForms/configuredHtml/33128/101714/login.html",
-                    "notes": ""
-                }
-            ]
+            "instruction": []
         },
         "resultCard": {
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "answerKey": {
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         }
     },
     {
@@ -2142,27 +2018,18 @@
             "startDate": "20/9/2026",
             "link": "https://www.psc.cg.gov.in/PDFs/notifications/SAHAYAK_JILA_LOK_ABHIYOJAN_ADHIKARI-2026_EXAM_SCHEDULE%20(06-08-2026).pdf",
             "details": "",
-            "instruction": [],
-            "linklist": [
-                {
-                    "title": "Result Link",
-                    "link": "https://www.psc.cg.gov.in/PDFs/notifications/SAHAYAK_JILA_LOK_ABHIYOJAN_ADHIKARI-2026_EXAM_SCHEDULE%20(06-08-2026).pdf",
-                    "notes": ""
-                }
-            ]
+            "instruction": []
         },
         "resultCard": {
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "answerKey": {
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "applyStep": {
             "title": "",
@@ -2481,27 +2348,18 @@
             "startDate": "10/08/2026",
             "link": "https://ibpsreg.ibps.in/crppoxvijun26/oecla_aug26/login.php?appid=a4fe64b0f7c33f95f3c4d31e06680eaf",
             "details": "",
-            "instruction": [],
-            "linklist": [
-                {
-                    "title": "Result Link",
-                    "link": "https://ibpsreg.ibps.in/crppoxvijun26/oecla_aug26/login.php?appid=a4fe64b0f7c33f95f3c4d31e06680eaf",
-                    "notes": ""
-                }
-            ]
+            "instruction": []
         },
         "resultCard": {
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "answerKey": {
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         }
     },
     {
@@ -2609,21 +2467,18 @@
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "resultCard": {
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "answerKey": {
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "applyStep": {
             "title": "",
@@ -2716,21 +2571,18 @@
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "resultCard": {
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "answerKey": {
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "table": [
             {
@@ -3009,21 +2861,18 @@
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "resultCard": {
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "answerKey": {
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         }
     },
     {
@@ -3103,21 +2952,18 @@
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "resultCard": {
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "answerKey": {
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "table": [
             {
@@ -3301,21 +3147,18 @@
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "resultCard": {
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "answerKey": {
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "table": [
             {
@@ -3550,21 +3393,18 @@
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "resultCard": {
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "answerKey": {
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         }
     },
     {
@@ -3643,21 +3483,18 @@
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "resultCard": {
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "answerKey": {
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "table": [
             {
@@ -3772,21 +3609,18 @@
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "resultCard": {
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "answerKey": {
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         }
     },
     {
@@ -3865,21 +3699,18 @@
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "resultCard": {
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "answerKey": {
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         }
     },
     {
@@ -3962,21 +3793,18 @@
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "resultCard": {
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "answerKey": {
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         }
     },
     {
@@ -4078,21 +3906,18 @@
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "resultCard": {
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "answerKey": {
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "table": [
             {
@@ -4226,21 +4051,18 @@
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "resultCard": {
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "answerKey": {
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         }
     },
     {
@@ -4381,21 +4203,18 @@
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "resultCard": {
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "answerKey": {
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "table": [
             {
@@ -4839,21 +4658,18 @@
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "resultCard": {
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "answerKey": {
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         }
     },
     {
@@ -5223,21 +5039,18 @@
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "resultCard": {
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "answerKey": {
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         }
     },
     {
@@ -5327,21 +5140,18 @@
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "resultCard": {
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "answerKey": {
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "table": [
             {
@@ -5608,21 +5418,18 @@
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "resultCard": {
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "answerKey": {
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         }
     },
     {
@@ -5779,21 +5586,18 @@
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "resultCard": {
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "answerKey": {
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "table": [
             {
@@ -6151,21 +5955,18 @@
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "resultCard": {
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "answerKey": {
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         }
     },
     {
@@ -6532,21 +6333,18 @@
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "resultCard": {
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "answerKey": {
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         }
     },
     {
@@ -6626,21 +6424,18 @@
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "resultCard": {
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "answerKey": {
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         }
     },
     {
@@ -6755,21 +6550,18 @@
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "resultCard": {
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "answerKey": {
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         }
     },
     {
@@ -6875,21 +6667,18 @@
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "resultCard": {
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "answerKey": {
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         }
     },
     {
@@ -7055,21 +6844,18 @@
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "resultCard": {
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "answerKey": {
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "table": [
             {
@@ -7218,21 +7004,18 @@
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "resultCard": {
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "answerKey": {
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         }
     },
     {
@@ -7326,21 +7109,18 @@
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "resultCard": {
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "answerKey": {
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "table": [
             {
@@ -7480,21 +7260,18 @@
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "resultCard": {
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "answerKey": {
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         }
     },
     {
@@ -7580,21 +7357,18 @@
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "resultCard": {
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "answerKey": {
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "table": [
             {
@@ -7941,21 +7715,18 @@
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "resultCard": {
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "answerKey": {
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         }
     },
     {
@@ -8046,21 +7817,18 @@
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "resultCard": {
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "answerKey": {
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "table": [
             {
@@ -8333,21 +8101,18 @@
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "resultCard": {
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "answerKey": {
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "table": [
             {
@@ -8618,21 +8383,18 @@
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "resultCard": {
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "answerKey": {
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         }
     },
     {
@@ -9197,21 +8959,18 @@
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "resultCard": {
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "answerKey": {
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "table": [
             {
@@ -9382,21 +9141,18 @@
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "resultCard": {
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "answerKey": {
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         }
     },
     {
@@ -9594,21 +9350,18 @@
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "resultCard": {
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "answerKey": {
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         }
     },
     {
@@ -9690,21 +9443,18 @@
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "resultCard": {
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "answerKey": {
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         }
     },
     {
@@ -9886,21 +9636,18 @@
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "resultCard": {
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "answerKey": {
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         }
     },
     {
@@ -10058,21 +9805,18 @@
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "resultCard": {
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "answerKey": {
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         }
     },
     {
@@ -10176,21 +9920,18 @@
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "resultCard": {
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "answerKey": {
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "table": [
             {
@@ -10454,21 +10195,18 @@
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "resultCard": {
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "answerKey": {
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         }
     },
     {
@@ -10586,21 +10324,18 @@
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "resultCard": {
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "answerKey": {
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "table": [
             {
@@ -10924,21 +10659,18 @@
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "resultCard": {
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "answerKey": {
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         }
     },
     {
@@ -11041,21 +10773,18 @@
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "resultCard": {
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "answerKey": {
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "list": [
             {
@@ -11248,21 +10977,79 @@
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "resultCard": {
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         },
         "answerKey": {
             "startDate": "",
             "link": "",
             "details": "",
-            "instruction": [],
-            "linklist": []
+            "instruction": []
         }
     }
 ]
+
+const xz = x.map(e => {
+    let pre = { ...e }
+
+    // result card edit
+    if (e.resultCard) {
+        if (e.resultCard.link) {
+            pre.resultCard.linklist = [
+                {
+                    title: "Result Link",
+                    link: e.resultCard.link,
+                    notes: ""
+                }
+            ]
+        }
+        else {
+            pre.resultCard.linklist = []
+        }
+
+    }
+
+// link card edit
+    if (e.admitCard) {
+        if (e.admitCard.link) {
+            pre.admitCard.linklist = [
+                {
+                    title: "Result Link",
+                    link: e.admitCard.link,
+                    notes: ""
+                }
+            ]
+        }
+        else {
+            pre.admitCard.linklist = []
+        }
+
+    }
+// answer card edit
+    if (e.answerKey) {
+        if (e.answerKey.link) {
+            pre.answerKey.linklist = [
+                {
+                    title: "Answer Key Link",
+                    link: e.answerKey.link,
+                    notes: ""
+                }
+            ]
+        }
+        else {
+            pre.answerKey.linklist = []
+        }
+
+    }
+
+return pre
+
+
+})
+ fs.writeFile("data2.json",JSON.stringify(x),()=>{
+ 
+})
