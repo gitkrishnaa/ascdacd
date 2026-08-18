@@ -1,0 +1,1328 @@
+[
+    {
+        "timestamp": 1785740303,
+        "examType": "job",
+        "id": "DELED-Joint-Entrance-Test-2026-2028-online-application-for-admission-2026-2028",
+        "orgId": "Bihar School Examination Board (BSEB)",
+        "name": "DELED Joint Entrance Test 2026-2028 online application for admission 2026-2028",
+        "importantDates": {
+            "startDate": "11/12/2025",
+            "lastDate": "24/12/2025",
+            "lastDateFeePayment": "24/12/2025",
+            "examDate": "08/06/2026"
+        },
+        "resultCard": {
+            "startDate": "06/08/2026"
+        },
+        "admitCard": {
+            "startDate": "28/05/2026"
+        },
+        "answerKey": {
+            "startDate": ""
+        }
+    },
+    {
+        "timestamp": 1785740303,
+        "examType": "job",
+        "id": "RPSC-School-Lecturer-PGT-Teacher-Exam-2025",
+        "orgId": "Rajasthan Public Service Commission (RPSC)",
+        "name": "RPSC School Lecturer PGT Teacher Exam 2025",
+        "importantDates": {
+            "startDate": "14/08/2025",
+            "lastDate": "12/09/2025",
+            "lastDateFeePayment": "12/09/2025",
+            "examDate": "31/5/2026 to 11/6/2026"
+        },
+        "resultCard": {
+            "startDate": "07/08/2026"
+        },
+        "admitCard": {
+            "startDate": ""
+        },
+        "answerKey": {
+            "startDate": ""
+        }
+    },
+    {
+        "timestamp": 1785740303,
+        "examType": "job",
+        "id": "Uttar-Pradesh-UPPSC-Assistant-Professor-GDC-Exam-2025",
+        "orgId": "Uttar Pradesh Public Service Commission (UPPSC)",
+        "name": "Uttar Pradesh UPPSC Assistant Professor GDC Exam 2025",
+        "importantDates": {
+            "startDate": "04/09/2025",
+            "lastDate": "06/10/2025",
+            "lastDateFeePayment": "06/10/2025",
+            "examDate": "31/05/2026"
+        },
+        "resultCard": {
+            "startDate": "07/08/2026"
+        },
+        "admitCard": {
+            "startDate": "21/05/2026"
+        },
+        "answerKey": {
+            "startDate": "03/06/2026"
+        }
+    },
+    {
+        "timestamp": 1785740303,
+        "examType": "job",
+        "id": "UP-Post-Graduate-Teacher-PGT-Recruitment-2022",
+        "orgId": "Uttar Pradesh Secondary Education Service Selection Board (UPSESSB)",
+        "name": "UP Post Graduate Teacher PGT Recruitment 2022",
+        "importantDates": {
+            "startDate": "09/06/2022",
+            "lastDate": "10/07/2022",
+            "lastDateFeePayment": "13/07/2022",
+            "examDate": "9/5/2026 to 10/5/2026",
+            "otherDates": [
+                {
+                    "title": "Interview Date",
+                    "date": "15-27 June 2026"
+                },
+                {
+                    "title": "Interview Letter",
+                    "date": "05/06/2026"
+                },
+                {
+                    "title": "Institute Allotment List",
+                    "date": "28/07/2026"
+                }
+            ]
+        },
+        "resultCard": {
+            "startDate": "02/06/2026"
+        },
+        "admitCard": {
+            "startDate": "06/05/2026"
+        },
+        "answerKey": {
+            "startDate": "12/05/2026"
+        }
+    },
+    {
+        "timestamp": 1785740303,
+        "examType": "job",
+        "id": "UPSC-Combined-Central-Armed-Police-Force-Assistant-Commandant-AC-Exam-2025",
+        "orgId": "Union Public Service Commission (UPSC)",
+        "name": "UPSC Combined Central Armed Police Force (Assistant Commandant AC Exam 2025)",
+        "importantDates": {
+            "startDate": "05/03/2025",
+            "lastDate": "25/03/2025 (Upto 06:00 PM Only)",
+            "lastDateFeePayment": "25/03/2025",
+            "examDate": "03/08/2025",
+            "correctionDate": "26/03/2025 to 01/04/2025"
+        },
+        "resultCard": {
+            "startDate": "07/08/2026"
+        },
+        "admitCard": {
+            "startDate": ""
+        },
+        "answerKey": {
+            "startDate": ""
+        }
+    },
+    {
+        "timestamp": 1785740303,
+        "examType": "job",
+        "id": "UPSC-Combined-Defence-Service-Exam-II-Recruitment-2025",
+        "orgId": "Union Public Service Commission (UPSC)",
+        "name": "UPSC Combined Defence Service Exam II Recruitment 2025",
+        "importantDates": {
+            "startDate": "28/05/2025",
+            "lastDate": "17/06/2025",
+            "lastDateFeePayment": "17/06/2025",
+            "examDate": "14/09/2025"
+        },
+        "resultCard": {
+            "startDate": "30/03/2026"
+        },
+        "admitCard": {
+            "startDate": ""
+        },
+        "answerKey": {
+            "startDate": ""
+        }
+    },
+    {
+        "timestamp": 1785740303,
+        "examType": "entrance-exam",
+        "id": "MP-Animal-Husbandry-and-Dairy-Technology-Admission-Test-ADDET-2026",
+        "orgId": "Madhya Pradesh Employee Selection Board (MPESB)",
+        "name": "MP Animal Husbandry and Dairy Technology Admission Test ADDET 2026",
+        "importantDates": {
+            "startDate": "05/06/2026",
+            "lastDate": "19/06/2026",
+            "lastDateFeePayment": "19/06/2026",
+            "examDate": "10/07/2026",
+            "correctionDate": "24/06/2026"
+        },
+        "resultCard": {
+            "startDate": "07/08/2026"
+        },
+        "admitCard": {
+            "startDate": " 03/07/2026"
+        },
+        "answerKey": {
+            "startDate": "13/07/2026"
+        }
+    },
+    {
+        "timestamp": 1785740303,
+        "examType": "job",
+        "id": "BOI-Credit-Officer-Recruitment-2026",
+        "orgId": "Bank of India (BOI)",
+        "name": "BOI Credit Officer Recruitment 2026",
+        "importantDates": {
+            "startDate": "30/06/2026",
+            "lastDate": "20/07/2026",
+            "lastDateFeePayment": "20/07/2026",
+            "examDate": "16/08/2026",
+            "otherDates": [
+                {
+                    "title": "Last Date for Apply Online",
+                    "date": "20/07/2026"
+                },
+                {
+                    "title": "Last Date Pay Exam Fee",
+                    "date": "20/07/2026"
+                },
+                {
+                    "title": "Admit Card Available",
+                    "date": "06/08/2026"
+                }
+            ]
+        },
+        "resultCard": {},
+        "admitCard": {
+            "startDate": "06/08/2026"
+        },
+        "answerKey": {
+            "startDate": ""
+        }
+    },
+    {
+        "timestamp": 1785740303,
+        "examType": "job",
+        "id": "AIIMS-Common-Recruitment-Exam-CRE-5-Recruitment-2026",
+        "orgId": "All India Institute of Medical Science (AIIMS)",
+        "name": "AIIMS Common Recruitment Exam (CRE-5) Recruitment 2026",
+        "importantDates": {
+            "startDate": "06/06/2026",
+            "lastDate": "03/07/2026",
+            "lastDateFeePayment": "03/07/2026",
+            "examDate": "25/7/2026 to 27/7/2026",
+            "otherDates": [
+                {
+                    "title": "NOC Submission Last Date",
+                    "date": "08/07/2026"
+                },
+                {
+                    "title": "Application Status Available",
+                    "date": "11/07/2026"
+                },
+                {
+                    "title": "Exam Schedule Date",
+                    "date": "17/07/2026"
+                },
+                {
+                    "title": "CRE-5 Revised Exam Date",
+                    "date": "31 August to 01 September 2026"
+                }
+            ]
+        },
+        "resultCard": {},
+        "admitCard": {
+            "startDate": "21/07/2026"
+        },
+        "answerKey": {
+            "startDate": ""
+        }
+    },
+    {
+        "timestamp": 1785740303,
+        "examType": "job",
+        "id": "Uttar-Pradesh-Education-Service-Selection-Commission-UPESSC",
+        "orgId": "Uttar Pradesh Education Service Selection Commission UPESSC",
+        "name": "UPESSC UP Assistant Professor BEd Recruitment 2025",
+        "importantDates": {
+            "startDate": "28/04/2026",
+            "lastDate": "27/05/2026",
+            "lastDateFeePayment": "27/05/2026",
+            "examDate": "19/08/2026 (Postponed)",
+            "otherDates": [
+                {
+                    "title": "Re Open Apply Online",
+                    "date": "10-20 July 2026"
+                }
+            ]
+        },
+        "resultCard": {},
+        "admitCard": {
+            "startDate": "Before Exam"
+        },
+        "answerKey": {
+            "startDate": ""
+        }
+    },
+    {
+        "timestamp": 1785740303,
+        "examType": "job",
+        "id": "Railway-RRB-Centralized-Recruitment-CEN-09-2025-Group-D-Exam-2026",
+        "orgId": "Railway Recruitment Board (RRB)",
+        "name": "Railway RRB Centralized Recruitment CEN 09/2025 Group D Exam 2026",
+        "importantDates": {
+            "startDate": "31/01/2026",
+            "lastDate": "09/03/2026",
+            "lastDateFeePayment": "11/03/2026",
+            "examDate": "3/8/2026 to 25/8/2026",
+            "correctionDate": "12/3/2026 to 21/3/2026",
+            "notes": "RRB Group D Exam Date : 3-6, 9-14, 17-21 & 25 August 2026",
+            "otherDates": [
+                {
+                    "title": "Application Status Available",
+                    "date": "09/07/2026"
+                },
+                {
+                    "title": "Exam City Available",
+                    "date": "10 Days Before Exam"
+                }
+            ]
+        },
+        "resultCard": {},
+        "admitCard": {
+            "startDate": "4 Days Before Exam"
+        },
+        "answerKey": {
+            "startDate": ""
+        }
+    },
+    {
+        "timestamp": 1785740303,
+        "id": "Chhattisgarh-Assistant-District-Public-Prosecution-Officer-ADPPO-Recruitment-2026",
+        "orgId": "Chhattisgarh Public Service Commission (CGPSC)",
+        "name": "Chhattisgarh Assistant District Public Prosecution Officer ADPPO Recruitment 2026",
+        "importantDates": {
+            "startDate": "22/06/2026",
+            "lastDate": "21/07/2026",
+            "lastDateFeePayment": "21/07/2026",
+            "examDate": "20/09/2026 "
+        },
+        "resultCard": {},
+        "admitCard": {
+            "startDate": "20/9/2026"
+        },
+        "answerKey": {
+            "startDate": ""
+        }
+    },
+    {
+        "timestamp": 1785913103,
+        "examType": "job",
+        "id": "IBPS-Probationary-Officer-Management-Trainees-XVI-Recruitment-2026",
+        "orgId": "Institute Of Banking Personal Selection (IBPS)",
+        "name": "IBPS Probationary Officer / Management Trainees-XVI Recruitment 2026",
+        "importantDates": {
+            "startDate": "01/07/2026",
+            "lastDate": "26/07/2026",
+            "lastDateFeePayment": "26/07/2026",
+            "correctionDate": "29/7/2026 to 30/7/2026",
+            "otherDates": [
+                {
+                    "title": "IBPS PO Pre Exam Date : August 2026",
+                    "date": "August 2026"
+                },
+                {
+                    "title": "PET Admit Card",
+                    "date": "10/08/2026"
+                },
+                {
+                    "title": "Pre Admit Card Available",
+                    "date": " Before Exam"
+                },
+                {
+                    "title": "Pre Result Available",
+                    "date": "September 2026"
+                },
+                {
+                    "title": "IBPS PO Mains Exam Date ",
+                    "date": "October 2026"
+                },
+                {
+                    "title": "IBPS PO Mains Result Available",
+                    "date": "November 2026"
+                }
+            ]
+        },
+        "resultCard": {},
+        "admitCard": {
+            "startDate": "10/08/2026"
+        },
+        "answerKey": {
+            "startDate": ""
+        }
+    },
+    {
+        "timestamp": 1785740303,
+        "id": "central-Bank-of-India-(CBI)-Apprentice-Recruitment-2026-Exam-Date",
+        "orgId": "Central Bank of India (CBI)",
+        "name": "Central Bank of India (CBI) Apprentice Recruitment 2026 Exam Date",
+        "importantDates": {
+            "startDate": "12/06/2026",
+            "lastDate": "28/06/2026",
+            "lastDateFeePayment": "28/06/2026",
+            "examDate": "05/07/2026",
+            "extendedDate": "28/06/2026"
+        },
+        "resultCard": {},
+        "admitCard": {
+            "startDate": ""
+        },
+        "answerKey": {
+            "startDate": ""
+        }
+    },
+    {
+        "timestamp": 1785740303,
+        "id": "NIACL-Apprentice-Recruitment-2026",
+        "orgId": "The New India Assurance Company Limited (NIACL)",
+        "name": "NIACL Apprentice Recruitment 2026",
+        "importantDates": {
+            "startDate": "23/06/2026",
+            "lastDate": "06/07/2026",
+            "lastDateFeePayment": "06/07/2026",
+            "examDate": "12/07/2026"
+        },
+        "resultCard": {},
+        "admitCard": {
+            "startDate": ""
+        },
+        "answerKey": {
+            "startDate": ""
+        }
+    },
+    {
+        "timestamp": 1785740303,
+        "id": "CSIR-Assistant-Section-Officer-ASO-Recruitment-2026",
+        "orgId": "Council of Scientific & Industrial Research (CSIR)",
+        "name": "CSIR Assistant Section Officer ASO Recruitment  2026",
+        "importantDates": {
+            "startDate": "23/06/2026",
+            "lastDate": "13/07/2026",
+            "lastDateFeePayment": "13/07/2026",
+            "notes": "Last Date for Apply Online :13/07/2026 upto 05 PM"
+        },
+        "resultCard": {},
+        "admitCard": {
+            "startDate": ""
+        },
+        "answerKey": {
+            "startDate": ""
+        }
+    },
+    {
+        "timestamp": 1785740303,
+        "id": "PNB-Local-Bank-Officer-LBO-Online-Form-2026",
+        "orgId": "Punjab National Bank (PNB)",
+        "name": "PNB Local Bank Officer LBO Online Form 2026",
+        "importantDates": {
+            "notificationDate": "20/07/2026",
+            "startDate": "20/07/2026",
+            "lastDate": " 09/08/2026",
+            "lastDateFeePayment": "09/08/2026"
+        },
+        "resultCard": {},
+        "admitCard": {
+            "startDate": ""
+        },
+        "answerKey": {
+            "startDate": ""
+        }
+    },
+    {
+        "timestamp": 1785740303,
+        "examType": "job",
+        "id": "IOB-Indian-Overseas-Bank-Apprentice-Recruitment-2026",
+        "orgId": "Indian Overseas Bank (IOB)",
+        "name": "IOB Indian Overseas Bank Apprentice Recruitment 2026",
+        "importantDates": {
+            "startDate": "07/07/2026",
+            "lastDate": "27/07/2026",
+            "lastDateFeePayment": "28/07/2026",
+            "examDate": "02/08/2026 ",
+            "extendedDate": "27/07/2026"
+        },
+        "resultCard": {},
+        "admitCard": {
+            "startDate": ""
+        },
+        "answerKey": {
+            "startDate": ""
+        }
+    },
+    {
+        "timestamp": 1785740303,
+        "examType": "job",
+        "id": "Join-Indian-Army-NCC-Entry-April-2027-Batch-Recruitment-2026",
+        "orgId": "Indian Army NCC Special Entry",
+        "name": "Join Indian Army NCC Entry April 2027 Batch Recruitment 2026",
+        "importantDates": {
+            "notificationDate": "20/07/2026",
+            "startDate": "20/07/2026",
+            "lastDate": "20/08/2026 (upto 3pm only)",
+            "lastDateFeePayment": "20/08/2026"
+        },
+        "resultCard": {},
+        "admitCard": {
+            "startDate": ""
+        },
+        "answerKey": {
+            "startDate": ""
+        }
+    },
+    {
+        "timestamp": 1785740303,
+        "examType": "job",
+        "id": "Union-Bank-UBI-Specialist-Officers-SO-Recruitment-2026",
+        "orgId": "Union Bank of India (UBI)",
+        "name": "Union Bank UBI Specialist Officers SO Recruitment 2026",
+        "importantDates": {
+            "startDate": "21/07/2026",
+            "lastDate": "10/08/2026",
+            "lastDateFeePayment": "10/08/2026"
+        },
+        "resultCard": {},
+        "admitCard": {
+            "startDate": ""
+        },
+        "answerKey": {
+            "startDate": ""
+        }
+    },
+    {
+        "timestamp": 1785740303,
+        "examType": "job",
+        "id": "RRB-JE-Junior-Engineer-Recruitment-2026",
+        "orgId": "Railway Recruitment Board (RRB)",
+        "name": "RRB JE Junior Engineer Recruitment 2026",
+        "importantDates": {
+            "notificationDate": "14/08/2026",
+            "startDate": "14/08/2026",
+            "lastDate": "13/09/2026",
+            "lastDateFeePayment": "13/09/2026"
+        },
+        "resultCard": {},
+        "admitCard": {
+            "startDate": ""
+        },
+        "answerKey": {
+            "startDate": ""
+        }
+    },
+    {
+        "timestamp": 1785913103,
+        "examType": "job",
+        "id": "उत्तर-प्रदेश-बेसिक-शिक्षा-विभाग-Lakhimpur-Kheri-District-ECCE-Educator-Outsourcing-Recruitment-2026",
+        "orgId": "Uttar Pradesh Rojgar Sangam (Sewayojan) ",
+        "name": "उत्तर प्रदेश बेसिक शिक्षा विभाग Lakhimpur Kheri District ECCE Educator Outsourcing Recruitment 2026",
+        "importantDates": {
+            "notificationDate": "16/07/2026",
+            "startDate": "16/07/2026",
+            "lastDate": "24/07/2026"
+        },
+        "resultCard": {},
+        "admitCard": {
+            "startDate": ""
+        },
+        "answerKey": {
+            "startDate": ""
+        }
+    },
+    {
+        "timestamp": 1785913103,
+        "examType": "job",
+        "id": "UPESSC-UP-Principal-Online-Form-2026",
+        "orgId": "Uttar Pradesh Education Service Selection Commission (UPESSC)",
+        "name": "UPESSC UP Principal Online Form 2026",
+        "importantDates": {
+            "notificationDate": "21/07/2026",
+            "startDate": "21/07/2026",
+            "lastDate": "20/08/2026",
+            "lastDateFeePayment": "20/08/2026",
+            "examDate": "24/09/2026",
+            "correctionDate": "23/08/2026"
+        },
+        "resultCard": {},
+        "admitCard": {
+            "startDate": ""
+        },
+        "answerKey": {
+            "startDate": ""
+        }
+    },
+    {
+        "timestamp": 1785913103,
+        "examType": "job",
+        "id": "Rajasthan-District-Court-Stenographer-Grade-III-Online-Form-2026",
+        "orgId": "Rajasthan High Court, Jodhpur (RHC)",
+        "name": "Rajasthan District Court Stenographer Grade III Online Form 2026",
+        "importantDates": {
+            "notificationDate": "22/07/2026",
+            "startDate": "22/07/2026",
+            "lastDate": "10/08/2026 (upto 05 PM)",
+            "lastDateFeePayment": "11/08/2025"
+        },
+        "resultCard": {},
+        "admitCard": {
+            "startDate": ""
+        },
+        "answerKey": {
+            "startDate": ""
+        }
+    },
+    {
+        "timestamp": 1786085903,
+        "examType": "job",
+        "id": "UPSRTC-Azamgarh,-Mau,-Ballia-Bus-Conductor-Recruitment-2026",
+        "orgId": "उत्तर प्रदेश राज्य सड़क परिवहन निगम (UPSRTC) ",
+        "name": "UPSRTC Azamgarh, Mau, Ballia Bus Conductor Recruitment 2026",
+        "importantDates": {
+            "startDate": "20/07/2026",
+            "lastDate": "05/08/2026",
+            "lastDateFeePayment": "Not-Avaliabe",
+            "examDate": "Not-Avaliabe",
+            "otherDates": [
+                {
+                    "title": "Interview Date",
+                    "date": "As per Schedule"
+                }
+            ]
+        },
+        "resultCard": {},
+        "admitCard": {
+            "startDate": ""
+        },
+        "answerKey": {
+            "startDate": ""
+        }
+    },
+    {
+        "timestamp": 1786085903,
+        "examType": "job",
+        "id": "SAIL-Rourkela-Steel-Plant-Apprentice-Online-Form-2026",
+        "orgId": "Steel Authority of India Limited (SAIL)",
+        "name": "SAIL Rourkela Steel Plant Apprentice Online Form 2026",
+        "importantDates": {
+            "startDate": "17/07/2026",
+            "lastDate": "26/08/2026",
+            "lastDateFeePayment": "Not-avaliable",
+            "examDate": "Not-avaliable",
+            "otherDates": [
+                {
+                    "title": "Degree / Diploma Walk In Date",
+                    "date": "01-26 September 2026"
+                }
+            ]
+        },
+        "resultCard": {},
+        "admitCard": {
+            "startDate": ""
+        },
+        "answerKey": {
+            "startDate": ""
+        }
+    },
+    {
+        "timestamp": 1778482703,
+        "examType": "job",
+        "id": "UP-Anganwadi-Helper-Recruitment-2026",
+        "orgId": "Integrated Child Development Services Scheme (ICDS)",
+        "name": "UP Anganwadi Helper Recruitment 2026",
+        "importantDates": {
+            "startDate": "District Wise",
+            "lastDate": "District Wise",
+            "lastDateFeePayment": "District Wise",
+            "examDate": "Not-Available"
+        },
+        "resultCard": {},
+        "admitCard": {
+            "startDate": ""
+        },
+        "answerKey": {
+            "startDate": ""
+        }
+    },
+    {
+        "timestamp": 1778482703,
+        "examType": "job",
+        "id": "AAI-Manager-Junior-Executive-Online-Form-2026",
+        "orgId": "Airports Authority of India (AAI)",
+        "name": "AAI Manager, Junior Executive Online Form 2026",
+        "importantDates": {
+            "startDate": "08/08/2026",
+            "lastDate": "07/09/2026",
+            "lastDateFeePayment": "07/09/2026"
+        },
+        "resultCard": {},
+        "admitCard": {
+            "startDate": ""
+        },
+        "answerKey": {
+            "startDate": ""
+        }
+    },
+    {
+        "timestamp": 1778482703,
+        "examType": "job",
+        "id": "State-Bank-of-India-SBI-Junior-Associates-Clerk-Backlog-Recruitment-2026",
+        "orgId": "State Bank of India (SBI)",
+        "name": "State Bank of India SBI Junior Associates Clerk Backlog Recruitment 2026",
+        "importantDates": {
+            "startDate": "07/08/2026",
+            "lastDate": "27/08/2026",
+            "lastDateFeePayment": "27/08/2026",
+            "otherDates": [
+                {
+                    "title": "SBI Clerk Phase I Pre Exam Date ",
+                    "date": "September 2026"
+                },
+                {
+                    "title": "SBI Clerk Phase II Main Exam Date",
+                    "date": "October / November 2026"
+                }
+            ]
+        },
+        "resultCard": {},
+        "admitCard": {
+            "startDate": ""
+        },
+        "answerKey": {
+            "startDate": ""
+        }
+    },
+    {
+        "timestamp": 1778482703,
+        "examType": "job",
+        "id": "ICSI-Executive-Assistant-Online-Form-2026",
+        "orgId": "Institute of Company Secretaries of India (ICSI)",
+        "name": "ICSI Executive Assistant Online Form 2026",
+        "importantDates": {
+            "startDate": "22/07/2026",
+            "lastDate": "12/08/2026",
+            "lastDateFeePayment": "12/08/2026",
+            "examDate": "As per Schedule"
+        },
+        "resultCard": {},
+        "admitCard": {
+            "startDate": ""
+        },
+        "answerKey": {
+            "startDate": ""
+        }
+    },
+    {
+        "timestamp": 1778482703,
+        "examType": "job",
+        "id": "IOCL-Marketing-Division-Northern-Region-Apprentices-Recruitment-2026",
+        "orgId": "Indian Oil Corporation Limited (IOCL)",
+        "name": "IOCL Marketing Division Northern Region Apprentices Recruitment  2026",
+        "importantDates": {
+            "startDate": "07/08/2026",
+            "lastDate": "06/09/2026",
+            "lastDateFeePayment": "06/09/2026"
+        },
+        "resultCard": {},
+        "admitCard": {
+            "startDate": ""
+        },
+        "answerKey": {
+            "startDate": ""
+        }
+    },
+    {
+        "timestamp": 1786431503,
+        "examType": "job",
+        "id": "Himachal-Pradesh-High-Court-Various-Post-Recruitment-2026",
+        "orgId": "High Court of Himachal Pradesh Shimla (HPHC)",
+        "name": "Himachal Pradesh High Court Various Post Recruitment  2026",
+        "importantDates": {
+            "startDate": "10/08/2026",
+            "lastDate": "10/09/2026",
+            "lastDateFeePayment": "10/09/2026"
+        },
+        "resultCard": {},
+        "admitCard": {
+            "startDate": ""
+        },
+        "answerKey": {
+            "startDate": ""
+        }
+    },
+    {
+        "timestamp": 1786431503,
+        "examType": "job",
+        "id": "RCF-Management-Trainee-Recruitment-2026",
+        "orgId": "Rashtriya Chemicals and Fertilizers Limited (RCF)",
+        "name": "RCF Management Trainee Recruitment  2026",
+        "importantDates": {
+            "startDate": " 08/08/2026",
+            "lastDate": "24/08/2026 (upto 05 PM)",
+            "lastDateFeePayment": "24/08/2026"
+        },
+        "resultCard": {},
+        "admitCard": {
+            "startDate": ""
+        },
+        "answerKey": {
+            "startDate": ""
+        }
+    },
+    {
+        "timestamp": 1786431503,
+        "examType": "job",
+        "id": "BSIP-Lucknow-Scientist-B-Recruitment-2026",
+        "orgId": "irbal Sahni Institute of Palaeosciences (BSIP)",
+        "name": "BSIP Lucknow Scientist B Recruitment 2026",
+        "importantDates": {
+            "startDate": "10/08/2026",
+            "lastDate": "04/09/2026 (upto 05 PM)",
+            "lastDateFeePayment": "04/09/2026"
+        },
+        "resultCard": {},
+        "admitCard": {
+            "startDate": ""
+        },
+        "answerKey": {
+            "startDate": ""
+        }
+    },
+    {
+        "timestamp": 1786537703,
+        "examType": "job",
+        "id": "WCL-Statutory-Supervisory-Staff-Recruitment-Online-Form-2026",
+        "orgId": "Western Coalfields Limited (WCL)",
+        "name": "WCL Statutory Supervisory Staff Recruitment Online Form 2026",
+        "importantDates": {
+            "startDate": "20/07/2026",
+            "lastDate": "10/08/2026",
+            "lastDateFeePayment": "10/08/2026",
+            "examDate": "As per Schedule"
+        },
+        "resultCard": {},
+        "admitCard": {
+            "startDate": ""
+        },
+        "answerKey": {
+            "startDate": ""
+        }
+    },
+    {
+        "timestamp": 1786431503,
+        "examType": "job",
+        "id": "UPSSSC-Livestock-Extension-Officer-LEO-Main-Examination-2026",
+        "orgId": "Uttar Pradesh Subordinate Service Selection Commission (UPSSSC)",
+        "name": "UPSSSC Livestock Extension Officer LEO (पशुधन प्रसार अधिकारी) Main Examination 2026",
+        "importantDates": {
+            "startDate": "09/09/2026",
+            "lastDate": "29/09/2026",
+            "lastDateFeePayment": "29/09/2026",
+            "correctionDate": "06/10/2026"
+        },
+        "resultCard": {},
+        "admitCard": {
+            "startDate": ""
+        },
+        "answerKey": {
+            "startDate": ""
+        }
+    },
+    {
+        "timestamp": 1786431503,
+        "examType": "job",
+        "id": "ICF-Chennai-Apprentices-Recruitment-2026",
+        "orgId": "Integral Coach Factory, (ICF-Chennai)",
+        "name": "ICF Chennai Apprentices Recruitment  2026 ",
+        "importantDates": {
+            "startDate": "08/08/2026",
+            "lastDate": "07/09/2026 (upto 05:30 PM)",
+            "lastDateFeePayment": "07/09/2026",
+            "otherDates": [
+                {
+                    "title": "ICF Apprentices Merit List",
+                    "date": "As per Schedule"
+                }
+            ]
+        },
+        "resultCard": {},
+        "admitCard": {
+            "startDate": ""
+        },
+        "answerKey": {
+            "startDate": ""
+        }
+    },
+    {
+        "timestamp": 1786537703,
+        "examType": "job",
+        "id": "GIMS-Noida-Staff-Nurse-Recruitment-2026",
+        "orgId": "Government Institute of Medical Sciences (GIMS)",
+        "name": "GIMS Noida Staff Nurse Recruitment  2026",
+        "importantDates": {
+            "startDate": "10/08/2026",
+            "lastDate": "07/09/2026",
+            "lastDateFeePayment": "07/09/2026",
+            "examDate": "As per Schedule"
+        },
+        "resultCard": {},
+        "admitCard": {
+            "startDate": ""
+        },
+        "answerKey": {
+            "startDate": ""
+        }
+    },
+    {
+        "timestamp": 1786537703,
+        "examType": "job",
+        "id": "RCF-Kapurthala-Apprentice-Recruitment-2026",
+        "orgId": "Railway Coach Factory (RCF-Kapurthala)",
+        "name": "RCF Kapurthala Apprentice Recruitment 2026 ",
+        "importantDates": {
+            "startDate": "07/08/2026",
+            "lastDate": "05/09/2026",
+            "lastDateFeePayment": "05/09/2026",
+            "otherDates": [
+                {
+                    "title": "Merit List",
+                    "date": "As per Schedule"
+                }
+            ]
+        },
+        "resultCard": {},
+        "admitCard": {
+            "startDate": ""
+        },
+        "answerKey": {
+            "startDate": ""
+        }
+    },
+    {
+        "timestamp": 1786848518,
+        "examType": "job",
+        "id": "MPESB-MP-Group-2-Sub-Group-4-Patwari-and-Other-Post-Recruitment-Test-2026",
+        "orgId": "Madhya Pradesh Employee Selection Board (MPESB)",
+        "name": "MPESB MP Group 2 Sub Group 4 Patwari and Other Post Recruitment Test 2026",
+        "importantDates": {
+            "startDate": "04/08/2026",
+            "lastDate": "18/08/2026",
+            "lastDateFeePayment": "18/08/2026",
+            "examDate": "22/09/2026",
+            "correctionDate": "23/08/2026"
+        },
+        "resultCard": {},
+        "admitCard": {
+            "startDate": ""
+        },
+        "answerKey": {
+            "startDate": ""
+        }
+    },
+    {
+        "timestamp": 1786848032,
+        "examType": "job",
+        "id": "State-Bank-of-India-SBI-Junior-Associates-Clerk-Recruitment-2026",
+        "orgId": "State Bank of India (SBI)",
+        "name": "State Bank of India SBI Junior Associates Clerk Recruitment 2026",
+        "importantDates": {
+            "startDate": "11/08/2026",
+            "lastDate": "31/08/2026",
+            "lastDateFeePayment": "31/08/2026",
+            "examDate": "As per Schedule",
+            "otherDates": [
+                {
+                    "title": "SBI Clerk Phase II Main Exam Date",
+                    "date": "As per Schedule"
+                }
+            ]
+        },
+        "resultCard": {},
+        "admitCard": {
+            "startDate": ""
+        },
+        "answerKey": {
+            "startDate": ""
+        }
+    },
+    {
+        "timestamp": 1786848518,
+        "examType": "entrance-exam",
+        "id": "UPSSSC-Preliminary-Examination-Test-PET-2026",
+        "orgId": "Uttar Pradesh Subordinate Service Selection Commission (UPSSSC)",
+        "name": "UPSSSC Preliminary Examination Test (PET) 2026",
+        "importantDates": {
+            "startDate": "03/08/2026",
+            "lastDate": "01/09/2026",
+            "lastDateFeePayment": "01/09/2026",
+            "examDate": " October 2026 (Tentative) ",
+            "correctionDate": "08/09/2026",
+            "otherDates": [
+                {
+                    "title": "Eligibility Result Available",
+                    "date": "As per Schedule"
+                },
+                {
+                    "title": "Exam City Available",
+                    "date": "Before Exam"
+                }
+            ]
+        },
+        "resultCard": {},
+        "admitCard": {
+            "startDate": ""
+        },
+        "answerKey": {
+            "startDate": ""
+        }
+    },
+    {
+        "timestamp": 1786859502,
+        "examType": "job",
+        "id": "Jharkhand-JSSC-JILCCE-Inter-Level-Combined-Recruitment-2026",
+        "orgId": "Jharkhand Staff Selection Commission (JSSC)",
+        "name": "Jharkhand JSSC JILCCE Inter Level Combined Recruitment  2026",
+        "importantDates": {
+            "startDate": "05/08/2026",
+            "lastDate": "04/09/2026",
+            "lastDateFeePayment": "05/09/2026",
+            "examDate": "As per Schedule",
+            "correctionDate": "06/11/2026 to 08/11/2026"
+        },
+        "resultCard": {},
+        "admitCard": {
+            "startDate": ""
+        },
+        "answerKey": {
+            "startDate": ""
+        }
+    },
+    {
+        "timestamp": 1786862901,
+        "examType": "job",
+        "id": "SJVN-Various-Post-Recruitment-2026",
+        "orgId": "Satluj Jal Vidyut Nigam Limited (SJVN)",
+        "name": "SJVN Various Post Recruitment 2026",
+        "importantDates": {
+            "startDate": "05/08/2026",
+            "lastDate": "26/08/2026",
+            "lastDateFeePayment": "26/08/2026",
+            "otherDates": [
+                {
+                    "title": "Send to Hard Copy Last Date",
+                    "date": "15/09/2026"
+                }
+            ]
+        },
+        "resultCard": {},
+        "admitCard": {
+            "startDate": ""
+        },
+        "answerKey": {
+            "startDate": ""
+        }
+    },
+    {
+        "timestamp": 1786862901,
+        "examType": "job",
+        "id": "UPSSSC-Scientific-Assistant-and-Lab-Assistant-Main-Examination-2026",
+        "orgId": "Uttar Pradesh Subordinate Service Selection Commission (UPSSSC)",
+        "name": "UPSSSC Scientific Assistant and Lab Assistant Main Examination 2026",
+        "importantDates": {
+            "startDate": "27/07/2026",
+            "lastDate": "17/08/2026",
+            "lastDateFeePayment": "17/08/2026",
+            "examDate": "As per Schedule",
+            "correctionDate": "24/08/2026"
+        },
+        "resultCard": {},
+        "admitCard": {
+            "startDate": ""
+        },
+        "answerKey": {
+            "startDate": ""
+        }
+    },
+    {
+        "timestamp": 1786862901,
+        "examType": "job",
+        "id": "Bank-of-Baroda-Specialist-Officer-SO-Recruitment-2026",
+        "orgId": "Bank of Baroda (BOB)",
+        "name": "Bank of Baroda Specialist Officer SO Recruitment 2026",
+        "importantDates": {
+            "startDate": "06/08/2026",
+            "lastDate": "26/08/2026",
+            "lastDateFeePayment": "26/08/2026",
+            "examDate": "As per Schedule"
+        },
+        "resultCard": {},
+        "admitCard": {
+            "startDate": ""
+        },
+        "answerKey": {
+            "startDate": ""
+        }
+    },
+    {
+        "timestamp": 1786862901,
+        "examType": "job",
+        "id": "UPPSC-Architectural-Assistant-Estate-Manager-Microbiologist-Examination-2026",
+        "orgId": "Uttar Pradesh Public Service Commission (UPPSC)",
+        "name": "UPPSC Architectural Assistant, Estate Manager & Microbiologist Examination 2026 ",
+        "importantDates": {
+            "startDate": "03/08/2026",
+            "lastDate": "03/09/2026",
+            "lastDateFeePayment": "03/09/2026",
+            "examDate": "As per Schedule",
+            "correctionDate": "10/09/2026"
+        },
+        "resultCard": {},
+        "admitCard": {
+            "startDate": ""
+        },
+        "answerKey": {
+            "startDate": ""
+        }
+    },
+    {
+        "timestamp": 1786862901,
+        "examType": "job",
+        "id": "ISRO-Assistants-Junior-Personal-Assistants-Upper-Division-Clerk-and-Stenographers-Recruitment-2026",
+        "orgId": "Indian Space Research Organisation (ISRO)",
+        "name": "ISRO Assistants, Junior Personal Assistants, Upper Division Clerk and Stenographers Recruitment  2026",
+        "importantDates": {
+            "startDate": "27/07/2026",
+            "lastDate": "16/08/2026",
+            "lastDateFeePayment": "16/08/2026",
+            "examDate": "21/09/2026"
+        },
+        "resultCard": {},
+        "admitCard": {
+            "startDate": ""
+        },
+        "answerKey": {
+            "startDate": ""
+        }
+    },
+    {
+        "timestamp": 1786859502,
+        "examType": "job",
+        "id": "Railway-RRB-Section-Controller-Recruitment-2026-CEN-03-2026",
+        "orgId": "Railway Recruitment Board (RRB)",
+        "name": "Railway RRB Section Controller Recruitment 2026 CEN 03/2026",
+        "importantDates": {
+            "startDate": "15/07/2026",
+            "lastDate": "14/08/2026",
+            "lastDateFeePayment": "16/08/2026",
+            "examDate": "As per Schedule",
+            "reScheduledExamDate": "As per Schedule",
+            "correctionDate": "17/8/2026 to 26/8/2016"
+        },
+        "resultCard": {},
+        "admitCard": {
+            "startDate": ""
+        },
+        "answerKey": {
+            "startDate": ""
+        }
+    },
+    {
+        "timestamp": 1786862901,
+        "examType": "job",
+        "id": "UPPSC-Manager-System-Senior-Programmer-Programmer-Grade-II-and-Computer-Operator-Examination-2026",
+        "orgId": "Uttar Pradesh Public Service Commission (UPPSC)",
+        "name": "UPPSC Manager System, Senior Programmer, Programmer Grade II and Computer Operator Examination 2026 ",
+        "importantDates": {
+            "startDate": "03/08/2026",
+            "lastDate": "03/09/2026",
+            "lastDateFeePayment": "03/09/2026 ",
+            "examDate": "As per Schedule",
+            "correctionDate": "10/09/2026"
+        },
+        "resultCard": {},
+        "admitCard": {
+            "startDate": ""
+        },
+        "answerKey": {
+            "startDate": ""
+        }
+    },
+    {
+        "timestamp": 1786862901,
+        "examType": "job",
+        "id": "UPSC-Principal-&-Vice-Principal-Recruitment-2026",
+        "orgId": "Union Public Service Commission (UPSC)",
+        "name": "UPSC Principal & Vice Principal Recruitment 2026",
+        "importantDates": {
+            "startDate": "25/07/2026",
+            "lastDate": "17/08/2026 (upto 06:00 PM)",
+            "lastDateFeePayment": "17/08/2026",
+            "examDate": "01/11/2026",
+            "notes": "Pen & Paper Based CRT Exam Date"
+        },
+        "resultCard": {},
+        "admitCard": {
+            "startDate": ""
+        },
+        "answerKey": {
+            "startDate": ""
+        }
+    },
+    {
+        "timestamp": 1786862901,
+        "examType": "job",
+        "id": "IBPS-Common-Recruitment-Process-Clerks-in-Participating-Banks-IBPS-Clerk-XVI-Online-Form-2026",
+        "orgId": "Institute of Banking Personal Selection (IBPS)",
+        "name": "IBPS Common Recruitment Process Clerks in Participating Banks IBPS Clerk XVI Online Form 2026",
+        "importantDates": {
+            "startDate": "01/08/2026",
+            "lastDate": "21/08/2026",
+            "lastDateFeePayment": "21/08/2026",
+            "examDate": "October 2026",
+            "correctionDate": "As per Schedule",
+            "otherDates": [
+                {
+                    "title": "Online Pre Exam Date",
+                    "date": " October 2026"
+                },
+                {
+                    "title": "Pre Result Available",
+                    "date": "November 2026"
+                },
+                {
+                    "title": "Mains Exam Date",
+                    "date": " December 2026"
+                }
+            ]
+        },
+        "resultCard": {},
+        "admitCard": {
+            "startDate": ""
+        },
+        "answerKey": {
+            "startDate": ""
+        }
+    },
+    {
+        "timestamp": 1786862901,
+        "examType": "job",
+        "id": "SKAU-Kurukshetra-Haryana-Non-Teaching-Post-Recruitment-2026",
+        "orgId": "Shri Krishna Ayush University (SKAU)",
+        "name": "SKAU Kurukshetra Haryana, Non Teaching Post Recruitment  2026",
+        "importantDates": {
+            "startDate": "30/07/2026",
+            "lastDate": "21/08/2026",
+            "lastDateFeePayment": "21/08/2026",
+            "examDate": "As per Schedule"
+        },
+        "resultCard": {},
+        "admitCard": {
+            "startDate": ""
+        },
+        "answerKey": {
+            "startDate": ""
+        }
+    },
+    {
+        "timestamp": 1786862901,
+        "examType": "job",
+        "id": "RRB-JE-Junior-Engineer-Online-Form-2026-CEN-04-2026",
+        "orgId": "Railway Recruitment Board (RRB)",
+        "name": "RRB JE Junior Engineer Online Form 2026 (CEN 04/2026) ",
+        "importantDates": {
+            "startDate": "14/08/2026",
+            "lastDate": "13/09/2026",
+            "lastDateFeePayment": "15/09/2026",
+            "examDate": "As per schedule",
+            "correctionDate": "16/9/2026 to 25/9/2026"
+        },
+        "resultCard": {},
+        "admitCard": {
+            "startDate": ""
+        },
+        "answerKey": {
+            "startDate": ""
+        }
+    },
+    {
+        "timestamp": 1786885756,
+        "examType": "entrance-exam",
+        "id": "Bihar-State-Teacher-Eligibility-STET-Examination-2026",
+        "orgId": "Bihar School Examination Board (BSEB)",
+        "name": "Bihar State Teacher Eligibility STET Examination 2026",
+        "importantDates": {
+            "startDate": "17/08/2026",
+            "lastDate": "31/08/2026",
+            "lastDateFeePayment": "31/08/2026",
+            "examDate": "As per Schedule   ",
+            "otherDates": [
+                {
+                    "title": "Paper I Exam Date",
+                    "date": "As per Schedule  "
+                },
+                {
+                    "title": "Paper II Exam Date",
+                    "date": "As per Schedule"
+                }
+            ]
+        },
+        "resultCard": {},
+        "admitCard": {
+            "startDate": ""
+        },
+        "answerKey": {
+            "startDate": ""
+        }
+    },
+    {
+        "timestamp": 1786885756,
+        "examType": "job",
+        "id": "Rajasthan-Safai-Karamchari-Online-Form-2026",
+        "orgId": "Local Self Government, Department (LSG)",
+        "name": "Rajasthan Safai Karamchari Online Form 2026",
+        "importantDates": {
+            "startDate": "15/08/2026",
+            "lastDate": "28/09/2026",
+            "lastDateFeePayment": "28/09/2026",
+            "examDate": "As per Schedule "
+        },
+        "resultCard": {},
+        "admitCard": {
+            "startDate": ""
+        },
+        "answerKey": {
+            "startDate": ""
+        }
+    },
+    {
+        "timestamp": 1786886525,
+        "examType": "job",
+        "id": "MP-High-Court-Assistant-Grade-III-Recruitment-2026-614-Pariksha-2026-",
+        "orgId": "MP High Court of Madhya Pradesh (MPHC)",
+        "name": "MP High Court Assistant Grade III Recruitment 2026 (614/Pariksha/2026)",
+        "importantDates": {
+            "startDate": "17/08/2026",
+            "lastDate": "15/09/2026",
+            "lastDateFeePayment": "15/09/2026",
+            "examDate": "As per Schedule",
+            "correctionDate": "19/9/2026 to 21/9/2026"
+        },
+        "resultCard": {},
+        "admitCard": {
+            "startDate": ""
+        },
+        "answerKey": {
+            "startDate": ""
+        }
+    }
+]
