@@ -11264,5 +11264,180 @@
             "instruction": [],
             "linklist": []
         }
-    }
+    },
+    {
+    "timestamp":1787016389,   
+    "examType": "job",
+    "id": "Rajasthan-RSSB-Junior-Engineer-Recruitment-2026-10-2026",
+    "orgId": "Rajasthan Staff Selection Board (RSSB)",
+    "name": "Rajasthan RSSB Junior Engineer Recruitment 2026 (10/2026)",
+    "importantDates": {
+        "startDate": "16/08/2026",
+        "lastDate": "14/09/2026",
+        "lastDateFeePayment": "14/08/2026",
+        "examDate": "As per Schedule"
+    },
+    "fee": {
+        "general": "600",
+        "obc": "400",
+        "ews": "400",
+        "sc": "400",
+        "st": "400",
+        "ph": "400",
+        "female": "",
+        "notes": "Correction Charge : 300 rs\nOther State : 600 rs\nPay the Exam Fee Through Online / Offline Fee Mode Only\n"
+    },
+    "totalPost": {
+        "count": 874,
+        "notes": ""
+    },
+    "ageDetails": {
+        "minAge": 18,
+        "maxAge": 40,
+        "notes": "Age Relaxation Extra as per Rajasthan RSSB Junior Engineer Recruitment Rules Advt. No. 10/2026."
+    },
+    "vacancyDetails": [
+        {
+            "postName": "Junior Engineer",
+            "totalPost": "874",
+            "category": {
+                "ur": "",
+                "obc": "",
+                "ews": "",
+                "sc": "",
+                "st": "",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 18,
+                "maxAge": 40,
+                "qualification": [
+                    "Engineering Diploma or Degree in Related Trade / Branch from any Recognized Institute in India.",
+                    "More Eligibility Details Read the Notification"
+                ]
+            }
+        }
+    ],
+    "importantLinks": [
+        {
+            "title": "Apply Online",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://sso.rajasthan.gov.in/"
+                }
+            ]
+        },
+        {
+            "title": "Download Syllabus",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://doc.sarkariresults.org.in/SarkariResult.Com_RSSB_JE_Syllabus_2026.pdf"
+                }
+            ]
+        },
+        {
+            "title": "Download Notification",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://doc.sarkariresults.org.in/SarkariResult.Com_RSSB_JE_Notification_2026.pdf"
+                }
+            ]
+        },
+        {
+            "title": "Official Website",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://rssb.rajasthan.gov.in/"
+                }
+            ]
+        }
+    ],
+    "admitCard": {
+        "startDate": "",
+        "link": "",
+        "details": "",
+        "instruction": []
+    },
+    "resultCard": {
+        "link": "",
+        "details": "",
+        "instruction": []
+    },
+    "answerKey": {
+        "startDate": "",
+        "link": "",
+        "details": "",
+        "instruction": []
+    },
+    "table": [
+        {
+            "title": "RSSB Junior Engineer Online Form 2026 : Post Wise Vacancy Details",
+            "details": "",
+            "notes": "",
+            "list": [
+                [
+                    "Post Name",
+                    "Degree Type",
+                    "Non TSP",
+                    "TSP",
+                    "Total Post"
+                ],
+                [
+                    "Junior Engineer Civil (Public Works Department)",
+                    "Degree",
+                    "329",
+                    "22",
+                    "351"
+                ],
+                [
+                    "Junior Engineer Civil (Public Works Department)",
+                    "Diploma",
+                    "41",
+                    "1",
+                    "42"
+                ],
+                [
+                    "Junior Engineer (Water Resources Department)",
+                    "Degree",
+                    "72",
+                    "0",
+                    "72"
+                ],
+                [
+                    "Junior Engineer (Water Resources Department)",
+                    "Diploma",
+                    "144",
+                    "35",
+                    "179"
+                ],
+                [
+                    "Junior Engineer (Department of Public Health Engineering)",
+                    "Degree",
+                    "44",
+                    "3",
+                    "47"
+                ],
+                [
+                    "Junior Engineer (Department of Public Health Engineering)",
+                    "Diploma",
+                    "133",
+                    "18",
+                    "151"
+                ],
+                [
+                    "Junior Engineer (Department of Public Health Engineering)",
+                    "Diploma Electrical / Mechanic",
+                    "30",
+                    "2",
+                    "32"
+                ]
+            ]
+        }
+    ]
+}
 ]
