@@ -515,6 +515,10 @@
             ]
         }
     },
+
+
+
+
     {
         "timestamp": 1785740303,
         "examType": "job",
@@ -1388,6 +1392,219 @@
             }
         ]
     },
+
+{
+    "examType": "job",
+    "timestamp":1787137484,
+    "id": "CSBC-Bihar-Police-Prohibition-Constable-Jail-Warder-Mobile-Squad-Constable-Recruitment-2025",
+    "orgId": "Central Selection Board of Constable (CSBC)",
+    "name": "CSBC Bihar Police Prohibition Constable, Jail Warder & Mobile Squad Constable Recruitment 2025",
+    "importantDates": {
+        "startDate": "06/10/2025",
+        "lastDate": "05/11/2025",
+        "lastDateFeePayment": "05/11/2025",
+        "examDate": "14/6/2026 to 17/6/2026 "
+    },
+    "fee": {
+        "general": "100",
+        "obc": "100",
+        "ews": "100",
+        "sc": "100",
+        "st": "100",
+        "ph": "100",
+        "female": "100",
+        "notes": "Other State: 100rs\nPay the Examination Fee Through Debit Card, Credit Card, Net Banking or Pay Offline Fee Payment Through E Challan Mode Only"
+    },
+    "totalPost": {
+        "count": 4128,
+        "notes": ""
+    },
+    "ageDetails": {
+        "minAge": 18,
+        "maxAge": 25
+    },
+    "vacancyDetails": [
+        {
+            "postName": "Prohibition Constable",
+            "totalPost": "1603",
+            "category": {
+                "ur": "",
+                "obc": "",
+                "ews": "",
+                "sc": "",
+                "st": "",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 18,
+                "maxAge": 25,
+                "qualification": [
+                    "10+2 Inter Exam Passed from Any Recognized Board in India.",
+                    "More Eligibility Details Read the Notification"
+                ]
+            }
+        },
+        {
+            "postName": "Jail Warden",
+            "totalPost": "2417",
+            "category": {
+                "ur": "",
+                "obc": "",
+                "ews": "",
+                "sc": "",
+                "st": "",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 18,
+                "maxAge": 23,
+                "qualification": [
+                    "10+2 Inter Exam Passed from Any Recognized Board in India.",
+                    "More Eligibility Details Read the Notification"
+                ]
+            }
+        },
+        {
+            "postName": "Mobile Squad Contable",
+            "totalPost": "108",
+            "category": {
+                "ur": "",
+                "obc": "",
+                "ews": "",
+                "sc": "",
+                "st": "",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 18,
+                "maxAge": 25,
+                "qualification": [
+                    "10+2 Inter Exam Passed from Any Recognized Board in India.",
+                    "More Eligibility Details Read the Notification"
+                ]
+            }
+        }
+    ],
+    "importantLinks": [
+        {
+            "title": "Download Exam Notice",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://doc.sarkariresults.org.in/CSBC_Notice-03-2025-e-AdmitCard&Exam-20-05-2026.pdf"
+                }
+            ]
+        },
+        {
+            "title": "Apply Online",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://apply-csbc.com/csbc_3_25_mv1/applicationIndex"
+                }
+            ]
+        },
+        {
+            "title": "Download Notification",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://csbc.bihar.gov.in/Advt/Advt-03-2025-Prohibition-Jail%20Warder-Mobile%20Squad-Constables.pdf"
+                }
+            ]
+        },
+        {
+            "title": "Official Website",
+            "links": [
+                {
+                    "title": "",
+                    "link": "http://csbc.bih.nic.in/Default.htm"
+                }
+            ]
+        }
+    ],
+    "admitCard": {
+        "startDate": "01/06/2026",
+        "link": "https://apply-csbc.com/csbc_032025_we_admitcards/applicationIndex",
+        "details": "",
+        "linklist":[
+            {
+            "link":"https://apply-csbc.com/csbc_032025_we_admitcards/applicationIndex",
+            "title":"Admit Card Link"
+            }
+        ],
+        "instruction": []
+    },
+    "resultCard": {
+        "startDate": "18/08/2026",
+        "link": "https://csbc.bihar.gov.in/Advt/Results-03-2025-PET-18-08-2026.pdf",
+        "details": "",
+        "instruction": [],
+         "linklist":[
+            {
+            "link":"https://csbc.bihar.gov.in/Advt/Results-03-2025-PET-18-08-2026.pdf",
+            "title":"Result Link"
+            }
+        ]
+    },
+    "answerKey": {
+        "startDate": "",
+        "link": "",
+        "details": "",
+        "instruction": []
+    },
+    "table": [
+        {
+            "title": "Physical Eligibility Table",
+            "details": "",
+            "notes": "",
+            "list": [
+                [
+                    "Category",
+                    "Male",
+                    "Female"
+                ],
+                [
+                    "Height",
+                    "165 CMS",
+                    "155 CMS"
+                ],
+                [
+                    "Chest",
+                    "81-86 CMS",
+                    "Not Available"
+                ],
+                [
+                    "Running",
+                    "1.6 Km in 7 Minutes",
+                    "1 Km in 7 Minutes"
+                ],
+                [
+                    "High Jump",
+                    "3 Feet 6 Inch",
+                    "2 Feet 6 Inch"
+                ],
+                [
+                    "Long Jump",
+                    "10 Feet",
+                    "7 Feet"
+                ],
+                [
+                    "Gola Fek",
+                    "16 Pond Gola Through 14 Feet",
+                    "12 Pond Gola Through 08 Feet"
+                ]
+            ]
+        }
+    ]
+},
+
+
+
+
     {
         "timestamp": 1785740303,
         "examType": "job",
