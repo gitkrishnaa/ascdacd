@@ -11438,6 +11438,260 @@
                 ]
             ]
         }
+      
     ]
+},
+  {
+    "examType": "job",
+    "timestamp":1787110478,
+    "id": "BPSC-Bihar-School-Teacher-TRE-4-Recruitment-2026",
+    "orgId": "Bihar Public Service Commission (BPSC)",
+    "name": "BPSC Bihar School Teacher TRE 4.0 Recruitment 2026",
+    "importantDates": {
+        "startDate": "01/09/2026",
+        "lastDate": "29/09/2026",
+        "lastDateFeePayment": "29/09/2026",
+        "examDate": "As per Schedule"
+    },
+    "fee": {
+        "general": "100",
+        "obc": "100",
+        "ews": "100",
+        "sc": "100",
+        "st": "100",
+        "ph": "100",
+        "female": "",
+        "notes": "Pay the Exam Fee Through Online / Offline Fee Mode Only"
+    },
+    "totalPost": {
+        "count": 32388,
+        "notes": ""
+    },
+    "ageDetails": {
+        "minAge": 18,
+        "maxAge": 40
+    },
+    "vacancyDetails": [
+        {
+            "postName": "Primary School Teacher Class 1-5",
+            "totalPost": "3847",
+            "category": {
+                "ur": "",
+                "obc": "",
+                "ews": "",
+                "sc": "",
+                "st": "",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 18,
+                "maxAge": 40,
+                "qualification": [
+                    "Senior Secondary with 50% Marks and 2 Year Diploma in Elementary Education OR",
+                    "Senior Secondary with 45% Marks and 2 Year Diploma in Elementary Education (AS PER NCTE Norms 2002) OR",
+                    "Senior Secondary with 50% Marks and 4 Year B.L.Ed Course OR",
+                    "Senior Secondary with 50% Marks and 2 Year Diploma in Elementary Education (Special) OR",
+                    "Bachelor Degree in Any Stream with 2 Year Diploma in Elementary Education",
+                    "CTET / BTET Paper I Exam Passed",
+                    "More Eligibility Read the Notification.",
+                    "Age Details-",
+                    "Male Maximum Age:37 years",
+                    "Female Maximum Age:40 years",
+                    "Transgender Maximum Age:42 years"
+                ]
+            }
+        },
+        {
+            "postName": "Middle School Teacher Class 6-8",
+            "totalPost": "8563",
+            "category": {
+                "ur": "",
+                "obc": "",
+                "ews": "",
+                "sc": "",
+                "st": "",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 18,
+                "maxAge": 40,
+                "qualification": [
+                    "Bachelor Degree with 2 Year Diploma in Elementary Education OR",
+                    "Bachelor / Master Degree with 50% Marks with B.Ed OR",
+                    "Bachelor Degree with 45% Marks and B.Ed (NCTE Norms) OR",
+                    "Bachelor Degree with 50% Marks and BA BED and B.Sc Ed  OR",
+                    "Bachelor Degree with 50% Marks and B.Ed Special OR",
+                    "Master Degree with 55% Marks and 3 Year B.Ed – M.Ed Course.",
+                    "CTET / BTET Paper II Exam Passed",
+                    "More Eligibility Read the Notification.",
+                    "Age Details-",
+                    "Male Maximum Age:37 years",
+                    "Female Maximum Age:40 years",
+                    "Transgender Maximum Age:42 years"
+                ]
+            }
+        },
+        {
+            "postName": "TGT Teacher Class 9-10",
+            "totalPost": "3877",
+            "category": {
+                "ur": "",
+                "obc": "",
+                "ews": "",
+                "sc": "",
+                "st": "",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 21,
+                "maxAge": 40,
+                "qualification": [
+                    "Bachelor / Master Degree in Related Subject with Minimum 50% Marks and B.Ed Degree OR",
+                    "Bachelor / Master Degree in Related Subject with Minimum 45% Marks (As per 2002 Norms)  and B.Ed Degree OR",
+                    "4 Year Degree in BAEd / BScEd",
+                    "STET Paper I Exam Passed",
+                    "More Eligibility Read the Notification.",
+                    "Age Details-",
+                    "Male Maximum Age:37 years",
+                    "Female Maximum Age:40 years",
+                    "Transgender Maximum Age:42 years"
+                ]
+            }
+        },
+        {
+            "postName": "TGT Teacher Class 9-10 (Special)",
+            "totalPost": "soon",
+            "category": {
+                "ur": "",
+                "obc": "",
+                "ews": "",
+                "sc": "",
+                "st": "",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 0,
+                "maxAge": 0,
+                "qualification": [
+                    "Bachelor / Master Degree in Related Subject with Minimum 50% Marks and B.Ed Degree OR",
+                    "Bachelor / Master Degree in Related Subject with Minimum 45% Marks (As per 2002 Norms)  and B.Ed Degree OR",
+                    "4 Year Degree in BAEd / BScEd",
+                    "STET Paper I Exam Passed",
+                    "More Eligibility Read the Notification."
+                ]
+            }
+        },
+        {
+            "postName": "PGT Teacher Class 11-12",
+            "totalPost": "16101",
+            "category": {
+                "ur": "",
+                "obc": "",
+                "ews": "",
+                "sc": "",
+                "st": "",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 21,
+                "maxAge": 40,
+                "qualification": [
+                    "Master Degree in Related Subject with Minimum 50% Marks and B.Ed Degree OR",
+                    "Master Degree in Related Subject with Minimum 45% Marks (As per 2002 Norms)  and B.Ed Degree OR",
+                    "Master Degree in Related Subject with 4 Year Degree in BAEd / BScEd OR",
+                    "Master Degree with 55% Marks and B.Ed – Med 3 Year Degree.",
+                    "STET Paper II Exam Passed",
+                    "More Eligibility Read the Notification."
+                ]
+            }
+        }
+    ],
+    "importantLinks": [
+        {
+            "title": "Apply Online (OTR)",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://bpsconline.bihar.gov.in/candidate/login"
+                }
+            ]
+        },
+        {
+            "title": "Download Full Notification",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://doc.sarkariresults.org.in/Bihar_TRE_4_Full_Detailed_Notification.pdf"
+                }
+            ]
+        },
+        {
+            "title": "Download STET 2026 Appearing Candidate Form",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://doc.sarkariresults.org.in/Bihar_STET_Self_Declaration_Format_Form_Download.pdf"
+                }
+            ]
+        },
+        {
+            "title": "How to BPSC OTR Registration (Video Hindi)",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://youtu.be/osB86ktoLxo"
+                }
+            ]
+        },
+        {
+            "title": "Apply Online (TRE 4.0)",
+            "links": [
+                {
+                    "title": "Link Will be Activate Soon",
+                    "link": "https://bpsconline.bihar.gov.in/candidate/login"
+                }
+            ]
+        },
+        {
+            "title": "Download Short Notice Dt 11/02/2026",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://bpsc.bihar.gov.in/wp-content/uploads/BPSC_content/Notices/Press-Release-TRE-4.0_BPSC-20260211-am7sv1.pdf"
+                }
+            ]
+        },
+        {
+            "title": "Official Website",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://bpsc.bihar.gov.in/"
+                }
+            ]
+        }
+    ],
+    "admitCard": {
+        "startDate": "",
+        "link": "",
+        "details": "",
+        "instruction": []
+    },
+    "resultCard": {
+        "link": "",
+        "details": "",
+        "instruction": []
+    },
+    "answerKey": {
+        "startDate": "",
+        "link": "",
+        "details": "",
+        "instruction": []
+    }
 }
 ]
