@@ -11693,5 +11693,208 @@
         "details": "",
         "instruction": []
     }
+},
+{
+    "timestamp":1787110478,
+    "examType": "job",
+    "id": "Bank-of-Baroda-Local-Bank-Officer-LBO-Recruitment-2026",
+    "orgId": "Bank of Baroda (BOB)",
+    "name": "Bank of Baroda Local Bank Officer LBO Recruitment 2026",
+    "importantDates": {
+        "startDate": "18/08/2026",
+        "lastDate": "07/09/2026",
+        "lastDateFeePayment": "07/09/2026",
+        "examDate": " As per Schedule"
+    },
+    "fee": {
+        "general": "850",
+        "obc": "850",
+        "ews": "850",
+        "sc": "175",
+        "st": "175",
+        "ph": "175",
+        "female": "175",
+        "notes": ""
+    },
+    "totalPost": {
+        "count": 2482,
+        "notes": ""
+    },
+    "ageDetails": {
+        "minAge": 21,
+        "maxAge": 30
+    },
+    "vacancyDetails": [
+        {
+            "postName": "Local Bank Officer (LBO)",
+            "totalPost": "2482",
+            "category": {
+                "ur": "981",
+                "obc": "600",
+                "ews": "303",
+                "sc": "358",
+                "st": "240",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 21,
+                "maxAge": 30,
+                "qualification": [
+                    "Bachelor Degree in any Stream Passed form any Recognized University / Institute in India",
+                    "Candidates must be proficient in the local language of the State they are applying for (reading, writing, speaking and understanding)",
+                    "More Eligibility Details Read The Notification."
+                ]
+            }
+        }
+    ],
+    "importantLinks": [
+        {
+            "title": "Apply Online",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://ibpsreg.ibps.in/bobjul26/"
+                }
+            ]
+        },
+        {
+            "title": "Download Notification",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://bankofbaroda.bank.in/-/media/Project/BOB/CountryWebsites/India/Career/2026/26-08/Advertisement-18-04.pdf"
+                }
+            ]
+        },
+        {
+            "title": "Official Website",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://bankofbaroda.bank.in/"
+                }
+            ]
+        }
+    ],
+    "admitCard": {
+        "startDate": "",
+        "link": "",
+        "details": "",
+        "instruction": []
+    },
+    "resultCard": {
+        "link": "",
+        "details": "",
+        "instruction": []
+    },
+    "answerKey": {
+        "startDate": "",
+        "link": "",
+        "details": "",
+        "instruction": []
+    }
+},
+{
+    "examType": "job",
+    "timestamp":1787110478,
+    "id": "MPESB-Group-3-Sub-Engineer-Sahayak-Manchitrakar-Technician-Other-Post-Online-Form-2026",
+    "orgId": "Madhya Pradesh Employee Selection Board (MPESB)",
+    "name": "MPESB Group 3 Sub Engineer , Sahayak Manchitrakar, Technician & Other Post Online Form 2026",
+    "importantDates": {
+        "startDate": "18/08/2026",
+        "lastDate": "01/09/2026",
+        "lastDateFeePayment": "01/09/2026",
+        "examDate": "06/10/2026",
+        "correctionDate": "06/9/2026"
+    },
+    "fee": {
+        "general": "560",
+        "obc": "310",
+        "ews": "310",
+        "sc": "310",
+        "st": "310",
+        "ph": "",
+        "female": "",
+        "notes": "Other State: 560 rs.\nPortal Charges: 60 rs.\nPay the Examination Fee Through Cast at E Challan or Debit Card, Credit Card, Net Banking"
+    },
+    "totalPost": {
+        "count": 1040,
+        "notes": ""
+    },
+    "ageDetails": {
+        "minAge": 18,
+        "maxAge": 0,
+        "notes": "Age Relaxation Extra as per MP PEB Group-3 Sub Engineer ,Manchitrakar, Technician and Other Equivalent Combined Recruitment Test 2026  Recruitment Rules 2026."
+    },
+    "vacancyDetails": [
+        {
+            "postName": "MP ESB Group-03 Sub Engineer ,Sahayak Manchitrakar, Technician and Other Equivalent Combined Recruitment Test 2026",
+            "totalPost": "1040",
+            "category": {
+                "ur": "",
+                "obc": "",
+                "ews": "",
+                "sc": "",
+                "st": "",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 18,
+                "maxAge": 40,
+                "qualification": [
+                    "ITI / Diploma / Degree in Related Post.",
+                    "For Post Wise Eligibility Details Read the Notification"
+                ]
+            }
+        }
+    ],
+    "importantLinks": [
+        {
+            "title": "Apply Online",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://esb.mponline.gov.in/Portal/Examinations/Vyapam/examsList.aspx"
+                }
+            ]
+        },
+        {
+            "title": "Download Notification",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://esb.mp.gov.in/Rulebooks/RB_2026/Group3_SUBENG_RuleBook_2026_17_08_2026.pdf"
+                }
+            ]
+        },
+        {
+            "title": "Official Website",
+            "links": [
+                {
+                    "title": "MPESB Official Website",
+                    "link": "https://esb.mp.gov.in/e_default.html"
+                }
+            ]
+        }
+    ],
+    "admitCard": {
+        "startDate": "",
+        "link": "",
+        "details": "",
+        "instruction": []
+    },
+    "resultCard": {
+        "link": "",
+        "details": "",
+        "instruction": []
+    },
+    "answerKey": {
+        "startDate": "",
+        "link": "",
+        "details": "",
+        "instruction": []
+    }
 }
 ]
