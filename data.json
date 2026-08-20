@@ -12113,5 +12113,287 @@
         "details": "",
         "instruction": []
     }
+},
+{
+    "examType": "job",
+    "timestamp":1787158918,
+    "id": "UPPSC-Professor-Assistant-Professor-Online-Form-2026",
+    "orgId": "Uttar Pradesh Public Service Commission (UPPSC)",
+    "name": "UPPSC Professor & Assistant Professor Online Form 2026 ",
+    "importantDates": {
+        "startDate": "18/08/2026",
+        "lastDate": "01/09/2026  ",
+        "lastDateFeePayment": "01/09/2026  ",
+        "examDate": "As per Schedule",
+        "correctionDate": "08/09/2026",
+        "otherDates": [
+            {
+                "title": "Submit Hard Copy Last Date",
+                "date": "15/09/2026"
+            }
+        ]
+    },
+    "fee": {
+        "general": "105",
+        "obc": "105",
+        "ews": "105",
+        "sc": "65",
+        "st": "65",
+        "ph": "25",
+        "female": "",
+        "notes": "Pay the Exam Fee Through SBI Mops Debit Card, Credit Card, Net Banking or SBI E Challan Mode Online"
+    },
+    "totalPost": {
+        "count": 1156,
+        "notes": ""
+    },
+    "ageDetails": {
+        "minAge": 26,
+        "maxAge": 55,
+        "notes": "Age Relaxation Extra as per UPPSC Assistant Professor & Professor Advt No : D-1/E-1/2026 , 18/08/2026 Notification."
+    },
+    "vacancyDetails": [
+        {
+            "postName": "Professor",
+            "totalPost": "44",
+            "category": {
+                "ur": "",
+                "obc": "",
+                "ews": "",
+                "sc": "",
+                "st": "",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 35,
+                "maxAge": 50,
+                "qualification": [
+                    "Master Degree (MD/MS/DNB) in Medicine Related Trade.",
+                    "for Post Wise Experience Details Read the Notification",
+                    "For Post Wise Eligibility Details Read the Notification"
+                ]
+            }
+        },
+        {
+            "postName": "Assistant Professor",
+            "totalPost": "1112",
+            "category": {
+                "ur": "",
+                "obc": "",
+                "ews": "",
+                "sc": "",
+                "st": "",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 26,
+                "maxAge": 40,
+                "qualification": [
+                    "Master Degree (MD/MS/DNB) in Medicine Related Trade.",
+                    "for Post Wise Experience Details Read the Notification",
+                    "For Post Wise Eligibility Details Read the Notification"
+                ]
+            }
+        }
+    ],
+    "importantLinks": [
+        {
+            "title": "Apply Online",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://uppsc.up.nic.in/CandidatePages/Notifications.aspx"
+                }
+            ]
+        },
+        {
+            "title": "Download Notification Hindi",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://doc.sarkariresults.org.in/UPPSC_Assistant_Professor_Hindi.pdf"
+                }
+            ]
+        },
+        {
+            "title": "Download Notification English",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://uppsc.up.nic.in/OuterPages/View_Enclosure.aspx?ID=559&flag=E&FID=937"
+                }
+            ]
+        },
+        {
+            "title": "Official Website",
+            "links": [
+                {
+                    "title": "UPPSC Official Website",
+                    "link": "https://uppsc.up.nic.in/"
+                }
+            ]
+        }
+    ],
+    "admitCard": {
+        "startDate": "01/06/2026",
+        "link": "https://apply-csbc.com/csbc_032025_we_admitcards/applicationIndex",
+        "details": "",
+        "instruction": []
+    },
+    "resultCard": {
+        "startDate": "18/08/2026",
+        "link": "https://csbc.bihar.gov.in/Advt/Results-03-2025-PET-18-08-2026.pdf",
+        "details": "",
+        "instruction": []
+    },
+    "answerKey": {
+        "startDate": "",
+        "link": "",
+        "details": "",
+        "instruction": []
+    },
+    "table": [
+        {
+            "title": "Physical Eligibility Table",
+            "details": "",
+            "notes": "",
+            "list": [
+                [
+                    "Category",
+                    "Male",
+                    "Female"
+                ],
+                [
+                    "Height",
+                    "Gen / BC : 165 CM \\n EBC / SC / ST : 160 CM",
+                    "All Category:155 CMS"
+                ],
+                [
+                    "Chest",
+                    "Gen / BC / EBC : 81-86 CMS \\n SC / ST : 79-84 CMS",
+                    "Not Available"
+                ],
+                [
+                    "Running",
+                    "1.6 Km in 6 Minutes",
+                    "1 Km in 5 Minutes"
+                ],
+                [
+                    "Gola Fek",
+                    "16 Pond Gola Through 16 Feet",
+                    "12 Pond Gola Through 12 Feet"
+                ],
+                [
+                    "Long Jump",
+                    "4 Feet",
+                    "3 Feet"
+                ]
+            ]
+        }
+    ]
+},
+{
+    "examType": "entrance-exam",
+    "timestamp":1787190632,
+    "id": "MPESB-MP-Teachers-Teaching-in-Primary-and-Secondary-Classes-MSPSTET-2026-Online-Form",
+    "orgId": "Madhya Pradesh Employee Selection Board (MPESB)",
+    "name": "MPESB MP Teachers Teaching in Primary and Secondary Classes MSPSTET 2026 Online Form",
+    "importantDates": {
+        "startDate": "21/08/2026",
+        "lastDate": "04/09/2026",
+        "lastDateFeePayment": "04/09/2026",
+        "examDate": "12/10/2026",
+        "correctionDate": "09/09/2026"
+    },
+    "fee": {
+        "general": "1060",
+        "obc": "1060",
+        "ews": "1060",
+        "sc": "1060",
+        "st": "1060",
+        "ph": "1060",
+        "female": "",
+        "notes": "Portal Charges Including: Rs. 60/-\nPay the Examination Fee Through Cast at E Challan or Debit Card, Credit Card, Net Banking"
+    },
+    "totalPost": {
+        "count": 1156,
+        "notes": ""
+    },
+    "ageDetails": {
+        "minAge": 18,
+        "maxAge": 40,
+        "notes": "Age Relaxation Extra as per MPESB MP Primary and Secondary (Middle) School Teacher STET Exam 2026 Rules."
+    },
+    "vacancyDetails": [
+        {
+            "postName": "Primary and Secondary Teachers MSPSTET",
+            "totalPost": "",
+            "category": {
+                "ur": "",
+                "obc": "",
+                "ews": "",
+                "sc": "",
+                "st": "",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 18,
+                "maxAge": 40,
+                "qualification": [
+                    "Only teachers working in primary and secondary schools will be eligible to apply for this examination.",
+                    "For More Eligibility Details Read the Notification"
+                ]
+            }
+        }
+    ],
+    "importantLinks": [
+        {
+            "title": "Apply Online",
+            "links": [
+                {
+                    "title": "Link Will be Activate on 21/08/2026",
+                    "link": "https://esb.mponline.gov.in/Portal/Examinations/Vyapam/examsList.aspx"
+                }
+            ]
+        },
+        {
+            "title": "Download Notification",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://esb.mp.gov.in/Rulebooks/RB_2026/MSPSTET_2026_RuleBookforTeachers_17082026.pdf"
+                }
+            ]
+        },
+        {
+            "title": "Official Website",
+            "links": [
+                {
+                    "title": "UPPSC Official Website",
+                    "link": "https://uppsc.up.nic.in/"
+                }
+            ]
+        }
+    ],
+    "admitCard": {
+        "startDate": "",
+        "link": "",
+        "details": "",
+        "instruction": []
+    },
+    "resultCard": {
+        "link": "",
+        "details": "",
+        "instruction": []
+    },
+    "answerKey": {
+        "startDate": "",
+        "link": "",
+        "details": "",
+        "instruction": []
+    }
 }
 ]
