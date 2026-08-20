@@ -12237,14 +12237,14 @@
         }
     ],
     "admitCard": {
-        "startDate": "01/06/2026",
-        "link": "https://apply-csbc.com/csbc_032025_we_admitcards/applicationIndex",
+        "startDate": "",
+        "link": "",
         "details": "",
         "instruction": []
     },
     "resultCard": {
-        "startDate": "18/08/2026",
-        "link": "https://csbc.bihar.gov.in/Advt/Results-03-2025-PET-18-08-2026.pdf",
+         "startDate": "",
+        "link": "",
         "details": "",
         "instruction": []
     },
@@ -12253,46 +12253,8 @@
         "link": "",
         "details": "",
         "instruction": []
-    },
-    "table": [
-        {
-            "title": "Physical Eligibility Table",
-            "details": "",
-            "notes": "",
-            "list": [
-                [
-                    "Category",
-                    "Male",
-                    "Female"
-                ],
-                [
-                    "Height",
-                    "Gen / BC : 165 CM \\n EBC / SC / ST : 160 CM",
-                    "All Category:155 CMS"
-                ],
-                [
-                    "Chest",
-                    "Gen / BC / EBC : 81-86 CMS \\n SC / ST : 79-84 CMS",
-                    "Not Available"
-                ],
-                [
-                    "Running",
-                    "1.6 Km in 6 Minutes",
-                    "1 Km in 5 Minutes"
-                ],
-                [
-                    "Gola Fek",
-                    "16 Pond Gola Through 16 Feet",
-                    "12 Pond Gola Through 12 Feet"
-                ],
-                [
-                    "Long Jump",
-                    "4 Feet",
-                    "3 Feet"
-                ]
-            ]
-        }
-    ]
+    }
+   
 },
 {
     "examType": "entrance-exam",
