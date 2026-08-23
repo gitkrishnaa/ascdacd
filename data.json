@@ -515,10 +515,6 @@
             ]
         }
     },
-
-
-
-
     {
         "timestamp": 1785740303,
         "examType": "job",
@@ -729,7 +725,6 @@
                     "link": "https://doc.sarkariresults.org.in/UP_PGT_Result_SarkariResult_Female.pdf",
                     "notes": ""
                 }
-
             ]
         },
         "answerKey": {
@@ -1156,12 +1151,11 @@
                     "link": "https://upsc.gov.in/sites/default/files/FR-CDSE-II-2025-Engl-300326.pdf",
                     "notes": ""
                 },
-                 {
+                {
                     "title": "OTA-Result",
                     "link": "https://www.upsc.gov.in/sites/default/files/FR-CDSE-II-2025-OTA-Engl-070826.pdf",
                     "notes": ""
                 }
-
             ]
         },
         "answerKey": {
@@ -1392,219 +1386,214 @@
             }
         ]
     },
-
-{
-    "examType": "job",
-    "timestamp":1787137484,
-    "id": "CSBC-Bihar-Police-Prohibition-Constable-Jail-Warder-Mobile-Squad-Constable-Recruitment-2025",
-    "orgId": "Central Selection Board of Constable (CSBC)",
-    "name": "CSBC Bihar Police Prohibition Constable, Jail Warder & Mobile Squad Constable Recruitment 2025",
-    "importantDates": {
-        "startDate": "06/10/2025",
-        "lastDate": "05/11/2025",
-        "lastDateFeePayment": "05/11/2025",
-        "examDate": "14/6/2026 to 17/6/2026 "
-    },
-    "fee": {
-        "general": "100",
-        "obc": "100",
-        "ews": "100",
-        "sc": "100",
-        "st": "100",
-        "ph": "100",
-        "female": "100",
-        "notes": "Other State: 100rs\nPay the Examination Fee Through Debit Card, Credit Card, Net Banking or Pay Offline Fee Payment Through E Challan Mode Only"
-    },
-    "totalPost": {
-        "count": 4128,
-        "notes": ""
-    },
-    "ageDetails": {
-        "minAge": 18,
-        "maxAge": 25
-    },
-    "vacancyDetails": [
-        {
-            "postName": "Prohibition Constable",
-            "totalPost": "1603",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 18,
-                "maxAge": 25,
-                "qualification": [
-                    "10+2 Inter Exam Passed from Any Recognized Board in India.",
-                    "More Eligibility Details Read the Notification"
-                ]
-            }
+    {
+        "examType": "job",
+        "timestamp": 1787137484,
+        "id": "CSBC-Bihar-Police-Prohibition-Constable-Jail-Warder-Mobile-Squad-Constable-Recruitment-2025",
+        "orgId": "Central Selection Board of Constable (CSBC)",
+        "name": "CSBC Bihar Police Prohibition Constable, Jail Warder & Mobile Squad Constable Recruitment 2025",
+        "importantDates": {
+            "startDate": "06/10/2025",
+            "lastDate": "05/11/2025",
+            "lastDateFeePayment": "05/11/2025",
+            "examDate": "14/6/2026 to 17/6/2026 "
         },
-        {
-            "postName": "Jail Warden",
-            "totalPost": "2417",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 18,
-                "maxAge": 23,
-                "qualification": [
-                    "10+2 Inter Exam Passed from Any Recognized Board in India.",
-                    "More Eligibility Details Read the Notification"
-                ]
-            }
+        "fee": {
+            "general": "100",
+            "obc": "100",
+            "ews": "100",
+            "sc": "100",
+            "st": "100",
+            "ph": "100",
+            "female": "100",
+            "notes": "Other State: 100rs\nPay the Examination Fee Through Debit Card, Credit Card, Net Banking or Pay Offline Fee Payment Through E Challan Mode Only"
         },
-        {
-            "postName": "Mobile Squad Contable",
-            "totalPost": "108",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 18,
-                "maxAge": 25,
-                "qualification": [
-                    "10+2 Inter Exam Passed from Any Recognized Board in India.",
-                    "More Eligibility Details Read the Notification"
-                ]
-            }
-        }
-    ],
-    "importantLinks": [
-        {
-            "title": "Download Exam Notice",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://doc.sarkariresults.org.in/CSBC_Notice-03-2025-e-AdmitCard&Exam-20-05-2026.pdf"
-                }
-            ]
+        "totalPost": {
+            "count": 4128,
+            "notes": ""
         },
-        {
-            "title": "Apply Online",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://apply-csbc.com/csbc_3_25_mv1/applicationIndex"
-                }
-            ]
+        "ageDetails": {
+            "minAge": 18,
+            "maxAge": 25
         },
-        {
-            "title": "Download Notification",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://csbc.bihar.gov.in/Advt/Advt-03-2025-Prohibition-Jail%20Warder-Mobile%20Squad-Constables.pdf"
-                }
-            ]
-        },
-        {
-            "title": "Official Website",
-            "links": [
-                {
-                    "title": "",
-                    "link": "http://csbc.bih.nic.in/Default.htm"
-                }
-            ]
-        }
-    ],
-    "admitCard": {
-        "startDate": "01/06/2026",
-        "link": "https://apply-csbc.com/csbc_032025_we_admitcards/applicationIndex",
-        "details": "",
-        "linklist":[
+        "vacancyDetails": [
             {
-            "link":"https://apply-csbc.com/csbc_032025_we_admitcards/applicationIndex",
-            "title":"Admit Card Link"
+                "postName": "Prohibition Constable",
+                "totalPost": "1603",
+                "category": {
+                    "ur": "",
+                    "obc": "",
+                    "ews": "",
+                    "sc": "",
+                    "st": "",
+                    "female": "",
+                    "ph": ""
+                },
+                "eligiblity": {
+                    "minAge": 18,
+                    "maxAge": 25,
+                    "qualification": [
+                        "10+2 Inter Exam Passed from Any Recognized Board in India.",
+                        "More Eligibility Details Read the Notification"
+                    ]
+                }
+            },
+            {
+                "postName": "Jail Warden",
+                "totalPost": "2417",
+                "category": {
+                    "ur": "",
+                    "obc": "",
+                    "ews": "",
+                    "sc": "",
+                    "st": "",
+                    "female": "",
+                    "ph": ""
+                },
+                "eligiblity": {
+                    "minAge": 18,
+                    "maxAge": 23,
+                    "qualification": [
+                        "10+2 Inter Exam Passed from Any Recognized Board in India.",
+                        "More Eligibility Details Read the Notification"
+                    ]
+                }
+            },
+            {
+                "postName": "Mobile Squad Contable",
+                "totalPost": "108",
+                "category": {
+                    "ur": "",
+                    "obc": "",
+                    "ews": "",
+                    "sc": "",
+                    "st": "",
+                    "female": "",
+                    "ph": ""
+                },
+                "eligiblity": {
+                    "minAge": 18,
+                    "maxAge": 25,
+                    "qualification": [
+                        "10+2 Inter Exam Passed from Any Recognized Board in India.",
+                        "More Eligibility Details Read the Notification"
+                    ]
+                }
             }
         ],
-        "instruction": []
-    },
-    "resultCard": {
-        "startDate": "18/08/2026",
-        "link": "https://csbc.bihar.gov.in/Advt/Results-03-2025-PET-18-08-2026.pdf",
-        "details": "",
-        "instruction": [],
-         "linklist":[
+        "importantLinks": [
             {
-            "link":"https://csbc.bihar.gov.in/Advt/Results-03-2025-PET-18-08-2026.pdf",
-            "title":"Result Link"
+                "title": "Download Exam Notice",
+                "links": [
+                    {
+                        "title": "",
+                        "link": "https://doc.sarkariresults.org.in/CSBC_Notice-03-2025-e-AdmitCard&Exam-20-05-2026.pdf"
+                    }
+                ]
+            },
+            {
+                "title": "Apply Online",
+                "links": [
+                    {
+                        "title": "",
+                        "link": "https://apply-csbc.com/csbc_3_25_mv1/applicationIndex"
+                    }
+                ]
+            },
+            {
+                "title": "Download Notification",
+                "links": [
+                    {
+                        "title": "",
+                        "link": "https://csbc.bihar.gov.in/Advt/Advt-03-2025-Prohibition-Jail%20Warder-Mobile%20Squad-Constables.pdf"
+                    }
+                ]
+            },
+            {
+                "title": "Official Website",
+                "links": [
+                    {
+                        "title": "",
+                        "link": "http://csbc.bih.nic.in/Default.htm"
+                    }
+                ]
+            }
+        ],
+        "admitCard": {
+            "startDate": "01/06/2026",
+            "link": "https://apply-csbc.com/csbc_032025_we_admitcards/applicationIndex",
+            "details": "",
+            "linklist": [
+                {
+                    "link": "https://apply-csbc.com/csbc_032025_we_admitcards/applicationIndex",
+                    "title": "Admit Card Link"
+                }
+            ],
+            "instruction": []
+        },
+        "resultCard": {
+            "startDate": "18/08/2026",
+            "link": "https://csbc.bihar.gov.in/Advt/Results-03-2025-PET-18-08-2026.pdf",
+            "details": "",
+            "instruction": [],
+            "linklist": [
+                {
+                    "link": "https://csbc.bihar.gov.in/Advt/Results-03-2025-PET-18-08-2026.pdf",
+                    "title": "Result Link"
+                }
+            ]
+        },
+        "answerKey": {
+            "startDate": "",
+            "link": "",
+            "details": "",
+            "instruction": []
+        },
+        "table": [
+            {
+                "title": "Physical Eligibility Table",
+                "details": "",
+                "notes": "",
+                "list": [
+                    [
+                        "Category",
+                        "Male",
+                        "Female"
+                    ],
+                    [
+                        "Height",
+                        "165 CMS",
+                        "155 CMS"
+                    ],
+                    [
+                        "Chest",
+                        "81-86 CMS",
+                        "Not Available"
+                    ],
+                    [
+                        "Running",
+                        "1.6 Km in 7 Minutes",
+                        "1 Km in 7 Minutes"
+                    ],
+                    [
+                        "High Jump",
+                        "3 Feet 6 Inch",
+                        "2 Feet 6 Inch"
+                    ],
+                    [
+                        "Long Jump",
+                        "10 Feet",
+                        "7 Feet"
+                    ],
+                    [
+                        "Gola Fek",
+                        "16 Pond Gola Through 14 Feet",
+                        "12 Pond Gola Through 08 Feet"
+                    ]
+                ]
             }
         ]
     },
-    "answerKey": {
-        "startDate": "",
-        "link": "",
-        "details": "",
-        "instruction": []
-    },
-    "table": [
-        {
-            "title": "Physical Eligibility Table",
-            "details": "",
-            "notes": "",
-            "list": [
-                [
-                    "Category",
-                    "Male",
-                    "Female"
-                ],
-                [
-                    "Height",
-                    "165 CMS",
-                    "155 CMS"
-                ],
-                [
-                    "Chest",
-                    "81-86 CMS",
-                    "Not Available"
-                ],
-                [
-                    "Running",
-                    "1.6 Km in 7 Minutes",
-                    "1 Km in 7 Minutes"
-                ],
-                [
-                    "High Jump",
-                    "3 Feet 6 Inch",
-                    "2 Feet 6 Inch"
-                ],
-                [
-                    "Long Jump",
-                    "10 Feet",
-                    "7 Feet"
-                ],
-                [
-                    "Gola Fek",
-                    "16 Pond Gola Through 14 Feet",
-                    "12 Pond Gola Through 08 Feet"
-                ]
-            ]
-        }
-    ]
-},
-
-
-
-
     {
         "timestamp": 1785740303,
         "examType": "job",
@@ -3244,6 +3233,10 @@
         }
     },
     {
+        "metadata": {
+            "link": "https://www.sarkariresult.com/2026/pnb-lbo-july26/"
+        },
+        "advt_no": "",
         "timestamp": 1785740303,
         "id": "PNB-Local-Bank-Officer-LBO-Online-Form-2026",
         "orgId": "Punjab National Bank (PNB)",
@@ -4901,6 +4894,7 @@
         ]
     },
     {
+        "link": "https://www.sarkariresult.com/2026/up-anganwadi-helper-june26/",
         "timestamp": 1778482703,
         "examType": "job",
         "id": "UP-Anganwadi-Helper-Recruitment-2026",
@@ -5074,6 +5068,10 @@
         }
     },
     {
+        "metadata": {
+            "link": "https://www.sarkariresult.com/2026/aai-manager-junior-executive-july26/"
+        },
+        "advt_no": "12/2026/CHQ/DR‐CBT",
         "timestamp": 1778482703,
         "examType": "job",
         "id": "AAI-Manager-Junior-Executive-Online-Form-2026",
@@ -5458,6 +5456,10 @@
         }
     },
     {
+        "metadata": {
+            "link": "https://www.sarkariresult.com/2026/sbi-clerk-backlog-aug26/"
+        },
+        "advt_no": "CRPD/CR/SPLDrive/2026-27/16",
         "timestamp": 1778482703,
         "examType": "job",
         "id": "State-Bank-of-India-SBI-Junior-Associates-Clerk-Backlog-Recruitment-2026",
@@ -5843,6 +5845,10 @@
         }
     },
     {
+        "metadata": {
+            "link": "https://www.sarkariresult.com/2026/iocl-md-nr-apprentices-august26/"
+        },
+        "advt_no": "IOCL/MKTG/NR/APPR/2026-27/1",
         "timestamp": 1778482703,
         "examType": "job",
         "id": "IOCL-Marketing-Division-Northern-Region-Apprentices-Recruitment-2026",
@@ -6181,6 +6187,10 @@
         ]
     },
     {
+        "metadata": {
+            "link": "https://www.sarkariresult.com/2026/hphc-various-post-august26/"
+        },
+        "advt_no": "DJ-ADVT/2026(1)",
         "timestamp": 1786431503,
         "state": "himachal-pradesh",
         "examType": "job",
@@ -6386,6 +6396,10 @@
         }
     },
     {
+        "metadata": {
+            "link": "https://www.sarkariresult.com/2026/rcfl-management-trainee-august26/"
+        },
+        "advt_no": "16022026",
         "timestamp": 1786431503,
         "examType": "job",
         "id": "RCF-Management-Trainee-Recruitment-2026",
@@ -6767,6 +6781,10 @@
         }
     },
     {
+        "metadata": {
+            "link": "https://www.sarkariresult.com/2026/bsip-scientist-b-august26/"
+        },
+        "advt_no": "BSIP/Scientist-B/01/2026",
         "timestamp": 1786431503,
         "examType": "job",
         "id": "BSIP-Lucknow-Scientist-B-Recruitment-2026",
@@ -6990,6 +7008,10 @@
         }
     },
     {
+        "metadata": {
+            "link": "https://www.sarkariresult.com/2026/upsssc-livestock-17-exam-2026/"
+        },
+        "advt_no": "17-Exam/2026",
         "timestamp": 1786431503,
         "examType": "job",
         "state": "uttar-pradesh",
@@ -7110,6 +7132,10 @@
         }
     },
     {
+        "metadata": {
+            "link": "https://www.sarkariresult.com/2026/icf-chennai-apprentices-202/"
+        },
+        "advt_no": "App/01/2026-27",
         "timestamp": 1786431503,
         "examType": "job",
         "id": "ICF-Chennai-Apprentices-Recruitment-2026",
@@ -7349,11 +7375,15 @@
         ]
     },
     {
+        "metadata": {
+            "link": "https://www.sarkariresult.com/2026/gims-staff-nurse-august26/"
+        },
+        "advt_no": "01/2026",
         "timestamp": 1786537703,
         "examType": "job",
         "id": "GIMS-Noida-Staff-Nurse-Recruitment-2026",
         "orgId": "Government Institute of Medical Sciences (GIMS)",
-        "name": "GIMS Noida Staff Nurse Recruitment  2026",
+        "name": "GIMS Staff Nurse Recruitment  2026",
         "importantDates": {
             "startDate": "10/08/2026",
             "lastDate": "07/09/2026",
@@ -7453,6 +7483,10 @@
         }
     },
     {
+        "metadata": {
+            "link": "https://www.sarkariresult.com/railway/rcf-apprentices-aug26/"
+        },
+        "advt_no": "",
         "timestamp": 1786537703,
         "examType": "job",
         "id": "RCF-Kapurthala-Apprentice-Recruitment-2026",
@@ -7610,6 +7644,9 @@
         ]
     },
     {
+         "metadata":{"link": "https://www.sarkariresult.com/2026/mpesb-group2-subgroup-4-aug26/"},
+       "advt_no":"",
+        
         "timestamp": 1786848518,
         "examType": "job",
         "id": "MPESB-MP-Group-2-Sub-Group-4-Patwari-and-Other-Post-Recruitment-Test-2026",
@@ -7715,6 +7752,7 @@
         }
     },
     {
+        "link": "https://www.sarkariresult.com/2026/sbi-j-a-clerk-august26/",
         "timestamp": 1786848032,
         "examType": "job",
         "id": "State-Bank-of-India-SBI-Junior-Associates-Clerk-Recruitment-2026",
@@ -8044,6 +8082,7 @@
         ]
     },
     {
+        "link": "https://www.sarkariresult.com/2026/upsssc-pet-exam-jun26/",
         "timestamp": 1786848518,
         "examType": "entrance-exam",
         "id": "UPSSSC-Preliminary-Examination-Test-PET-2026",
@@ -8681,6 +8720,7 @@
         ]
     },
     {
+        "link": "https://www.sarkariresult.com/2026/upsssc-paramedical-fsl-15-exam-2026/",
         "timestamp": 1786862901,
         "examType": "job",
         "id": "UPSSSC-Scientific-Assistant-and-Lab-Assistant-Main-Examination-2026",
@@ -9617,6 +9657,10 @@
         }
     },
     {
+        "metadata": {
+            "link": "https://www.sarkariresult.com/2026/isro-various-post-jul26/"
+        },
+        "advt_no": "ICRB:01(A-JPA):2026",
         "timestamp": 1786862901,
         "examType": "job",
         "id": "ISRO-Assistants-Junior-Personal-Assistants-Upper-Division-Clerk-and-Stenographers-Recruitment-2026",
@@ -10293,15 +10337,17 @@
         }
     },
     {
+        "link": "https://www.sarkariresult.com/2026/ibps-clerk-16th-august26/",
         "timestamp": 1786862901,
+        "updatedTimestamp": 1787465104,
         "examType": "job",
         "id": "IBPS-Common-Recruitment-Process-Clerks-in-Participating-Banks-IBPS-Clerk-XVI-Online-Form-2026",
         "orgId": "Institute of Banking Personal Selection (IBPS)",
         "name": "IBPS Common Recruitment Process Clerks in Participating Banks IBPS Clerk XVI Online Form 2026",
         "importantDates": {
             "startDate": "01/08/2026",
-            "lastDate": "21/08/2026",
-            "lastDateFeePayment": "21/08/2026",
+            "lastDate": "28/08/2026",
+            "lastDateFeePayment": "28/08/2026",
             "examDate": "October 2026",
             "correctionDate": "As per Schedule",
             "otherDates": [
@@ -10689,6 +10735,7 @@
         }
     },
     {
+        "link": "https://www.sarkariresult.com/2026/railway-rrb-junior-engineer-cen-04-2026/",
         "timestamp": 1786862901,
         "examType": "job",
         "id": "RRB-JE-Junior-Engineer-Online-Form-2026-CEN-04-2026",
@@ -10712,7 +10759,7 @@
             "notes": "After Appear the Stage I Exam\nGeneral/OBC/EWS Fee Refund: Rs. 400/-\nSC / ST / PH / Female Refund : Rs. 250/-\nPay the Examination Fee Through Cast at E Challan or Debit Card, Credit Card, Net Banking"
         },
         "totalPost": {
-            "count": 3993,
+            "count": 4029,
             "notes": ""
         },
         "ageDetails": {
@@ -10725,11 +10772,11 @@
                 "postName": "Junior Engineer",
                 "totalPost": "3993",
                 "category": {
-                    "ur": "1699",
-                    "obc": "913",
-                    "ews": "394",
-                    "sc": "624",
-                    "st": "363",
+                    "ur": "1774",
+                    "obc": "919",
+                    "ews": "398",
+                    "sc": "632",
+                    "st": "366",
                     "female": "",
                     "ph": ""
                 },
@@ -10820,219 +10867,222 @@
             "linklist": []
         },
         "table": [
-            {
-                "title": "RRB Wise Vacancy Details Table",
-                "details": "",
-                "notes": "",
-                "list": [
-                    [
-                        "RRB Name",
-                        "UR",
-                        "OBC",
-                        "EWS",
-                        "SC",
-                        "ST",
-                        "Total"
-                    ],
-                    [
-                        "RRB Ahmedabad",
-                        "45",
-                        "38",
-                        "17",
-                        "24",
-                        "19",
-                        "143"
-                    ],
-                    [
-                        "RRB Ajmer",
-                        "110",
-                        "68",
-                        "23",
-                        "41",
-                        "10",
-                        "252"
-                    ],
-                    [
-                        "RRB Bengaluru",
-                        "119",
-                        "79",
-                        "32",
-                        "45",
-                        "23",
-                        "298"
-                    ],
-                    [
-                        "RRB Bhopal",
-                        "54",
-                        "25",
-                        "8",
-                        "16",
-                        "10",
-                        "113"
-                    ],
-                    [
-                        "RRB Bhubneswar",
-                        "40",
-                        "19",
-                        "9",
-                        "14",
-                        "4",
-                        "86"
-                    ],
-                    [
-                        "RRB Bilaspur",
-                        "51",
-                        "22",
-                        "13",
-                        "19",
-                        "19",
-                        "124"
-                    ],
-                    [
-                        "RRB Chandigarh",
-                        "77",
-                        "49",
-                        "13",
-                        "31",
-                        "13",
-                        "183"
-                    ],
-                    [
-                        "RRB Chennai",
-                        "145",
-                        "81",
-                        "42",
-                        "59",
-                        "35",
-                        "362"
-                    ],
-                    [
-                        "RRB Gorakhpur",
-                        "67",
-                        "40",
-                        "25",
-                        "44",
-                        "22",
-                        "198"
-                    ],
-                    [
-                        "RRB Guwahati",
-                        "132",
-                        "87",
-                        "31",
-                        "52",
-                        "27",
-                        "329"
-                    ],
-                    [
-                        "RRB Jammu-Srinagar",
-                        "86",
-                        "27",
-                        "11",
-                        "16",
-                        "12",
-                        "152"
-                    ],
-                    [
-                        "RRB Kolkata",
-                        "195",
-                        "101",
-                        "52",
-                        "58",
-                        "51",
-                        "457"
-                    ],
-                    [
-                        "RRB Malda",
-                        "9",
-                        "7",
-                        "3",
-                        "8",
-                        "3",
-                        "30"
-                    ],
-                    [
-                        "RRB Mumbai",
-                        "175",
-                        "96",
-                        "37",
-                        "67",
-                        "36",
-                        "411"
-                    ],
-                    [
-                        "RRB Muzaffarpur",
-                        "7",
-                        "3",
-                        "1",
-                        "4",
-                        "2",
-                        "17"
-                    ],
-                    [
-                        "RRB Patna",
-                        "26",
-                        "13",
-                        "5",
-                        "18",
-                        "11",
-                        "73"
-                    ],
-                    [
-                        "RRB Prayagraj",
-                        "164",
-                        "67",
-                        "27",
-                        "49",
-                        "33",
-                        "340"
-                    ],
-                    [
-                        "RRB Ranchi",
-                        "49",
-                        "31",
-                        "13",
-                        "21",
-                        "8",
-                        "122"
-                    ],
-                    [
-                        "RRB Secunderabad",
-                        "68",
-                        "12",
-                        "9",
-                        "15",
-                        "6",
-                        "110"
-                    ],
-                    [
-                        "RRB Siliguri",
-                        "35",
-                        "26",
-                        "12",
-                        "12",
-                        "7",
-                        "92"
-                    ],
-                    [
-                        "RRB Thiruvananthapuram",
-                        "45",
-                        "22",
-                        "11",
-                        "11",
-                        "12",
-                        "101"
-                    ]
+        {
+            "title": "Category Wise Vacancy Details",
+            "details": "",
+            "notes": "",
+            "list": [
+                [
+                    "RRB Name",
+                    "UR",
+                    "OBC",
+                    "EWS",
+                    "SC",
+                    "ST",
+                    "Total"
+                ],
+                [
+                    "RRB Ahmedabad",
+                    "45",
+                    "38",
+                    "17",
+                    "24",
+                    "19",
+                    "143"
+                ],
+                [
+                    "RRB Ajmer",
+                    "110",
+                    "68",
+                    "23",
+                    "41",
+                    "10",
+                    "252"
+                ],
+                [
+                    "RRB Bengaluru",
+                    "119",
+                    "79",
+                    "33",
+                    "45",
+                    "23",
+                    "299"
+                ],
+                [
+                    "RRB Bhopal",
+                    "58",
+                    "27",
+                    "8",
+                    "17",
+                    "10",
+                    "120"
+                ],
+                [
+                    "RRB Bhubaneswar",
+                    "40",
+                    "19",
+                    "9",
+                    "14",
+                    "4",
+                    "86"
+                ],
+                [
+                    "RRB Bilaspur",
+                    "51",
+                    "22",
+                    "13",
+                    "19",
+                    "19",
+                    "124"
+                ],
+                [
+                    "RRB Chandigarh",
+                    "77",
+                    "49",
+                    "13",
+                    "31",
+                    "13",
+                    "183"
+                ],
+                [
+                    "RRB Chennai",
+                    "152",
+                    "83",
+                    "44",
+                    "62",
+                    "36",
+                    "377"
+                ],
+                [
+                    "RRB Gorakhpur",
+                    "67",
+                    "40",
+                    "25",
+                    "44",
+                    "22",
+                    "198"
+                ],
+                [
+                    "RRB Guwahati",
+                    "132",
+                    "87",
+                    "31",
+                    "54",
+                    "29",
+                    "333"
+                ],
+                [
+                    "RRB Jammu-Srinagar",
+                    "86",
+                    "27",
+                    "11",
+                    "16",
+                    "12",
+                    "152"
+                ],
+                [
+                    "RRB Kolkata",
+                    "195",
+                    "101",
+                    "52",
+                    "58",
+                    "51",
+                    "457"
+                ],
+                [
+                    "RRB Malda",
+                    "9",
+                    "7",
+                    "3",
+                    "8",
+                    "3",
+                    "30"
+                ],
+                [
+                    "RRB Mumbai",
+                    "175",
+                    "96",
+                    "37",
+                    "67",
+                    "36",
+                    "411"
+                ],
+                [
+                    "RRB Muzaffarpur",
+                    "7",
+                    "3",
+                    "1",
+                    "4",
+                    "2",
+                    "17"
+                ],
+                [
+                    "RRB Patna",
+                    "29",
+                    "15",
+                    "5",
+                    "20",
+                    "11",
+                    "80"
+                ],
+                [
+                    "RRB Prayagraj",
+                    "164",
+                    "67",
+                    "28",
+                    "49",
+                    "33",
+                    "341"
+                ],
+                [
+                    "RRB Ranchi",
+                    "49",
+                    "31",
+                    "13",
+                    "21",
+                    "8",
+                    "122"
+                ],
+                [
+                    "RRB Secunderabad",
+                    "68",
+                    "12",
+                    "9",
+                    "15",
+                    "6",
+                    "110"
+                ],
+                [
+                    "RRB Siliguri",
+                    "35",
+                    "26",
+                    "12",
+                    "12",
+                    "7",
+                    "92"
+                ],
+                [
+                    "RRB Thiruvananthapuram",
+                    "45",
+                    "22",
+                    "11",
+                    "11",
+                    "12",
+                    "101"
                 ]
-            }
-        ]
+            ]
+        }
+    ]
     },
     {
+        "metadata": {
+            "link": "https://www.sarkariresult.com/2026/bseb-stet-august26/"
+        },
         "timestamp": 1786885756,
         "examType": "entrance-exam",
         "id": "Bihar-State-Teacher-Eligibility-STET-Examination-2026",
         "orgId": "Bihar School Examination Board (BSEB)",
-        "name": "Bihar State Teacher Eligibility STET Examination 2026",
+        "name": "Bihar Secondary Teacher Eligibility STET Examination 2026",
         "importantDates": {
             "startDate": "17/08/2026",
             "lastDate": "31/08/2026",
@@ -11159,6 +11209,9 @@
         }
     },
     {
+        "metadata": {
+            "link": "https://www.sarkariresult.com/2026/rajasthan-sanitation-worker-jul26/"
+        },
         "timestamp": 1786885756,
         "examType": "job",
         "id": "Rajasthan-Safai-Karamchari-Online-Form-2026",
@@ -11385,6 +11438,9 @@
         ]
     },
     {
+        "metadata": {
+            "link": "https://www.sarkariresult.com/2026/mphc-assistant-grade-3rd-august26/"
+        },
         "timestamp": 1786886525,
         "examType": "job",
         "id": "MP-High-Court-Assistant-Grade-III-Recruitment-2026-614-Pariksha-2026-",
@@ -11483,304 +11539,1851 @@
         }
     },
     {
-    "timestamp":1787016389,   
-    "examType": "job",
-    "id": "Rajasthan-RSSB-Junior-Engineer-Recruitment-2026-10-2026",
-    "orgId": "Rajasthan Staff Selection Board (RSSB)",
-    "name": "Rajasthan RSSB Junior Engineer Recruitment 2026 (10/2026)",
-    "importantDates": {
-        "startDate": "16/08/2026",
-        "lastDate": "14/09/2026",
-        "lastDateFeePayment": "14/08/2026",
-        "examDate": "As per Schedule"
-    },
-    "fee": {
-        "general": "600",
-        "obc": "400",
-        "ews": "400",
-        "sc": "400",
-        "st": "400",
-        "ph": "400",
-        "female": "",
-        "notes": "Correction Charge : 300 rs\nOther State : 600 rs\nPay the Exam Fee Through Online / Offline Fee Mode Only\n"
-    },
-    "totalPost": {
-        "count": 874,
-        "notes": ""
-    },
-    "ageDetails": {
-        "minAge": 18,
-        "maxAge": 40,
-        "notes": "Age Relaxation Extra as per Rajasthan RSSB Junior Engineer Recruitment Rules Advt. No. 10/2026."
-    },
-    "vacancyDetails": [
-        {
-            "postName": "Junior Engineer",
-            "totalPost": "874",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
+        "metadata": {
+            "link": "https://www.sarkariresult.com/2026/rajasthan-rssb-je-august26/"
+        },
+        "advt": "10/2026",
+        "timestamp": 1787016389,
+        "examType": "job",
+        "id": "Rajasthan-RSSB-Junior-Engineer-Recruitment-2026-10-2026",
+        "orgId": "Rajasthan Staff Selection Board (RSSB)",
+        "name": "Rajasthan RSSB Junior Engineer Recruitment 2026 (10/2026)",
+        "importantDates": {
+            "startDate": "16/08/2026",
+            "lastDate": "14/09/2026",
+            "lastDateFeePayment": "14/08/2026",
+            "examDate": "As per Schedule"
+        },
+        "fee": {
+            "general": "600",
+            "obc": "400",
+            "ews": "400",
+            "sc": "400",
+            "st": "400",
+            "ph": "400",
+            "female": "",
+            "notes": "Correction Charge : 300 rs\nOther State : 600 rs\nPay the Exam Fee Through Online / Offline Fee Mode Only\n"
+        },
+        "totalPost": {
+            "count": 874,
+            "notes": ""
+        },
+        "ageDetails": {
+            "minAge": 18,
+            "maxAge": 40,
+            "notes": "Age Relaxation Extra as per Rajasthan RSSB Junior Engineer Recruitment Rules Advt. No. 10/2026."
+        },
+        "vacancyDetails": [
+            {
+                "postName": "Junior Engineer",
+                "totalPost": "874",
+                "category": {
+                    "ur": "",
+                    "obc": "",
+                    "ews": "",
+                    "sc": "",
+                    "st": "",
+                    "female": "",
+                    "ph": ""
+                },
+                "eligiblity": {
+                    "minAge": 18,
+                    "maxAge": 40,
+                    "qualification": [
+                        "Engineering Diploma or Degree in Related Trade / Branch from any Recognized Institute in India.",
+                        "More Eligibility Details Read the Notification"
+                    ]
+                }
+            }
+        ],
+        "importantLinks": [
+            {
+                "title": "Apply Online",
+                "links": [
+                    {
+                        "title": "",
+                        "link": "https://sso.rajasthan.gov.in/"
+                    }
+                ]
             },
-            "eligiblity": {
-                "minAge": 18,
-                "maxAge": 40,
-                "qualification": [
-                    "Engineering Diploma or Degree in Related Trade / Branch from any Recognized Institute in India.",
-                    "More Eligibility Details Read the Notification"
+            {
+                "title": "Download Syllabus",
+                "links": [
+                    {
+                        "title": "",
+                        "link": "https://doc.sarkariresults.org.in/SarkariResult.Com_RSSB_JE_Syllabus_2026.pdf"
+                    }
+                ]
+            },
+            {
+                "title": "Download Notification",
+                "links": [
+                    {
+                        "title": "",
+                        "link": "https://doc.sarkariresults.org.in/SarkariResult.Com_RSSB_JE_Notification_2026.pdf"
+                    }
+                ]
+            },
+            {
+                "title": "Official Website",
+                "links": [
+                    {
+                        "title": "",
+                        "link": "https://rssb.rajasthan.gov.in/"
+                    }
                 ]
             }
-        }
-    ],
-    "importantLinks": [
-        {
-            "title": "Apply Online",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://sso.rajasthan.gov.in/"
-                }
-            ]
-        },
-        {
-            "title": "Download Syllabus",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://doc.sarkariresults.org.in/SarkariResult.Com_RSSB_JE_Syllabus_2026.pdf"
-                }
-            ]
-        },
-        {
-            "title": "Download Notification",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://doc.sarkariresults.org.in/SarkariResult.Com_RSSB_JE_Notification_2026.pdf"
-                }
-            ]
-        },
-        {
-            "title": "Official Website",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://rssb.rajasthan.gov.in/"
-                }
-            ]
-        }
-    ],
-    "admitCard": {
-        "startDate": "",
-        "link": "",
-        "details": "",
-        "instruction": []
-    },
-    "resultCard": {
-        "link": "",
-        "details": "",
-        "instruction": []
-    },
-    "answerKey": {
-        "startDate": "",
-        "link": "",
-        "details": "",
-        "instruction": []
-    },
-    "table": [
-        {
-            "title": "RSSB Junior Engineer Online Form 2026 : Post Wise Vacancy Details",
+        ],
+        "admitCard": {
+            "startDate": "",
+            "link": "",
             "details": "",
-            "notes": "",
-            "list": [
-                [
-                    "Post Name",
-                    "Degree Type",
-                    "Non TSP",
-                    "TSP",
-                    "Total Post"
-                ],
-                [
-                    "Junior Engineer Civil (Public Works Department)",
-                    "Degree",
-                    "329",
-                    "22",
-                    "351"
-                ],
-                [
-                    "Junior Engineer Civil (Public Works Department)",
-                    "Diploma",
-                    "41",
-                    "1",
-                    "42"
-                ],
-                [
-                    "Junior Engineer (Water Resources Department)",
-                    "Degree",
-                    "72",
-                    "0",
-                    "72"
-                ],
-                [
-                    "Junior Engineer (Water Resources Department)",
-                    "Diploma",
-                    "144",
-                    "35",
-                    "179"
-                ],
-                [
-                    "Junior Engineer (Department of Public Health Engineering)",
-                    "Degree",
-                    "44",
-                    "3",
-                    "47"
-                ],
-                [
-                    "Junior Engineer (Department of Public Health Engineering)",
-                    "Diploma",
-                    "133",
-                    "18",
-                    "151"
-                ],
-                [
-                    "Junior Engineer (Department of Public Health Engineering)",
-                    "Diploma Electrical / Mechanic",
-                    "30",
-                    "2",
-                    "32"
+            "instruction": []
+        },
+        "resultCard": {
+            "link": "",
+            "details": "",
+            "instruction": []
+        },
+        "answerKey": {
+            "startDate": "",
+            "link": "",
+            "details": "",
+            "instruction": []
+        },
+        "table": [
+            {
+                "title": "RSSB Junior Engineer Online Form 2026 : Post Wise Vacancy Details",
+                "details": "",
+                "notes": "",
+                "list": [
+                    [
+                        "Post Name",
+                        "Degree Type",
+                        "Non TSP",
+                        "TSP",
+                        "Total Post"
+                    ],
+                    [
+                        "Junior Engineer Civil (Public Works Department)",
+                        "Degree",
+                        "329",
+                        "22",
+                        "351"
+                    ],
+                    [
+                        "Junior Engineer Civil (Public Works Department)",
+                        "Diploma",
+                        "41",
+                        "1",
+                        "42"
+                    ],
+                    [
+                        "Junior Engineer (Water Resources Department)",
+                        "Degree",
+                        "72",
+                        "0",
+                        "72"
+                    ],
+                    [
+                        "Junior Engineer (Water Resources Department)",
+                        "Diploma",
+                        "144",
+                        "35",
+                        "179"
+                    ],
+                    [
+                        "Junior Engineer (Department of Public Health Engineering)",
+                        "Degree",
+                        "44",
+                        "3",
+                        "47"
+                    ],
+                    [
+                        "Junior Engineer (Department of Public Health Engineering)",
+                        "Diploma",
+                        "133",
+                        "18",
+                        "151"
+                    ],
+                    [
+                        "Junior Engineer (Department of Public Health Engineering)",
+                        "Diploma Electrical / Mechanic",
+                        "30",
+                        "2",
+                        "32"
+                    ]
                 ]
-            ]
+            }
+        ]
+    },
+    {
+        "link": "https://www.sarkariresult.com/bihar/bpsc-tre-4-2026/",
+        "examType": "job",
+        "timestamp": 1787110478,
+        "id": "BPSC-Bihar-School-Teacher-TRE-4-Recruitment-2026",
+        "orgId": "Bihar Public Service Commission (BPSC)",
+        "name": "BPSC Bihar School Teacher TRE 4.0 Recruitment 2026",
+        "importantDates": {
+            "startDate": "01/09/2026",
+            "lastDate": "29/09/2026",
+            "lastDateFeePayment": "29/09/2026",
+            "examDate": "As per Schedule"
+        },
+        "fee": {
+            "general": "100",
+            "obc": "100",
+            "ews": "100",
+            "sc": "100",
+            "st": "100",
+            "ph": "100",
+            "female": "",
+            "notes": "Pay the Exam Fee Through Online / Offline Fee Mode Only"
+        },
+        "totalPost": {
+            "count": 32388,
+            "notes": ""
+        },
+        "ageDetails": {
+            "minAge": 18,
+            "maxAge": 40
+        },
+        "vacancyDetails": [
+            {
+                "postName": "Primary School Teacher Class 1-5",
+                "totalPost": "3847",
+                "category": {
+                    "ur": "",
+                    "obc": "",
+                    "ews": "",
+                    "sc": "",
+                    "st": "",
+                    "female": "",
+                    "ph": ""
+                },
+                "eligiblity": {
+                    "minAge": 18,
+                    "maxAge": 40,
+                    "qualification": [
+                        "Senior Secondary with 50% Marks and 2 Year Diploma in Elementary Education OR",
+                        "Senior Secondary with 45% Marks and 2 Year Diploma in Elementary Education (AS PER NCTE Norms 2002) OR",
+                        "Senior Secondary with 50% Marks and 4 Year B.L.Ed Course OR",
+                        "Senior Secondary with 50% Marks and 2 Year Diploma in Elementary Education (Special) OR",
+                        "Bachelor Degree in Any Stream with 2 Year Diploma in Elementary Education",
+                        "CTET / BTET Paper I Exam Passed",
+                        "More Eligibility Read the Notification.",
+                        "Age Details-",
+                        "Male Maximum Age:37 years",
+                        "Female Maximum Age:40 years",
+                        "Transgender Maximum Age:42 years"
+                    ]
+                }
+            },
+            {
+                "postName": "Middle School Teacher Class 6-8",
+                "totalPost": "8563",
+                "category": {
+                    "ur": "",
+                    "obc": "",
+                    "ews": "",
+                    "sc": "",
+                    "st": "",
+                    "female": "",
+                    "ph": ""
+                },
+                "eligiblity": {
+                    "minAge": 18,
+                    "maxAge": 40,
+                    "qualification": [
+                        "Bachelor Degree with 2 Year Diploma in Elementary Education OR",
+                        "Bachelor / Master Degree with 50% Marks with B.Ed OR",
+                        "Bachelor Degree with 45% Marks and B.Ed (NCTE Norms) OR",
+                        "Bachelor Degree with 50% Marks and BA BED and B.Sc Ed  OR",
+                        "Bachelor Degree with 50% Marks and B.Ed Special OR",
+                        "Master Degree with 55% Marks and 3 Year B.Ed – M.Ed Course.",
+                        "CTET / BTET Paper II Exam Passed",
+                        "More Eligibility Read the Notification.",
+                        "Age Details-",
+                        "Male Maximum Age:37 years",
+                        "Female Maximum Age:40 years",
+                        "Transgender Maximum Age:42 years"
+                    ]
+                }
+            },
+            {
+                "postName": "TGT Teacher Class 9-10",
+                "totalPost": "3877",
+                "category": {
+                    "ur": "",
+                    "obc": "",
+                    "ews": "",
+                    "sc": "",
+                    "st": "",
+                    "female": "",
+                    "ph": ""
+                },
+                "eligiblity": {
+                    "minAge": 21,
+                    "maxAge": 40,
+                    "qualification": [
+                        "Bachelor / Master Degree in Related Subject with Minimum 50% Marks and B.Ed Degree OR",
+                        "Bachelor / Master Degree in Related Subject with Minimum 45% Marks (As per 2002 Norms)  and B.Ed Degree OR",
+                        "4 Year Degree in BAEd / BScEd",
+                        "STET Paper I Exam Passed",
+                        "More Eligibility Read the Notification.",
+                        "Age Details-",
+                        "Male Maximum Age:37 years",
+                        "Female Maximum Age:40 years",
+                        "Transgender Maximum Age:42 years"
+                    ]
+                }
+            },
+            {
+                "postName": "TGT Teacher Class 9-10 (Special)",
+                "totalPost": "soon",
+                "category": {
+                    "ur": "",
+                    "obc": "",
+                    "ews": "",
+                    "sc": "",
+                    "st": "",
+                    "female": "",
+                    "ph": ""
+                },
+                "eligiblity": {
+                    "minAge": 0,
+                    "maxAge": 0,
+                    "qualification": [
+                        "Bachelor / Master Degree in Related Subject with Minimum 50% Marks and B.Ed Degree OR",
+                        "Bachelor / Master Degree in Related Subject with Minimum 45% Marks (As per 2002 Norms)  and B.Ed Degree OR",
+                        "4 Year Degree in BAEd / BScEd",
+                        "STET Paper I Exam Passed",
+                        "More Eligibility Read the Notification."
+                    ]
+                }
+            },
+            {
+                "postName": "PGT Teacher Class 11-12",
+                "totalPost": "16101",
+                "category": {
+                    "ur": "",
+                    "obc": "",
+                    "ews": "",
+                    "sc": "",
+                    "st": "",
+                    "female": "",
+                    "ph": ""
+                },
+                "eligiblity": {
+                    "minAge": 21,
+                    "maxAge": 40,
+                    "qualification": [
+                        "Master Degree in Related Subject with Minimum 50% Marks and B.Ed Degree OR",
+                        "Master Degree in Related Subject with Minimum 45% Marks (As per 2002 Norms)  and B.Ed Degree OR",
+                        "Master Degree in Related Subject with 4 Year Degree in BAEd / BScEd OR",
+                        "Master Degree with 55% Marks and B.Ed – Med 3 Year Degree.",
+                        "STET Paper II Exam Passed",
+                        "More Eligibility Read the Notification."
+                    ]
+                }
+            }
+        ],
+        "importantLinks": [
+            {
+                "title": "Apply Online (OTR)",
+                "links": [
+                    {
+                        "title": "",
+                        "link": "https://bpsconline.bihar.gov.in/candidate/login"
+                    }
+                ]
+            },
+            {
+                "title": "Download Full Notification",
+                "links": [
+                    {
+                        "title": "",
+                        "link": "https://doc.sarkariresults.org.in/Bihar_TRE_4_Full_Detailed_Notification.pdf"
+                    }
+                ]
+            },
+            {
+                "title": "Download STET 2026 Appearing Candidate Form",
+                "links": [
+                    {
+                        "title": "",
+                        "link": "https://doc.sarkariresults.org.in/Bihar_STET_Self_Declaration_Format_Form_Download.pdf"
+                    }
+                ]
+            },
+            {
+                "title": "How to BPSC OTR Registration (Video Hindi)",
+                "links": [
+                    {
+                        "title": "",
+                        "link": "https://youtu.be/osB86ktoLxo"
+                    }
+                ]
+            },
+            {
+                "title": "Apply Online (TRE 4.0)",
+                "links": [
+                    {
+                        "title": "Link Will be Activate Soon",
+                        "link": "https://bpsconline.bihar.gov.in/candidate/login"
+                    }
+                ]
+            },
+            {
+                "title": "Download Short Notice Dt 11/02/2026",
+                "links": [
+                    {
+                        "title": "",
+                        "link": "https://bpsc.bihar.gov.in/wp-content/uploads/BPSC_content/Notices/Press-Release-TRE-4.0_BPSC-20260211-am7sv1.pdf"
+                    }
+                ]
+            },
+            {
+                "title": "Official Website",
+                "links": [
+                    {
+                        "title": "",
+                        "link": "https://bpsc.bihar.gov.in/"
+                    }
+                ]
+            }
+        ],
+        "admitCard": {
+            "startDate": "",
+            "link": "",
+            "details": "",
+            "instruction": []
+        },
+        "resultCard": {
+            "link": "",
+            "details": "",
+            "instruction": []
+        },
+        "answerKey": {
+            "startDate": "",
+            "link": "",
+            "details": "",
+            "instruction": []
         }
-      
-    ]
-},
-  {
+    },
+    {
+        "link": "https://www.sarkariresult.com/2026/bob-lbo-aug26/",
+        "timestamp": 1787110478,
+        "examType": "job",
+        "id": "Bank-of-Baroda-Local-Bank-Officer-LBO-Recruitment-2026",
+        "orgId": "Bank of Baroda (BOB)",
+        "name": "Bank of Baroda Local Bank Officer LBO Recruitment 2026",
+        "importantDates": {
+            "startDate": "18/08/2026",
+            "lastDate": "07/09/2026",
+            "lastDateFeePayment": "07/09/2026",
+            "examDate": " As per Schedule"
+        },
+        "fee": {
+            "general": "850",
+            "obc": "850",
+            "ews": "850",
+            "sc": "175",
+            "st": "175",
+            "ph": "175",
+            "female": "175",
+            "notes": ""
+        },
+        "totalPost": {
+            "count": 2482,
+            "notes": ""
+        },
+        "ageDetails": {
+            "minAge": 21,
+            "maxAge": 30
+        },
+        "vacancyDetails": [
+            {
+                "postName": "Local Bank Officer (LBO)",
+                "totalPost": "2482",
+                "category": {
+                    "ur": "981",
+                    "obc": "600",
+                    "ews": "303",
+                    "sc": "358",
+                    "st": "240",
+                    "female": "",
+                    "ph": ""
+                },
+                "eligiblity": {
+                    "minAge": 21,
+                    "maxAge": 30,
+                    "qualification": [
+                        "Bachelor Degree in any Stream Passed form any Recognized University / Institute in India",
+                        "Candidates must be proficient in the local language of the State they are applying for (reading, writing, speaking and understanding)",
+                        "More Eligibility Details Read The Notification."
+                    ]
+                }
+            }
+        ],
+        "importantLinks": [
+            {
+                "title": "Apply Online",
+                "links": [
+                    {
+                        "title": "",
+                        "link": "https://ibpsreg.ibps.in/bobjul26/"
+                    }
+                ]
+            },
+            {
+                "title": "Download Notification",
+                "links": [
+                    {
+                        "title": "",
+                        "link": "https://bankofbaroda.bank.in/-/media/Project/BOB/CountryWebsites/India/Career/2026/26-08/Advertisement-18-04.pdf"
+                    }
+                ]
+            },
+            {
+                "title": "Official Website",
+                "links": [
+                    {
+                        "title": "",
+                        "link": "https://bankofbaroda.bank.in/"
+                    }
+                ]
+            }
+        ],
+        "admitCard": {
+            "startDate": "",
+            "link": "",
+            "details": "",
+            "instruction": []
+        },
+        "resultCard": {
+            "link": "",
+            "details": "",
+            "instruction": []
+        },
+        "answerKey": {
+            "startDate": "",
+            "link": "",
+            "details": "",
+            "instruction": []
+        }
+    },
+    {
+        "link": "https://www.sarkariresult.com/2026/mpesb-group-3-sub-engineer-aug26/",
+        "examType": "job",
+        "timestamp": 1787110478,
+        "id": "MPESB-Group-3-Sub-Engineer-Sahayak-Manchitrakar-Technician-Other-Post-Online-Form-2026",
+        "orgId": "Madhya Pradesh Employee Selection Board (MPESB)",
+        "name": "MPESB Group 3 Sub Engineer , Sahayak Manchitrakar, Technician & Other Post Online Form 2026",
+        "importantDates": {
+            "startDate": "18/08/2026",
+            "lastDate": "01/09/2026",
+            "lastDateFeePayment": "01/09/2026",
+            "examDate": "06/10/2026",
+            "correctionDate": "06/9/2026"
+        },
+        "fee": {
+            "general": "560",
+            "obc": "310",
+            "ews": "310",
+            "sc": "310",
+            "st": "310",
+            "ph": "",
+            "female": "",
+            "notes": "Other State: 560 rs.\nPortal Charges: 60 rs.\nPay the Examination Fee Through Cast at E Challan or Debit Card, Credit Card, Net Banking"
+        },
+        "totalPost": {
+            "count": 1040,
+            "notes": ""
+        },
+        "ageDetails": {
+            "minAge": 18,
+            "maxAge": 40,
+            "notes": "Age Relaxation Extra as per MP PEB Group-3 Sub Engineer ,Manchitrakar, Technician and Other Equivalent Combined Recruitment Test 2026  Recruitment Rules 2026."
+        },
+        "vacancyDetails": [
+            {
+                "postName": "MP ESB Group-03 Sub Engineer ,Sahayak Manchitrakar, Technician and Other Equivalent Combined Recruitment Test 2026",
+                "totalPost": "1040",
+                "category": {
+                    "ur": "",
+                    "obc": "",
+                    "ews": "",
+                    "sc": "",
+                    "st": "",
+                    "female": "",
+                    "ph": ""
+                },
+                "eligiblity": {
+                    "minAge": 18,
+                    "maxAge": 40,
+                    "qualification": [
+                        "ITI / Diploma / Degree in Related Post.",
+                        "For Post Wise Eligibility Details Read the Notification"
+                    ]
+                }
+            }
+        ],
+        "importantLinks": [
+            {
+                "title": "Apply Online",
+                "links": [
+                    {
+                        "title": "",
+                        "link": "https://esb.mponline.gov.in/Portal/Examinations/Vyapam/examsList.aspx"
+                    }
+                ]
+            },
+            {
+                "title": "Download Notification",
+                "links": [
+                    {
+                        "title": "",
+                        "link": "https://esb.mp.gov.in/Rulebooks/RB_2026/Group3_SUBENG_RuleBook_2026_17_08_2026.pdf"
+                    }
+                ]
+            },
+            {
+                "title": "Official Website",
+                "links": [
+                    {
+                        "title": "MPESB Official Website",
+                        "link": "https://esb.mp.gov.in/e_default.html"
+                    }
+                ]
+            }
+        ],
+        "admitCard": {
+            "startDate": "",
+            "link": "",
+            "details": "",
+            "instruction": []
+        },
+        "resultCard": {
+            "link": "",
+            "details": "",
+            "instruction": []
+        },
+        "answerKey": {
+            "startDate": "",
+            "link": "",
+            "details": "",
+            "instruction": []
+        }
+    },
+    {
+        "link": "https://www.sarkariresult.com/2026/uppsc-direct-d1-e1-aug26/",
+        "examType": "job",
+        "timestamp": 1787158918,
+        "id": "UPPSC-Professor-Assistant-Professor-Online-Form-2026",
+        "orgId": "Uttar Pradesh Public Service Commission (UPPSC)",
+        "name": "UPPSC Professor & Assistant Professor Online Form 2026 ",
+        "importantDates": {
+            "startDate": "18/08/2026",
+            "lastDate": "01/09/2026  ",
+            "lastDateFeePayment": "01/09/2026  ",
+            "examDate": "As per Schedule",
+            "correctionDate": "08/09/2026",
+            "otherDates": [
+                {
+                    "title": "Submit Hard Copy Last Date",
+                    "date": "15/09/2026"
+                }
+            ]
+        },
+        "fee": {
+            "general": "105",
+            "obc": "105",
+            "ews": "105",
+            "sc": "65",
+            "st": "65",
+            "ph": "25",
+            "female": "",
+            "notes": "Pay the Exam Fee Through SBI Mops Debit Card, Credit Card, Net Banking or SBI E Challan Mode Online"
+        },
+        "totalPost": {
+            "count": 1156,
+            "notes": ""
+        },
+        "ageDetails": {
+            "minAge": 26,
+            "maxAge": 55,
+            "notes": "Age Relaxation Extra as per UPPSC Assistant Professor & Professor Advt No : D-1/E-1/2026 , 18/08/2026 Notification."
+        },
+        "vacancyDetails": [
+            {
+                "postName": "Professor",
+                "totalPost": "44",
+                "category": {
+                    "ur": "",
+                    "obc": "",
+                    "ews": "",
+                    "sc": "",
+                    "st": "",
+                    "female": "",
+                    "ph": ""
+                },
+                "eligiblity": {
+                    "minAge": 35,
+                    "maxAge": 50,
+                    "qualification": [
+                        "Master Degree (MD/MS/DNB) in Medicine Related Trade.",
+                        "for Post Wise Experience Details Read the Notification",
+                        "For Post Wise Eligibility Details Read the Notification"
+                    ]
+                }
+            },
+            {
+                "postName": "Assistant Professor",
+                "totalPost": "1112",
+                "category": {
+                    "ur": "",
+                    "obc": "",
+                    "ews": "",
+                    "sc": "",
+                    "st": "",
+                    "female": "",
+                    "ph": ""
+                },
+                "eligiblity": {
+                    "minAge": 26,
+                    "maxAge": 40,
+                    "qualification": [
+                        "Master Degree (MD/MS/DNB) in Medicine Related Trade.",
+                        "for Post Wise Experience Details Read the Notification",
+                        "For Post Wise Eligibility Details Read the Notification"
+                    ]
+                }
+            }
+        ],
+        "importantLinks": [
+            {
+                "title": "Apply Online",
+                "links": [
+                    {
+                        "title": "",
+                        "link": "https://uppsc.up.nic.in/CandidatePages/Notifications.aspx"
+                    }
+                ]
+            },
+            {
+                "title": "Download Notification Hindi",
+                "links": [
+                    {
+                        "title": "",
+                        "link": "https://doc.sarkariresults.org.in/UPPSC_Assistant_Professor_Hindi.pdf"
+                    }
+                ]
+            },
+            {
+                "title": "Download Notification English",
+                "links": [
+                    {
+                        "title": "",
+                        "link": "https://uppsc.up.nic.in/OuterPages/View_Enclosure.aspx?ID=559&flag=E&FID=937"
+                    }
+                ]
+            },
+            {
+                "title": "Official Website",
+                "links": [
+                    {
+                        "title": "UPPSC Official Website",
+                        "link": "https://uppsc.up.nic.in/"
+                    }
+                ]
+            }
+        ],
+        "admitCard": {
+            "startDate": "",
+            "link": "",
+            "details": "",
+            "instruction": []
+        },
+        "resultCard": {
+            "startDate": "",
+            "link": "",
+            "details": "",
+            "instruction": []
+        },
+        "answerKey": {
+            "startDate": "",
+            "link": "",
+            "details": "",
+            "instruction": []
+        }
+    },
+    {
+        "examType": "entrance-exam",
+        "timestamp": 1787190632,
+        "id": "MPESB-MP-Teachers-Teaching-in-Primary-and-Secondary-Classes-MSPSTET-2026-Online-Form",
+        "orgId": "Madhya Pradesh Employee Selection Board (MPESB)",
+        "name": "MPESB MP Teachers Teaching in Primary and Secondary Classes MSPSTET 2026 Online Form",
+        "importantDates": {
+            "startDate": "21/08/2026",
+            "lastDate": "04/09/2026",
+            "lastDateFeePayment": "04/09/2026",
+            "examDate": "12/10/2026",
+            "correctionDate": "09/09/2026"
+        },
+        "fee": {
+            "general": "1060",
+            "obc": "1060",
+            "ews": "1060",
+            "sc": "1060",
+            "st": "1060",
+            "ph": "1060",
+            "female": "",
+            "notes": "Portal Charges Including: Rs. 60/-\nPay the Examination Fee Through Cast at E Challan or Debit Card, Credit Card, Net Banking"
+        },
+        "totalPost": {
+            "count": 1156,
+            "notes": ""
+        },
+        "ageDetails": {
+            "minAge": 18,
+            "maxAge": 40,
+            "notes": "Age Relaxation Extra as per MPESB MP Primary and Secondary (Middle) School Teacher STET Exam 2026 Rules."
+        },
+        "vacancyDetails": [
+            {
+                "postName": "Primary and Secondary Teachers MSPSTET",
+                "totalPost": "",
+                "category": {
+                    "ur": "",
+                    "obc": "",
+                    "ews": "",
+                    "sc": "",
+                    "st": "",
+                    "female": "",
+                    "ph": ""
+                },
+                "eligiblity": {
+                    "minAge": 18,
+                    "maxAge": 40,
+                    "qualification": [
+                        "Only teachers working in primary and secondary schools will be eligible to apply for this examination.",
+                        "For More Eligibility Details Read the Notification"
+                    ]
+                }
+            }
+        ],
+        "importantLinks": [
+            {
+                "title": "Apply Online",
+                "links": [
+                    {
+                        "title": "Link Will be Activate on 21/08/2026",
+                        "link": "https://esb.mponline.gov.in/Portal/Examinations/Vyapam/examsList.aspx"
+                    }
+                ]
+            },
+            {
+                "title": "Download Notification",
+                "links": [
+                    {
+                        "title": "",
+                        "link": "https://esb.mp.gov.in/Rulebooks/RB_2026/MSPSTET_2026_RuleBookforTeachers_17082026.pdf"
+                    }
+                ]
+            },
+            {
+                "title": "Official Website",
+                "links": [
+                    {
+                        "title": "UPPSC Official Website",
+                        "link": "https://uppsc.up.nic.in/"
+                    }
+                ]
+            }
+        ],
+        "admitCard": {
+            "startDate": "",
+            "link": "",
+            "details": "",
+            "instruction": []
+        },
+        "resultCard": {
+            "link": "",
+            "details": "",
+            "instruction": []
+        },
+        "answerKey": {
+            "startDate": "",
+            "link": "",
+            "details": "",
+            "instruction": []
+        }
+    },
+    {
+        "metadata": {
+            "link": "https://www.sarkariresult.com/2026/upsssc-j-e-agriculture-august26/"
+        },
+        "timestamp": 1787461841,
+        "advt_no": "19-Exam/2026",
+        "examType": "job",
+        "id": "UPSSSC-Junior-Engineer-JE-Agriculture-Mains-Online-Form-2026",
+        "orgId": "Uttar Pradesh Subordinate Service Selection Commission (UPSSSC)",
+        "name": "UPSSSC Junior Engineer JE Agriculture Mains Online Form 2026",
+        "importantDates": {
+            "startDate": " 17/09/2026",
+            "lastDate": "07/10/2026",
+            "lastDateFeePayment": "07/10/2026",
+            "examDate": "As per Schedule",
+            "correctionDate": "14/10/2026"
+        },
+        "fee": {
+            "general": "25",
+            "obc": "25",
+            "ews": "25",
+            "sc": "25",
+            "st": "25",
+            "ph": "25",
+            "female": "",
+            "notes": ""
+        },
+        "totalPost": {
+            "count": 134,
+            "notes": ""
+        },
+        "ageDetails": {
+            "minAge": 18,
+            "maxAge": 40,
+            "notes": "Age Relaxation Extra as per UPSSSC Junior Engineer Agriculture Mains Main Recruitment Rules Advt. No. 19-Exam/2026"
+        },
+        "vacancyDetails": [
+            {
+                "postName": "Junior Engineer Agriculture",
+                "totalPost": "134",
+                "category": {
+                    "ur": "54",
+                    "obc": "43",
+                    "ews": "13",
+                    "sc": "23",
+                    "st": "1",
+                    "female": "",
+                    "ph": ""
+                },
+                "eligiblity": {
+                    "minAge": 18,
+                    "maxAge": 40,
+                    "qualification": [
+                        "UPSSSC PET 2025 PET Score Card",
+                        "High School Passed from any Recognized Board Institute in India.",
+                        "3-Year Diploma in Agricultural Engineering from any Recognized Board / Institute in India.",
+                        "Knowledge of Hindi Devanagari Lipi",
+                        "More Details Read the Notification."
+                    ]
+                }
+            }
+        ],
+        "importantLinks": [
+            {
+                "title": "Apply Online",
+                "links": [
+                    {
+                        "title": "Link Will be Activate on 17/09/2026",
+                        "link": "https://upsssc.gov.in/"
+                    }
+                ]
+            },
+            {
+                "title": "Download Notification",
+                "links": [
+                    {
+                        "title": "",
+                        "link": "https://doc.sarkariresults.org.in/UPSSSC_19-Exam_2026_Notification.pdf"
+                    }
+                ]
+            },
+            {
+                "title": "Official Website",
+                "links": [
+                    {
+                        "title": "",
+                        "link": "https://upsssc.gov.in/"
+                    }
+                ]
+            }
+        ],
+        "admitCard": {
+            "startDate": "",
+            "link": "",
+            "details": "",
+            "instruction": []
+        },
+        "resultCard": {
+            "link": "",
+            "details": "",
+            "instruction": []
+        },
+        "answerKey": {
+            "startDate": "",
+            "link": "",
+            "details": "",
+            "instruction": []
+        }
+    },
+    {
+        "metadata": {
+            "link": "https://www.sarkariresult.com/2026/upsssc-veterinary-18-exam-2026/"
+        },
+        "timestamp": 1787462385,
+        "advt_no": "17-Exam/2026",
+        "examType": "job",
+        "id": "UPSSSC-Veterinary-Pharmacist-Online-Form-2026",
+        "orgId": "Uttar Pradesh Subordinate Service Selection Commission (UPSSSC)",
+        "name": "UPSSSC Veterinary Pharmacist Online Form 2026",
+        "importantDates": {
+            "startDate": "14/09/2026",
+            "lastDate": "05/10/2026",
+            "lastDateFeePayment": "05/10/2026",
+            "examDate": "As per Schedule",
+            "correctionDate": "12/10/2026"
+        },
+        "fee": {
+            "general": "25",
+            "obc": "25",
+            "ews": "25",
+            "sc": "25",
+            "st": "25",
+            "ph": "25",
+            "female": "",
+            "notes": ""
+        },
+        "totalPost": {
+            "count": 1308,
+            "notes": ""
+        },
+        "ageDetails": {
+            "minAge": 18,
+            "maxAge": 40,
+            "notes": "Age Relaxation Extra as per UPSSSC Veterinary Pharmacist Mains Recruitment Rules Advt. No. 18-Exam/2026."
+        },
+        "vacancyDetails": [
+            {
+                "postName": "Veterinary Pharmacist",
+                "totalPost": "1308",
+                "category": {
+                    "ur": "576",
+                    "obc": "359",
+                    "ews": "130",
+                    "sc": "237",
+                    "st": "6",
+                    "female": "",
+                    "ph": ""
+                },
+                "eligiblity": {
+                    "minAge": 18,
+                    "maxAge": 40,
+                    "qualification": [
+                        "UPSSSC PET 2025 Score Card",
+                        "10+2 Intermediate with Biology OR Equivalent Degree.",
+                        "2 or 3 Month Diploma in Veterinary Pharmacy .",
+                        "Knowledge of Hindi Devnagri Lipi",
+                        "More Eligibility Details Read the Notification."
+                    ]
+                }
+            }
+        ],
+        "importantLinks": [
+            {
+                "title": "Apply Online",
+                "links": [
+                    {
+                        "title": "Link Will be Activate on 14/09/2026",
+                        "link": "https://upsssc.gov.in/"
+                    }
+                ]
+            },
+            {
+                "title": "Download Syllabus",
+                "links": [
+                    {
+                        "title": "",
+                        "link": "https://doc.sarkariresults.org.in/UPSSSC_Veterinary%20Pharmacist_Syllabus%20(1).pdf"
+                    }
+                ]
+            },
+            {
+                "title": "Download Notification",
+                "links": [
+                    {
+                        "title": "",
+                        "link": "https://doc.sarkariresults.org.in/SarkariResult.Com_UPSSSC_Veterinary%20Pharmacist_Notification.pdf"
+                    }
+                ]
+            },
+            {
+                "title": "Official Website",
+                "links": [
+                    {
+                        "title": "",
+                        "link": "https://upsssc.gov.in/"
+                    }
+                ]
+            }
+        ],
+        "admitCard": {
+            "startDate": "",
+            "link": "",
+            "details": "",
+            "instruction": []
+        },
+        "resultCard": {
+            "link": "",
+            "details": "",
+            "instruction": []
+        },
+        "answerKey": {
+            "startDate": "",
+            "link": "",
+            "details": "",
+            "instruction": []
+        }
+    },
+    {
+        "timestamp": 1787465383,
+        "metadata": {
+            "link": "https://www.sarkariresult.com/2026/upsc-epfo-apfc-august26/"
+        },
+        "advt_no": "52/2026",
+        "examType": "job",
+        "id": "UPSC-EPFO-Assistant-Provident-Fund-Commissioner-APFC-Online-Form-2026",
+        "orgId": "Union Public Service Commission (UPSC)",
+        "name": "UPSC EPFO Assistant Provident Fund Commissioner APFC Online Form 2026",
+        "importantDates": {
+            "startDate": "22/08/2026",
+            "lastDate": "11/09/2026 (upto 06 PM Only.)",
+            "lastDateFeePayment": "11/09/2026",
+            "examDate": "20/12/2026"
+        },
+        "fee": {
+            "general": "25",
+            "obc": "25",
+            "ews": "25",
+            "sc": "0",
+            "st": "0",
+            "ph": "0",
+            "female": "",
+            "notes": ""
+        },
+        "totalPost": {
+            "count": 80,
+            "notes": ""
+        },
+        "ageDetails": {
+            "minAge": 18,
+            "maxAge": 35,
+            "notes": "Age Relaxation Extra as per UPSC EPFO Assistant Provident Fund Commissioner APFC Examination Rules Special Advt. No 52/2026."
+        },
+        "vacancyDetails": [
+            {
+                "postName": "Assistant Provident Fund Commissioner (APFC)",
+                "totalPost": "80",
+                "category": {
+                    "ur": "29",
+                    "obc": "18",
+                    "ews": "8",
+                    "sc": "15",
+                    "st": "10",
+                    "female": "",
+                    "ph": ""
+                },
+                "eligiblity": {
+                    "minAge": 0,
+                    "maxAge": 0,
+                    "qualification": [
+                        "Bachelor Degree in Any Stream from Any Recognized University in India."
+                    ]
+                }
+            }
+        ],
+        "importantLinks": [
+            {
+                "title": "Apply Online",
+                "links": [
+                    {
+                        "title": "",
+                        "link": "https://upsconline.nic.in/ora/"
+                    }
+                ]
+            },
+            {
+                "title": "Download Syllabus",
+                "links": [
+                    {
+                        "title": "",
+                        "link": "https://doc.sarkariresults.org.in/UPSC_EPFO_APFC_Syllabus_SarkariResult_Com%20(1).pdf"
+                    }
+                ]
+            },
+            {
+                "title": "Download Notification",
+                "links": [
+                    {
+                        "title": "",
+                        "link": "https://doc.sarkariresults.org.in/UPSC_EPFO_APFC_AdvtNo-52-2026-Special-Engl-210826.pdf"
+                    }
+                ]
+            },
+            {
+                "title": "Official Website",
+                "links": [
+                    {
+                        "title": "",
+                        "link": "https://www.upsc.gov.in/"
+                    }
+                ]
+            }
+        ],
+        "admitCard": {
+            "startDate": "",
+            "link": "",
+            "details": "",
+            "instruction": []
+        },
+        "resultCard": {
+            "link": "",
+            "details": "",
+            "instruction": []
+        },
+        "answerKey": {
+            "startDate": "",
+            "link": "",
+            "details": "",
+            "instruction": []
+        }
+    },
+    {
+        "timestamp": 1787465891,
+        "metadata": {
+            "link": "https://www.sarkariresult.com/2026/up-anganwadi-worker/"
+        },
+        "advt_no": "",
+        "examType": "job",
+        "id": "UP-Anganwadi-Worker-Recruitment-2026",
+        "orgId": "Integrated Child Development Services Scheme (ICDS)",
+        "name": "UP Anganwadi Worker Recruitment 2026",
+        "importantDates": {
+            "startDate": "District Wise",
+            "lastDate": " District Wise"
+        },
+        "fee": {
+            "general": "0",
+            "obc": "0",
+            "ews": "0",
+            "sc": "0",
+            "st": "0",
+            "ph": "0",
+            "female": "",
+            "notes": ""
+        },
+        "totalPost": {
+            "count": "District Vise",
+            "notes": ""
+        },
+        "ageDetails": {
+            "minAge": "District Vise",
+            "maxAge": "District Vise"
+        },
+        "vacancyDetails": [
+            {
+                "postName": "Anganwadi Worker (Karyakatri)",
+                "totalPost": "Discrict Vise",
+                "category": {
+                    "ur": "",
+                    "obc": "",
+                    "ews": "",
+                    "sc": "",
+                    "st": "",
+                    "female": "",
+                    "ph": ""
+                },
+                "eligiblity": {
+                    "minAge": 18,
+                    "maxAge": "District Vise",
+                    "qualification": [
+                        "Only for Female Candidates.",
+                        "Passed 10+2 Intermediate Exam in Any Recognized Board in India.",
+                        "Candidate must be a resident of the said Village/Ward/Nyaya Panchayat from where she will apply."
+                    ]
+                }
+            }
+        ],
+        "importantLinks": [
+            {
+                "title": "Apply Online",
+                "links": [
+                    {
+                        "title": "",
+                        "link": "https://upanganwadibharti.in/workernew/users/registration.php"
+                    }
+                ]
+            },
+            {
+                "title": "Download Notification",
+                "links": [
+                    {
+                        "title": "",
+                        "link": "https://upanganwadibharti.in/"
+                    }
+                ]
+            },
+            {
+                "title": "Official Website",
+                "links": [
+                    {
+                        "title": "",
+                        "link": "https://upanganwadibharti.in/"
+                    }
+                ]
+            }
+        ],
+        "admitCard": {
+            "startDate": "",
+            "link": "",
+            "details": "",
+            "instruction": []
+        },
+        "resultCard": {
+            "link": "",
+            "details": "",
+            "instruction": []
+        },
+        "answerKey": {
+            "startDate": "",
+            "link": "",
+            "details": "",
+            "instruction": []
+        },
+        "table": [
+            {
+                "title": "District Wise Vacancy Details",
+                "details": "",
+                "notes": "",
+                "list": [
+                    [
+                        "District Name",
+                        "Total Vacancy",
+                        "Last Date"
+                    ],
+                    [
+                        "Azamgarh",
+                        "66",
+                        "17/09/2026"
+                    ],
+                    [
+                        "Chitrakoot",
+                        "23",
+                        "5/9/2026"
+                    ],
+                    [
+                        "Jhansi",
+                        "223",
+                        "7/9/2026"
+                    ],
+                    [
+                        "Muzaffarnagar",
+                        "146",
+                        "2/9/2026"
+                    ],
+                    [
+                        "Maharajganj",
+                        "164",
+                        "1/9/2026"
+                    ],
+                    [
+                        "Etawah",
+                        "102",
+                        "30/08/2026"
+                    ],
+                    [
+                        "Bareilly",
+                        "174",
+                        "25/08/2026"
+                    ],
+                    [
+                        "Sonbhadra",
+                        "201",
+                        "26/08/2026"
+                    ],
+                    [
+                        "Ambedkar Nagar",
+                        "2",
+                        "24/08/2026"
+                    ],
+                    [
+                        "Kushinagar",
+                        "245",
+                        "19/08/2026"
+                    ],
+                    [
+                        "Sant Kabir Nagar",
+                        "192",
+                        "20/08/2026"
+                    ],
+                    [
+                        "Hapur",
+                        "120",
+                        "18/08/2026"
+                    ],
+                    [
+                        "Etah",
+                        "133",
+                        "17/08/2026"
+                    ],
+                    [
+                        "Sitapur",
+                        "365",
+                        "16/08/2026"
+                    ],
+                    [
+                        "Lakhimpur Kheri",
+                        "419",
+                        "15/08/2026"
+                    ],
+                    [
+                        "Bulandshahar",
+                        "255",
+                        "14/08/2026"
+                    ],
+                    [
+                        "Firozabad",
+                        "101",
+                        "13/08/2026"
+                    ],
+                    [
+                        "Basti",
+                        "138",
+                        "12/8/2026"
+                    ],
+                    [
+                        "Saharanpur",
+                        "250",
+                        "12/8/2026"
+                    ],
+                    [
+                        "Ayodhya",
+                        "220",
+                        "11/8/2026"
+                    ],
+                    [
+                        "Unnao",
+                        "326",
+                        "11/8/2026"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "metadata": {
+            "link": "https://www.sarkariresult.com/2026/ntpc-nspcl-various-post-aug26/"
+        },
+        "advt_no": "01/2026",
+        "timestamp": 1787466399,
+        "examType": "job",
+        "id": "NTPC-Sail-Power-Company-Limited-NSPCL-Recruitment-2026",
+        "orgId": "NTPC Sail Power Company Limited (NSPCL)",
+        "name": "NTPC Sail Power Company Limited (NSPCL) Recruitment  2026",
+        "importantDates": {
+            "startDate": "07/09/2026",
+            "lastDate": "22/09/2026 (upto 06:00 PM)",
+            "lastDateFeePayment": "22/09/2026",
+            "examDate": "As per Schedule"
+        },
+        "fee": {
+            "general": "300",
+            "obc": "300",
+            "ews": "300",
+            "sc": "",
+            "st": "",
+            "ph": "",
+            "female": "",
+            "notes": ""
+        },
+        "totalPost": {
+            "count": 16,
+            "notes": ""
+        },
+        "ageDetails": {
+            "minAge": 0,
+            "maxAge": 0,
+            "notes": "Age Relaxation Extra as per NTPC Sail Power Power Company Limited Rules Advt. No. 01/2026."
+        },
+        "vacancyDetails": [
+            {
+                "postName": "Sr Assistant Officer (HR)",
+                "totalPost": "04",
+                "category": {
+                    "ur": "3",
+                    "obc": "1",
+                    "ews": "0",
+                    "sc": "0",
+                    "st": "0",
+                    "female": "",
+                    "ph": ""
+                },
+                "eligiblity": {
+                    "minAge": 0,
+                    "maxAge": 0,
+                    "qualification": [
+                        "Graduates with at least two years full time Post Graduate Degree / Post Graduate Diploma / Post Graduate Program in Management with Specialization in Human Resources / Industrial Relations / Personnel Management or Masters in Social Work or MBA with specialization in HR from recognized Indian University / Institutes recognized by appropriate statutory authority with not less than 60% marks, as per respective university / institute norms.",
+                        "for Post Wise Experience Details Read the Notification.",
+                        "for Post Wise Eligibility Details Read the Notification."
+                    ]
+                }
+            },
+            {
+                "postName": "Sr Assistant Officer (Law)",
+                "totalPost": "1",
+                "category": {
+                    "ur": "1",
+                    "obc": "0",
+                    "ews": "0",
+                    "sc": "0",
+                    "st": "0",
+                    "female": "",
+                    "ph": ""
+                },
+                "eligiblity": {
+                    "minAge": 0,
+                    "maxAge": 0,
+                    "qualification": [
+                        "Bachelor’s degree in law (LLB or equivalent full time degree with 60% marks  from recognized University / Institute in India.",
+                        "for Post Wise Experience Details Read the Notification"
+                    ]
+                }
+            },
+            {
+                "postName": "Sr Assistant Engineer (Electrical)",
+                "totalPost": "4",
+                "category": {
+                    "ur": "3",
+                    "obc": "1",
+                    "ews": "0",
+                    "sc": "0",
+                    "st": "0",
+                    "female": "",
+                    "ph": ""
+                },
+                "eligiblity": {
+                    "minAge": 0,
+                    "maxAge": 0,
+                    "qualification": [
+                        "B.E / B.Tech Degree in Electrical / Electrical & Electronics with at least 60% marks from a recognized Institution / University in India.",
+                        "for Post Wise Experience Details Read the Notification."
+                    ]
+                }
+            },
+            {
+                "postName": "Sr Assistant Engineer (Mechanical)",
+                "totalPost": "4",
+                "category": {
+                    "ur": "3",
+                    "obc": "1",
+                    "ews": "0",
+                    "sc": "0",
+                    "st": "0",
+                    "female": "",
+                    "ph": ""
+                },
+                "eligiblity": {
+                    "minAge": 0,
+                    "maxAge": 0,
+                    "qualification": [
+                        "B.E / B.Tech Degree in Mechanical / Production with at least 60% marks from a recognized Institution / University in India.",
+                        "for Post Wise Experience Details Read the Notification."
+                    ]
+                }
+            },
+            {
+                "postName": "Sr Assistant Engineer (C&I)",
+                "totalPost": "",
+                "category": {
+                    "ur": "2",
+                    "obc": "0",
+                    "ews": "0",
+                    "sc": "0",
+                    "st": "0",
+                    "female": "",
+                    "ph": ""
+                },
+                "eligiblity": {
+                    "minAge": 0,
+                    "maxAge": 0,
+                    "qualification": [
+                        "B.E / B.Tech Degree in Electronics / Control & Instrumentation & Instrumentation with at least 60% marks from a recognized Institution / University in India.",
+                        "for Post Wise Experience Details Read the Notification."
+                    ]
+                }
+            },
+            {
+                "postName": "Sr Assistant Engineer (IT/ERP)",
+                "totalPost": "02",
+                "category": {
+                    "ur": "1",
+                    "obc": "1",
+                    "ews": "0",
+                    "sc": "0",
+                    "st": "0",
+                    "female": "",
+                    "ph": ""
+                },
+                "eligiblity": {
+                    "minAge": 0,
+                    "maxAge": 0,
+                    "qualification": [
+                        "B.E / B.Tech Degree in Information Technology / Computer Science / Electronics & Communication with at least 60% marks from a recognized Institution / University in India.",
+                        "for Post Wise Experience Details Read the Notification."
+                    ]
+                }
+            }
+        ],
+        "importantLinks": [
+            {
+                "title": "Apply Online",
+                "links": [
+                    {
+                        "title": "Link will be Activate on 07/09/2026",
+                        "link": "https://www.nspcl.co.in/page/10"
+                    }
+                ]
+            },
+            {
+                "title": "Download Notification",
+                "links": [
+                    {
+                        "title": "",
+                        "link": "https://www.nspcl.co.in/storage/app/public/uploads/careers/NSPCL_website.pdf"
+                    }
+                ]
+            },
+            {
+                "title": "Official Website",
+                "links": [
+                    {
+                        "title": "",
+                        "link": "https://www.nspcl.co.in/"
+                    }
+                ]
+            }
+        ],
+        "admitCard": {
+            "startDate": "",
+            "link": "",
+            "details": "",
+            "instruction": []
+        },
+        "resultCard": {
+            "link": "",
+            "details": "",
+            "instruction": []
+        },
+        "answerKey": {
+            "startDate": "",
+            "link": "",
+            "details": "",
+            "instruction": []
+        }
+    },
+    {
+        "timestamp": 1787466808,
+        "metadata": {
+            "link": "https://www.sarkariresult.com/2026/ntpc-ngel-june26/"
+        },
+        "advt_no": "02/2026",
+        "examType": "job",
+        "id": "NTPC-Green-Energy-Limited-AE-DGM-Recruitment-2026",
+        "orgId": "NTPC Green Energy Limited (NGEL)",
+        "name": "NTPC Green Energy Limited AE & DGM Recruitment  2026",
+        "importantDates": {
+            "notificationDate": "11/07/2026",
+            "startDate": "11/07/2026",
+            "lastDate": "31/08/2026 (upto 06:00 PM)",
+            "lastDateFeePayment": "31/08/2026",
+            "examDate": " As per Schedule"
+        },
+        "fee": {
+            "general": "500",
+            "obc": "500",
+            "ews": "500",
+            "sc": "0",
+            "st": "0",
+            "ph": "0",
+            "female": "",
+            "notes": "Pay the Exam Fee Through Online / Offline Fee Mode Only"
+        },
+        "totalPost": {
+            "count": 114,
+            "notes": ""
+        },
+        "ageDetails": {
+            "minAge": 18,
+            "maxAge": 44
+        },
+        "vacancyDetails": [
+            {
+                "postName": "Assistant Engineer",
+                "totalPost": "100",
+                "category": {
+                    "ur": "41",
+                    "obc": "27",
+                    "ews": "10",
+                    "sc": "15",
+                    "st": "7",
+                    "female": "",
+                    "ph": ""
+                },
+                "eligiblity": {
+                    "minAge": 18,
+                    "maxAge": 44,
+                    "qualification": [
+                        "Diploma in Engineering in Electrical/ Mechanical /Electronics/ Electrical & Electronics / Instrumentation.",
+                        "Minimum Experience 10 Years."
+                    ]
+                }
+            },
+            {
+                "postName": "Deputy General Manager",
+                "totalPost": "14",
+                "category": {
+                    "ur": "8",
+                    "obc": "3",
+                    "ews": "1",
+                    "sc": "1",
+                    "st": "1",
+                    "female": "",
+                    "ph": ""
+                },
+                "eligiblity": {
+                    "minAge": 0,
+                    "maxAge": 0,
+                    "qualification": [
+                        "Engineering Degree in Electrical/ Electrical & Electronics/ Electronics/ Control & Instrumentation/ Civil/ Mechanical with 60% Marks.",
+                        "For SC / ST / PH : Pass Only",
+                        "Minimum Experience 12 Years."
+                    ]
+                }
+            },
+            {
+                "postName": "",
+                "totalPost": "",
+                "category": {
+                    "ur": "",
+                    "obc": "",
+                    "ews": "",
+                    "sc": "",
+                    "st": "",
+                    "female": "",
+                    "ph": ""
+                },
+                "eligiblity": {
+                    "minAge": 0,
+                    "maxAge": 0,
+                    "qualification": []
+                }
+            }
+        ],
+        "importantLinks": [
+            {
+                "title": "Apply Online",
+                "links": [
+                    {
+                        "title": "",
+                        "link": "https://careers.ngel.in/"
+                    }
+                ]
+            },
+            {
+                "title": "Download Date Extended Notice",
+                "links": [
+                    {
+                        "title": "",
+                        "link": "https://ngel.in/public/career/1/9035a09e8d/9035a09e8d.pdf"
+                    }
+                ]
+            },
+            {
+                "title": "Download Notification",
+                "links": [
+                    {
+                        "title": "",
+                        "link": "https://ngel.in/public/career/1/f61734f728/f61734f728.pdf"
+                    }
+                ]
+            },
+            {
+                "title": "Official Website",
+                "links": [
+                    {
+                        "title": "",
+                        "link": "https://ngel.in/ngel-home"
+                    }
+                ]
+            }
+        ],
+        "admitCard": {
+            "startDate": "",
+            "link": "",
+            "details": "",
+            "instruction": []
+        },
+        "resultCard": {
+            "link": "",
+            "details": "",
+            "instruction": []
+        },
+        "answerKey": {
+            "startDate": "",
+            "link": "",
+            "details": "",
+            "instruction": []
+        }
+    },
+    {
+         "metadata":{"link":"https://www.sarkariresult.com/2026/ntpc-ngel-august26/"},
+       "advt_no":"04/26",
     "examType": "job",
-    "timestamp":1787110478,
-    "id": "BPSC-Bihar-School-Teacher-TRE-4-Recruitment-2026",
-    "orgId": "Bihar Public Service Commission (BPSC)",
-    "name": "BPSC Bihar School Teacher TRE 4.0 Recruitment 2026",
+    "timestamp":1787467451,
+    "id": "NTPC-NGEL-Engineer-and-Executive-Post-Online-Form-2026",
+    "orgId": "NTPC Green Energy Limited (NGEL)",
+    "name": "NTPC NGEL Engineer and Executive Post Online Form 2026",
     "importantDates": {
-        "startDate": "01/09/2026",
-        "lastDate": "29/09/2026",
-        "lastDateFeePayment": "29/09/2026",
+        "startDate": "18/08/2026",
+        "lastDate": " 07/09/2026 (upto 06 PM Only.)",
+        "lastDateFeePayment": "07/09/2026",
         "examDate": "As per Schedule"
     },
     "fee": {
-        "general": "100",
-        "obc": "100",
-        "ews": "100",
-        "sc": "100",
-        "st": "100",
-        "ph": "100",
+        "general": "500",
+        "obc": "500",
+        "ews": "500",
+        "sc": "0",
+        "st": "0",
+        "ph": "",
         "female": "",
         "notes": "Pay the Exam Fee Through Online / Offline Fee Mode Only"
     },
     "totalPost": {
-        "count": 32388,
+        "count": 147,
         "notes": ""
     },
     "ageDetails": {
         "minAge": 18,
-        "maxAge": 40
+        "maxAge": 35,
+        "notes": "Age Relaxation Extra as per NTPC NGEL Engineer and Executive Post Rules advt. No. 04/26."
     },
     "vacancyDetails": [
         {
-            "postName": "Primary School Teacher Class 1-5",
-            "totalPost": "3847",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 18,
-                "maxAge": 40,
-                "qualification": [
-                    "Senior Secondary with 50% Marks and 2 Year Diploma in Elementary Education OR",
-                    "Senior Secondary with 45% Marks and 2 Year Diploma in Elementary Education (AS PER NCTE Norms 2002) OR",
-                    "Senior Secondary with 50% Marks and 4 Year B.L.Ed Course OR",
-                    "Senior Secondary with 50% Marks and 2 Year Diploma in Elementary Education (Special) OR",
-                    "Bachelor Degree in Any Stream with 2 Year Diploma in Elementary Education",
-                    "CTET / BTET Paper I Exam Passed",
-                    "More Eligibility Read the Notification.",
-                    "Age Details-",
-                    "Male Maximum Age:37 years",
-                    "Female Maximum Age:40 years",
-                    "Transgender Maximum Age:42 years"
-                ]
-            }
-        },
-        {
-            "postName": "Middle School Teacher Class 6-8",
-            "totalPost": "8563",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 18,
-                "maxAge": 40,
-                "qualification": [
-                    "Bachelor Degree with 2 Year Diploma in Elementary Education OR",
-                    "Bachelor / Master Degree with 50% Marks with B.Ed OR",
-                    "Bachelor Degree with 45% Marks and B.Ed (NCTE Norms) OR",
-                    "Bachelor Degree with 50% Marks and BA BED and B.Sc Ed  OR",
-                    "Bachelor Degree with 50% Marks and B.Ed Special OR",
-                    "Master Degree with 55% Marks and 3 Year B.Ed – M.Ed Course.",
-                    "CTET / BTET Paper II Exam Passed",
-                    "More Eligibility Read the Notification.",
-                    "Age Details-",
-                    "Male Maximum Age:37 years",
-                    "Female Maximum Age:40 years",
-                    "Transgender Maximum Age:42 years"
-                ]
-            }
-        },
-        {
-            "postName": "TGT Teacher Class 9-10",
-            "totalPost": "3877",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 21,
-                "maxAge": 40,
-                "qualification": [
-                    "Bachelor / Master Degree in Related Subject with Minimum 50% Marks and B.Ed Degree OR",
-                    "Bachelor / Master Degree in Related Subject with Minimum 45% Marks (As per 2002 Norms)  and B.Ed Degree OR",
-                    "4 Year Degree in BAEd / BScEd",
-                    "STET Paper I Exam Passed",
-                    "More Eligibility Read the Notification.",
-                    "Age Details-",
-                    "Male Maximum Age:37 years",
-                    "Female Maximum Age:40 years",
-                    "Transgender Maximum Age:42 years"
-                ]
-            }
-        },
-        {
-            "postName": "TGT Teacher Class 9-10 (Special)",
-            "totalPost": "soon",
+            "postName": "Engineer (RE-Civil)",
+            "totalPost": "43",
             "category": {
                 "ur": "",
                 "obc": "",
@@ -11794,17 +13397,16 @@
                 "minAge": 0,
                 "maxAge": 0,
                 "qualification": [
-                    "Bachelor / Master Degree in Related Subject with Minimum 50% Marks and B.Ed Degree OR",
-                    "Bachelor / Master Degree in Related Subject with Minimum 45% Marks (As per 2002 Norms)  and B.Ed Degree OR",
-                    "4 Year Degree in BAEd / BScEd",
-                    "STET Paper I Exam Passed",
-                    "More Eligibility Read the Notification."
+                    "BE/B.Tech/B.Sc. (Engg.) Degree in Civil Engineering with 65% Marks.",
+                    "for SC / ST / PH : 55% Marks.",
+                    "3 Year Experience.",
+                    "More Eligibility Detail Read The Notification."
                 ]
             }
         },
         {
-            "postName": "PGT Teacher Class 11-12",
-            "totalPost": "16101",
+            "postName": "Engineer (RE-Electrical)",
+            "totalPost": "69",
             "category": {
                 "ur": "",
                 "obc": "",
@@ -11815,152 +13417,148 @@
                 "ph": ""
             },
             "eligiblity": {
-                "minAge": 21,
-                "maxAge": 40,
+                "minAge": 0,
+                "maxAge": 0,
                 "qualification": [
-                    "Master Degree in Related Subject with Minimum 50% Marks and B.Ed Degree OR",
-                    "Master Degree in Related Subject with Minimum 45% Marks (As per 2002 Norms)  and B.Ed Degree OR",
-                    "Master Degree in Related Subject with 4 Year Degree in BAEd / BScEd OR",
-                    "Master Degree with 55% Marks and B.Ed – Med 3 Year Degree.",
-                    "STET Paper II Exam Passed",
-                    "More Eligibility Read the Notification."
+                    "BE/B.Tech/B.Sc. (Engg.) Degree in Electrical/Electrical or Electronics/Electrical, Instrumentation & Control/Power Systems & High Voltage/Power Electronics/Power Engineering with 65% marks.",
+                    "for SC/ST/PH : 55% marks.",
+                    "03 years Experience.",
+                    "More Eligibility Detail Read The Notification."
                 ]
             }
-        }
-    ],
-    "importantLinks": [
-        {
-            "title": "Apply Online (OTR)",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://bpsconline.bihar.gov.in/candidate/login"
-                }
-            ]
         },
         {
-            "title": "Download Full Notification",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://doc.sarkariresults.org.in/Bihar_TRE_4_Full_Detailed_Notification.pdf"
-                }
-            ]
-        },
-        {
-            "title": "Download STET 2026 Appearing Candidate Form",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://doc.sarkariresults.org.in/Bihar_STET_Self_Declaration_Format_Form_Download.pdf"
-                }
-            ]
-        },
-        {
-            "title": "How to BPSC OTR Registration (Video Hindi)",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://youtu.be/osB86ktoLxo"
-                }
-            ]
-        },
-        {
-            "title": "Apply Online (TRE 4.0)",
-            "links": [
-                {
-                    "title": "Link Will be Activate Soon",
-                    "link": "https://bpsconline.bihar.gov.in/candidate/login"
-                }
-            ]
-        },
-        {
-            "title": "Download Short Notice Dt 11/02/2026",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://bpsc.bihar.gov.in/wp-content/uploads/BPSC_content/Notices/Press-Release-TRE-4.0_BPSC-20260211-am7sv1.pdf"
-                }
-            ]
-        },
-        {
-            "title": "Official Website",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://bpsc.bihar.gov.in/"
-                }
-            ]
-        }
-    ],
-    "admitCard": {
-        "startDate": "",
-        "link": "",
-        "details": "",
-        "instruction": []
-    },
-    "resultCard": {
-        "link": "",
-        "details": "",
-        "instruction": []
-    },
-    "answerKey": {
-        "startDate": "",
-        "link": "",
-        "details": "",
-        "instruction": []
-    }
-},
-{
-    "timestamp":1787110478,
-    "examType": "job",
-    "id": "Bank-of-Baroda-Local-Bank-Officer-LBO-Recruitment-2026",
-    "orgId": "Bank of Baroda (BOB)",
-    "name": "Bank of Baroda Local Bank Officer LBO Recruitment 2026",
-    "importantDates": {
-        "startDate": "18/08/2026",
-        "lastDate": "07/09/2026",
-        "lastDateFeePayment": "07/09/2026",
-        "examDate": " As per Schedule"
-    },
-    "fee": {
-        "general": "850",
-        "obc": "850",
-        "ews": "850",
-        "sc": "175",
-        "st": "175",
-        "ph": "175",
-        "female": "175",
-        "notes": ""
-    },
-    "totalPost": {
-        "count": 2482,
-        "notes": ""
-    },
-    "ageDetails": {
-        "minAge": 21,
-        "maxAge": 30
-    },
-    "vacancyDetails": [
-        {
-            "postName": "Local Bank Officer (LBO)",
-            "totalPost": "2482",
+            "postName": "Engineer (RE-Mechanical)",
+            "totalPost": "09",
             "category": {
-                "ur": "981",
-                "obc": "600",
-                "ews": "303",
-                "sc": "358",
-                "st": "240",
+                "ur": "",
+                "obc": "",
+                "ews": "",
+                "sc": "",
+                "st": "",
                 "female": "",
                 "ph": ""
             },
             "eligiblity": {
-                "minAge": 21,
-                "maxAge": 30,
+                "minAge": 0,
+                "maxAge": 0,
                 "qualification": [
-                    "Bachelor Degree in any Stream Passed form any Recognized University / Institute in India",
-                    "Candidates must be proficient in the local language of the State they are applying for (reading, writing, speaking and understanding)",
-                    "More Eligibility Details Read The Notification."
+                    "BE/B.Tech/B.Sc. (Engg.) Degree in Mechanical/Production/Industrial Engineering/Production & Industrial Engineering/Power Engineering with 65% marks.",
+                    "For : SC/ST/PwBD: 55% marks.",
+                    "3 Year Experience.",
+                    "More Eligibility Detail Read The Notification."
+                ]
+            }
+        },
+        {
+            "postName": "Engineer (RE-Safety)",
+            "totalPost": "07",
+            "category": {
+                "ur": "",
+                "obc": "",
+                "ews": "",
+                "sc": "",
+                "st": "",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 0,
+                "maxAge": 0,
+                "qualification": [
+                    "Engineering Degree in Mechanical/Production/Electrical/Civil/Power Engineering with at least 65% marks along with full-time Diploma in Industrial Safety from recognized institution OR Full Time Engineering Degree in Industrial Safety/Fire & Safety with at least 65% marks.",
+                    "For SC/ST/PwBD:  55% marks.",
+                    "3 Year Experience.",
+                    "More Eligibility Detail Read The Notification."
+                ]
+            }
+        },
+        {
+            "postName": "Executive (RE-HR)",
+            "totalPost": "4",
+            "category": {
+                "ur": "",
+                "obc": "",
+                "ews": "",
+                "sc": "",
+                "st": "",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 0,
+                "maxAge": 0,
+                "qualification": [
+                    "Bachelor Degree with Master Degree/Post Graduate Diploma/Post Graduate Program in Management with specialization in Human Resources/Industrial Relations/Personnel Management or MHROD or MBA with specialization in HR, with at least 65% marks.",
+                    "For : SC/ST/PwBD 55% marks.",
+                    "3 Year Experience.",
+                    "More Eligibility Detail Read The Notification."
+                ]
+            }
+        },
+        {
+            "postName": "Executive (RE-Finance)",
+            "totalPost": "9",
+            "category": {
+                "ur": "",
+                "obc": "",
+                "ews": "",
+                "sc": "",
+                "st": "",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 0,
+                "maxAge": 0,
+                "qualification": [
+                    "CA/CMA. Minimum 01 year post-qualification executive experience in Finance/Accounts, excluding articleship period.",
+                    "More Eligibility Detail Read The Notification."
+                ]
+            }
+        },
+        {
+            "postName": "Executive (RE-CSR)",
+            "totalPost": "5",
+            "category": {
+                "ur": "",
+                "obc": "",
+                "ews": "",
+                "sc": "",
+                "st": "",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 0,
+                "maxAge": 0,
+                "qualification": [
+                    "PG Degree/PG Diploma/PG Programme in specified Rural/Development/Social Development fields, MSW, MBA or Graduate in Engineering with at least 65% marks from recognized",
+                    "For SC / ST / PH : 55% marks.",
+                    "3 Year Experience.",
+                    "More Eligibility Detail Read The Notification."
+                ]
+            }
+        },
+        {
+            "postName": "Executive (RE-Rajbhasha)",
+            "totalPost": "1",
+            "category": {
+                "ur": "",
+                "obc": "",
+                "ews": "",
+                "sc": "",
+                "st": "",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 0,
+                "maxAge": 0,
+                "qualification": [
+                    "Master Degree in Hindi/English or other prescribed subject with the required Hindi/English language qualification as mentioned in the notification.",
+                    "3 Year Experience.",
+                    "More Eligibility Detail Read The Notification."
                 ]
             }
         }
@@ -11971,7 +13569,7 @@
             "links": [
                 {
                     "title": "",
-                    "link": "https://ibpsreg.ibps.in/bobjul26/"
+                    "link": "https://cdn.digialm.com/EForms/configuredHtml/1258/101871/Index.html"
                 }
             ]
         },
@@ -11980,7 +13578,7 @@
             "links": [
                 {
                     "title": "",
-                    "link": "https://bankofbaroda.bank.in/-/media/Project/BOB/CountryWebsites/India/Career/2026/26-08/Advertisement-18-04.pdf"
+                    "link": "https://g03.tcsion.com//per/g03/pub/726/EForms/image/ImageDocUpload/71161/6/6701774263.pdf"
                 }
             ]
         },
@@ -11989,353 +13587,7 @@
             "links": [
                 {
                     "title": "",
-                    "link": "https://bankofbaroda.bank.in/"
-                }
-            ]
-        }
-    ],
-    "admitCard": {
-        "startDate": "",
-        "link": "",
-        "details": "",
-        "instruction": []
-    },
-    "resultCard": {
-        "link": "",
-        "details": "",
-        "instruction": []
-    },
-    "answerKey": {
-        "startDate": "",
-        "link": "",
-        "details": "",
-        "instruction": []
-    }
-},
-{
-    "examType": "job",
-    "timestamp":1787110478,
-    "id": "MPESB-Group-3-Sub-Engineer-Sahayak-Manchitrakar-Technician-Other-Post-Online-Form-2026",
-    "orgId": "Madhya Pradesh Employee Selection Board (MPESB)",
-    "name": "MPESB Group 3 Sub Engineer , Sahayak Manchitrakar, Technician & Other Post Online Form 2026",
-    "importantDates": {
-        "startDate": "18/08/2026",
-        "lastDate": "01/09/2026",
-        "lastDateFeePayment": "01/09/2026",
-        "examDate": "06/10/2026",
-        "correctionDate": "06/9/2026"
-    },
-    "fee": {
-        "general": "560",
-        "obc": "310",
-        "ews": "310",
-        "sc": "310",
-        "st": "310",
-        "ph": "",
-        "female": "",
-        "notes": "Other State: 560 rs.\nPortal Charges: 60 rs.\nPay the Examination Fee Through Cast at E Challan or Debit Card, Credit Card, Net Banking"
-    },
-    "totalPost": {
-        "count": 1040,
-        "notes": ""
-    },
-    "ageDetails": {
-        "minAge": 18,
-        "maxAge": 40,
-        "notes": "Age Relaxation Extra as per MP PEB Group-3 Sub Engineer ,Manchitrakar, Technician and Other Equivalent Combined Recruitment Test 2026  Recruitment Rules 2026."
-    },
-    "vacancyDetails": [
-        {
-            "postName": "MP ESB Group-03 Sub Engineer ,Sahayak Manchitrakar, Technician and Other Equivalent Combined Recruitment Test 2026",
-            "totalPost": "1040",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 18,
-                "maxAge": 40,
-                "qualification": [
-                    "ITI / Diploma / Degree in Related Post.",
-                    "For Post Wise Eligibility Details Read the Notification"
-                ]
-            }
-        }
-    ],
-    "importantLinks": [
-        {
-            "title": "Apply Online",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://esb.mponline.gov.in/Portal/Examinations/Vyapam/examsList.aspx"
-                }
-            ]
-        },
-        {
-            "title": "Download Notification",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://esb.mp.gov.in/Rulebooks/RB_2026/Group3_SUBENG_RuleBook_2026_17_08_2026.pdf"
-                }
-            ]
-        },
-        {
-            "title": "Official Website",
-            "links": [
-                {
-                    "title": "MPESB Official Website",
-                    "link": "https://esb.mp.gov.in/e_default.html"
-                }
-            ]
-        }
-    ],
-    "admitCard": {
-        "startDate": "",
-        "link": "",
-        "details": "",
-        "instruction": []
-    },
-    "resultCard": {
-        "link": "",
-        "details": "",
-        "instruction": []
-    },
-    "answerKey": {
-        "startDate": "",
-        "link": "",
-        "details": "",
-        "instruction": []
-    }
-},
-{
-    "examType": "job",
-    "timestamp":1787158918,
-    "id": "UPPSC-Professor-Assistant-Professor-Online-Form-2026",
-    "orgId": "Uttar Pradesh Public Service Commission (UPPSC)",
-    "name": "UPPSC Professor & Assistant Professor Online Form 2026 ",
-    "importantDates": {
-        "startDate": "18/08/2026",
-        "lastDate": "01/09/2026  ",
-        "lastDateFeePayment": "01/09/2026  ",
-        "examDate": "As per Schedule",
-        "correctionDate": "08/09/2026",
-        "otherDates": [
-            {
-                "title": "Submit Hard Copy Last Date",
-                "date": "15/09/2026"
-            }
-        ]
-    },
-    "fee": {
-        "general": "105",
-        "obc": "105",
-        "ews": "105",
-        "sc": "65",
-        "st": "65",
-        "ph": "25",
-        "female": "",
-        "notes": "Pay the Exam Fee Through SBI Mops Debit Card, Credit Card, Net Banking or SBI E Challan Mode Online"
-    },
-    "totalPost": {
-        "count": 1156,
-        "notes": ""
-    },
-    "ageDetails": {
-        "minAge": 26,
-        "maxAge": 55,
-        "notes": "Age Relaxation Extra as per UPPSC Assistant Professor & Professor Advt No : D-1/E-1/2026 , 18/08/2026 Notification."
-    },
-    "vacancyDetails": [
-        {
-            "postName": "Professor",
-            "totalPost": "44",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 35,
-                "maxAge": 50,
-                "qualification": [
-                    "Master Degree (MD/MS/DNB) in Medicine Related Trade.",
-                    "for Post Wise Experience Details Read the Notification",
-                    "For Post Wise Eligibility Details Read the Notification"
-                ]
-            }
-        },
-        {
-            "postName": "Assistant Professor",
-            "totalPost": "1112",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 26,
-                "maxAge": 40,
-                "qualification": [
-                    "Master Degree (MD/MS/DNB) in Medicine Related Trade.",
-                    "for Post Wise Experience Details Read the Notification",
-                    "For Post Wise Eligibility Details Read the Notification"
-                ]
-            }
-        }
-    ],
-    "importantLinks": [
-        {
-            "title": "Apply Online",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://uppsc.up.nic.in/CandidatePages/Notifications.aspx"
-                }
-            ]
-        },
-        {
-            "title": "Download Notification Hindi",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://doc.sarkariresults.org.in/UPPSC_Assistant_Professor_Hindi.pdf"
-                }
-            ]
-        },
-        {
-            "title": "Download Notification English",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://uppsc.up.nic.in/OuterPages/View_Enclosure.aspx?ID=559&flag=E&FID=937"
-                }
-            ]
-        },
-        {
-            "title": "Official Website",
-            "links": [
-                {
-                    "title": "UPPSC Official Website",
-                    "link": "https://uppsc.up.nic.in/"
-                }
-            ]
-        }
-    ],
-    "admitCard": {
-        "startDate": "",
-        "link": "",
-        "details": "",
-        "instruction": []
-    },
-    "resultCard": {
-         "startDate": "",
-        "link": "",
-        "details": "",
-        "instruction": []
-    },
-    "answerKey": {
-        "startDate": "",
-        "link": "",
-        "details": "",
-        "instruction": []
-    }
-   
-},
-{
-    "examType": "entrance-exam",
-    "timestamp":1787190632,
-    "id": "MPESB-MP-Teachers-Teaching-in-Primary-and-Secondary-Classes-MSPSTET-2026-Online-Form",
-    "orgId": "Madhya Pradesh Employee Selection Board (MPESB)",
-    "name": "MPESB MP Teachers Teaching in Primary and Secondary Classes MSPSTET 2026 Online Form",
-    "importantDates": {
-        "startDate": "21/08/2026",
-        "lastDate": "04/09/2026",
-        "lastDateFeePayment": "04/09/2026",
-        "examDate": "12/10/2026",
-        "correctionDate": "09/09/2026"
-    },
-    "fee": {
-        "general": "1060",
-        "obc": "1060",
-        "ews": "1060",
-        "sc": "1060",
-        "st": "1060",
-        "ph": "1060",
-        "female": "",
-        "notes": "Portal Charges Including: Rs. 60/-\nPay the Examination Fee Through Cast at E Challan or Debit Card, Credit Card, Net Banking"
-    },
-    "totalPost": {
-        "count": 1156,
-        "notes": ""
-    },
-    "ageDetails": {
-        "minAge": 18,
-        "maxAge": 40,
-        "notes": "Age Relaxation Extra as per MPESB MP Primary and Secondary (Middle) School Teacher STET Exam 2026 Rules."
-    },
-    "vacancyDetails": [
-        {
-            "postName": "Primary and Secondary Teachers MSPSTET",
-            "totalPost": "",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 18,
-                "maxAge": 40,
-                "qualification": [
-                    "Only teachers working in primary and secondary schools will be eligible to apply for this examination.",
-                    "For More Eligibility Details Read the Notification"
-                ]
-            }
-        }
-    ],
-    "importantLinks": [
-        {
-            "title": "Apply Online",
-            "links": [
-                {
-                    "title": "Link Will be Activate on 21/08/2026",
-                    "link": "https://esb.mponline.gov.in/Portal/Examinations/Vyapam/examsList.aspx"
-                }
-            ]
-        },
-        {
-            "title": "Download Notification",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://esb.mp.gov.in/Rulebooks/RB_2026/MSPSTET_2026_RuleBookforTeachers_17082026.pdf"
-                }
-            ]
-        },
-        {
-            "title": "Official Website",
-            "links": [
-                {
-                    "title": "UPPSC Official Website",
-                    "link": "https://uppsc.up.nic.in/"
+                    "link": "https://www.ngel.in/ngel-home"
                 }
             ]
         }
@@ -12358,4 +13610,5 @@
         "instruction": []
     }
 }
+
 ]
