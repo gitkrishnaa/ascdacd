@@ -60,6 +60,7 @@
             }
         ],
         "admitCard": {
+            "show": true,
             "startDate": "28/05/2026",
             "linklist": [
                 {
@@ -73,6 +74,7 @@
             "instruction": []
         },
         "resultCard": {
+            "show": true,
             "linklist": [
                 {
                     "title": "Result Link",
@@ -86,6 +88,7 @@
             "instruction": []
         },
         "answerKey": {
+            "show": true,
             "startDate": "",
             "link": "https://bsebdeled.com/login",
             "details": "",
@@ -247,6 +250,7 @@
             }
         ],
         "admitCard": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -254,6 +258,7 @@
             "linklist": []
         },
         "resultCard": {
+            "show": true,
             "startDate": "07/08/2026",
             "linklist": [
                 {
@@ -267,6 +272,7 @@
             "instruction": []
         },
         "answerKey": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -476,6 +482,7 @@
             }
         ],
         "admitCard": {
+            "show": true,
             "linklist": [
                 {
                     "title": "Result Link",
@@ -489,6 +496,7 @@
             "instruction": []
         },
         "resultCard": {
+            "show": true,
             "startDate": "07/08/2026",
             "linklist": [
                 {
@@ -502,6 +510,7 @@
             "instruction": []
         },
         "answerKey": {
+            "show": true,
             "startDate": "03/06/2026",
             "link": "https://uppsc.up.nic.in/CandidatePages/Status/ViewAnswerKey.aspx?ID=5",
             "details": "",
@@ -697,6 +706,7 @@
             }
         ],
         "admitCard": {
+            "show": true,
             "startDate": "06/05/2026",
             "link": "https://admitcards.upessc.org/",
             "details": "",
@@ -710,6 +720,7 @@
             ]
         },
         "resultCard": {
+            "show": true,
             "startDate": "02/06/2026",
             "link": "Balak-Varg::https://doc.sarkariresults.org.in/UPPGT_Result_Male_SarkariResult_Com.pdf,Balika-Varg::https://doc.sarkariresults.org.in/UP_PGT_Result_SarkariResult_Female.pdf",
             "details": "",
@@ -728,6 +739,7 @@
             ]
         },
         "answerKey": {
+            "show": true,
             "startDate": "12/05/2026",
             "link": "https://www.upessc.net/pgtqcmay2026/login.aspx",
             "details": "",
@@ -906,6 +918,7 @@
             }
         ],
         "admitCard": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -913,6 +926,7 @@
             "linklist": []
         },
         "resultCard": {
+            "show": true,
             "startDate": "07/08/2026",
             "link": "https://doc.sarkariresults.org.in/FR-CAPF-2025-Engl-070826.pdf",
             "details": "",
@@ -926,6 +940,7 @@
             ]
         },
         "answerKey": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -1134,6 +1149,7 @@
             }
         ],
         "admitCard": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -1141,6 +1157,7 @@
             "linklist": []
         },
         "resultCard": {
+            "show": true,
             "startDate": "30/03/2026",
             "link": "Final-Result::https://upsc.gov.in/sites/default/files/FR-CDSE-II-2025-Engl-300326.pdf,OTA-Result::https://www.upsc.gov.in/sites/default/files/FR-CDSE-II-2025-OTA-Engl-070826.pdf",
             "details": "",
@@ -1159,6 +1176,7 @@
             ]
         },
         "answerKey": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -1290,6 +1308,7 @@
             }
         ],
         "admitCard": {
+            "show": true,
             "startDate": " 03/07/2026",
             "link": "https://esb.mp.gov.in/tacs/tac_2026/ADDET_TAC26/default_tac.htm",
             "details": "",
@@ -1303,6 +1322,7 @@
             ]
         },
         "resultCard": {
+            "show": true,
             "startDate": "07/08/2026",
             "link": "https://esb.mp.gov.in/results/RESULT_26/ADDET_RES26/default_Results.htm",
             "details": "",
@@ -1316,6 +1336,7 @@
             ]
         },
         "answerKey": {
+            "show": true,
             "startDate": "13/07/2026",
             "link": "https://addet2026.cbtexam.in/Home/ListofExam.aspx",
             "details": "",
@@ -1520,6 +1541,7 @@
             }
         ],
         "admitCard": {
+            "show": true,
             "startDate": "01/06/2026",
             "link": "https://apply-csbc.com/csbc_032025_we_admitcards/applicationIndex",
             "details": "",
@@ -1532,6 +1554,7 @@
             "instruction": []
         },
         "resultCard": {
+            "show": true,
             "startDate": "18/08/2026",
             "link": "https://csbc.bihar.gov.in/Advt/Results-03-2025-PET-18-08-2026.pdf",
             "details": "",
@@ -1544,6 +1567,7 @@
             ]
         },
         "answerKey": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -1745,6 +1769,7 @@
             }
         ],
         "admitCard": {
+            "show": true,
             "startDate": "06/08/2026",
             "link": "https://ibpsreg.ibps.in/boicojun26/oecla_aug26/login.php?appid=beb71e80ca57b23bf5fce4728732e5fa",
             "details": "",
@@ -1758,12 +1783,14 @@
             ]
         },
         "resultCard": {
+            "show": true,
             "link": "",
             "details": "",
             "instruction": [],
             "linklist": []
         },
         "answerKey": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -1908,6 +1935,7 @@
             }
         ],
         "admitCard": {
+            "show": true,
             "startDate": "21/07/2026",
             "link": "https://aiimsexams.ac.in/advertisement/6a2cdd89be81945a8330d450",
             "details": "Link will be Activate Soon",
@@ -1921,12 +1949,14 @@
             ]
         },
         "resultCard": {
+            "show": true,
             "link": "",
             "details": "",
             "instruction": [],
             "linklist": []
         },
         "answerKey": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -2063,6 +2093,7 @@
             }
         ],
         "admitCard": {
+            "show": true,
             "startDate": "Before Exam",
             "link": "",
             "details": "",
@@ -2070,12 +2101,14 @@
             "linklist": []
         },
         "resultCard": {
+            "show": true,
             "link": "",
             "details": "",
             "instruction": [],
             "linklist": []
         },
         "answerKey": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -2237,6 +2270,7 @@
             }
         ],
         "admitCard": {
+            "show": true,
             "startDate": "4 Days Before Exam",
             "link": "https://rrb.digialm.com/EForms/configuredHtml/33128/101714/login.html",
             "details": "",
@@ -2250,12 +2284,14 @@
             ]
         },
         "resultCard": {
+            "show": true,
             "link": "",
             "details": "",
             "instruction": [],
             "linklist": []
         },
         "answerKey": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -2345,6 +2381,7 @@
             }
         ],
         "admitCard": {
+            "show": true,
             "startDate": "20/9/2026",
             "link": "https://www.psc.cg.gov.in/PDFs/notifications/SAHAYAK_JILA_LOK_ABHIYOJAN_ADHIKARI-2026_EXAM_SCHEDULE%20(06-08-2026).pdf",
             "details": "",
@@ -2358,12 +2395,14 @@
             ]
         },
         "resultCard": {
+            "show": true,
             "link": "",
             "details": "",
             "instruction": [],
             "linklist": []
         },
         "answerKey": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -2683,6 +2722,7 @@
             }
         ],
         "admitCard": {
+            "show": true,
             "timestamp": 1786888338,
             "startDate": "10/08/2026",
             "link": "https://ibpsreg.ibps.in/crppoxvijun26/oecla_aug26/login.php?appid=a4fe64b0f7c33f95f3c4d31e06680eaf",
@@ -2697,12 +2737,14 @@
             ]
         },
         "resultCard": {
+            "show": true,
             "link": "",
             "details": "",
             "instruction": [],
             "linklist": []
         },
         "answerKey": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -2812,6 +2854,7 @@
             }
         ],
         "admitCard": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -2819,12 +2862,14 @@
             "linklist": []
         },
         "resultCard": {
+            "show": true,
             "link": "",
             "details": "",
             "instruction": [],
             "linklist": []
         },
         "answerKey": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -2919,6 +2964,7 @@
             }
         ],
         "admitCard": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -2926,12 +2972,14 @@
             "linklist": []
         },
         "resultCard": {
+            "show": true,
             "link": "",
             "details": "",
             "instruction": [],
             "linklist": []
         },
         "answerKey": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -3212,6 +3260,7 @@
             }
         ],
         "admitCard": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -3219,12 +3268,14 @@
             "linklist": []
         },
         "resultCard": {
+            "show": true,
             "link": "",
             "details": "",
             "instruction": [],
             "linklist": []
         },
         "answerKey": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -3310,6 +3361,7 @@
             }
         ],
         "admitCard": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -3317,12 +3369,14 @@
             "linklist": []
         },
         "resultCard": {
+            "show": true,
             "link": "",
             "details": "",
             "instruction": [],
             "linklist": []
         },
         "answerKey": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -3508,6 +3562,7 @@
             }
         ],
         "admitCard": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -3515,12 +3570,14 @@
             "linklist": []
         },
         "resultCard": {
+            "show": true,
             "link": "",
             "details": "",
             "instruction": [],
             "linklist": []
         },
         "answerKey": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -3757,6 +3814,7 @@
             }
         ],
         "admitCard": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -3764,12 +3822,14 @@
             "linklist": []
         },
         "resultCard": {
+            "show": true,
             "link": "",
             "details": "",
             "instruction": [],
             "linklist": []
         },
         "answerKey": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -3850,6 +3910,7 @@
             }
         ],
         "admitCard": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -3857,12 +3918,14 @@
             "linklist": []
         },
         "resultCard": {
+            "show": true,
             "link": "",
             "details": "",
             "instruction": [],
             "linklist": []
         },
         "answerKey": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -3979,6 +4042,7 @@
             }
         ],
         "admitCard": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -3986,12 +4050,14 @@
             "linklist": []
         },
         "resultCard": {
+            "show": true,
             "link": "",
             "details": "",
             "instruction": [],
             "linklist": []
         },
         "answerKey": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -4072,6 +4138,7 @@
             }
         ],
         "admitCard": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -4079,12 +4146,14 @@
             "linklist": []
         },
         "resultCard": {
+            "show": true,
             "link": "",
             "details": "",
             "instruction": [],
             "linklist": []
         },
         "answerKey": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -4169,6 +4238,7 @@
             }
         ],
         "admitCard": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -4176,12 +4246,14 @@
             "linklist": []
         },
         "resultCard": {
+            "show": true,
             "link": "",
             "details": "",
             "instruction": [],
             "linklist": []
         },
         "answerKey": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -4285,6 +4357,7 @@
             }
         ],
         "admitCard": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -4292,12 +4365,14 @@
             "linklist": []
         },
         "resultCard": {
+            "show": true,
             "link": "",
             "details": "",
             "instruction": [],
             "linklist": []
         },
         "answerKey": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -4433,6 +4508,7 @@
             }
         ],
         "admitCard": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -4440,12 +4516,14 @@
             "linklist": []
         },
         "resultCard": {
+            "show": true,
             "link": "",
             "details": "",
             "instruction": [],
             "linklist": []
         },
         "answerKey": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -4588,6 +4666,7 @@
             }
         ],
         "admitCard": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -4595,12 +4674,14 @@
             "linklist": []
         },
         "resultCard": {
+            "show": true,
             "link": "",
             "details": "",
             "instruction": [],
             "linklist": []
         },
         "answerKey": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -5047,6 +5128,7 @@
             }
         ],
         "admitCard": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -5054,12 +5136,14 @@
             "linklist": []
         },
         "resultCard": {
+            "show": true,
             "link": "",
             "details": "",
             "instruction": [],
             "linklist": []
         },
         "answerKey": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -5435,6 +5519,7 @@
             }
         ],
         "admitCard": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -5442,12 +5527,14 @@
             "linklist": []
         },
         "resultCard": {
+            "show": true,
             "link": "",
             "details": "",
             "instruction": [],
             "linklist": []
         },
         "answerKey": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -5543,6 +5630,7 @@
             }
         ],
         "admitCard": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -5550,12 +5638,14 @@
             "linklist": []
         },
         "resultCard": {
+            "show": true,
             "link": "",
             "details": "",
             "instruction": [],
             "linklist": []
         },
         "answerKey": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -5824,6 +5914,7 @@
             }
         ],
         "admitCard": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -5831,12 +5922,14 @@
             "linklist": []
         },
         "resultCard": {
+            "show": true,
             "link": "",
             "details": "",
             "instruction": [],
             "linklist": []
         },
         "answerKey": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -5999,6 +6092,7 @@
             }
         ],
         "admitCard": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -6006,12 +6100,14 @@
             "linklist": []
         },
         "resultCard": {
+            "show": true,
             "link": "",
             "details": "",
             "instruction": [],
             "linklist": []
         },
         "answerKey": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -6375,6 +6471,7 @@
             }
         ],
         "admitCard": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -6382,12 +6479,14 @@
             "linklist": []
         },
         "resultCard": {
+            "show": true,
             "link": "",
             "details": "",
             "instruction": [],
             "linklist": []
         },
         "answerKey": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -6760,6 +6859,7 @@
             }
         ],
         "admitCard": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -6767,12 +6867,14 @@
             "linklist": []
         },
         "resultCard": {
+            "show": true,
             "link": "",
             "details": "",
             "instruction": [],
             "linklist": []
         },
         "answerKey": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -6858,6 +6960,7 @@
             }
         ],
         "admitCard": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -6865,12 +6968,14 @@
             "linklist": []
         },
         "resultCard": {
+            "show": true,
             "link": "",
             "details": "",
             "instruction": [],
             "linklist": []
         },
         "answerKey": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -6987,6 +7092,7 @@
             }
         ],
         "admitCard": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -6994,12 +7100,14 @@
             "linklist": []
         },
         "resultCard": {
+            "show": true,
             "link": "",
             "details": "",
             "instruction": [],
             "linklist": []
         },
         "answerKey": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -7111,6 +7219,7 @@
             }
         ],
         "admitCard": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -7118,12 +7227,14 @@
             "linklist": []
         },
         "resultCard": {
+            "show": true,
             "link": "",
             "details": "",
             "instruction": [],
             "linklist": []
         },
         "answerKey": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -7295,6 +7406,7 @@
             }
         ],
         "admitCard": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -7302,12 +7414,14 @@
             "linklist": []
         },
         "resultCard": {
+            "show": true,
             "link": "",
             "details": "",
             "instruction": [],
             "linklist": []
         },
         "answerKey": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -7462,6 +7576,7 @@
             }
         ],
         "admitCard": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -7469,12 +7584,14 @@
             "linklist": []
         },
         "resultCard": {
+            "show": true,
             "link": "",
             "details": "",
             "instruction": [],
             "linklist": []
         },
         "answerKey": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -7574,6 +7691,7 @@
             }
         ],
         "admitCard": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -7581,12 +7699,14 @@
             "linklist": []
         },
         "resultCard": {
+            "show": true,
             "link": "",
             "details": "",
             "instruction": [],
             "linklist": []
         },
         "answerKey": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -7644,9 +7764,10 @@
         ]
     },
     {
-         "metadata":{"link": "https://www.sarkariresult.com/2026/mpesb-group2-subgroup-4-aug26/"},
-       "advt_no":"",
-        
+        "metadata": {
+            "link": "https://www.sarkariresult.com/2026/mpesb-group2-subgroup-4-aug26/"
+        },
+        "advt_no": "",
         "timestamp": 1786848518,
         "examType": "job",
         "id": "MPESB-MP-Group-2-Sub-Group-4-Patwari-and-Other-Post-Recruitment-Test-2026",
@@ -7731,6 +7852,7 @@
             }
         ],
         "admitCard": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -7738,12 +7860,14 @@
             "linklist": []
         },
         "resultCard": {
+            "show": true,
             "link": "",
             "details": "",
             "instruction": [],
             "linklist": []
         },
         "answerKey": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -7832,6 +7956,7 @@
             }
         ],
         "admitCard": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -7839,12 +7964,14 @@
             "linklist": []
         },
         "resultCard": {
+            "show": true,
             "link": "",
             "details": "",
             "instruction": [],
             "linklist": []
         },
         "answerKey": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -8194,6 +8321,7 @@
             }
         ],
         "admitCard": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -8201,12 +8329,14 @@
             "linklist": []
         },
         "resultCard": {
+            "show": true,
             "link": "",
             "details": "",
             "instruction": [],
             "linklist": []
         },
         "answerKey": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -8299,6 +8429,7 @@
             }
         ],
         "admitCard": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -8306,12 +8437,14 @@
             "linklist": []
         },
         "resultCard": {
+            "show": true,
             "link": "",
             "details": "",
             "instruction": [],
             "linklist": []
         },
         "answerKey": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -8586,6 +8719,7 @@
             }
         ],
         "admitCard": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -8593,12 +8727,14 @@
             "linklist": []
         },
         "resultCard": {
+            "show": true,
             "link": "",
             "details": "",
             "instruction": [],
             "linklist": []
         },
         "answerKey": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -8872,6 +9008,7 @@
             }
         ],
         "admitCard": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -8879,12 +9016,14 @@
             "linklist": []
         },
         "resultCard": {
+            "show": true,
             "link": "",
             "details": "",
             "instruction": [],
             "linklist": []
         },
         "answerKey": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -9451,6 +9590,7 @@
             }
         ],
         "admitCard": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -9458,12 +9598,14 @@
             "linklist": []
         },
         "resultCard": {
+            "show": true,
             "link": "",
             "details": "",
             "instruction": [],
             "linklist": []
         },
         "answerKey": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -9636,6 +9778,7 @@
             }
         ],
         "admitCard": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -9643,12 +9786,14 @@
             "linklist": []
         },
         "resultCard": {
+            "show": true,
             "link": "",
             "details": "",
             "instruction": [],
             "linklist": []
         },
         "answerKey": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -9852,6 +9997,7 @@
             }
         ],
         "admitCard": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -9859,12 +10005,14 @@
             "linklist": []
         },
         "resultCard": {
+            "show": true,
             "link": "",
             "details": "",
             "instruction": [],
             "linklist": []
         },
         "answerKey": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -9948,6 +10096,7 @@
             }
         ],
         "admitCard": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -9955,12 +10104,14 @@
             "linklist": []
         },
         "resultCard": {
+            "show": true,
             "link": "",
             "details": "",
             "instruction": [],
             "linklist": []
         },
         "answerKey": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -10144,6 +10295,7 @@
             }
         ],
         "admitCard": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -10151,12 +10303,14 @@
             "linklist": []
         },
         "resultCard": {
+            "show": true,
             "link": "",
             "details": "",
             "instruction": [],
             "linklist": []
         },
         "answerKey": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -10316,6 +10470,7 @@
             }
         ],
         "admitCard": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -10323,12 +10478,14 @@
             "linklist": []
         },
         "resultCard": {
+            "show": true,
             "link": "",
             "details": "",
             "instruction": [],
             "linklist": []
         },
         "answerKey": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -10436,6 +10593,7 @@
             }
         ],
         "admitCard": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -10443,12 +10601,14 @@
             "linklist": []
         },
         "resultCard": {
+            "show": true,
             "link": "",
             "details": "",
             "instruction": [],
             "linklist": []
         },
         "answerKey": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -10714,6 +10874,7 @@
             }
         ],
         "admitCard": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -10721,12 +10882,14 @@
             "linklist": []
         },
         "resultCard": {
+            "show": true,
             "link": "",
             "details": "",
             "instruction": [],
             "linklist": []
         },
         "answerKey": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -10847,6 +11010,7 @@
             }
         ],
         "admitCard": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -10854,12 +11018,14 @@
             "linklist": []
         },
         "resultCard": {
+            "show": true,
             "link": "",
             "details": "",
             "instruction": [],
             "linklist": []
         },
         "answerKey": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -10867,212 +11033,212 @@
             "linklist": []
         },
         "table": [
-        {
-            "title": "Category Wise Vacancy Details",
-            "details": "",
-            "notes": "",
-            "list": [
-                [
-                    "RRB Name",
-                    "UR",
-                    "OBC",
-                    "EWS",
-                    "SC",
-                    "ST",
-                    "Total"
-                ],
-                [
-                    "RRB Ahmedabad",
-                    "45",
-                    "38",
-                    "17",
-                    "24",
-                    "19",
-                    "143"
-                ],
-                [
-                    "RRB Ajmer",
-                    "110",
-                    "68",
-                    "23",
-                    "41",
-                    "10",
-                    "252"
-                ],
-                [
-                    "RRB Bengaluru",
-                    "119",
-                    "79",
-                    "33",
-                    "45",
-                    "23",
-                    "299"
-                ],
-                [
-                    "RRB Bhopal",
-                    "58",
-                    "27",
-                    "8",
-                    "17",
-                    "10",
-                    "120"
-                ],
-                [
-                    "RRB Bhubaneswar",
-                    "40",
-                    "19",
-                    "9",
-                    "14",
-                    "4",
-                    "86"
-                ],
-                [
-                    "RRB Bilaspur",
-                    "51",
-                    "22",
-                    "13",
-                    "19",
-                    "19",
-                    "124"
-                ],
-                [
-                    "RRB Chandigarh",
-                    "77",
-                    "49",
-                    "13",
-                    "31",
-                    "13",
-                    "183"
-                ],
-                [
-                    "RRB Chennai",
-                    "152",
-                    "83",
-                    "44",
-                    "62",
-                    "36",
-                    "377"
-                ],
-                [
-                    "RRB Gorakhpur",
-                    "67",
-                    "40",
-                    "25",
-                    "44",
-                    "22",
-                    "198"
-                ],
-                [
-                    "RRB Guwahati",
-                    "132",
-                    "87",
-                    "31",
-                    "54",
-                    "29",
-                    "333"
-                ],
-                [
-                    "RRB Jammu-Srinagar",
-                    "86",
-                    "27",
-                    "11",
-                    "16",
-                    "12",
-                    "152"
-                ],
-                [
-                    "RRB Kolkata",
-                    "195",
-                    "101",
-                    "52",
-                    "58",
-                    "51",
-                    "457"
-                ],
-                [
-                    "RRB Malda",
-                    "9",
-                    "7",
-                    "3",
-                    "8",
-                    "3",
-                    "30"
-                ],
-                [
-                    "RRB Mumbai",
-                    "175",
-                    "96",
-                    "37",
-                    "67",
-                    "36",
-                    "411"
-                ],
-                [
-                    "RRB Muzaffarpur",
-                    "7",
-                    "3",
-                    "1",
-                    "4",
-                    "2",
-                    "17"
-                ],
-                [
-                    "RRB Patna",
-                    "29",
-                    "15",
-                    "5",
-                    "20",
-                    "11",
-                    "80"
-                ],
-                [
-                    "RRB Prayagraj",
-                    "164",
-                    "67",
-                    "28",
-                    "49",
-                    "33",
-                    "341"
-                ],
-                [
-                    "RRB Ranchi",
-                    "49",
-                    "31",
-                    "13",
-                    "21",
-                    "8",
-                    "122"
-                ],
-                [
-                    "RRB Secunderabad",
-                    "68",
-                    "12",
-                    "9",
-                    "15",
-                    "6",
-                    "110"
-                ],
-                [
-                    "RRB Siliguri",
-                    "35",
-                    "26",
-                    "12",
-                    "12",
-                    "7",
-                    "92"
-                ],
-                [
-                    "RRB Thiruvananthapuram",
-                    "45",
-                    "22",
-                    "11",
-                    "11",
-                    "12",
-                    "101"
+            {
+                "title": "Category Wise Vacancy Details",
+                "details": "",
+                "notes": "",
+                "list": [
+                    [
+                        "RRB Name",
+                        "UR",
+                        "OBC",
+                        "EWS",
+                        "SC",
+                        "ST",
+                        "Total"
+                    ],
+                    [
+                        "RRB Ahmedabad",
+                        "45",
+                        "38",
+                        "17",
+                        "24",
+                        "19",
+                        "143"
+                    ],
+                    [
+                        "RRB Ajmer",
+                        "110",
+                        "68",
+                        "23",
+                        "41",
+                        "10",
+                        "252"
+                    ],
+                    [
+                        "RRB Bengaluru",
+                        "119",
+                        "79",
+                        "33",
+                        "45",
+                        "23",
+                        "299"
+                    ],
+                    [
+                        "RRB Bhopal",
+                        "58",
+                        "27",
+                        "8",
+                        "17",
+                        "10",
+                        "120"
+                    ],
+                    [
+                        "RRB Bhubaneswar",
+                        "40",
+                        "19",
+                        "9",
+                        "14",
+                        "4",
+                        "86"
+                    ],
+                    [
+                        "RRB Bilaspur",
+                        "51",
+                        "22",
+                        "13",
+                        "19",
+                        "19",
+                        "124"
+                    ],
+                    [
+                        "RRB Chandigarh",
+                        "77",
+                        "49",
+                        "13",
+                        "31",
+                        "13",
+                        "183"
+                    ],
+                    [
+                        "RRB Chennai",
+                        "152",
+                        "83",
+                        "44",
+                        "62",
+                        "36",
+                        "377"
+                    ],
+                    [
+                        "RRB Gorakhpur",
+                        "67",
+                        "40",
+                        "25",
+                        "44",
+                        "22",
+                        "198"
+                    ],
+                    [
+                        "RRB Guwahati",
+                        "132",
+                        "87",
+                        "31",
+                        "54",
+                        "29",
+                        "333"
+                    ],
+                    [
+                        "RRB Jammu-Srinagar",
+                        "86",
+                        "27",
+                        "11",
+                        "16",
+                        "12",
+                        "152"
+                    ],
+                    [
+                        "RRB Kolkata",
+                        "195",
+                        "101",
+                        "52",
+                        "58",
+                        "51",
+                        "457"
+                    ],
+                    [
+                        "RRB Malda",
+                        "9",
+                        "7",
+                        "3",
+                        "8",
+                        "3",
+                        "30"
+                    ],
+                    [
+                        "RRB Mumbai",
+                        "175",
+                        "96",
+                        "37",
+                        "67",
+                        "36",
+                        "411"
+                    ],
+                    [
+                        "RRB Muzaffarpur",
+                        "7",
+                        "3",
+                        "1",
+                        "4",
+                        "2",
+                        "17"
+                    ],
+                    [
+                        "RRB Patna",
+                        "29",
+                        "15",
+                        "5",
+                        "20",
+                        "11",
+                        "80"
+                    ],
+                    [
+                        "RRB Prayagraj",
+                        "164",
+                        "67",
+                        "28",
+                        "49",
+                        "33",
+                        "341"
+                    ],
+                    [
+                        "RRB Ranchi",
+                        "49",
+                        "31",
+                        "13",
+                        "21",
+                        "8",
+                        "122"
+                    ],
+                    [
+                        "RRB Secunderabad",
+                        "68",
+                        "12",
+                        "9",
+                        "15",
+                        "6",
+                        "110"
+                    ],
+                    [
+                        "RRB Siliguri",
+                        "35",
+                        "26",
+                        "12",
+                        "12",
+                        "7",
+                        "92"
+                    ],
+                    [
+                        "RRB Thiruvananthapuram",
+                        "45",
+                        "22",
+                        "11",
+                        "11",
+                        "12",
+                        "101"
+                    ]
                 ]
-            ]
-        }
-    ]
+            }
+        ]
     },
     {
         "metadata": {
@@ -11188,6 +11354,7 @@
             }
         ],
         "admitCard": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -11195,12 +11362,14 @@
             "linklist": []
         },
         "resultCard": {
+            "show": true,
             "link": "",
             "details": "",
             "instruction": [],
             "linklist": []
         },
         "answerKey": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -11308,6 +11477,7 @@
             }
         ],
         "admitCard": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -11315,12 +11485,14 @@
             "linklist": []
         },
         "resultCard": {
+            "show": true,
             "link": "",
             "details": "",
             "instruction": [],
             "linklist": []
         },
         "answerKey": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -11518,6 +11690,7 @@
             }
         ],
         "admitCard": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -11525,12 +11698,14 @@
             "linklist": []
         },
         "resultCard": {
+            "show": true,
             "link": "",
             "details": "",
             "instruction": [],
             "linklist": []
         },
         "answerKey": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -11635,17 +11810,20 @@
             }
         ],
         "admitCard": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
             "instruction": []
         },
         "resultCard": {
+            "show": true,
             "link": "",
             "details": "",
             "instruction": []
         },
         "answerKey": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -11954,17 +12132,20 @@
             }
         ],
         "admitCard": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
             "instruction": []
         },
         "resultCard": {
+            "show": true,
             "link": "",
             "details": "",
             "instruction": []
         },
         "answerKey": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -12056,17 +12237,20 @@
             }
         ],
         "admitCard": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
             "instruction": []
         },
         "resultCard": {
+            "show": true,
             "link": "",
             "details": "",
             "instruction": []
         },
         "answerKey": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -12159,17 +12343,20 @@
             }
         ],
         "admitCard": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
             "instruction": []
         },
         "resultCard": {
+            "show": true,
             "link": "",
             "details": "",
             "instruction": []
         },
         "answerKey": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -12300,18 +12487,21 @@
             }
         ],
         "admitCard": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
             "instruction": []
         },
         "resultCard": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
             "instruction": []
         },
         "answerKey": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -12403,17 +12593,20 @@
             }
         ],
         "admitCard": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
             "instruction": []
         },
         "resultCard": {
+            "show": true,
             "link": "",
             "details": "",
             "instruction": []
         },
         "answerKey": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -12512,17 +12705,20 @@
             }
         ],
         "admitCard": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
             "instruction": []
         },
         "resultCard": {
+            "show": true,
             "link": "",
             "details": "",
             "instruction": []
         },
         "answerKey": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -12630,17 +12826,20 @@
             }
         ],
         "admitCard": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
             "instruction": []
         },
         "resultCard": {
+            "show": true,
             "link": "",
             "details": "",
             "instruction": []
         },
         "answerKey": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -12743,17 +12942,20 @@
             }
         ],
         "admitCard": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
             "instruction": []
         },
         "resultCard": {
+            "show": true,
             "link": "",
             "details": "",
             "instruction": []
         },
         "answerKey": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -12846,17 +13048,20 @@
             }
         ],
         "admitCard": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
             "instruction": []
         },
         "resultCard": {
+            "show": true,
             "link": "",
             "details": "",
             "instruction": []
         },
         "answerKey": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -13176,17 +13381,20 @@
             }
         ],
         "admitCard": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
             "instruction": []
         },
         "resultCard": {
+            "show": true,
             "link": "",
             "details": "",
             "instruction": []
         },
         "answerKey": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -13330,17 +13538,20 @@
             }
         ],
         "admitCard": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
             "instruction": []
         },
         "resultCard": {
+            "show": true,
             "link": "",
             "details": "",
             "instruction": []
         },
         "answerKey": {
+            "show": true,
             "startDate": "",
             "link": "",
             "details": "",
@@ -13348,1178 +13559,1206 @@
         }
     },
     {
-         "metadata":{"link":"https://www.sarkariresult.com/2026/ntpc-ngel-august26/"},
-       "advt_no":"04/26",
-    "examType": "job",
-    "timestamp":1787467451,
-    "id": "NTPC-NGEL-Engineer-and-Executive-Post-Online-Form-2026",
-    "orgId": "NTPC Green Energy Limited (NGEL)",
-    "name": "NTPC NGEL Engineer and Executive Post Online Form 2026",
-    "importantDates": {
-        "startDate": "18/08/2026",
-        "lastDate": " 07/09/2026 (upto 06 PM Only.)",
-        "lastDateFeePayment": "07/09/2026",
-        "examDate": "As per Schedule"
-    },
-    "fee": {
-        "general": "500",
-        "obc": "500",
-        "ews": "500",
-        "sc": "0",
-        "st": "0",
-        "ph": "",
-        "female": "",
-        "notes": "Pay the Exam Fee Through Online / Offline Fee Mode Only"
-    },
-    "totalPost": {
-        "count": 147,
-        "notes": ""
-    },
-    "ageDetails": {
-        "minAge": 18,
-        "maxAge": 35,
-        "notes": "Age Relaxation Extra as per NTPC NGEL Engineer and Executive Post Rules advt. No. 04/26."
-    },
-    "vacancyDetails": [
-        {
-            "postName": "Engineer (RE-Civil)",
-            "totalPost": "43",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 0,
-                "maxAge": 0,
-                "qualification": [
-                    "BE/B.Tech/B.Sc. (Engg.) Degree in Civil Engineering with 65% Marks.",
-                    "for SC / ST / PH : 55% Marks.",
-                    "3 Year Experience.",
-                    "More Eligibility Detail Read The Notification."
-                ]
-            }
+        "metadata": {
+            "link": "https://www.sarkariresult.com/2026/ntpc-ngel-august26/"
         },
-        {
-            "postName": "Engineer (RE-Electrical)",
-            "totalPost": "69",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 0,
-                "maxAge": 0,
-                "qualification": [
-                    "BE/B.Tech/B.Sc. (Engg.) Degree in Electrical/Electrical or Electronics/Electrical, Instrumentation & Control/Power Systems & High Voltage/Power Electronics/Power Engineering with 65% marks.",
-                    "for SC/ST/PH : 55% marks.",
-                    "03 years Experience.",
-                    "More Eligibility Detail Read The Notification."
-                ]
-            }
+        "advt_no": "04/26",
+        "examType": "job",
+        "timestamp": 1787467451,
+        "id": "NTPC-NGEL-Engineer-and-Executive-Post-Online-Form-2026",
+        "orgId": "NTPC Green Energy Limited (NGEL)",
+        "name": "NTPC NGEL Engineer and Executive Post Online Form 2026",
+        "importantDates": {
+            "startDate": "18/08/2026",
+            "lastDate": " 07/09/2026 (upto 06 PM Only.)",
+            "lastDateFeePayment": "07/09/2026",
+            "examDate": "As per Schedule"
         },
-        {
-            "postName": "Engineer (RE-Mechanical)",
-            "totalPost": "09",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 0,
-                "maxAge": 0,
-                "qualification": [
-                    "BE/B.Tech/B.Sc. (Engg.) Degree in Mechanical/Production/Industrial Engineering/Production & Industrial Engineering/Power Engineering with 65% marks.",
-                    "For : SC/ST/PwBD: 55% marks.",
-                    "3 Year Experience.",
-                    "More Eligibility Detail Read The Notification."
-                ]
-            }
+        "fee": {
+            "general": "500",
+            "obc": "500",
+            "ews": "500",
+            "sc": "0",
+            "st": "0",
+            "ph": "",
+            "female": "",
+            "notes": "Pay the Exam Fee Through Online / Offline Fee Mode Only"
         },
-        {
-            "postName": "Engineer (RE-Safety)",
-            "totalPost": "07",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 0,
-                "maxAge": 0,
-                "qualification": [
-                    "Engineering Degree in Mechanical/Production/Electrical/Civil/Power Engineering with at least 65% marks along with full-time Diploma in Industrial Safety from recognized institution OR Full Time Engineering Degree in Industrial Safety/Fire & Safety with at least 65% marks.",
-                    "For SC/ST/PwBD:  55% marks.",
-                    "3 Year Experience.",
-                    "More Eligibility Detail Read The Notification."
-                ]
-            }
+        "totalPost": {
+            "count": 147,
+            "notes": ""
         },
-        {
-            "postName": "Executive (RE-HR)",
-            "totalPost": "4",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 0,
-                "maxAge": 0,
-                "qualification": [
-                    "Bachelor Degree with Master Degree/Post Graduate Diploma/Post Graduate Program in Management with specialization in Human Resources/Industrial Relations/Personnel Management or MHROD or MBA with specialization in HR, with at least 65% marks.",
-                    "For : SC/ST/PwBD 55% marks.",
-                    "3 Year Experience.",
-                    "More Eligibility Detail Read The Notification."
-                ]
-            }
+        "ageDetails": {
+            "minAge": 18,
+            "maxAge": 35,
+            "notes": "Age Relaxation Extra as per NTPC NGEL Engineer and Executive Post Rules advt. No. 04/26."
         },
-        {
-            "postName": "Executive (RE-Finance)",
-            "totalPost": "9",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 0,
-                "maxAge": 0,
-                "qualification": [
-                    "CA/CMA. Minimum 01 year post-qualification executive experience in Finance/Accounts, excluding articleship period.",
-                    "More Eligibility Detail Read The Notification."
-                ]
-            }
-        },
-        {
-            "postName": "Executive (RE-CSR)",
-            "totalPost": "5",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 0,
-                "maxAge": 0,
-                "qualification": [
-                    "PG Degree/PG Diploma/PG Programme in specified Rural/Development/Social Development fields, MSW, MBA or Graduate in Engineering with at least 65% marks from recognized",
-                    "For SC / ST / PH : 55% marks.",
-                    "3 Year Experience.",
-                    "More Eligibility Detail Read The Notification."
-                ]
-            }
-        },
-        {
-            "postName": "Executive (RE-Rajbhasha)",
-            "totalPost": "1",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 0,
-                "maxAge": 0,
-                "qualification": [
-                    "Master Degree in Hindi/English or other prescribed subject with the required Hindi/English language qualification as mentioned in the notification.",
-                    "3 Year Experience.",
-                    "More Eligibility Detail Read The Notification."
-                ]
-            }
-        }
-    ],
-    "importantLinks": [
-        {
-            "title": "Apply Online",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://cdn.digialm.com/EForms/configuredHtml/1258/101871/Index.html"
+        "vacancyDetails": [
+            {
+                "postName": "Engineer (RE-Civil)",
+                "totalPost": "43",
+                "category": {
+                    "ur": "",
+                    "obc": "",
+                    "ews": "",
+                    "sc": "",
+                    "st": "",
+                    "female": "",
+                    "ph": ""
+                },
+                "eligiblity": {
+                    "minAge": 0,
+                    "maxAge": 0,
+                    "qualification": [
+                        "BE/B.Tech/B.Sc. (Engg.) Degree in Civil Engineering with 65% Marks.",
+                        "for SC / ST / PH : 55% Marks.",
+                        "3 Year Experience.",
+                        "More Eligibility Detail Read The Notification."
+                    ]
                 }
-            ]
-        },
-        {
-            "title": "Download Notification",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://g03.tcsion.com//per/g03/pub/726/EForms/image/ImageDocUpload/71161/6/6701774263.pdf"
-                }
-            ]
-        },
-        {
-            "title": "Official Website",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://www.ngel.in/ngel-home"
-                }
-            ]
-        }
-    ],
-    "admitCard": {
-        "startDate": "",
-        "link": "",
-        "details": "",
-        "instruction": []
-    },
-    "resultCard": {
-        "link": "",
-        "details": "",
-        "instruction": []
-    },
-    "answerKey": {
-        "startDate": "",
-        "link": "",
-        "details": "",
-        "instruction": []
-    }
-},
-{
-        "timestamp":1787906987,
-    "metadata":{"link":"https://www.sarkariresult.com/2026/iob-security-guard-august26/"},
-    "examType": "job",
-    "advt_no":"",
-    "id": "IOB-Indian-Overseas-Bank-Security-Guard-Recruitment-2026",
-
-    "orgId": "Indian Overseas Bank (IOB)",
-    "name": "IOB Indian Overseas Bank Security Guard Recruitment 2026",
-    "importantDates": {
-        "startDate": "25/08/2026",
-        "lastDate": "14/09/2026",
-        "lastDateFeePayment": "14/09/2026",
-        "examDate": "As per Schedule"
-    },
-    "fee": {
-        "general": "0",
-        "obc": "0",
-        "ews": "0",
-        "sc": "0",
-        "st": "0",
-        "ph": "0",
-        "female": "",
-        "notes": ""
-    },
-    "totalPost": {
-        "count": 25,
-        "notes": ""
-    },
-    "ageDetails": {
-        "minAge": 18,
-        "maxAge": 0,
-        "notes": "Age Relaxation Extra as per IOB Indian Overseas Bank Security Guard Recruitment 2026 Rules."
-    },
-    "vacancyDetails": [
-        {
-            "postName": "Security Guard",
-            "totalPost": "",
-            "category": {
-                "ur": "12",
-                "obc": "7",
-                "ews": "2",
-                "sc": "4",
-                "st": "2",
-                "female": "",
-                "ph": ""
             },
-            "eligiblity": {
-                "minAge": 18,
-                "maxAge": 0,
-                "qualification": [
-                    "Only for Ex Service Man / Ex Agniveer (Army / Navy / Airforce)",
-                    "10th High School Exam Passed"
+            {
+                "postName": "Engineer (RE-Electrical)",
+                "totalPost": "69",
+                "category": {
+                    "ur": "",
+                    "obc": "",
+                    "ews": "",
+                    "sc": "",
+                    "st": "",
+                    "female": "",
+                    "ph": ""
+                },
+                "eligiblity": {
+                    "minAge": 0,
+                    "maxAge": 0,
+                    "qualification": [
+                        "BE/B.Tech/B.Sc. (Engg.) Degree in Electrical/Electrical or Electronics/Electrical, Instrumentation & Control/Power Systems & High Voltage/Power Electronics/Power Engineering with 65% marks.",
+                        "for SC/ST/PH : 55% marks.",
+                        "03 years Experience.",
+                        "More Eligibility Detail Read The Notification."
+                    ]
+                }
+            },
+            {
+                "postName": "Engineer (RE-Mechanical)",
+                "totalPost": "09",
+                "category": {
+                    "ur": "",
+                    "obc": "",
+                    "ews": "",
+                    "sc": "",
+                    "st": "",
+                    "female": "",
+                    "ph": ""
+                },
+                "eligiblity": {
+                    "minAge": 0,
+                    "maxAge": 0,
+                    "qualification": [
+                        "BE/B.Tech/B.Sc. (Engg.) Degree in Mechanical/Production/Industrial Engineering/Production & Industrial Engineering/Power Engineering with 65% marks.",
+                        "For : SC/ST/PwBD: 55% marks.",
+                        "3 Year Experience.",
+                        "More Eligibility Detail Read The Notification."
+                    ]
+                }
+            },
+            {
+                "postName": "Engineer (RE-Safety)",
+                "totalPost": "07",
+                "category": {
+                    "ur": "",
+                    "obc": "",
+                    "ews": "",
+                    "sc": "",
+                    "st": "",
+                    "female": "",
+                    "ph": ""
+                },
+                "eligiblity": {
+                    "minAge": 0,
+                    "maxAge": 0,
+                    "qualification": [
+                        "Engineering Degree in Mechanical/Production/Electrical/Civil/Power Engineering with at least 65% marks along with full-time Diploma in Industrial Safety from recognized institution OR Full Time Engineering Degree in Industrial Safety/Fire & Safety with at least 65% marks.",
+                        "For SC/ST/PwBD:  55% marks.",
+                        "3 Year Experience.",
+                        "More Eligibility Detail Read The Notification."
+                    ]
+                }
+            },
+            {
+                "postName": "Executive (RE-HR)",
+                "totalPost": "4",
+                "category": {
+                    "ur": "",
+                    "obc": "",
+                    "ews": "",
+                    "sc": "",
+                    "st": "",
+                    "female": "",
+                    "ph": ""
+                },
+                "eligiblity": {
+                    "minAge": 0,
+                    "maxAge": 0,
+                    "qualification": [
+                        "Bachelor Degree with Master Degree/Post Graduate Diploma/Post Graduate Program in Management with specialization in Human Resources/Industrial Relations/Personnel Management or MHROD or MBA with specialization in HR, with at least 65% marks.",
+                        "For : SC/ST/PwBD 55% marks.",
+                        "3 Year Experience.",
+                        "More Eligibility Detail Read The Notification."
+                    ]
+                }
+            },
+            {
+                "postName": "Executive (RE-Finance)",
+                "totalPost": "9",
+                "category": {
+                    "ur": "",
+                    "obc": "",
+                    "ews": "",
+                    "sc": "",
+                    "st": "",
+                    "female": "",
+                    "ph": ""
+                },
+                "eligiblity": {
+                    "minAge": 0,
+                    "maxAge": 0,
+                    "qualification": [
+                        "CA/CMA. Minimum 01 year post-qualification executive experience in Finance/Accounts, excluding articleship period.",
+                        "More Eligibility Detail Read The Notification."
+                    ]
+                }
+            },
+            {
+                "postName": "Executive (RE-CSR)",
+                "totalPost": "5",
+                "category": {
+                    "ur": "",
+                    "obc": "",
+                    "ews": "",
+                    "sc": "",
+                    "st": "",
+                    "female": "",
+                    "ph": ""
+                },
+                "eligiblity": {
+                    "minAge": 0,
+                    "maxAge": 0,
+                    "qualification": [
+                        "PG Degree/PG Diploma/PG Programme in specified Rural/Development/Social Development fields, MSW, MBA or Graduate in Engineering with at least 65% marks from recognized",
+                        "For SC / ST / PH : 55% marks.",
+                        "3 Year Experience.",
+                        "More Eligibility Detail Read The Notification."
+                    ]
+                }
+            },
+            {
+                "postName": "Executive (RE-Rajbhasha)",
+                "totalPost": "1",
+                "category": {
+                    "ur": "",
+                    "obc": "",
+                    "ews": "",
+                    "sc": "",
+                    "st": "",
+                    "female": "",
+                    "ph": ""
+                },
+                "eligiblity": {
+                    "minAge": 0,
+                    "maxAge": 0,
+                    "qualification": [
+                        "Master Degree in Hindi/English or other prescribed subject with the required Hindi/English language qualification as mentioned in the notification.",
+                        "3 Year Experience.",
+                        "More Eligibility Detail Read The Notification."
+                    ]
+                }
+            }
+        ],
+        "importantLinks": [
+            {
+                "title": "Apply Online",
+                "links": [
+                    {
+                        "title": "",
+                        "link": "https://cdn.digialm.com/EForms/configuredHtml/1258/101871/Index.html"
+                    }
+                ]
+            },
+            {
+                "title": "Download Notification",
+                "links": [
+                    {
+                        "title": "",
+                        "link": "https://g03.tcsion.com//per/g03/pub/726/EForms/image/ImageDocUpload/71161/6/6701774263.pdf"
+                    }
+                ]
+            },
+            {
+                "title": "Official Website",
+                "links": [
+                    {
+                        "title": "",
+                        "link": "https://www.ngel.in/ngel-home"
+                    }
                 ]
             }
-        }
-    ],
-    "importantLinks": [
-        {
-            "title": "Apply Online",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://ibpsreg.ibps.in/iobsgaug26/"
-                }
-            ]
-        },
-        {
-            "title": "Download Notification",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://www.iob.bank.in/documents/d/guest/recruitment-of-security-guards_advertisement"
-                }
-            ]
-        },
-        {
-            "title": "Official Website",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://www.iob.bank.in/en/careers"
-                }
-            ]
-        }
-    ],
-    "admitCard": {
-        "startDate": "",
-        "link": "",
-        "details": "",
-        "instruction": []
-    },
-    "resultCard": {
-        "link": "",
-        "details": "",
-        "instruction": []
-    },
-    "answerKey": {
-        "startDate": "",
-        "link": "",
-        "details": "",
-        "instruction": []
-    }
-},
-{
-    "timestamp":1787906987,
-    "metadata":{"link":"https://www.sarkariresult.com/2026/rvunl-june26/"},
-    "advt_no":"BULUN/Rectt 3036-27/01",
-    "examType": "job",
-    "id": 7375903307,
-    "orgId": "Rajasthan Rajya Vidyut Utpadan Nigam Ltd(RVUNL)",
-    "name": "Rajasthan Energy Various Post Recruitment Online Form 2026",
-    "importantDates": {
-        "notificationDate": "05/08/2026",
-        "startDate": "31/08/2026",
-        "lastDate": "31/08/2026",
-        "lastDateFeePayment": "31/08/2026"
-    }, 
-    "fee": {
-        "general": "1000",
-        "obc": "500",
-        "ews": "500",
-        "sc": "500",
-        "st": "500",
-        "ph": "500",
-        "female": "",
-        "notes": "Pay the Examination Fee Through Debit Card / Credit Card / Net Banking / Online Only."
-    },
-    "totalPost": {
-        "count": 2005,
-        "notes": ""
-    },
-    "ageDetails": {
-        "minAge": 21,
-        "maxAge": 40,
-        "notes": "Age Relaxation as per Rajasthan RVUNL Common Recruitment 2026 Rules."
-    },
-    "vacancyDetails": [
-        {
-            "postName": "Junior Engineer JEN-I (Electrical)",
-            "totalPost": "727",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 21,
-                "maxAge": 40,
-                "qualification": [
-                    "BE / B.Tech Degree in Related Trade / Branch from Any Recognized Institute in India.",
-                    "More Eligibility Details Available Soon"
-                ]
-            }
-        },
-        {
-            "postName": "Junior Engineer JEN-I Mechanical",
-            "totalPost": "110",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 21,
-                "maxAge": 40,
-                "qualification": [
-                    "BE / B.Tech Degree in Related Trade / Branch from Any Recognized Institute in India.",
-                    "More Eligibility Details Available Soon"
-                ]
-            }
-        },
-        {
-            "postName": "Junior Engineer JEN-I Civil",
-            "totalPost": "32",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 21,
-                "maxAge": 40,
-                "qualification": [
-                    "BE / B.Tech Degree in Related Trade / Branch from Any Recognized Institute in India.",
-                    "More Eligibility Details Available Soon"
-                ]
-            }
-        },
-        {
-            "postName": "Junior Accountant",
-            "totalPost": "371",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 21,
-                "maxAge": 40,
-                "qualification": [
-                    "Bachelor Degree in Commerce OR IPCC / Intermediate Exam Passed OR MBA or PG Diploma in Business Management OR M.Com.",
-                    "O Level Exam Passed OR CCC COPA / DPCS / Degree / Diploma / Certificate in Computer Science / Computer Application OR 10+2 Intermediate with Computer Science / Application as One of the Subject OR Diploma in Computer Science & Engineering OR RSCIT.",
-                    "More Eligibility Details Read the Notification"
-                ]
-            }
-        },
-        {
-            "postName": "Junior Assistant / Commercial Assistant II",
-            "totalPost": "765",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 21,
-                "maxAge": 40,
-                "qualification": [
-                    "10+2 Intermediate Exam from Any Recognized Board in India.",
-                    "O Level Exam Passed or CCC Exam Passed OR COPA / Degree / Diploma / Certificate in Computer Science / Computer Application OR 10+2 with Computer Science / Application as one of the Subject OR  RSCIT",
-                    "More Eligibility Read the Notification."
-                ]
-            }
-        }
-    ],
-    "importantLinks": [
-        {
-            "title": "Apply Online",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://energy.rajasthan.gov.in/home"
-                }
-            ]
-        },
-        {
-            "title": "Download Date Extended Notice",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://jankalyanfile.rajasthan.gov.in/WebMyWayFiles/DepartmentMaster/183/2026/Aug/30409/18357580f16-96d0-4e22-b8fa-af4105e66590.pdf"
-                }
-            ]
-        },
-        {
-            "title": "Download Notification",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://jankalyanfile.rajasthan.gov.in/WebMyWayFiles/DepartmentMaster/183/2026/Jul/30409/183ea8d2b9d-e0f5-4be4-a75c-a3c8f19e3eda.pdf"
-                }
-            ]
-        },
-        {
-            "title": "Official Website",
-            "links": [
-                {
-                    "title": "RVUNL Official Website",
-                    "link": "https://energy.rajasthan.gov.in/"
-                }
-            ]
-        }
-    ],
-    "admitCard": {
-        "startDate": "",
-        "link": "",
-        "details": "",
-        "instruction": []
-    },
-    "resultCard": {
-        "link": "",
-        "details": "",
-        "instruction": []
-    },
-    "answerKey": {
-        "startDate": "",
-        "link": "",
-        "details": "",
-        "instruction": []
-    },
-    "table": [
-        {
-            "title": "Company Wise Vacancy Details",
+        ],
+        "admitCard": {
+            "show": true,
+            "startDate": "",
+            "link": "",
             "details": "",
+            "instruction": []
+        },
+        "resultCard": {
+            "show": true,
+            "link": "",
+            "details": "",
+            "instruction": []
+        },
+        "answerKey": {
+            "show": true,
+            "startDate": "",
+            "link": "",
+            "details": "",
+            "instruction": []
+        }
+    },
+    {
+        "timestamp": 1787906987,
+        "metadata": {
+            "link": "https://www.sarkariresult.com/2026/iob-security-guard-august26/"
+        },
+        "examType": "job",
+        "advt_no": "",
+        "id": "IOB-Indian-Overseas-Bank-Security-Guard-Recruitment-2026",
+        "orgId": "Indian Overseas Bank (IOB)",
+        "name": "IOB Indian Overseas Bank Security Guard Recruitment 2026",
+        "importantDates": {
+            "startDate": "25/08/2026",
+            "lastDate": "14/09/2026",
+            "lastDateFeePayment": "14/09/2026",
+            "examDate": "As per Schedule"
+        },
+        "fee": {
+            "general": "0",
+            "obc": "0",
+            "ews": "0",
+            "sc": "0",
+            "st": "0",
+            "ph": "0",
+            "female": "",
+            "notes": ""
+        },
+        "totalPost": {
+            "count": 25,
+            "notes": ""
+        },
+        "ageDetails": {
+            "minAge": 18,
+            "maxAge": 0,
+            "notes": "Age Relaxation Extra as per IOB Indian Overseas Bank Security Guard Recruitment 2026 Rules."
+        },
+        "vacancyDetails": [
+            {
+                "postName": "Security Guard",
+                "totalPost": "",
+                "category": {
+                    "ur": "12",
+                    "obc": "7",
+                    "ews": "2",
+                    "sc": "4",
+                    "st": "2",
+                    "female": "",
+                    "ph": ""
+                },
+                "eligiblity": {
+                    "minAge": 18,
+                    "maxAge": 0,
+                    "qualification": [
+                        "Only for Ex Service Man / Ex Agniveer (Army / Navy / Airforce)",
+                        "10th High School Exam Passed"
+                    ]
+                }
+            }
+        ],
+        "importantLinks": [
+            {
+                "title": "Apply Online",
+                "links": [
+                    {
+                        "title": "",
+                        "link": "https://ibpsreg.ibps.in/iobsgaug26/"
+                    }
+                ]
+            },
+            {
+                "title": "Download Notification",
+                "links": [
+                    {
+                        "title": "",
+                        "link": "https://www.iob.bank.in/documents/d/guest/recruitment-of-security-guards_advertisement"
+                    }
+                ]
+            },
+            {
+                "title": "Official Website",
+                "links": [
+                    {
+                        "title": "",
+                        "link": "https://www.iob.bank.in/en/careers"
+                    }
+                ]
+            }
+        ],
+        "admitCard": {
+            "show": true,
+            "startDate": "",
+            "link": "",
+            "details": "",
+            "instruction": []
+        },
+        "resultCard": {
+            "show": true,
+            "link": "",
+            "details": "",
+            "instruction": []
+        },
+        "answerKey": {
+            "show": true,
+            "startDate": "",
+            "link": "",
+            "details": "",
+            "instruction": []
+        }
+    },
+    {
+        "timestamp": 1787906987,
+        "metadata": {
+            "link": "https://www.sarkariresult.com/2026/rvunl-june26/"
+        },
+        "advt_no": "BULUN/Rectt 3036-27/01",
+        "examType": "job",
+        "id": 7375903307,
+        "orgId": "Rajasthan Rajya Vidyut Utpadan Nigam Ltd(RVUNL)",
+        "name": "Rajasthan Energy Various Post Recruitment Online Form 2026",
+        "importantDates": {
+            "notificationDate": "05/08/2026",
+            "startDate": "31/08/2026",
+            "lastDate": "31/08/2026",
+            "lastDateFeePayment": "31/08/2026"
+        },
+        "fee": {
+            "general": "1000",
+            "obc": "500",
+            "ews": "500",
+            "sc": "500",
+            "st": "500",
+            "ph": "500",
+            "female": "",
+            "notes": "Pay the Examination Fee Through Debit Card / Credit Card / Net Banking / Online Only."
+        },
+        "totalPost": {
+            "count": 2005,
+            "notes": ""
+        },
+        "ageDetails": {
+            "minAge": 21,
+            "maxAge": 40,
+            "notes": "Age Relaxation as per Rajasthan RVUNL Common Recruitment 2026 Rules."
+        },
+        "vacancyDetails": [
+            {
+                "postName": "Junior Engineer JEN-I (Electrical)",
+                "totalPost": "727",
+                "category": {
+                    "ur": "",
+                    "obc": "",
+                    "ews": "",
+                    "sc": "",
+                    "st": "",
+                    "female": "",
+                    "ph": ""
+                },
+                "eligiblity": {
+                    "minAge": 21,
+                    "maxAge": 40,
+                    "qualification": [
+                        "BE / B.Tech Degree in Related Trade / Branch from Any Recognized Institute in India.",
+                        "More Eligibility Details Available Soon"
+                    ]
+                }
+            },
+            {
+                "postName": "Junior Engineer JEN-I Mechanical",
+                "totalPost": "110",
+                "category": {
+                    "ur": "",
+                    "obc": "",
+                    "ews": "",
+                    "sc": "",
+                    "st": "",
+                    "female": "",
+                    "ph": ""
+                },
+                "eligiblity": {
+                    "minAge": 21,
+                    "maxAge": 40,
+                    "qualification": [
+                        "BE / B.Tech Degree in Related Trade / Branch from Any Recognized Institute in India.",
+                        "More Eligibility Details Available Soon"
+                    ]
+                }
+            },
+            {
+                "postName": "Junior Engineer JEN-I Civil",
+                "totalPost": "32",
+                "category": {
+                    "ur": "",
+                    "obc": "",
+                    "ews": "",
+                    "sc": "",
+                    "st": "",
+                    "female": "",
+                    "ph": ""
+                },
+                "eligiblity": {
+                    "minAge": 21,
+                    "maxAge": 40,
+                    "qualification": [
+                        "BE / B.Tech Degree in Related Trade / Branch from Any Recognized Institute in India.",
+                        "More Eligibility Details Available Soon"
+                    ]
+                }
+            },
+            {
+                "postName": "Junior Accountant",
+                "totalPost": "371",
+                "category": {
+                    "ur": "",
+                    "obc": "",
+                    "ews": "",
+                    "sc": "",
+                    "st": "",
+                    "female": "",
+                    "ph": ""
+                },
+                "eligiblity": {
+                    "minAge": 21,
+                    "maxAge": 40,
+                    "qualification": [
+                        "Bachelor Degree in Commerce OR IPCC / Intermediate Exam Passed OR MBA or PG Diploma in Business Management OR M.Com.",
+                        "O Level Exam Passed OR CCC COPA / DPCS / Degree / Diploma / Certificate in Computer Science / Computer Application OR 10+2 Intermediate with Computer Science / Application as One of the Subject OR Diploma in Computer Science & Engineering OR RSCIT.",
+                        "More Eligibility Details Read the Notification"
+                    ]
+                }
+            },
+            {
+                "postName": "Junior Assistant / Commercial Assistant II",
+                "totalPost": "765",
+                "category": {
+                    "ur": "",
+                    "obc": "",
+                    "ews": "",
+                    "sc": "",
+                    "st": "",
+                    "female": "",
+                    "ph": ""
+                },
+                "eligiblity": {
+                    "minAge": 21,
+                    "maxAge": 40,
+                    "qualification": [
+                        "10+2 Intermediate Exam from Any Recognized Board in India.",
+                        "O Level Exam Passed or CCC Exam Passed OR COPA / Degree / Diploma / Certificate in Computer Science / Computer Application OR 10+2 with Computer Science / Application as one of the Subject OR  RSCIT",
+                        "More Eligibility Read the Notification."
+                    ]
+                }
+            }
+        ],
+        "importantLinks": [
+            {
+                "title": "Apply Online",
+                "links": [
+                    {
+                        "title": "",
+                        "link": "https://energy.rajasthan.gov.in/home"
+                    }
+                ]
+            },
+            {
+                "title": "Download Date Extended Notice",
+                "links": [
+                    {
+                        "title": "",
+                        "link": "https://jankalyanfile.rajasthan.gov.in/WebMyWayFiles/DepartmentMaster/183/2026/Aug/30409/18357580f16-96d0-4e22-b8fa-af4105e66590.pdf"
+                    }
+                ]
+            },
+            {
+                "title": "Download Notification",
+                "links": [
+                    {
+                        "title": "",
+                        "link": "https://jankalyanfile.rajasthan.gov.in/WebMyWayFiles/DepartmentMaster/183/2026/Jul/30409/183ea8d2b9d-e0f5-4be4-a75c-a3c8f19e3eda.pdf"
+                    }
+                ]
+            },
+            {
+                "title": "Official Website",
+                "links": [
+                    {
+                        "title": "RVUNL Official Website",
+                        "link": "https://energy.rajasthan.gov.in/"
+                    }
+                ]
+            }
+        ],
+        "admitCard": {
+            "show": true,
+            "startDate": "",
+            "link": "",
+            "details": "",
+            "instruction": []
+        },
+        "resultCard": {
+            "show": true,
+            "link": "",
+            "details": "",
+            "instruction": []
+        },
+        "answerKey": {
+            "show": true,
+            "startDate": "",
+            "link": "",
+            "details": "",
+            "instruction": []
+        },
+        "table": [
+            {
+                "title": "Company Wise Vacancy Details",
+                "details": "",
+                "notes": "",
+                "list": [
+                    [
+                        "Post Name",
+                        "RVUN",
+                        "RVPN",
+                        "JVVN",
+                        "AVVN",
+                        "JDVVN",
+                        "Total Post"
+                    ],
+                    [
+                        "JEN-I (Electrical)",
+                        "109",
+                        "162",
+                        "189",
+                        "144",
+                        "123",
+                        "727"
+                    ],
+                    [
+                        "JEN-I (MECHANICAL)",
+                        "110",
+                        "0",
+                        "0",
+                        "0",
+                        "0",
+                        "110"
+                    ],
+                    [
+                        "JEN-I (Civil)",
+                        "0",
+                        "32",
+                        "0",
+                        "0",
+                        "0",
+                        "32"
+                    ],
+                    [
+                        "Junior Accountant",
+                        "44",
+                        "28",
+                        "116",
+                        "48",
+                        "135",
+                        "371"
+                    ],
+                    [
+                        "Junior Assistant JA / CA Commercial Assistant-II",
+                        "45",
+                        "41",
+                        "288",
+                        "201",
+                        "190",
+                        "765"
+                    ],
+                    [
+                        "Total Post",
+                        "308",
+                        "263",
+                        "593",
+                        "393",
+                        "448",
+                        "2005"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "timestamp": 1787906987,
+        "metadata": {
+            "link": "https://www.sarkariresult.com/2026/ukpsc-veterinary-officers-aug26/"
+        },
+        "advt_no": "A-2/DR(VO)/S-1/2026",
+        "examType": "job",
+        "id": 7851519153,
+        "orgId": "Uttarakhand Public Service Commission (UKPSC)",
+        "name": "UKPSC Veterinary Officers Recruitment 2026",
+        "importantDates": {
+            "startDate": "25/08/2026",
+            "lastDate": "14/09/2026",
+            "lastDateFeePayment": "14/09/2026",
+            "examDate": "As per Schedule",
+            "correctionDate": "22/09/2026 to 01/10/2026"
+        },
+        "fee": {
+            "general": "166",
+            "obc": "166",
+            "ews": "166",
+            "sc": " 76.36",
+            "st": " 76.36",
+            "ph": "16.36",
+            "female": "",
+            "notes": ""
+        },
+        "totalPost": {
+            "count": 25,
+            "notes": ""
+        },
+        "ageDetails": {
+            "minAge": 21,
+            "maxAge": 42,
+            "notes": "Age Relaxation Extra as per UKPSC Veterinary Officers Recruitment Rules A-2/DR(VO)/S-1/2026."
+        },
+        "vacancyDetails": [
+            {
+                "postName": "Veterinary Officers",
+                "totalPost": "25",
+                "category": {
+                    "ur": "",
+                    "obc": "",
+                    "ews": "",
+                    "sc": "",
+                    "st": "",
+                    "female": "",
+                    "ph": ""
+                },
+                "eligiblity": {
+                    "minAge": 21,
+                    "maxAge": 42,
+                    "qualification": [
+                        "Bachelor of Veterinary Science & Animal Husbandry (B.V.Sc. & A.H.) from a recognized institution/university.",
+                        "The candidate must be duly registered with the Uttarakhand Veterinary Council.",
+                        "More Details Read the Notification."
+                    ]
+                }
+            }
+        ],
+        "importantLinks": [
+            {
+                "title": "Apply Online",
+                "links": [
+                    {
+                        "title": "",
+                        "link": "https://pscuk.net.in/notification?postid=eyJpdiI6IndOREV6UnFtRUZqL2lRNmsiLCJ2YWx1ZSI6Ikd3R3FXSDQ9IiwibWFjIjoiIiwidGFnIjoibEhtL0NhdDNSNzdFQWJEUDduNC9UZz09In0="
+                    }
+                ]
+            },
+            {
+                "title": "Download Notification",
+                "links": [
+                    {
+                        "title": "",
+                        "link": "https://www.sarkariresult.com/wp-content/uploads/2026/08/ukpsc-veterinary-officers-notice-2026.pdf"
+                    }
+                ]
+            }
+        ],
+        "admitCard": {
+            "show": true,
+            "startDate": "",
+            "link": "",
+            "details": "",
+            "instruction": []
+        },
+        "resultCard": {
+            "show": true,
+            "link": "",
+            "details": "",
+            "instruction": []
+        },
+        "answerKey": {
+            "show": true,
+            "startDate": "",
+            "link": "",
+            "details": "",
+            "instruction": []
+        }
+    },
+    {
+        "timestamp": 1787906987,
+        "metadata": {
+            "link": "https://www.sarkariresult.com/2026/india-post-gds-july2026/"
+        },
+        "advt_no": "India Post GDS 2026",
+        "examType": "job",
+        "id": "India-Post-Gramin-Dak-Sevaks-GDS-Recruitment-2026",
+        "orgId": "Department of Post (India Post)",
+        "name": "India Post Gramin Dak Sevaks GDS Recruitment 2026",
+        "importantDates": {
+            "startDate": "31/08/2026",
+            "lastDate": "19/09/2026 (upto 5 PM)",
+            "lastDateFeePayment": "21/09/2026",
+            "correctionDate": " 23/9/2026 to 24/9/2026",
+            "otherDates": [
+                {
+                    "title": "First Merit List / Result",
+                    "date": "As per Schedule "
+                },
+                {
+                    "title": "Second Merit List / Result",
+                    "date": "As per Schedule "
+                },
+                {
+                    "title": "Third Merit List / Result",
+                    "date": "As per Schedule "
+                },
+                {
+                    "title": "Fourth Merit List",
+                    "date": "As per Schedule "
+                }
+            ]
+        },
+        "fee": {
+            "general": "100",
+            "obc": "100",
+            "ews": "0",
+            "sc": "0",
+            "st": "0",
+            "ph": "0",
+            "female": "0",
+            "notes": "Pay the Exam Fee Through India Post E Challan Submit at Nearest Head Post Office / GPO"
+        },
+        "totalPost": {
+            "count": 0,
+            "notes": ""
+        },
+        "ageDetails": {
+            "minAge": 18,
+            "maxAge": 40,
+            "notes": "Age Relaxation Extra as per India Post GDS Recruitment Rules Schedule 2026."
+        },
+        "vacancyDetails": [
+            {
+                "postName": "Gramin Dak Sewak GDS July 2026",
+                "totalPost": "24000+",
+                "category": {
+                    "ur": "",
+                    "obc": "",
+                    "ews": "",
+                    "sc": "",
+                    "st": "",
+                    "female": "",
+                    "ph": ""
+                },
+                "eligiblity": {
+                    "minAge": 18,
+                    "maxAge": 40,
+                    "qualification": [
+                        "Class 10 High School with Mathematics and English as a Subject.",
+                        "Know the Local Language.",
+                        "More Details Read the Notification."
+                    ]
+                }
+            }
+        ],
+        "importantLinks": [
+            {
+                "title": "Apply Online",
+                "links": [
+                    {
+                        "title": "Link Will be Activate on 31/08/2026",
+                        "link": "https://indiapost.gov.in/"
+                    }
+                ]
+            },
+            {
+                "title": "Download Notification",
+                "links": [
+                    {
+                        "title": "",
+                        "link": "https://indiapost.gov.in/gdsonlineengagement/pdf/descriptive-notification.pdf"
+                    }
+                ]
+            },
+            {
+                "title": "For District Wise Vacancy Details",
+                "links": [
+                    {
+                        "title": "",
+                        "link": "https://indiapost.gov.in/gdsonlineengagement"
+                    }
+                ]
+            },
+            {
+                "title": "GDS Official Website",
+                "links": [
+                    {
+                        "title": "",
+                        "link": "https://indiapostgdsonline.gov.in/"
+                    }
+                ]
+            }
+        ],
+        "admitCard": {
+            "show": true,
+            "startDate": "",
+            "link": "",
+            "details": "",
+            "instruction": []
+        },
+        "resultCard": {
+            "show": true,
+            "link": "",
+            "details": "",
+            "instruction": []
+        },
+        "answerKey": {
+            "show": true,
+            "startDate": "",
+            "link": "",
+            "details": "",
+            "instruction": []
+        }
+    },
+    {
+        "timestamp": 1787906987,
+        "metadata": {
+            "link": "https://www.sarkariresult.com/2026/iit-bhu-non-teaching-august26/"
+        },
+        "advt_no": "03/2026-27",
+        "examType": "job",
+        "id": "IIT-BHU-Non-Teaching-Post-Recruitment-2026",
+        "orgId": "Indian Institute of Technology IIT BHU",
+        "name": "IIT BHU Non Teaching Post Recruitment  2026",
+        "importantDates": {
+            "startDate": "25/08/2026",
+            "lastDate": "24/09/2026 (upto 05 PM Only) ",
+            "lastDateFeePayment": "24/09/2026",
+            "examDate": "As per Schedule",
+            "otherDates": [
+                {
+                    "title": "Send to Hard Copy",
+                    "date": "7 Days After the Last Date"
+                }
+            ]
+        },
+        "fee": {
+            "general": "Group C-250, Group B-500",
+            "obc": "Group C-250, Group B-500",
+            "ews": "Group C-250, Group B-500",
+            "sc": "0",
+            "st": "0",
+            "ph": "0",
+            "female": "0",
+            "notes": "For Group B Post : \nUR / OBC / EWS : 500/-\nSC / ST / PH / Female : 0/-\nFor Group C Post : \nUR / OBC / EWS : 250/-\nSC / ST / PH / Female : 0/-\nPay the Exam Fee Through Online / Offline Fee Mode Only"
+        },
+        "totalPost": {
+            "count": 55,
+            "notes": ""
+        },
+        "ageDetails": {
+            "minAge": 18,
+            "maxAge": 40,
+            "notes": "Age Relaxation Extra as per IIT BHU Non Teaching Examination Rules Advt. No. 03/2026-27."
+        },
+        "vacancyDetails": [
+            {
+                "postName": "Junior Superintendent",
+                "totalPost": "21",
+                "category": {
+                    "ur": "",
+                    "obc": "",
+                    "ews": "",
+                    "sc": "",
+                    "st": "",
+                    "female": "",
+                    "ph": ""
+                },
+                "eligiblity": {
+                    "minAge": 18,
+                    "maxAge": 35,
+                    "qualification": [
+                        "Bachelor Degree in Any Stream with 55% Marks.",
+                        "3 Year Experience."
+                    ]
+                }
+            },
+            {
+                "postName": "Junior Technician (Group-I)",
+                "totalPost": "04",
+                "category": {
+                    "ur": "",
+                    "obc": "",
+                    "ews": "",
+                    "sc": "",
+                    "st": "",
+                    "female": "",
+                    "ph": ""
+                },
+                "eligiblity": {
+                    "minAge": 18,
+                    "maxAge": 27,
+                    "qualification": [
+                        "Bachelor Degree in Science (with Chemistry / Physics as one of the Subject) with a minimum of 55% marks in the qualifying degree from a recognized University/Institute.",
+                        "More Eligibility Details Read the Notification"
+                    ]
+                }
+            },
+            {
+                "postName": "Junior Technician (Group-II)",
+                "totalPost": "11",
+                "category": {
+                    "ur": "",
+                    "obc": "",
+                    "ews": "",
+                    "sc": "",
+                    "st": "",
+                    "female": "",
+                    "ph": ""
+                },
+                "eligiblity": {
+                    "minAge": 18,
+                    "maxAge": 27,
+                    "qualification": [
+                        "Engineering Degree / Diploma in Mechanical / Metallurgical / Ceramic / Materials Science with 55% Marks.",
+                        "For Diploma Candidate Required 1 Year Experience",
+                        "More Eligibility Details Read the Notification"
+                    ]
+                }
+            },
+            {
+                "postName": "Junior Technician (Group-III)",
+                "totalPost": "03",
+                "category": {
+                    "ur": "",
+                    "obc": "",
+                    "ews": "",
+                    "sc": "",
+                    "st": "",
+                    "female": "",
+                    "ph": ""
+                },
+                "eligiblity": {
+                    "minAge": 18,
+                    "maxAge": 27,
+                    "qualification": [
+                        "Engineering Degree / Diploma in Electrical / Electronics with 55% Marks.",
+                        "For Diploma Candidate Required 1 Year Experience",
+                        "More Eligibility Details Read the Notification"
+                    ]
+                }
+            },
+            {
+                "postName": "Junior Technician (Group-IV)",
+                "totalPost": "04",
+                "category": {
+                    "ur": "",
+                    "obc": "",
+                    "ews": "",
+                    "sc": "",
+                    "st": "",
+                    "female": "",
+                    "ph": ""
+                },
+                "eligiblity": {
+                    "minAge": 18,
+                    "maxAge": 27,
+                    "qualification": [
+                        "Engineering Degree / Diploma in Civil / Mining / B.Arch with 55% Marks.",
+                        "For Diploma Candidate Required 1 Year Experience",
+                        "More Eligibility Details Read the Notification"
+                    ]
+                }
+            },
+            {
+                "postName": "Junior Technician (Group-V)",
+                "totalPost": "041",
+                "category": {
+                    "ur": "",
+                    "obc": "",
+                    "ews": "",
+                    "sc": "",
+                    "st": "",
+                    "female": "",
+                    "ph": ""
+                },
+                "eligiblity": {
+                    "minAge": 18,
+                    "maxAge": 27,
+                    "qualification": [
+                        "Engineering Degree / Diploma in Computer Science / IT with 55% Marks.",
+                        "For Diploma Candidate Required 1 Year Experience",
+                        "More Eligibility Details Read the Notification"
+                    ]
+                }
+            },
+            {
+                "postName": "Junior Library Assistant",
+                "totalPost": "02",
+                "category": {
+                    "ur": "",
+                    "obc": "",
+                    "ews": "",
+                    "sc": "",
+                    "st": "",
+                    "female": "",
+                    "ph": ""
+                },
+                "eligiblity": {
+                    "minAge": 18,
+                    "maxAge": 30,
+                    "qualification": [
+                        "Bachelor Degree in Library & Info. Science with 55% marks OR Diploma in Library & Info. Science with 55% marks with Bachelor’s Degree in any discipline OR Two years degree in M. Lib. & Info. Sc. (Integrated) with 55% marks.",
+                        "More Eligibility Details Read the Notification"
+                    ]
+                }
+            },
+            {
+                "postName": "Assistant Engineer",
+                "totalPost": "02",
+                "category": {
+                    "ur": "",
+                    "obc": "",
+                    "ews": "",
+                    "sc": "",
+                    "st": "",
+                    "female": "",
+                    "ph": ""
+                },
+                "eligiblity": {
+                    "minAge": 18,
+                    "maxAge": 40,
+                    "qualification": [
+                        "Bachelor Degree / Diploma in Civil / Electrical Engineering.",
+                        "5 Year Experience for Degree",
+                        "8 Year Experience for Diploma",
+                        "More Eligibility Details Read the Notification"
+                    ]
+                }
+            },
+            {
+                "postName": "Junior Engineer",
+                "totalPost": "03",
+                "category": {
+                    "ur": "",
+                    "obc": "",
+                    "ews": "",
+                    "sc": "",
+                    "st": "",
+                    "female": "",
+                    "ph": ""
+                },
+                "eligiblity": {
+                    "minAge": 18,
+                    "maxAge": 35,
+                    "qualification": [
+                        "BE / B.Tech Degree with 55% Marks OR DIploma in Engineering with 55% Marks and 3 Year Experience.",
+                        "More Eligibility Details Read the Notification"
+                    ]
+                }
+            },
+            {
+                "postName": "Junior Translation Officer",
+                "totalPost": "01",
+                "category": {
+                    "ur": "",
+                    "obc": "",
+                    "ews": "",
+                    "sc": "",
+                    "st": "",
+                    "female": "",
+                    "ph": ""
+                },
+                "eligiblity": {
+                    "minAge": 18,
+                    "maxAge": 35,
+                    "qualification": [
+                        "Bachelor Degree in Hindi with 3 Year Translation Work (English to Hindi and Hindi to English)",
+                        "More Eligibility Details Read the Notification"
+                    ]
+                }
+            }
+        ],
+        "importantLinks": [
+            {
+                "title": "Apply Online",
+                "links": [
+                    {
+                        "title": "",
+                        "link": "https://iitbhunt.samarth.edu.in/index.php/site/login"
+                    }
+                ]
+            },
+            {
+                "title": "Download Notification",
+                "links": [
+                    {
+                        "title": "",
+                        "link": "https://iitbhu.ac.in/contents/institute/2026/alerts/alerts_adv_032026-27.pdf"
+                    }
+                ]
+            },
+            {
+                "title": "Official Website",
+                "links": [
+                    {
+                        "title": "\t IIT BHU Official Website",
+                        "link": "https://iitbhu.ac.in/recruitment_nf"
+                    }
+                ]
+            }
+        ],
+        "admitCard": {
+            "show": true,
+            "startDate": "",
+            "link": "",
+            "details": "",
+            "instruction": []
+        },
+        "resultCard": {
+            "show": true,
+            "link": "",
+            "details": "",
+            "instruction": []
+        },
+        "answerKey": {
+            "show": true,
+            "startDate": "",
+            "link": "",
+            "details": "",
+            "instruction": []
+        },
+        "applyStep": {
+            "title": "Indian Institute of Technology IIT BHU",
+            "details": "IIT BHU Non Teaching Post Recruitment  2026",
             "notes": "",
-            "list": [
-                [
-                    "Post Name",
-                    "RVUN",
-                    "RVPN",
-                    "JVVN",
-                    "AVVN",
-                    "JDVVN",
-                    "Total Post"
-                ],
-                [
-                    "JEN-I (Electrical)",
-                    "109",
-                    "162",
-                    "189",
-                    "144",
-                    "123",
-                    "727"
-                ],
-                [
-                    "JEN-I (MECHANICAL)",
-                    "110",
-                    "0",
-                    "0",
-                    "0",
-                    "0",
-                    "110"
-                ],
-                [
-                    "JEN-I (Civil)",
-                    "0",
-                    "32",
-                    "0",
-                    "0",
-                    "0",
-                    "32"
-                ],
-                [
-                    "Junior Accountant",
-                    "44",
-                    "28",
-                    "116",
-                    "48",
-                    "135",
-                    "371"
-                ],
-                [
-                    "Junior Assistant JA / CA Commercial Assistant-II",
-                    "45",
-                    "41",
-                    "288",
-                    "201",
-                    "190",
-                    "765"
-                ],
-                [
-                    "Total Post",
-                    "308",
-                    "263",
-                    "593",
-                    "393",
-                    "448",
-                    "2005"
-                ]
-            ]
+            "list": []
         }
-    ]
-},
-{  "timestamp":1787906987,
-    "metadata":{"link":"https://www.sarkariresult.com/2026/ukpsc-veterinary-officers-aug26/"},
-    "advt_no":"A-2/DR(VO)/S-1/2026",
-
-    "examType": "job",
-    "id": 7851519153,
-    "orgId": "Uttarakhand Public Service Commission (UKPSC)",
-    "name": "UKPSC Veterinary Officers Recruitment 2026",
-    "importantDates": {
-        "startDate": "25/08/2026",
-        "lastDate": "14/09/2026",
-        "lastDateFeePayment": "14/09/2026",
-        "examDate": "As per Schedule",
-        "correctionDate": "22/09/2026 to 01/10/2026"
-    },
-    "fee": {
-        "general": "166",
-        "obc": "166",
-        "ews": "166",
-        "sc": " 76.36",
-        "st": " 76.36",
-        "ph": "16.36",
-        "female": "",
-        "notes": ""
-    },
-    "totalPost": {
-        "count": 25,
-        "notes": ""
-    },
-    "ageDetails": {
-        "minAge": 21,
-        "maxAge": 42,
-        "notes": "Age Relaxation Extra as per UKPSC Veterinary Officers Recruitment Rules A-2/DR(VO)/S-1/2026."
-    },
-    "vacancyDetails": [
-        {
-            "postName": "Veterinary Officers",
-            "totalPost": "25",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 21,
-                "maxAge": 42,
-                "qualification": [
-                    "Bachelor of Veterinary Science & Animal Husbandry (B.V.Sc. & A.H.) from a recognized institution/university.",
-                    "The candidate must be duly registered with the Uttarakhand Veterinary Council.",
-                    "More Details Read the Notification."
-                ]
-            }
-        }
-    ],
-    "importantLinks": [
-        {
-            "title": "Apply Online",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://pscuk.net.in/notification?postid=eyJpdiI6IndOREV6UnFtRUZqL2lRNmsiLCJ2YWx1ZSI6Ikd3R3FXSDQ9IiwibWFjIjoiIiwidGFnIjoibEhtL0NhdDNSNzdFQWJEUDduNC9UZz09In0="
-                }
-            ]
-        },
-        {
-            "title": "Download Notification",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://www.sarkariresult.com/wp-content/uploads/2026/08/ukpsc-veterinary-officers-notice-2026.pdf"
-                }
-            ]
-        }
-    ],
-    "admitCard": {
-        "startDate": "",
-        "link": "",
-        "details": "",
-        "instruction": []
-    },
-    "resultCard": {
-        "link": "",
-        "details": "",
-        "instruction": []
-    },
-    "answerKey": {
-        "startDate": "",
-        "link": "",
-        "details": "",
-        "instruction": []
     }
-},
-{
-    "timestamp":1787906987,
-    "metadata":{"link":"https://www.sarkariresult.com/2026/india-post-gds-july2026/"},
-    "advt_no":"India Post GDS 2026",
-    "examType": "job",
-    "id": "India-Post-Gramin-Dak-Sevaks-GDS-Recruitment-2026",
-    "orgId": "Department of Post (India Post)",
-    "name": "India Post Gramin Dak Sevaks GDS Recruitment 2026",
-    "importantDates": {
-        "startDate": "31/08/2026",
-        "lastDate": "19/09/2026 (upto 5 PM)",
-        "lastDateFeePayment": "21/09/2026",
-        "correctionDate": " 23/9/2026 to 24/9/2026",
-        "otherDates": [
-            {
-                "title": "First Merit List / Result",
-                "date": "As per Schedule "
-            },
-            {
-                "title": "Second Merit List / Result",
-                "date": "As per Schedule "
-            },
-            {
-                "title": "Third Merit List / Result",
-                "date": "As per Schedule "
-            },
-            {
-                "title": "Fourth Merit List",
-                "date": "As per Schedule "
-            }
-        ]
-    },
-    "fee": {
-        "general": "100",
-        "obc": "100",
-        "ews": "0",
-        "sc": "0",
-        "st": "0",
-        "ph": "0",
-        "female": "0",
-        "notes": "Pay the Exam Fee Through India Post E Challan Submit at Nearest Head Post Office / GPO"
-    },
-    "totalPost": {
-        "count": 0,
-        "notes": ""
-    },
-    "ageDetails": {
-        "minAge": 18,
-        "maxAge": 40,
-        "notes": "Age Relaxation Extra as per India Post GDS Recruitment Rules Schedule 2026."
-    },
-    "vacancyDetails": [
-        {
-            "postName": "Gramin Dak Sewak GDS July 2026",
-            "totalPost": "24000+",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 18,
-                "maxAge": 40,
-                "qualification": [
-                    "Class 10 High School with Mathematics and English as a Subject.",
-                    "Know the Local Language.",
-                    "More Details Read the Notification."
-                ]
-            }
-        }
-    ],
-    "importantLinks": [
-        {
-            "title": "Apply Online",
-            "links": [
-                {
-                    "title": "Link Will be Activate on 31/08/2026",
-                    "link": "https://indiapost.gov.in/"
-                }
-            ]
-        },
-        {
-            "title": "Download Notification",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://indiapost.gov.in/gdsonlineengagement/pdf/descriptive-notification.pdf"
-                }
-            ]
-        },
-        {
-            "title": "For District Wise Vacancy Details",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://indiapost.gov.in/gdsonlineengagement"
-                }
-            ]
-        },
-        {
-            "title": "GDS Official Website",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://indiapostgdsonline.gov.in/"
-                }
-            ]
-        }
-    ],
-    "admitCard": {
-        "startDate": "",
-        "link": "",
-        "details": "",
-        "instruction": []
-    },
-    "resultCard": {
-        "link": "",
-        "details": "",
-        "instruction": []
-    },
-    "answerKey": {
-        "startDate": "",
-        "link": "",
-        "details": "",
-        "instruction": []
-    }
-},
-{
-     "timestamp":1787906987,
-    "metadata":{"link":"https://www.sarkariresult.com/2026/iit-bhu-non-teaching-august26/"},
-    "advt_no":"03/2026-27",
-    "examType": "job",
-    "id": "IIT-BHU-Non-Teaching-Post-Recruitment-2026",
-    "orgId": "Indian Institute of Technology IIT BHU",
-    "name": "IIT BHU Non Teaching Post Recruitment  2026",
-    "importantDates": {
-        "startDate": "25/08/2026",
-        "lastDate": "24/09/2026 (upto 05 PM Only) ",
-        "lastDateFeePayment": "24/09/2026",
-        "examDate": "As per Schedule",
-        "otherDates": [
-            {
-                "title": "Send to Hard Copy",
-                "date": "7 Days After the Last Date"
-            }
-        ]
-    },
-    "fee": {
-        "general": "Group C-250, Group B-500",
-        "obc": "Group C-250, Group B-500",
-        "ews": "Group C-250, Group B-500",
-        "sc": "0",
-        "st": "0",
-        "ph": "0",
-        "female": "0",
-        "notes": "For Group B Post : \nUR / OBC / EWS : 500/-\nSC / ST / PH / Female : 0/-\nFor Group C Post : \nUR / OBC / EWS : 250/-\nSC / ST / PH / Female : 0/-\nPay the Exam Fee Through Online / Offline Fee Mode Only"
-    },
-    "totalPost": {
-        "count": 55,
-        "notes": ""
-    },
-    "ageDetails": {
-        "minAge": 18,
-        "maxAge": 40,
-        "notes": "Age Relaxation Extra as per IIT BHU Non Teaching Examination Rules Advt. No. 03/2026-27."
-    },
-    "vacancyDetails": [
-        {
-            "postName": "Junior Superintendent",
-            "totalPost": "21",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 18,
-                "maxAge": 35,
-                "qualification": [
-                    "Bachelor Degree in Any Stream with 55% Marks.",
-                    "3 Year Experience."
-                ]
-            }
-        },
-        {
-            "postName": "Junior Technician (Group-I)",
-            "totalPost": "04",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 18,
-                "maxAge": 27,
-                "qualification": [
-                    "Bachelor Degree in Science (with Chemistry / Physics as one of the Subject) with a minimum of 55% marks in the qualifying degree from a recognized University/Institute.",
-                    "More Eligibility Details Read the Notification"
-                ]
-            }
-        },
-        {
-            "postName": "Junior Technician (Group-II)",
-            "totalPost": "11",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 18,
-                "maxAge": 27,
-                "qualification": [
-                    "Engineering Degree / Diploma in Mechanical / Metallurgical / Ceramic / Materials Science with 55% Marks.",
-                    "For Diploma Candidate Required 1 Year Experience",
-                    "More Eligibility Details Read the Notification"
-                ]
-            }
-        },
-        {
-            "postName": "Junior Technician (Group-III)",
-            "totalPost": "03",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 18,
-                "maxAge": 27,
-                "qualification": [
-                    "Engineering Degree / Diploma in Electrical / Electronics with 55% Marks.",
-                    "For Diploma Candidate Required 1 Year Experience",
-                    "More Eligibility Details Read the Notification"
-                ]
-            }
-        },
-        {
-            "postName": "Junior Technician (Group-IV)",
-            "totalPost": "04",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 18,
-                "maxAge": 27,
-                "qualification": [
-                    "Engineering Degree / Diploma in Civil / Mining / B.Arch with 55% Marks.",
-                    "For Diploma Candidate Required 1 Year Experience",
-                    "More Eligibility Details Read the Notification"
-                ]
-            }
-        },
-        {
-            "postName": "Junior Technician (Group-V)",
-            "totalPost": "041",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 18,
-                "maxAge": 27,
-                "qualification": [
-                    "Engineering Degree / Diploma in Computer Science / IT with 55% Marks.",
-                    "For Diploma Candidate Required 1 Year Experience",
-                    "More Eligibility Details Read the Notification"
-                ]
-            }
-        },
-        {
-            "postName": "Junior Library Assistant",
-            "totalPost": "02",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 18,
-                "maxAge": 30,
-                "qualification": [
-                    "Bachelor Degree in Library & Info. Science with 55% marks OR Diploma in Library & Info. Science with 55% marks with Bachelor’s Degree in any discipline OR Two years degree in M. Lib. & Info. Sc. (Integrated) with 55% marks.",
-                    "More Eligibility Details Read the Notification"
-                ]
-            }
-        },
-        {
-            "postName": "Assistant Engineer",
-            "totalPost": "02",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 18,
-                "maxAge": 40,
-                "qualification": [
-                    "Bachelor Degree / Diploma in Civil / Electrical Engineering.",
-                    "5 Year Experience for Degree",
-                    "8 Year Experience for Diploma",
-                    "More Eligibility Details Read the Notification"
-                ]
-            }
-        },
-        {
-            "postName": "Junior Engineer",
-            "totalPost": "03",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 18,
-                "maxAge": 35,
-                "qualification": [
-                    "BE / B.Tech Degree with 55% Marks OR DIploma in Engineering with 55% Marks and 3 Year Experience.",
-                    "More Eligibility Details Read the Notification"
-                ]
-            }
-        },
-        {
-            "postName": "Junior Translation Officer",
-            "totalPost": "01",
-            "category": {
-                "ur": "",
-                "obc": "",
-                "ews": "",
-                "sc": "",
-                "st": "",
-                "female": "",
-                "ph": ""
-            },
-            "eligiblity": {
-                "minAge": 18,
-                "maxAge": 35,
-                "qualification": [
-                    "Bachelor Degree in Hindi with 3 Year Translation Work (English to Hindi and Hindi to English)",
-                    "More Eligibility Details Read the Notification"
-                ]
-            }
-        }
-    ],
-    "importantLinks": [
-        {
-            "title": "Apply Online",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://iitbhunt.samarth.edu.in/index.php/site/login"
-                }
-            ]
-        },
-        {
-            "title": "Download Notification",
-            "links": [
-                {
-                    "title": "",
-                    "link": "https://iitbhu.ac.in/contents/institute/2026/alerts/alerts_adv_032026-27.pdf"
-                }
-            ]
-        },
-        {
-            "title": "Official Website",
-            "links": [
-                {
-                    "title": "\t IIT BHU Official Website",
-                    "link": "https://iitbhu.ac.in/recruitment_nf"
-                }
-            ]
-        }
-    ],
-    "admitCard": {
-        "startDate": "",
-        "link": "",
-        "details": "",
-        "instruction": []
-    },
-    "resultCard": {
-        "link": "",
-        "details": "",
-        "instruction": []
-    },
-    "answerKey": {
-        "startDate": "",
-        "link": "",
-        "details": "",
-        "instruction": []
-    },
-    "applyStep": {
-        "title": "Indian Institute of Technology IIT BHU",
-        "details": "IIT BHU Non Teaching Post Recruitment  2026",
-        "notes": "",
-        "list": []
-    }
-}
-
 ]
