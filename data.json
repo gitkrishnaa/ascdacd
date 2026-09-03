@@ -14760,5 +14760,653 @@
             "notes": "",
             "list": []
         }
+    },
+    {
+        "timestamp": 1788405350,
+        "metadata": {
+            "link": "https://www.sarkariresult.com/2026/ibps-rrb-15th-august26/"
+        },
+        "advt_no": "",
+        "examType": "job",
+        "id": "IBPS-Rural-Regional-Bank-RRB-XV-Recruitment-2026",
+        "orgId": "Institute of Banking Personal Selection (IBPS)",
+        "name": "IBPS Rural Regional Bank (RRB) XV Recruitment 2026",
+        "importantDates": {
+            "startDate": " 01/09/2026",
+            "lastDate": "21/09/2026",
+            "lastDateFeePayment": "21/09/2026",
+            "otherDates": [
+                {
+                    "title": "Pre Exam Training PET ",
+                    "date": " November 2026"
+                },
+                {
+                    "title": "Exam Date Prelim",
+                    "date": "November to December 2026"
+                },
+                {
+                    "title": "Result Available Date",
+                    "date": "December 2026 to January 2027"
+                },
+                {
+                    "title": "Exam Date Mains",
+                    "date": "December 2026 to January 2027"
+                }
+            ]
+        },
+        "fee": {
+            "general": "850",
+            "obc": "850",
+            "ews": "850",
+            "sc": "175",
+            "st": "175",
+            "ph": "175",
+            "female": "",
+            "notes": "Pay the Examination Fee Through Online Fee Mode Debit Card, Credit Card, Net Banking, Mobile Wallet, E Challan, Cash Card Fee Mode Only"
+        },
+        "totalPost": {
+            "count": 13706,
+            "notes": ""
+        },
+        "ageDetails": {
+            "minAge": 18,
+            "maxAge": 40
+        },
+        "vacancyDetails": [
+            {
+                "postName": "Office Assistant",
+                "totalPost": "8183",
+                "category": {
+                    "ur": "",
+                    "obc": "",
+                    "ews": "",
+                    "sc": "",
+                    "st": "",
+                    "female": "",
+                    "ph": ""
+                },
+                "eligiblity": {
+                    "minAge": 18,
+                    "maxAge": 28,
+                    "qualification": [
+                        "Bachelor Degree in Any Stream in Any Recognized University in India."
+                    ]
+                }
+            },
+            {
+                "postName": "Officer Scale I",
+                "totalPost": "4256",
+                "category": {
+                    "ur": "",
+                    "obc": "",
+                    "ews": "",
+                    "sc": "",
+                    "st": "",
+                    "female": "",
+                    "ph": ""
+                },
+                "eligiblity": {
+                    "minAge": 18,
+                    "maxAge": 30,
+                    "qualification": [
+                        "Bachelor Degree in Any Stream in Any Recognized University in India."
+                    ]
+                }
+            },
+            {
+                "postName": "Officer Scale II General Banking Officer",
+                "totalPost": "666",
+                "category": {
+                    "ur": "",
+                    "obc": "",
+                    "ews": "",
+                    "sc": "",
+                    "st": "",
+                    "female": "",
+                    "ph": ""
+                },
+                "eligiblity": {
+                    "minAge": 21,
+                    "maxAge": 40,
+                    "qualification": [
+                        "Bachelor Degree in Any Stream with At Least Minimum 50% Marks and 2 Year."
+                    ]
+                }
+            },
+            {
+                "postName": "Officer Scale II Information Technology Officer",
+                "totalPost": "182",
+                "category": {
+                    "ur": "",
+                    "obc": "",
+                    "ews": "",
+                    "sc": "",
+                    "st": "",
+                    "female": "",
+                    "ph": ""
+                },
+                "eligiblity": {
+                    "minAge": 21,
+                    "maxAge": 40,
+                    "qualification": [
+                        "Bachelor Degree in Electronics / Communication / Computer Science / Information Technology with At Least 50% Minimum Marks and 1 Year Post Experience."
+                    ]
+                }
+            },
+            {
+                "postName": "Officer Scale II  Chartered Accountant",
+                "totalPost": "81",
+                "category": {
+                    "ur": "",
+                    "obc": "",
+                    "ews": "",
+                    "sc": "",
+                    "st": "",
+                    "female": "",
+                    "ph": ""
+                },
+                "eligiblity": {
+                    "minAge": 21,
+                    "maxAge": 40,
+                    "qualification": [
+                        "Passed C.A. Examination from ICAI India and One Year Experience as a CA."
+                    ]
+                }
+            },
+            {
+                "postName": "Treasury Officer Scale II",
+                "totalPost": "18",
+                "category": {
+                    "ur": "",
+                    "obc": "",
+                    "ews": "",
+                    "sc": "",
+                    "st": "",
+                    "female": "",
+                    "ph": ""
+                },
+                "eligiblity": {
+                    "minAge": 21,
+                    "maxAge": 40,
+                    "qualification": [
+                        "Degree in CA OR MBA Finance with One Year Post Experience."
+                    ]
+                }
+            },
+            {
+                "postName": "Marketing Officer Scale II",
+                "totalPost": "14",
+                "category": {
+                    "ur": "",
+                    "obc": "",
+                    "ews": "",
+                    "sc": "",
+                    "st": "",
+                    "female": "",
+                    "ph": ""
+                },
+                "eligiblity": {
+                    "minAge": 21,
+                    "maxAge": 40,
+                    "qualification": [
+                        "Master of Business MBA Degree in Marketing Trade with 1 Year Experience in Recognized Sector."
+                    ]
+                }
+            },
+            {
+                "postName": "Agriculture Officer Scale II",
+                "totalPost": "38",
+                "category": {
+                    "ur": "",
+                    "obc": "",
+                    "ews": "",
+                    "sc": "",
+                    "st": "",
+                    "female": "",
+                    "ph": ""
+                },
+                "eligiblity": {
+                    "minAge": 21,
+                    "maxAge": 40,
+                    "qualification": [
+                        "Bachelor Degree in Agriculture/  Horticulture/  Dairy/  Animal / Veterinary Science / Engineering from Any Recognized University in India with 2 Year Experience."
+                    ]
+                }
+            },
+            {
+                "postName": "Officer Scale III",
+                "totalPost": "220",
+                "category": {
+                    "ur": "",
+                    "obc": "",
+                    "ews": "",
+                    "sc": "",
+                    "st": "",
+                    "female": "",
+                    "ph": ""
+                },
+                "eligiblity": {
+                    "minAge": 21,
+                    "maxAge": 40,
+                    "qualification": [
+                        "Bachelor Degree in Any Stream with Minimum 50% Marks with Minimum 5 Year Post Experience."
+                    ]
+                }
+            }
+        ],
+        "importantLinks": [
+            {
+                "title": "Apply Online ",
+                "links": [
+                    {
+                        "title": "Office Assistant",
+                        "link": "https://ibpsreg.ibps.in/rrboaxvaug26/"
+                    }
+                ]
+            },
+            {
+                "title": "Apply Online ",
+                "links": [
+                    {
+                        "title": " Officer Scale I, II, III ",
+                        "link": "https://ibpsreg.ibps.in/rrbxvaug26/"
+                    }
+                ]
+            },
+            {
+                "title": "Download Notification",
+                "links": [
+                    {
+                        "title": "",
+                        "link": "https://doc.sarkariresults.org.in/IBPS_SarkariResult.Com_CRP-RRBs-XV-notification%20(1).pdf"
+                    }
+                ]
+            }
+        ],
+        "admitCard": {
+            "startDate": "",
+            "link": "",
+            "details": "",
+            "instruction": []
+        },
+        "resultCard": {
+            "link": "",
+            "details": "",
+            "instruction": []
+        },
+        "answerKey": {
+            "startDate": "",
+            "link": "",
+            "details": "",
+            "instruction": []
+        }
+    },
+    {
+        "timestamp": 1788405350,
+        "metadata": {
+            "link": "https://www.sarkariresult.com/2026/itbp-medical-officer-aug26/"
+        },
+        "advt_no": "ITBP Medical Officer Recruitment 2026",
+    "examType": "job",
+    "id": "CAPF-Super-Specialist-Medical-Officers-Assistant-Commandant-Recruitment-2026",
+    "orgId": "Central Armed Police Forces (CAPF) / ITBP",
+    "name": "CAPF ITBP Super Specialist Medical Officers (Assistant Commandant) Recruitment 2026",
+    "importantDates": {
+        "startDate": "10/08/2026",
+        "lastDate": "08/09/2026",
+        "lastDateFeePayment": "08/09/2026",
+        "examDate": "As per schedule"
+    },
+    "fee": {
+        "general": "400",
+        "obc": "400",
+        "ews": "400",
+        "sc": "0",
+        "st": "0",
+        "ph": "0",
+        "female": "",
+        "notes": "Pay the Examination Fee Through Debit Card, Credit Card, Net Banking, E Challan"
+    },
+    "totalPost": {
+        "count": 308,
+        "notes": ""
+    },
+    "ageDetails": {
+        "minAge": 18,
+        "maxAge": 0,
+        "notes": "Age Relaxation As per ITBP, BSF, SSB, CRPF Assam Rifles Medical Officer Recruitment Rules 2026."
+    },
+    "vacancyDetails": [
+        {
+            "postName": "Super Specialist Medical Officer Second in Command",
+            "totalPost": "5",
+            "category": {
+                "ur": "4",
+                "obc": "1",
+                "ews": "0",
+                "sc": "0",
+                "st": "0",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 18,
+                "maxAge": 50,
+                "qualification": [
+                    "MBBS Degree, PG Degree / Diploma in Related Trade.",
+                    "Enrolled in Any State Medical Register",
+                    "Age Limit : Max 50 Years.",
+                    "More Eligibility Details Read the Notification"
+                ]
+            }
+        },
+        {
+            "postName": "Specialist Medical Officer Deputy Commandant",
+            "totalPost": "162",
+            "category": {
+                "ur": "55",
+                "obc": "51",
+                "ews": "20",
+                "sc": "27",
+                "st": "9",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 18,
+                "maxAge": 40,
+                "qualification": [
+                    "Medical Qualification of Allopathic System of Medicines.",
+                    "Age Limit : Max  40 Years.",
+                    "More Eligibility Details Read the Notification"
+                ]
+            }
+        },
+        {
+            "postName": "Medical Officer Assistant Commandant",
+            "totalPost": "115",
+            "category": {
+                "ur": "32",
+                "obc": "32",
+                "ews": "10",
+                "sc": "23",
+                "st": "18",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 18,
+                "maxAge": 30,
+                "qualification": [
+                    "Medical Qualification of Allopathic System of Medicines",
+                    "Age Limit : Max  30 Years"
+                ]
+            }
+        }
+    ],
+    "importantLinks": [
+        {
+            "title": "Apply Online",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://recruitment.itbpolice.nic.in/registrations/applicant-signup"
+                }
+            ]
+        },
+        {
+            "title": "Download Notification",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://www.sarkariresult.com/wp-content/uploads/2026/08/ITBP-Medical-Officer.pdf"
+                }
+            ]
+        }
+    ],
+    "admitCard": {
+        "startDate": "Super Specialist Medical Officer Second in Command",
+        "link": "05",
+        "details": "",
+        "instruction": []
+    },
+    "resultCard": {
+        "link": "",
+        "details": "",
+        "instruction": []
+    },
+    "answerKey": {
+        "startDate": "",
+        "link": "",
+        "details": "",
+        "instruction": []
     }
+},
+{
+    "timestamp": 1788405350,
+    "metadata": {
+        "link": "https://www.sarkariresult.com/2026/ssc-junior-engineer-2026/"
+    },
+    "advt_no": "SSC JE 2026",
+    "examType": "job",
+    "id": "SSC-Junior-Engineer-JE-Examination-2026",
+    "orgId": "Staff Selection Commission (SSC)",
+    "name": "SSC Junior Engineer JE Examination 2026",
+    "importantDates": {
+        "startDate": "02/09/2026",
+        "lastDate": " 22/09/2026 (upto 11 PM)",
+        "lastDateFeePayment": "23/09/2026",
+        "correctionDate": "28/9/2026 to 30/9/2026",
+        "otherDates": [
+            {
+                "title": "SSC JE Paper I Exam Date ",
+                "date": "October / November 2026"
+            },
+            {
+                "title": "SSC JE Paper II Exam Date",
+                "date": "December 2026"
+            }
+        ]
+    },
+    "fee": {
+        "general": "100",
+        "obc": "100",
+        "ews": "100",
+        "sc": "0",
+        "st": "0",
+        "ph": "0",
+        "female": "",
+        "notes": "Correction First Time : 200/-\nCorrection Second Time : 500/-\nPay the Exam Fee Through Debit Card / Credit Card / Net Banking / UPI Fee Mode Only."
+    },
+    "totalPost": {
+        "count": 1748,
+        "notes": ""
+    },
+    "ageDetails": {
+        "minAge": 18,
+        "maxAge": 0
+    },
+    "vacancyDetails": [
+        {
+            "postName": "Junior Engineer JE",
+            "totalPost": "1748",
+            "category": {
+                "ur": "",
+                "obc": "",
+                "ews": "",
+                "sc": "",
+                "st": "",
+                "female": "",
+                "ph": ""
+            },
+            "eligiblity": {
+                "minAge": 18,
+                "maxAge": 32,
+                "qualification": [
+                    "Degree / Diploma in Engineering in Related from Any Recognized Institute in India.",
+                    "For Post Wise Eligibility Details Read the Notification"
+                ]
+            }
+        }
+    ],
+    "importantLinks": [
+        {
+            "title": "Apply Online",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://ssc.gov.in/login"
+                }
+            ]
+        },
+        {
+            "title": "Syllabus",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://doc.sarkariresults.org.in/SSC_JE_Syllabus_2026.pdf"
+                }
+            ]
+        },
+        {
+            "title": "Download Notification",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://doc.sarkariresults.org.in/SSC_JE_Notification_2026.pdf"
+                }
+            ]
+        },
+        {
+            "title": "Official Website",
+            "links": [
+                {
+                    "title": "",
+                    "link": "https://ssc.gov.in/"
+                }
+            ]
+        }
+    ],
+    "admitCard": {
+        "startDate": "",
+        "link": "",
+        "details": "",
+        "instruction": []
+    },
+    "resultCard": {
+        "link": "",
+        "details": "",
+        "instruction": []
+    },
+    "answerKey": {
+        "startDate": "",
+        "link": "",
+        "details": "",
+        "instruction": []
+    },
+    "table": [
+        {
+            "title": "Department Wise Vacancy Details",
+            "details": "",
+            "notes": "",
+            "list": [
+                [
+                    "Department Name",
+                    "Trade / Branch Name",
+                    "SSC JE Eligibility Department Wise"
+                ],
+                [
+                    "Border Road Organization BRO",
+                    "Civil / Electrical / Mechanical",
+                    "BE / B.Tech Degree in Related Trade OR"
+                ],
+                [
+                    "Diploma in Related Trade with 2 Year Experience."
+                ],
+                [
+                    "Brahmaputra Board of Ministry of Jal Shakti",
+                    "Civil",
+                    "Diploma in Civil Engineering."
+                ],
+                [
+                    "Central Public Works Department CPWD",
+                    "Civil / Electrical / Mechanical",
+                    "Diploma in Civil / Electrical / Mechanical Engineering."
+                ],
+                [
+                    "Central Water and Power Research Station",
+                    "Civil / Electrical",
+                    "Diploma in Civil / Electrical Engineering."
+                ],
+                [
+                    "Central Water Commission CWC",
+                    "Civil / Mechanical",
+                    "Engineering Degree / Diploma in Related Trade."
+                ],
+                [
+                    "Directorate of Quality Assurance Naval",
+                    "Electrical / Mechanical",
+                    "Degree in Related Trade OR"
+                ],
+                [
+                    "Diploma in Related Trade with 2 Year Experience."
+                ],
+                [
+                    "Farkka Barrage Project",
+                    "Civil / Electrical",
+                    "Diploma in Civil / Electrical Engineering."
+                ],
+                [
+                    "Military Engineer Services (MES)",
+                    "Civil / Electrical / Mechanical",
+                    "Degree in Related Trade OR"
+                ],
+                [
+                    "Engineering Diploma in Related Trade with 2 Year Experience."
+                ],
+                [
+                    "National Technical Research Organization (NTRO)",
+                    "Civil",
+                    "Diploma in Civil Engineering."
+                ],
+                [
+                    "Director General of Lighthouses &",
+                    "Civil / Electrical",
+                    "Degree in Civil Engineering OR"
+                ],
+                [
+                    "Lightships",
+                    "Ministry of Ports",
+                    "Shipping & Waterways",
+                    "Diploma in Civil Engineering with three years’ experience"
+                ],
+                [
+                    "Degree in Electrical Engineering OR"
+                ],
+                [
+                    "Diploma in Electrical Engineering with three years’ experience"
+                ],
+                [
+                    "Department of Telecommunication (DoT)",
+                    "Junior Engineer JE (Telecom)",
+                    "Bachelor Degree in Engineering or Technology in Electrical or Electronics or Electrical Communications or Computer Science or Telecommunications or Information Technology or Instrumentation from a recognized University or Institute."
+                ],
+                [
+                    "India Meteorological Department",
+                    "Scientific Assistant",
+                    "Bachelor Degree in Science with Physics as one of the subjects from a recognized institution or university; OR"
+                ],
+                [
+                    "Bachelor’s Degree in Computer Science or Computer Applications or Electronics or Electronics and Communication Engineering or Electronics Telecommunication Engineering or Instrumentation or Information Technology or Telecommunication Engineering or Communication Engineering from a recognized institution or university"
+                ],
+                [
+                    "Ministry of Fisheries",
+                    "Animal Husbandry and Dairying",
+                    "Civil",
+                    "Degree or 3 Year diploma in Civil Engineering from a recognized University or Institute."
+                ]
+            ]
+        }
+    ]
+}
 ]
